@@ -1,17 +1,47 @@
 [
     {
-        "id": "company_a",
+        "id": "sekisui_house",
         "name": "積水ハウス",
-        "search_query": "積水ハウス" 
+        "search_query": "\"積水ハウス\" OR \"SEKISUI HOUSE\""
     },
     {
-        "id": "company_b",
-        "name": "ダイワハウス",
-        "search_query": "ダイワハウス"
+        "id": "daiwa_house",
+        "name": "大和ハウス工業",
+        "search_query": "\"大和ハウス\" OR \"ダイワハウス\""
     },
     {
-        "id": "company_c",
+        "id": "sumitomo_forestry",
+        "name": "住友林業",
+        "search_query": "\"住友林業\""
+    },
+    {
+        "id": "hebel_haus",
+        "name": "ヘーベルハウス",
+        "search_query": "\"ヘーベルハウス\" OR \"旭化成ホームズ\""
+    },
+    {
+        "id": "mitsui_home",
+        "name": "三井ホーム",
+        "search_query": "\"三井ホーム\""
+    },
+    {
+        "id": "misawa_home",
+        "name": "ミサワホーム",
+        "search_query": "\"ミサワホーム\""
+    },
+    {
+        "id": "panasonic_homes",
+        "name": "パナソニック ホームズ",
+        "search_query": "\"パナソニックホームズ\" OR \"パナホーム\""
+    },
+    {
+        "id": "ichijo_komuten",
+        "name": "一条工務店",
+        "search_query": "\"一条工務店\""
+    },
+    {
+        "id": "sekisui_heim",
         "name": "セキスイハイム",
-        "search_query": "セキスイハイム"
+        "search_query": "\"セキスイハイム\" OR \"積水化学工業\"" 
     }
 ]
