@@ -1,26 +1,31 @@
+let allNewsData = []; // 記事データをグローバルで保持
+let companyMap = {};  // 企業マップをグローバルで保持
+
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('news.json')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('news.jsonの読み込みに失敗しました。');
-            }
+    // ニュースデータと企業データを読み込む
+    Promise.all([
+        fetch('news.json').then(response => {
+            if (!response.ok) throw new Error('news.jsonの読み込みに失敗しました。');
             return response.json();
-        })
-        .then(newsData => {
-            fetch('companies.json')
-                .then(res => res.json())
-                .then(companies => {
-                    renderNews(newsData, companies);
-                })
-                .catch(error => {
-                    console.error('companies.jsonの読み込みエラー:', error);
-                    renderNews(newsData, []);
-                });
-        })
-        .catch(error => {
-            console.error('ニュースデータの読み込みエラー:', error);
-            document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger" role="alert">ニュースの読み込み中にエラーが発生しました。時間を置いて再度お試しください。</div>`;
-        });
+        }),
+        fetch('companies.json').then(res => res.json())
+    ])
+    .then(([newsData, companies]) => {
+        allNewsData = newsData;
+        
+        // 企業リストをIDでアクセスしやすいようにマップ化
+        companyMap = companies.reduce((map, company) => {
+            map[company.id] = company.name;
+            return map;
+        }, {});
+        
+        renderNews(allNewsData, companies);
+        setupSearch(companies); // 検索機能をセットアップ
+    })
+    .catch(error => {
+        console.error('データの読み込みエラー:', error);
+        document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger" role="alert">ニュースの読み込み中にエラーが発生しました。時間を置いて再度お試しください。</div>`;
+    });
 });
 
 /**
@@ -31,12 +36,6 @@ function renderNews(newsData, companies) {
     const latestNewsList = document.getElementById('latestNewsList');
     const now = new Date();
     const oneDayAgo = now.getTime() - (24 * 60 * 60 * 1000); // 24時間前のUNIXタイムスタンプ
-
-    // 企業リストをIDでアクセスしやすいようにマップ化
-    const companyMap = companies.reduce((map, company) => {
-        map[company.id] = company.name;
-        return map;
-    }, {});
 
     // ニュース記事を企業IDごとにグループ化
     const groupedNews = newsData.reduce((groups, item) => {
@@ -52,6 +51,7 @@ function renderNews(newsData, companies) {
     // 1. 新着記事セクションの生成 (NEW!ラベルを付ける)
     // ----------------------------------------------------------------
     
+    // 過去24時間以内の記事をフィルタリング
     const latestArticles = newsData.filter(article => {
         const publishedTime = new Date(article.published).getTime();
         return publishedTime > oneDayAgo;
@@ -64,11 +64,11 @@ function renderNews(newsData, companies) {
         ul.className = 'list-unstyled';
         ul.innerHTML = latestArticles.map(article => {
             const companyName = companyMap[article.company_id] || '不明な企業';
-            // 新着記事セクションの記事に「NEW!」ラベルを付与
             const newLabel = '<span class="new-label">NEW!</span>';
 
             return createNewsListItem(article, companyName, true, newLabel);
         }).join('');
+        latestNewsList.innerHTML = ''; // 既存の内容をクリア
         latestNewsList.appendChild(ul);
     }
 
@@ -86,13 +86,10 @@ function renderNews(newsData, companies) {
              return publishedTime <= oneDayAgo;
         });
 
-        // アコーディオン要素の生成
         const accordionItem = document.createElement('div');
         accordionItem.className = 'accordion-item';
-
         const accordionId = `collapse-${companyId}`;
         
-        // デフォルトで閉じた状態
         accordionItem.innerHTML = `
             <h2 class="accordion-header" id="heading-${companyId}">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${accordionId}" aria-expanded="false" aria-controls="${accordionId}">
@@ -103,9 +100,7 @@ function renderNews(newsData, companies) {
                 <div class="accordion-body">
                     <ul class="list-unstyled">
                         ${archiveArticles.length === 0 ? `<li class="text-muted">アーカイブ記事はありません。</li>` : archiveArticles.map(article => {
-                            // アーカイブセクションでは NEW! ラベルを付けない
                             const newLabel = '';
-                            
                             return createNewsListItem(article, companyName, false, newLabel);
                         }).join('')}
                     </ul>
@@ -133,7 +128,6 @@ function renderNews(newsData, companies) {
  * ニュースリストの<li>要素を生成するヘルパー関数
  */
 function createNewsListItem(article, companyName, showCompanyName = false, newLabel = '') {
-    // 日付を「YYYY/MM/DD hh:mm」形式にフォーマット
     const formattedDate = new Date(article.published).toLocaleString('ja-JP', {
         year: 'numeric',
         month: '2-digit',
@@ -155,6 +149,81 @@ function createNewsListItem(article, companyName, showCompanyName = false, newLa
         </li>
     `;
 }
+
+/**
+ * 検索機能をセットアップする
+ */
+function setupSearch(companies) {
+    const searchInput = document.getElementById('searchKeyword');
+    const searchButton = document.getElementById('searchButton');
+    const searchResults = document.getElementById('searchResults');
+    const clearSearch = document.getElementById('clearSearch');
+    const latestNewsList = document.getElementById('latestNewsList');
+    const newsAccordion = document.getElementById('newsAccordion');
+    const archiveHeading = document.querySelector('h2.section-heading.mt-5'); // 企業別アーカイブ見出し
+
+    const performSearch = () => {
+        const keyword = searchInput.value.toLowerCase().trim();
+        
+        if (keyword.length === 0) {
+            // キーワードが空の場合は検索結果を非表示にし、通常表示に戻す
+            searchResults.style.display = 'none';
+            latestNewsList.style.display = 'block';
+            newsAccordion.style.display = 'block';
+            archiveHeading.style.display = 'block';
+            return;
+        }
+
+        // 検索ロジック
+        const filteredArticles = allNewsData.filter(article => {
+            const companyName = companyMap[article.company_id] || '';
+            const title = article.title.toLowerCase();
+            const source = article.source.toLowerCase();
+
+            return title.includes(keyword) || 
+                   companyName.toLowerCase().includes(keyword) || 
+                   source.includes(keyword);
+        });
+
+        // 検索結果のレンダリング
+        const searchList = document.getElementById('searchList');
+        
+        if (filteredArticles.length === 0) {
+            searchList.innerHTML = `<div class="alert alert-warning text-center" role="alert">「${keyword}」に一致する記事は見つかりませんでした。</div>`;
+        } else {
+            const ul = document.createElement('ul');
+            ul.className = 'list-unstyled';
+            ul.innerHTML = filteredArticles.map(article => {
+                const companyName = companyMap[article.company_id] || '不明な企業';
+                return createNewsListItem(article, companyName, true, ''); // 検索結果にはNEW!ラベルはつけない
+            }).join('');
+            searchList.innerHTML = '';
+            searchList.appendChild(ul);
+        }
+
+        // 表示の切り替え
+        searchResults.style.display = 'block';
+        latestNewsList.style.display = 'none';
+        newsAccordion.style.display = 'none';
+        archiveHeading.style.display = 'none';
+    };
+
+    // 検索ボタンとEnterキーで検索を実行
+    searchButton.addEventListener('click', performSearch);
+    searchInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            performSearch();
+        }
+    });
+
+    // 検索クリア機能
+    clearSearch.addEventListener('click', (e) => {
+        e.preventDefault();
+        searchInput.value = '';
+        performSearch();
+    });
+}
+
 
 // ----------------------------------------------------------------
 // 3. アコーディオンヘッダー固定機能のイベントリスナー
