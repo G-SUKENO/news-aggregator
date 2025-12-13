@@ -35,6 +35,14 @@
         .accordion-button.collapsed {
             color: #333;
         }
+        /* セクション見出しのスタイル */
+        .section-heading {
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -43,6 +51,11 @@
         
         <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
 
+        <h2 class="section-heading text-center">新着記事 (過去24時間以内)</h2>
+        <div id="latestNewsList" class="mb-5">
+            </div>
+
+        <h2 class="section-heading text-center mt-5">企業別アーカイブ</h2>
         <div class="accordion" id="newsAccordion">
             </div>
 
