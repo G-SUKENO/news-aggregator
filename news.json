@@ -1,14 +1,2102 @@
 [
     {
-        "title": "Google、AI検索機能を正式発表",
-        "link": "https://example.com/ai-search-announcement",
-        "published": "2025-12-12T10:00:00Z",
-        "source": "Google News"
+        "company_id": "company_a",
+        "title": "「D&I AWARD 2025」の受賞企業を発表 JALや積水ハウス、オイシックス・ラ・大地など—JobRainbow - HRzine",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ueXFtRmI1enlScW5KeTNRRWY4VDBTc2pndzhLWWhMWEtqQUN5eFYwSGdHd2RjM3hES3ZtWm9Cb3lVdnltUUlQT2lNUFl4dw?oc=5",
+        "published": "2025-12-12T12:32:24Z",
+        "source": "HRzine"
     },
     {
-        "title": "量子コンピューターが新たなマイルストーンに到達",
-        "link": "https://example.com/quantum-milestone",
-        "published": "2025-12-11T15:30:00Z",
-        "source": "IT Press"
+        "company_id": "company_a",
+        "title": "積水ハウスがCDPでトリプルA評価を獲得！環境への先駆的な取り組みとは - サードニュース",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqSjhpMjIyNnBCR2NJRld1LVktY2JSSUlkdE9SUlE0WS1oZ2RfQ1U2SE9UdjJYaDRzVWVFbU9KTnJBQkFpY0E2cDdyMUdSb1lHekdiWHZYaGVOVk1KTzlKUDJ4SGdYRlRpYnNXSHNHVjdzUEg0OFNHU3RB?oc=5",
+        "published": "2025-12-12T07:46:28Z",
+        "source": "サードニュース"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、CDP「気候変動」「フォレスト」「ウォーター」全分野最高の「Aリスト」 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWXVnQzk5cHExNXVteThuRFFKcFp6VmhPNDRNSDVjVk9WbEJmbVFpNEg1MHA0Y1RpMy1HdXRNS21XWGE0eVNGZDV6Y0wxX21DX3pmbFh3X1ZFN28?oc=5",
+        "published": "2025-12-12T07:30:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 下関展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjRldXFCSVNGakkyRW0wWG1razhxZDd5NE1GbVFuaFdjN09McmNRM2ZtcklRT2VlbGVMSkk1TEZMZWl1Q0NyYWY2NFpfSEtmZjNQN20tQ3o3ZnRkTVd2dl9uYm1fTkN4TlBxajJKNmFoeWNGRnRuTnpybUdIYTNkWHVmSFg?oc=5",
+        "published": "2025-12-11T20:50:15Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【羽生結弦さん情報】アイスショー「羽生結弦notte stellata 2026」2026年3月7日(土)～9日(月)にセキスイハイムスーパーアリーナ（宮城県利府町）で - 美術展ナビ",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wd3h0STFBNkVKLVo5YjR1VTlRVTRNR0EwV0NkQVVaM0FnYzZLU0I1bEMwMjJUaW9rNWFiaXpRME90SXNoODVYRHRsdTFmUTl0Y0JRU09VaW1IX0RZc2RYLUd4cjNKbmY3?oc=5",
+        "published": "2025-12-11T12:19:16Z",
+        "source": "美術展ナビ"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【アナリスト評価】積水ハウス、レーティング中立に引下げ、目標株価3,900円に引下げ（日系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczFsNk84RkNSalJSQUZEa0dfVy1Ud052TmkybG9vaVZmSXdjeHVMMEc5T2pGaU9KcGN5Vm0xbWoxMkhaNjBwQnV0dGFIbkg0N0JRcU02eGlOVFVqSEk5SWZRQk90SmFZbmcxdm4xNElndlFTbzNUMWdlRFpGc3pZWk45ZVdSaDQ?oc=5",
+        "published": "2025-12-11T09:02:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "絹谷幸二天空美術館で12月12日から追悼展 積水ハウス - 住宅新報web",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXeHVzV21UaW1EUkhzRzdPZXNCcE43cTJOeVljSVEwSDBNSV9XSHU4bThSTGZYaWtkV0xUUzJPR0M2SXd6VHVjbDBZVDFvblpGMkRkeHpn?oc=5",
+        "published": "2025-12-11T07:00:00Z",
+        "source": "住宅新報web"
+    },
+    {
+        "company_id": "company_a",
+        "title": "（仮称）千種駅前計画 名古屋市が配慮意見書を告示・縦覧 - digital.kentsu.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFNBQ3llb3FCUVYzcjU0TXRacUQwRGdVNlJUVFpxRTVOdU5XWExFaGRPYnBjRGJtWXZEVHdscTg2MkZOLUhUX2xKekZIbk9lU1MteGdxd0FqTlRURVZfbGdaZmVMOG54cTFhbFpMSkNoSXd3aDMwa0UxRWtORHBtVQ?oc=5",
+        "published": "2025-12-11T02:05:00Z",
+        "source": "digital.kentsu.co.jp"
+    },
+    {
+        "company_id": "company_a",
+        "title": "京都府木津川市と積水ハウスが大型体験施設「ジュノパーク」活用で協定 - 京都新聞デジタル",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wWDVnSldpN3licnVNR1hObmZVZmlSQmN3ckxqMTRHWVN4UXpYUV9mLUNhd0J2NnFwOFE3R1RaTVlPbE93b2t5U2xHbVhadzBVSWNyeGhCQzU?oc=5",
+        "published": "2025-12-10T20:55:00Z",
+        "source": "京都新聞デジタル"
+    },
+    {
+        "company_id": "company_c",
+        "title": "役立つ住宅情報：内外のデザイン充実 スマートハイムシティ三鷹深大寺 東京セキスイハイム - 毎日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fQlRCaHM2dG80Q2twdGg5NEJ0b3MyU0Z2bGR3OU9vT3NVcHNYV09oVmI5bjBmd2cwT3dwWmI2ZWZvalhTR21mUWlOaktaMWhNWE9sclZUV3lBdk4za2RLb0xOaE1SX2RJ?oc=5",
+        "published": "2025-12-10T17:01:02Z",
+        "source": "毎日新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、特別展「追悼 絹谷幸二」 「絹谷幸二 天空美術館」で2025年12月12日（金）より開催 東海地方で初、積水ハウスと遠州鉄道が12月より事業開始 | 積水ハウス株式会社 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1zOFZoNEQ0WDJFR3BCTC16bnUwYUlDYy1PdzQzbFdwMHFTeTJPQktFLTlwYXBUVGEzX1FYeUtUVWlaM1k?oc=5",
+        "published": "2025-12-10T08:31:06Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、共同建築事業で大賀建設、遠州鉄道と提携 - Housing Tribune Online",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVkZXeVVjdVJNRFNWZTRNYjdLc3RMRlNmcURsdGpJVGJhTkc2N3ZHblJCbC1wVjVsU2lkY2wyWkp2aG82Z01Ib2JDWnY1dVF1eHBtWWhn?oc=5",
+        "published": "2025-12-10T03:01:39Z",
+        "source": "Housing Tribune Online"
+    },
+    {
+        "company_id": "company_a",
+        "title": "遠鉄と積水ハウス、耐震性高い住宅の建設や販売でタッグ（朝日新聞） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWUFUYjBUVmtrWFNGX19WQUd6MFBJWkVMd0w0M0xwZnpOTVFvYTVFbnRsZmRNeTMzZXZrd0Z2eUJUQkVjMVZ0YWlvOGRHTEU1UjlQUEVzb0FsV2ozVGVsaG02SWJISW43bng2TU95X1d0SUo4Si1CeTZfd1Rsalk?oc=5",
+        "published": "2025-12-10T02:00:00Z",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "company_id": "company_a",
+        "title": "遠鉄と積水ハウス、耐震性高い住宅の建設や販売でタッグ - ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHVuLU5Zb3BZbHBzV0p3TC00X24wODlvemNUUXE3dTRkbEJKbmZzWnU5TGczNC0zZFNpZ09DWC1iUS13RjVrSDM3ZlByd25FaXhfRnhBQXFNcGs0S05sWDlnZ0lfSGh1VW05Nm5uckg3c1J0bllaY0xTdmxUcnVJTTlrQ3g3VWU5YnlmX2YzWFJYUi1mVFFRQ0NfQ09tdUh2TFlFaldvSjhLcW_SAZ4BQVVfeXFMTVBxYTV2V3dmVmc0NUtycXlPN0lZTmp3T0tiZHdLMHNFNnp1S1B0ZEtSMzRjdjAyUzl1aUwtNTROZ2F4d20yMDBpZ0kwRjlKcE0yZ0theGdzUnE2bUtGdE10YzY2VkpKblBVcEtfVWJld0JrcUktLWpxVkdxaERaa0NBa080QVpzZWt6WVRmNVRqc0wyWVZ5ZjVmRDljVEE?oc=5",
+        "published": "2025-12-10T02:00:00Z",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "company_id": "company_a",
+        "title": "木造耐震住宅を共同建築 来年１月から販売、積水と遠鉄提携 - 静岡新聞DIGITAL",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04R1Q1T2EyRkt0QjJkSHFsUy05eHBZSDBydTNnMTlQQTg3YldGSy1MUURKVXNtRkQ1cTd3eDctXzVWTUNGYTlVX3RrWEdxUQ?oc=5",
+        "published": "2025-12-10T01:51:51Z",
+        "source": "静岡新聞DIGITAL"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【ニュース】 積水ハウス、遠州鉄道と共同建築事業「SI事業」で提携、12月より事業を開始 静岡県浜松市 - 遊都総研",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNU25LNEJCMENHQU9GTnNRdnFQUG05Mm94ZDhZVWlVWEsycUFYaU81ZVQxV2o1MmlrOFhsMVczNjh5YnBBMUhxQ0JhWDJvQ0pfenBOcFZnX1NybTZx?oc=5",
+        "published": "2025-12-10T01:01:07Z",
+        "source": "遊都総研"
+    },
+    {
+        "company_id": "company_a",
+        "title": "地震に強い木造住宅を建築 遠州鉄道、積水ハウスと提携：ニュース - 中日BIZナビ",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwLUdHdjRxTUZycUlxNzFiTlpyNkFXVEpzeXVxc1FscnFRQTNZR3dtcm5DbFY1SV9jZ29xb1hkR0RHQ3VTWmlLUVZheDNOa0tod0Z0U0gwMHNyQWZSTUJB?oc=5",
+        "published": "2025-12-09T10:14:14Z",
+        "source": "中日BIZナビ"
+    },
+    {
+        "company_id": "company_a",
+        "title": "後場コメント No.2 三機工、旭化成、Ｓｙｎｓ、オカムラ食品、積水ハウス、タムラ製(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEY4d1hxZ1hROGR0Y3JhTkpwXzBLVUo4N0hmQUlfeGsycXdUS0xwVXRpU09uUUNnZ1YtYjhsWUZJNWtiSHhya25mVnlVR1Z0RUF1RE13U21pSW5KOHQ4MDM4UF92SU5sYmRnMklqUGlSaUVDSDlBUGpUSmJsLTZQRDE0SXl3M3c?oc=5",
+        "published": "2025-12-09T06:31:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスと遠州鉄道の共同建築事業が始動！安全な住まいを目指す - サードニュース",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pa0NfOHJMeGo5VGlGalN2M2k0WVZCSjBfZ2lSTEpReWl2Y1B1RlRwVF9iOGMyaFdJd1NZZVhrWkUyNk40RjBfRi12VldGaG9pYXhxZXJjQ1NCcFlobnBYbkhVVWtqZ3RiY0p5QnVPMk5kODZoaTlBazlR?oc=5",
+        "published": "2025-12-09T06:11:24Z",
+        "source": "サードニュース"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスが安全・安心の技術をビルダーにオープン化 業界初の共同建築事業「SI事業」で国内の良質な住宅ストック形成に貢献 積水ハウスと大賀建設が2026年1月より事業開始 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBGdzR2dHRTN1ZiWVpyUnlRc0M5MnZtS1JpVGswb3R1NDd5Y2VXMzNfb3h4MXJqZVR3a280ZlJIZkxWY1U?oc=5",
+        "published": "2025-12-09T06:03:35Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスが安全・安心の技術をビルダーにオープン化業界初の共同建築事業「SI事業」で国内の良質な住宅ストック形成に貢献積水ハウスと大賀建設が2026年1月より事業開始：マピオンニュースの注目トピック - Mapion",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRU040S2g3UjZRN1hpY0pBdWJ6YmJPQTd6V1pYcTI1RXY5bmlhSE1vVW5ZMXBSbTNaNTNUcUlIdXp4aGtRY3hmX0RTMTFib3BQSU0xZkxYeFZUaFVFcmc?oc=5",
+        "published": "2025-12-09T06:00:00Z",
+        "source": "Mapion"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス－底堅い 遠州鉄道と共同建築事業で業務提携(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORTJQVWNsSWNpU2VPd3NOdnJCOWZWQm5PT3dOUkY1Ym1EdUNXSDQzNHNnUVJrZHpWQ2lTaTIxNVBBeVNiVGdGd3V6aWxDUHVqTlVVMUpFa0RfM2NnajcyNElySnBNbTNFd09wZ29jVW95aFpNR25rZjBRSDUzTk9xeDFfX2I4ZDA?oc=5",
+        "published": "2025-12-09T04:43:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "埼玉県内初、アルネットホームと積水ハウス「SI-COLLABORATION」を事業締結 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FNloxVEJpc3dndXphcVR3MGdCM2dyWm95azFVZmFlZzNLYXRJeGRrTHhKcHdrS213Ym9yMzhtVEEteVJLMkk1WERoSFI0MXdYVkhYdE9sVUJhSmhPcE5yRXEyUENGQVRuM0E?oc=5",
+        "published": "2025-12-09T04:30:01Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、遠州鉄道と共同戸建て住宅 耐震技術で災害にも備え - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTzMxcEE0RTNreks5U0tMeHpteTM2QWcwTG1MeFB5QmN5YllGN3J0WExPYXhxS3hwU05sWWszc2tyM2VMbWx5V2IzVmJiLUZGQXBHLXdJOWNMdEF6bnVxVUNFNDJGV3ZyYlA2cg?oc=5",
+        "published": "2025-12-09T04:30:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【12/13(土)・12/14(日)宮城公演】『FANTASTICS LIVE TOUR 2025 - EXILE TRIBE mobile",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51NXBSREduMkljYXdTRERNRmhXSGVVSnpDY0lDUW9SNk1SaUxVcU90di1NcmptNV9hSjBCVG1YdVFwXzVqc2ZBQU03SW9DTEFFdGMzd2RWUURyQQ?oc=5",
+        "published": "2025-12-08T09:46:55Z",
+        "source": "EXILE TRIBE mobile"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【積水ハウス】千葉県最大級ワンラブマーケット２０２５初出店 - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtY1kyc21NeTBxaW0tNmVwdFdKbzlRVWlkclBXdHVyb2NydGFxdU5qVDNycndCTnZZTDhxdFNZblJMY2hVb3pDSllPeGFVcUJ2QnMydG9sYm94bm8?oc=5",
+        "published": "2025-12-08T07:02:55Z",
+        "source": "朝日新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【特集】 決算マイナス・インパクト銘柄 … 積水ハウス、伊藤園、ラクーンＨＤ (11月28日～12月4日発表分) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1eW1zUUVqTWRLUVVzTk1SZXdQSWpQZHhWaWk0MTJ0b0ZIWU1VaXRPNldsTjFiSTREbVQ5Nm5PdXp5T3hYNzl0dFpUZWNHakpXUWNTU0dncm1LWFlOaWNRYg?oc=5",
+        "published": "2025-12-06T06:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス不動産、札幌・南1西23の土地取得 - リアルエコノミー",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xckotZGVldFVzS0lyUllqWG5DQ1ZEeEtTQXpaUTh5VXEyYnRPZGxIREQtRUZnSEE5VXBlaDV1QkptbG5ZWWEwNnM1UGZQVm8?oc=5",
+        "published": "2025-12-06T03:00:00Z",
+        "source": "リアルエコノミー"
+    },
+    {
+        "company_id": "company_c",
+        "title": "Fujii Kaze、2026年にワールドツアー開催を発表。2年ぶり国内公演の詳細を公開 - NiEW",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbnBEemRsQ00zS1YtNlI2SldQcjVtNTVsb0paZXNjbWVGYjdDck5VQl94b1NFMGx5T0tKSlVVNU9jQ1BCUkVialZBNllCVUlpX0pSWjhvTTE?oc=5",
+        "published": "2025-12-05T09:30:27Z",
+        "source": "NiEW"
+    },
+    {
+        "company_id": "company_c",
+        "title": "藤井風、アジア6ヵ所を巡るドーム＆スタジアムツアー、国内アリーナショートツアー開催決定（THE FIRST TIMES） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTkR5bmVUZ3ZwXzlUYXlUY2lVTG94NllSQTFTLWpPRVZUMEthQmhDSkdHLW03aDVhdWFRMlVCQXFmT2JzTHNCZGx0NGx2MEF2VGpJSXJweHEtOTR5aWJGMlpONEFhTEtVVnNFSXkxSHFPbWc1NHlocWowdXgxZXM?oc=5",
+        "published": "2025-12-05T09:00:06Z",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "company_id": "company_a",
+        "title": "決算マイナス・インパクト銘柄・引け後 … 積水ハウス、トラースＯＰ、キタック (12月4日発表分)(株探ニュース) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdExjM2hjVVZyM0NoVkFNSGo4NzRHMXV1NWVTMnVMTnZXTWhBMGtxUGhjU0d6aGd2TDNFR2UyVGVNbExWUWgtYms4YWRvZmx0VmtkaW5DZF8yd2NMY09pQmNFRXg3RmFoYW1FSGFUV2xvdmVXdF9VSm1sOW9icGVZRnM0U3FiTE0?oc=5",
+        "published": "2025-12-05T06:48:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス（1928）2025年11月度受注速報 - 四季報オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcmtSd0t2Sm82dE9ZRm5FQ3ZYcUU3VVF2ZlQ2MXN4MXZ2bTNvU293ZjJfcTZnRHRNUjhpRVZCYk1kVTF2c3lQTEY3aGlEZjlTVENXYUtiUQ?oc=5",
+        "published": "2025-12-05T05:45:00Z",
+        "source": "四季報オンライン"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【材料】 積水ハウス---反落、8-10月期の下振れ決算をマイナス視へ - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWXhKd1h0Z0VWX2Rqd3lnbmc2dWRWdUpKX2t0alQzR3B4SllWZjlYRzhIdTRHVXZpb1pLaEQ0dlFHX29YdjNzZFFGb1NpbC04TmJ5a090V2lJb250NDlqWA?oc=5",
+        "published": "2025-12-05T03:46:06Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス---反落、8-10月期の下振れ決算をマイナス視へ(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTdSUVhPRUdBd3F3eFpYZnltT0dvQnA5TVJQQUVfa2NGOFp6X2JoN0pvWEtJZngtQWNfVHV5a0lRc3QyVS1EbnBoajF2QXFsYlVvQVJrbzRyc1VvanB4ZG9yMU5JeTM5WmRGTFFZUjhfdjZnM1lta1J0RG9BeVFMODY2Um9MZjg?oc=5",
+        "published": "2025-12-05T03:46:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_b",
+        "title": "【ダイワハウス】 つくばANNEX展示場 - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVdOQUxzZ183R3VFU2JNQVhTN1NDcmkyMzI5U3MxYjF1WHdpbU51ZmF4NXpnQ0JVNHNWWmNPbV9Sb2xGeWgtUnBmTHlaX2dpUXBfTEVaQVloM0N0N2ZjWmJtZDByMTJLemlfQW5lak5JdzAzdDhqTmM5Xzl0bXhNTlhzdw?oc=5",
+        "published": "2025-12-05T02:48:08Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_a",
+        "title": "新大阪近くにアパート型民泊施設、積水ハウスが設計・施工、「MUJI」のアイテム導入、「暮らすように旅する」コンセプトで開業 - トラベルボイス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LUHRjenBOb3FmWmJTVHJWcWhhQTNJaGZ1c1kxclpDVUdCMWhXa1BhY1JXa3dDUXliZ05ISlVWd1Zocnl6Q2ZzTVlFcHN3Q3FJQUxKXw?oc=5",
+        "published": "2025-12-05T01:35:35Z",
+        "source": "トラベルボイス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【アナリスト評価】積水ハウス、レーティング中立を据置き、目標株価3,700円に引上げ（日系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlBvNW03aTR0RlhZbEtEQjdoYk5leXpQUjFYX0NYeEFvNE9pb3NCeHo4NkxiWjZCQktBWnR1NnBMZmZCOXRkdFFpYVFMNTdiMVFxX1YtUGU4U1lxMDJpTXFoZm1kRldKZXVZS05pUEZIa0dfOEN4ek16NFFLclhYcmkwN2V3U0U?oc=5",
+        "published": "2025-12-04T09:06:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスの純利益11%減 2〜10月、米金利様子見で買い控え - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1INjlZTFFXR2hmZFpMTGs5UHV0NXdDQ2hZUl9Kc1paYmFnZ3RlYzNBOFpfMzFHLXlOcXRfamU3eWEtLTFuV3piV05mUGFPd2p1enR0X0lyWU9hdlpDeXJ5Zkp2NEpqMGJyZ1dReQ?oc=5",
+        "published": "2025-12-04T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス[1928]：2026年1月期 第3四半期決算短信〔日本基準〕(連結) 2025年12月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JMDlKU2ZBTng4MVYxS0h3dUIxQUdvSDBPbTJoSE04VVdMSGc2WkFncWwxMDVWSHp2OFRYSjBZcmVWV3dYdDQ2c1FpbUdnRDNuZGN2bGlocldfM3FiRzBvaGxHQS1obnpiaEE?oc=5",
+        "published": "2025-12-04T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスの快適防音室【音の自由区】ハラミちゃんがオーナー様宅にサプライズ訪問する特別動画を本日公開「奏でる、つながる、出会う音。」いよいよフィナーレ！ - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVUZrUkhZcWlqMncxTWhwVXJmNmcyTVFIZm9YSHlaWFBUUTA4SF9jb2ItY0JkRDE1Rl92WjlWT0JNUlBpdGl6VVdXRXNIc0wwbmdFVjF6UXY0d2w2Q0hJNGo2MnFKM0pMWlE?oc=5",
+        "published": "2025-12-04T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、第3四半期累計連結純利益10．8％減 1470億6500万円(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODJDVnlERlRZRWtKQjdvTDhhMERqVWh2RTZSSV8tM0V6eG1Ua0VZNXktOHdESUVBTURPNjZ4Vm1SaHlRRmM4WGJEOGI2dmZKTlZzZGdlR0MzUjRVNl9CY0Q5b25MbXVlSTFqQ2lHTFpyeGRZa2lTOEZmWlVuMDEwVlM2a1JHR1k?oc=5",
+        "published": "2025-12-04T05:01:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス【1928】、2-10月期(3Q累計)経常が6％減益で着地・8-10月期も3％減益 | 決算速報 - 株探ニュース - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50eWdqSHdMYTV1M051VW1zRmxZb3BIZjBsUVdGR0dpc0VYQ1Z6a21vMjNqUE1EdS1JS2E0b1Z4MXdNenRiTEUzTmY0eG53V1Z1LUE?oc=5",
+        "published": "2025-12-04T03:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【決算速報】積水ハウス、3Q累計経常199,909百万。(アイフィス株予報) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEREdThSNW0zQy0tSnN2ZWhMVXh6VVBJMlNHZmt1V01icC16Z3R1V2pNRmM0U0FLZ2pVcnk4MTFZbnlDMFAzcGN2ZzhHTXlnSDg2NHNibF95MjNiem1OajRSaVN4X3BwdEZsY1YtYWZRRmlKTmg0dkR6NGZNcVNBODdYWm1sTEk?oc=5",
+        "published": "2025-12-04T03:00:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【注目】 本日の決算発表予定 … 積水ハウス、トラースＯＰ、キタックなど 4社 (12月4日) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BRDNJTE5PVDJvOWlFcHFtNllKNklYYV85RlRrcHNNeDhBWlJ5Yldib1ZyQUt1bjFMa0tBNFNCVk5uMGJqVjdJeUdVRERXRlhSTjZZcXdXLWIyclhSWFlTYg?oc=5",
+        "published": "2025-12-03T21:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、未来を拡張するイノベーターを選出する 「WIRED Innovation Award 2025」の授賞式を開催 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15TU8tSllaa0VUc3dWMWtuSFFlak1IQ3djOGlMWDh3bmFZZ1U3WFEyQTd2SzE3R1lQZGNvbVhueE1LV0JUdjlpWkNRQUNlYTlxZWJKVk54TlNWeXc?oc=5",
+        "published": "2025-12-03T08:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【市況】 明日の決算発表予定 積水ハウス、トラースＯＰなど4社 (12月3日) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQVhPcXFLMU5fVTZSX093bHVfb0dVaGlzYlllX3prUWhGcjdLZktxUWFtYkxiS0RraTMtdmYybXlWcm9Jd3BiVTV5N01sSV9KeXg3bUlUOHNtRTlnV25ESw?oc=5",
+        "published": "2025-12-03T08:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、分野にとらわれず未来を拡張するイノベーターを選出する 「WIRED Innovation Award 2025」の授賞式を開催 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5WbnZTaGxadW4tQW5LWmY0R2J6Z2xsUHJOZlpMSlhrY29qY0NRYURsWFNCTWh6NWRJa2VZX1VlOGhPMTQ?oc=5",
+        "published": "2025-12-03T02:05:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、セーフィーのクラウドカメラで施工管理DXを推進 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBROGlEQ2lsWmcwbllHRUphb2ROSUdBOTZOOVdkaFNpYnYwb3FhWWRIUlIzX1pzSl9jRElfU1Z3VlFCVkZZVk5XcDBsWjU5MGxfMXhmcmlQM2lmcHlkZGI4MFdTMkJuUFJkQUE?oc=5",
+        "published": "2025-12-03T01:00:03Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスが手がける、モデルルームのようなアパートメント型民泊「SOULEIADO新大阪」が１２月１日開業 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuaTBUdllHdEwyNjZfYnJTZWg5dktpZWttckZ5OHVBYXhycFJwRy1UNmozN0VvcjlISnhqQmJmSmpYYW1rQXFkRlIxdm5penZCQmJKNkVvTWFTY3lBbGxXbm5GbXYxVllVMkE?oc=5",
+        "published": "2025-12-02T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【５％】 積水ハウスについて、三菱ＵＦＪは保有割合が5％を超えたと報告 [大量保有報告書] - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tT2VFU2JfZ0htQ08zSjVZMWVRU2RPdnpIeGNmUUk2VnJ2dVF5Rl9OUW14MVUtYjlWYTZHUkNqTmh6N0pvY3RRMDBvRlhGcXpZSHZxVWpTLW41TldrNFhxbA?oc=5",
+        "published": "2025-12-01T08:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【積水ハウス】1/9.10.11住まいの参観日開催 - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyeTVNWGNkNXEwdk5GUGp2dFA1NUZTdUFxbWkwbzRQQnRjVWtvNW9tZzQyZ1F6UnhfR1BNNlB5YjlrQ3pJWjQ2STd3bktPajlERXJQNjI3Ti1GcnJjLXc1cGFuaWo?oc=5",
+        "published": "2025-12-01T03:14:31Z",
+        "source": "朝日新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【特集】 今週の決算発表予定 積水ハウス、伊藤園、内田洋など (12月1日～5日) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMDRUREFoYkJadnp3NGpuTHdqUXJsWGpVdmhHd2RsamlSV3AtdlU2eUV1QW5McmhnVTJPMFRzVG1RdEgtbW9nZVJQcHROVWoyRnMyRmpXdmhjRWQ3aW1iVg?oc=5",
+        "published": "2025-11-30T08:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【アナリスト予想】積水ハウス、26年1月期経常予想。対前週0.5%下降。(アイフィス株予報) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbElMRUNNb2xZSDJvbXprT2NLcnlOUUdXOXljV2V5azZfc2t4enAyRkVqMTk5RjVnUWQ1Y0NyQmZwdzJHS3poYzZnLTVKTDl4NURCN0hQem5GMVd3ejlrclZQMFAtR2liamRWblpfclU4QTZ6VVZBWUFjRnZONzFUekkwVWNuQVk?oc=5",
+        "published": "2025-11-28T08:00:00Z",
+        "source": "Yahoo!ファイナンス"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスリアルティマネジメントの企業CM「40周年」篇で流れる曲は？（CDJournal） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TYkFxcFVPZm1TMlA1cmd1UVZUVEdDdm5lbHFka2JISGxfOEhjbTBzMjFnLU9mUTJBSUR1UXQ5MDAxUWJ1WFVoWjBLbE9LRTVlaHg3eHBNam96Ykl0MHJvbzByVHMwSWZweVBIbFAyVHlHWjNneGlZT1k4ZHJMbHc?oc=5",
+        "published": "2025-11-28T08:00:00Z",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "company_id": "company_c",
+        "title": "下野奨学会に１００万円を寄付 栃木セキスイハイム｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45cFFhUmJGVkZINW5JWmNEWWtDY29Dc1F6X0hOcGtYNzdvbTVMMHFfSkRITVdUYkZ4Wl8zUzF1bUF3VWRrbzQ3SC1YcU5PTTRncW9xeGgxSHg2cVk?oc=5",
+        "published": "2025-11-28T08:00:00Z",
+        "source": "下野新聞社"
+    },
+    {
+        "company_id": "company_b",
+        "title": "千葉・船橋で51階建てタワマン 大和ハウス、最高価格は7億円超えも - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GN2lOQUh1WHczd0hoV2RMcy1hZWptTVBpLVA2TnNkeGhwWWI5ZGJNbFkzSWFOd2FQMU04b1A4S3dtTnFmOVBXR21DVjdrWUlaZHZETElhYl9fZFh2bHZfMUxrQ0hVWmZTUWFDcg?oc=5",
+        "published": "2025-11-27T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【Grow & Leap × 積水ハウス】“こんなまちに住みたい！”を形にする、中高生47名のまちづくりワークショップ開催しました - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2MmdzRVFaa3locXE5NXdESUhydHkwSmhoTWsxRjlsZjB3U2dzb3VkN0hLd1pVWmx4RFZCOGhpemlWSWVvWlVRRjhGMWN1T21UZy12c1g4Tl82NjZjSUpzNGVTVW9OTFA1M1E?oc=5",
+        "published": "2025-11-26T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "北海道で複合型街づくり…大和ハウス・積水化学、それぞれの計画 - ニュースイッチ by 日刊工業新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0OGFodVItTGZ4Vk9BLVFEbmdEU0FxQ0ZsTk1hRV8zblpTNDNzWXU4WXVPY1FfQ0J6UldpcnlHcU05dw?oc=5",
+        "published": "2025-11-26T08:00:00Z",
+        "source": "ニュースイッチ by 日刊工業新聞社"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業が運営する物流施設の入居テナント企業向けに統合管理システム「GWES」の提供を開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YN3RwN1J1NW5WNTNQMVhvdDVCMXhjZmVGVkoyUTVQWWVnd01lM2hjZjVMbDFLamlBZUd0V2g1dHVGejBxV2VTR1pScjdNbFVaOTd2T2VmZFU4ekdOcEVOSHB3UTJaNGYyLVE?oc=5",
+        "published": "2025-11-26T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム東海、自社ブランドの「スマートホーム統合アプリ」を新築全戸に標準搭載へ - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LQ1c2bkFQSXgtMkdheVZKcGVkNDZHdTg1TU9Sd3R5d0pkUnpicWJaUWhsZ1dBMzVNUXZWWUxPdGJPUEd3dWpUaWRHc00wclBSWlc2VzBIWGlVRUFHLTE4Sjlibkxrc3ljVnc?oc=5",
+        "published": "2025-11-26T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【お知らせ】12月12日（金）定例SRPの「セキスイハイム東海」拠点について - 静岡新聞DIGITAL",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9neFhJUVliVm1UY3FiMzZSeWR5ZEVXc25aZ2lXRlZCQXpUTG0yNEN5cmtpeDB5VjlOVDVGVkxVQnFaM2I5Mlg2WmJIandJdw?oc=5",
+        "published": "2025-11-26T08:00:00Z",
+        "source": "静岡新聞DIGITAL"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【売買】松濤の土地1858m2を取得、積水ハウス - 日経不動産マーケット情報",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvelVNZENXSFhaTmRXck9LYUIxN0R6NXU4UWl3UzltMEZPZ0dwa3lVYlFlWDdLUnJMU3pDQjZPdkFoWDlrbEN3UkwyQTFDVjF5V2sweVdjRWtTV1B6WV8wYlBn?oc=5",
+        "published": "2025-11-25T20:52:39Z",
+        "source": "日経不動産マーケット情報"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【積水ハウス体験レポート】暮らしを“学ぶ家”登場！「いつもの毎日」がもっと安心、快適に - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yYWJaYmJmeWNkWGN4MlhYNWloczc1R2M3NTlmNDBOTHVuQnlmNVAxVl9wSU9aQkdpTGlDT2JqMlduYzlQNnNUanpZTkVfdw?oc=5",
+        "published": "2025-11-20T08:00:00Z",
+        "source": "朝日新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、京都府木津川市と協定 「ジュノパーク」を教育に活用 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xekJJRENDMklySXpjTzA1ZEc3UnpWd3hvcDI0eEE2TktFZm5tcWtpXzI2bU93U3BwSUxhZmhVOC1fM1VPQUhwX1hZdTJZQ2MtMnJYb2x4QXpUVTUyRE5paHZfaUVmakcwR0lGVA?oc=5",
+        "published": "2025-11-20T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスと木津川市が「こどもの育ちの応援に関する連携協定」を締結 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4SVpjNUtPUkduX0dtdmFFYk8zZGVUcXZ0OWttdEtZZzBmZGNvTVlqZXFQdmVDYVg4ZjI5OTUyU2xDWWtPMTQwbHkyU044b29jdEZKaERhdktBNW8?oc=5",
+        "published": "2025-11-20T08:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスと木津川市が「こどもの育ちの応援に関する連携協定」を締結 ～遊びと学びを通じて、地域のこどもたちの健やかな成長を支援～ | 積水ハウス株式会社 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5NYmJsaDA4VUY0YmZya0YzTk1SSzR5b0VZRjlQNFo1V0pjV3RxYXJaNFF6R1BwdEJ1d0lYdDFJV1RrNUk?oc=5",
+        "published": "2025-11-20T08:00:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス／モンティグレ和歌山11／27リニューアル、マクドナルドなど順次オープン - 流通ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ScEtKVXpMbHJxX29pb2huaFhUVl9IQlNLc1paTWNEWnV3LVdkYnM2YUpYRkNhODFnd1h5dE03TGlLMGdqSXRJMUNHdzV0LVNPaEo4aw?oc=5",
+        "published": "2025-11-20T08:00:00Z",
+        "source": "流通ニュース"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム】あったか体感キャンペーン実施中 - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KWlF3cW92cHUyYkgya3UydmVBSmY1R21YdEFZekt5eV9KTlhwNkx3cHR5WnJqR2FqaDZEdFZHNFpINnhhbWxKMUFmcGs5ZUIxZkRVY3I3Zk5Icjg?oc=5",
+        "published": "2025-11-20T08:00:00Z",
+        "source": "朝日新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【材料】 積水ハウス：循環型ビジネスモデルによる安定成長で配当利回りは4%超、14期連続増配へ - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xczJtbGxnS0hIMWUxWmFaMGVGVzZwSUc1Tm5mMHYxMkd6NldicGpmUGFHUkRITkJQSGk0LUVWTVZNSTVDRkJoUXdzWkplX09pcDluSGc3cG1rSjF6TjRISQ?oc=5",
+        "published": "2025-11-19T08:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "おてつたび、積水ハウスとマリオットが手がける『フェアフィールド・バイ・マリオット 道の駅プロジェクト』と連携 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LOGpwVDNGaUtKT1pQVWNoZnRwVDQ4OGU1dkJycnhpczU0QURMbmZTVi05aEVfN1hXMmxFYkxXbE9POGplbjVLTUp6TUh3Y01IZ2ZTcHZZYzRXVnl5OEhaakxjRGJDXzZFMGc?oc=5",
+        "published": "2025-11-19T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「DPLつくば中央Ⅱ」着工 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tZnBaUldtellmQjQ2bGszV3N6YTA1THhjNUgzcC1NTFA3N0ZoMUVXSjlDZXBtejJoQVFCZXV0SXNQajdqdUpJYzZBSld3VG9RTUJZbThFR1NnT1o1MXMwNlhZOUtRY0xKbGc?oc=5",
+        "published": "2025-11-19T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム - 伊賀タウン情報 YOU",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oZW1vM2tnR3l1N0YzZkFoRnM1WEdMMWlwOWFWaHd5Q0VaUEctWndBTmFLNEMzZXVjczRMNkRRR0ZYck9XYmhwWlA3WjA1Nmcxc1hIcXdDczJVa2M?oc=5",
+        "published": "2025-11-19T08:00:00Z",
+        "source": "伊賀タウン情報 YOU"
+    },
+    {
+        "company_id": "company_c",
+        "title": "2025年度 セキスイハイム東海カップ 静岡県中学新人サッカー ウィナーズ大会 12/13,14結果速報！ - Green Card ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SWTM4b0VRVkRJejk1VmNOTGsybzM4amFPMFpkV1d4VENFd3VSWVV5MFNJalYyQUdOejlDS0FrN2EwSGRLenVlM1pGMEdnY1VmemZFbGhyZ0p2QQ?oc=5",
+        "published": "2025-11-19T01:06:05Z",
+        "source": "Green Card ニュース"
+    },
+    {
+        "company_id": "company_c",
+        "title": "第41回 セキスイハイム東海カップ 静岡県中学新人サッカーチャレンジカップ - 一般財団法人 静岡県サッカー協会",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQlg4THp2WTNiVkpWS0dFbmhaZUQ3Vy1QQi16R3hfSEJ3YXlyS0pGbW9DZlJqcFAzdkRQT2hFTUhNbnVGVFdqWWJlT0ZqczhxUXZ1T2prNmQzYU0?oc=5",
+        "published": "2025-11-18T07:26:26Z",
+        "source": "一般財団法人 静岡県サッカー協会"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、創造力引き出すAI改革 ｢DXブームの二の舞いにしない｣ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SR0NBLUg1NW8yOU9RUmc2YVFfZktvaFpZNU1LZWhEem4tcDZrV0dHVVc0WXpoNFJlZkxsZ1dDalpmRl81d3NXNjdWb29PSmJqRnYyaU53ZFJ3TzE4ZlBCUklyUmlUekY2UUFtWQ?oc=5",
+        "published": "2025-11-17T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「PRIDE指標」において 住宅業界初、4年連続で「レインボー認定」を取得 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82RlFldTJESFRBV1dqemhiWGtQVGs0OE0tajZUX2p2Xy0wMmFfeUhtY2xXN2xZSWQ3Z09OLXNaMVBuNGEtYjkxMGsxdll2M2d5MTRrRWRzN29vWDg?oc=5",
+        "published": "2025-11-17T08:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業 2026年3月期の連結決算予想 新たなＭ＆Ａ 「住友電気工業」から電気工事を手掛ける「住友電設」を買収！ - 東京・大阪 都心上空ヘリコプター遊覧飛行",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WZTA4VVV0VWVneFBCQzRodjQ2RXQ2YWlzeTFkSFdCa0pLMVpMYUxVcmxVM1N0WkhDSzRrUnpQXzVYRWJ6dkVZMmtUNW9GTm9GdjBIUmlYRzRUMmNIbGI5RDI5RXBJMVhXalFtNFppNzUwWkU?oc=5",
+        "published": "2025-11-15T08:00:00Z",
+        "source": "東京・大阪 都心上空ヘリコプター遊覧飛行"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、自社会所属大工5000人の全国大会開催 - 住宅新報web",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01M0tDZXJJVjd0T2paV2xGNUNtUFFwVjJtdjY0RXNqcHp3dkRQOGdwVndBS2lzQnMzbktpM192YjdXcE9sMVpndFRnaHVsbjJuZkFWMTBn?oc=5",
+        "published": "2025-11-14T08:00:00Z",
+        "source": "住宅新報web"
+    },
+    {
+        "company_id": "company_b",
+        "title": "創業40周年の新企業CMを11月15日(土)より放映開始 | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jM3J4OXNlWFMtejBJTUszaDFzS21pZGk2RG1RXy1zRl95d0U0d0RCZEZhdEhOa2YtWENqZHhCZ09aRWVQaEFXWWxFcnQ0MVpZemNSRmdKV0xsLUdDVnQtZUx4VEF5ckg3NEE?oc=5",
+        "published": "2025-11-14T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "Suchmos TAIKING×ヒゲダン藤原聡コラボ曲、大和ハウスTVCMソングに決定 - THE FIRST TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUWmhkU25lVmhhaEsxUDA5eGZxMXZ2LUV2MzYwbWVvRUlKaTJ5VmF3ZlVWcGtiR1BicVRrc0sza0FYQWlZWG1nSzVqZ2l0VWFNMm81cHdUU0w?oc=5",
+        "published": "2025-11-14T08:00:00Z",
+        "source": "THE FIRST TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "決算:大和ハウス純利益170億円上振れ 26年3月期、海外売上高は初の1兆円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51c3RyMnBuZENZcHpiUkNBcHlRdEVWUkw4MHN5OE5aVWIzeE9sRXdRcWZDdFJWVmYxZzhIWVpxZ1NvUzI2Q08wdTJQZEM2dXpOVFc4WDdZdElaUTFSQ1Fsb1pVNVpHREg4enRGVQ?oc=5",
+        "published": "2025-11-13T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業【1925】、今期経常を7％上方修正、配当も5円増額 | 決算速報 - 株探ニュース - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XYW5xNE5FRm1LbWlJWXNXcDlGalpjYk5uMzVfSmZXWG5Jbm90aWlYek84Q3otdXZqUDF3ZmlYbllUaHk3OVJHTjNwRzNySjFzNWc?oc=5",
+        "published": "2025-11-13T08:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_c",
+        "title": "東京セキスイハイム、買取保証付き分譲展開=第1弾は三鷹で - 住宅産業新聞",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fa0hhdmtMLTJMZGNwbVQtSVZ0YjBiREIyTWNZMG1uQlBTVTJEOVBfVHRFUzNQeGlTaFplel9SdHJKWnkxUWlLQXQ1ZFTSAUxBVV95cUxPX2tIYXZrTC0yTGRjcG1ULUlWdGIwYkRCMk1jWTBtbkJQU1UyRDlQX1R0RVMzUHhpU2haZXpfUnRySlp5MVFpS0F0NWRU?oc=5",
+        "published": "2025-11-13T08:00:00Z",
+        "source": "住宅産業新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス・仲井嘉浩社長「住宅を『幸せを生む場所』に再定義」 - 日経BP",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CYzR4cjRZMkZkRTQySmdUNEN0RExmQjd2aFdCOFFFU3MtaFBMSUNJYkZKb3dTNTRGRi1GNmJRTG9qckhENGNQNnlLOTh5REVYNWFITUZ2VXRWaW5xbGJKRWRLLUxiYi1XNUprcjVSdVg?oc=5",
+        "published": "2025-11-11T08:00:00Z",
+        "source": "日経BP"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、兼松サステックと共同開発した環境配慮型の地盤補強工法「SH-KPパイル工法」を販売開始 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52MDUyMi1GNVJma3J0MlRtV3d3aEJ1X0tzNE1iZ0x1dWpLVmtkWUFGSG1OWHVHTEZQUVI2UTJCLTM3Wks1LXBxejhUZ19lUW1NY09QQUJuanJ5LXl5Smd6QVNNejF6c0ZCV1UxNA?oc=5",
+        "published": "2025-11-11T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスが住友電設にTOB、総額2920億円 DC市場にらみ垂直統合 - 日経クロステック",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Oenh3ZWtYbGhpZlhZSVN3eG5vV19uM3JFUmRzSFdOYVZqSDUyR0g4a3FvSmNncWIzYlR2bDFoaDA3NXZFRkp6cnlwZnc1SFNFcTlMSU1hY3ZDdW1rSkljZFFMbmFZYkE?oc=5",
+        "published": "2025-11-11T08:00:00Z",
+        "source": "日経クロステック"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、米国で現場監督570人育成へ 日本から指導員を派遣 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeDBDMUx1UFZYSk9lcmRVWjMzT0xPb3RNX1ZyUTB2U0JVVjNaVGpJN2V4TjZYT2hUVEMtU2Y5QXVQb0puRkxTcFV3TFRtVzVvd096T3paX0pWZVNVOFdwT1NxX3h1Z2dvcVdySQ?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス大工選手権大会 WAZA 2025 開催 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mc0VBSVg1OTVhZ2hsRW4xX1YyQ2p2c1ljaHROOV9Eb2hLNzFRanFHYkg3dEJYY18zQzdWNUN2QUJtdmRoODdjSmpNNGRzdlVEUGJmNkRqVXZ4b0k?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【独自】「地面師事件」の積水ハウス、幹部がすべて語った…！５５億円を闇に葬った「社内腐敗」、その恐るべき爪痕 - 現代ビジネス",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FSC1DLXhaTEFDRFpGSnZhc1p4MGwtZW12eG5OY3ZuWExOcVowaW5lRHJYVndxamt6c0poYkpMQUJWYm1QUjJxT2gzazhWdEk?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "現代ビジネス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、地盤補強の杭を木製に 施工コスト15%減 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5maDZweUFPUUtKQTBERldnVDVvamFERTBOZXVPNlBSSXZ3VzktZjJ1b0lvRGRUX2VybFFOeTZkUm9ZdXBxNDlYbGdyMXBadHlFQXVtaFhGMnRLZHJrZ3ViWGFtT3FlQmMtVGt4Zw?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "「地面師事件」積水幹部が語る「社内のウミ」 - 現代ビジネス",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZkxDTnJWV09KdUktTlo0ak85OGZfeUJjazJfZXI1UFdNMkJ5Zms0OUkxZVRNY09ZeDhVaHd2ZWh5c1AzQzR5UFd1S0djcTJVakhVbkZYYUY?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "現代ビジネス"
+    },
+    {
+        "company_id": "company_a",
+        "title": "旭化成や積水ハウスなど、給水管の端材を再生利用 26年3月から - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92NGl1eUFNRG8wT21KQ2VBRUk4UGpGSUNoM2pZYkZQTHVxNjlVamFPWGZMRDRXeWtoM2wxdkw3b2swNFB0Z1htUXBfaXBnbS1GRlE5TjVkOXd3NzZkb1d4dlFFelBfVDF6cjFaXw?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【積水ハウス】11/29 20時 Instagramライブ！ - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WnJKMHJnaWNwczdOVE9QQUt0NlZRTDdOV3YwdTViLVFwa0FsS2gxRzdwbDB2ZXg2Sjc0SVRtU3dFdnJYdFZkOThvSVNCb2kwSmlVOTJvNFVMWXM?oc=5",
+        "published": "2025-11-10T08:00:00Z",
+        "source": "朝日新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスグループ マッチデー実施のご報告（11/8八戸戦） - 奈良クラブ",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fRy15UE4zSDdXLTBzMERBS1BMZWJvaW5Da0RFMlQzVF90cXVSMUJIdWdYc3FfZTI2M3B1RThwNE1GQXpBZmhLN0FR?oc=5",
+        "published": "2025-11-09T08:00:00Z",
+        "source": "奈良クラブ"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「マンション建替え法」による建替え事業「多摩川シーズンズ」分譲マンションモデルルーム開設のお知らせ - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9aYWZkZkNKUjVJU29yVkY3UC1ub3JsNXdleFhMcUsxZERBN0tRd2FfVFRPelFiZzhNTmtQSkN2UmtPbXc?oc=5",
+        "published": "2025-11-06T08:00:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_b",
+        "title": "〈過去最大の買収〉大和ハウスが｢データセンター需要｣に照準､住友電設の完全子会社化に2920億円を投じて手に入れたい果実 - 東洋経済オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNE1FY2huWGtWam1YUFlpMEZkTjhqbGZUOUdfVWlDZV9yZk03UDFjQlJsRzQxTzRSRGFGZi1NS1Z2aHNMcGpNZEp0eUMwUFJ0dVE?oc=5",
+        "published": "2025-11-05T08:00:00Z",
+        "source": "東洋経済オンライン"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスに、サステナビリティ情報開示支援クラウド「SmartESG」を提供 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02Z0tnZVpsMF83Q0FTR0hldEVhZlkyZVI1ekVGV0lSR1BsQXNzQzJrc2d1V0ZWem9EYm5LMEk5eGlFRTJuTk5pa2tCUUVNd3g1ZG5tMWZnMW1xQ2hZak1ITUNYUm1DV0l5ekE?oc=5",
+        "published": "2025-11-04T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、米国の戸建て会社買収 アラバマ州に進出へ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iSjNlUm9ENU9vY2NLenVZVTRfeEdzWUctMWVRYlJaNUkwUVdUSFh5SW50UFVDWG4xN1JvbTJneTN0Yk9SOEo3VVFHWWlDeS1zSy1KSmxmVEdhYVVDWnplMmFDNVpTdFNfanJlag?oc=5",
+        "published": "2025-11-04T08:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "都市の上質な暮らしと将来の安心を両立するセミオーダー分譲ブランド 『ザ・デザイナーズハイム サステナブルグレード』を展開開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KbHlqQ3Y0YjBzTWpwWHFQM2phU1pXeU5YQjhxNndORG1KMzNwRExDNkY3M2pLZzVQQTJxNXNsS1lQeHJ4Vk1vVHVkWkZJUWdpbzZPcnl4aEdzNWpDR1l1RFQ3Mjh0Zl9TNmc?oc=5",
+        "published": "2025-11-04T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "2025年度 第41回 セキスイハイム東海カップ 静岡県中学校新人サッカー大会チャレンジカップ 中東部支部大会 優勝は日本平クラブ！県大会出場決定！情報提供ありがとうございます - Green Card ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQUHBKUjhKUEJGa2RNY01PSDJ6b1pOWHFaUXl4OEVvMmlBeEtXcHlycUphSEpPOEZ1Y2NJZFRsRTY1cHQwOWJCdTk5RktjRXB2aG9ZNF9HYm03dw?oc=5",
+        "published": "2025-11-02T07:00:00Z",
+        "source": "Green Card ニュース"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイムが投入、「鉄骨戸建て旗艦モデル」北海道型の機能 - ニュースイッチ by 日刊工業新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42NkdOZUhleTluRklqay1DQkZMQ3l5VXo2TkcxN1g0TGdGdzBnN2dnTTBCZ1J6WF9NS3Ywb1BvUFJUdw?oc=5",
+        "published": "2025-11-01T07:00:00Z",
+        "source": "ニュースイッチ by 日刊工業新聞社"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、公的個人認証サービスを活用するポケットサイン株式会社へ出資 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVWtXdkJScVJQaTEwbEUzMXlvcUlMbGE5VTFydE4tMVNjVjBOMmJEQ0xYaF9iZTZrTi1tN205ckFOOFhja2Ftd3JCZy1uVEdaSTI0WjVuWlR0MHM?oc=5",
+        "published": "2025-10-31T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、住宅からデータセンターへ 2900億円で住友電設買収 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xVVpDLWhrS1R3LUJBRWV0YjU0cmg1RC12TGw1VnFMeFVFWUdJV1FLVVFfbG5PS0loZ3dkUDNmdWRkMEVHN1E4X0FKRWtPekJsVGNjbTlHLV9LSHRUQkd1Zi1STjJXNWQtblNJNg?oc=5",
+        "published": "2025-10-31T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、住友電設を2900億円で買収 住友電工は全株売却 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ETmZDUEFTQ3BmT2stM0RXWUxRUDdaYnhwNTJ1SG45REJnY1pKdnNSOVA3N3RNcW0tdEdZRGhPaVZVSC1QS2ExMlJNQ0tVb210OEM2d0UyODFPekxWSlhmZUdhNEgzTXJYaGRJag?oc=5",
+        "published": "2025-10-30T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「大和ハウスグループＤＸアニュアルレポート２０２５」公開(ニュースレター) - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTC1MOE4xMDVFWEJnWGt4UmVEdjRCZDBiZEdILTI3b1VQMXZ1MDNsQVRlS051WGp6b0g4dWlFUjcydXBzMm11X0lxUVFRMTh3eG1ZS3B6OWtJb2t6QnFiVjRNNk9TSDd5OHc?oc=5",
+        "published": "2025-10-30T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、住友電設にＴＯＢ実施…施工体制の安定化図る狙い - 読売新聞オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1c2tIcm9LTEUwSzlsUHRfVXhKVVZ2aXllNzNDYi1HclptRVdEbEt1UW8wU3Bna3lPaGVXSWRNQWM3RGgydzgxSjNqa1EwcEt0d2tGNHdHN2x6TUdLUlJoVEtVSXY?oc=5",
+        "published": "2025-10-30T07:00:00Z",
+        "source": "読売新聞オンライン"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業が住友電設を子会社化へ 総額3千億円、TOB実施 データセンター強化 - 産経ニュース",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QMDc3YXRUa2RTWFNrSWdqdGRmbzMwOWxHdS1tQXNVWUIxN3R1WE9pYzdHMDdJY0hobzBYRWhUcVVDNXFlbUN1M1pwSHVQYVRfbUw3TmUyRUc0bjlHODU4cVZhQlZJVGkzMTVQSjhRWWV5QWF1Mmc?oc=5",
+        "published": "2025-10-30T07:00:00Z",
+        "source": "産経ニュース"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、住友電設を完全子会社化へTOB - LOGISTICS TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zdnRsZVpEUUpoZzVCVGdWbXl0eWxHblhhR0Y4MkI4d3JVQnRHeTY3Q1RTY2Q0NVJxUFFDOGd4YTBqWTV5ZDItaA?oc=5",
+        "published": "2025-10-30T07:00:00Z",
+        "source": "LOGISTICS TODAY"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイム、ハイエンド層向け鉄骨戸建て注文住宅「ELVIA」発売 - リアルエコノミー",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTk04dFZUT1ViUWNCUFBaNHIxc2ZfT0s0YWQ2aDRLMFJoYW56ckozV3ZWRGR3U1hPczk0SUI3bWQ2b0EzaUE5RmQxLW5yb1VYbGVqYTJHUFFvdw?oc=5",
+        "published": "2025-10-28T07:00:00Z",
+        "source": "リアルエコノミー"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイム、鉄骨戸建てに北海道型 加湿を自動制御 - 日刊工業新聞",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iTDVhOU5sb0E0cmlWNGs3bGozSTVHMGY4T1JfNUJPcnVfRHNBSDJKUGlqMElQSzg1UHFfMUpwLTVycm5UaGF1UXV6MjFqV3VndEhVLWYwVm1RcEZVZE51dTNURnFmNVMwWGM5amFMS2tjNmN4?oc=5",
+        "published": "2025-10-28T07:00:00Z",
+        "source": "日刊工業新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイム、創立50周年で旗艦住宅モデル デザイン重視 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EdmVEZFplYUZtYnoyeVgzekRFWVNWVVFWdmt4R2pPS0ttOTZITGU3NEtDNWloMzgyZGZGVlgtdUJxVUNYQlZIOGlVaDdiajYzMjViWjlGSmlZNUkxQUhHckZqUGxmc3g2eHg2Zw?oc=5",
+        "published": "2025-10-28T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイム、創立50周年記念商品「ELVIA（エルビア）北海道モデル」を発売 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5b1JxdnlsOXlsVzhkZUNrbEh2aW50Rlc1SmRhUWRzNzdfN0d4NGxrdXZ1UmJZVkk2cElfZjRJUjFqdms0V2MwOHcwRUxyeGVCODVCVG5saEN5NXlvZFU3NXFyNkVncl9vSEhDVw?oc=5",
+        "published": "2025-10-27T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 伊那ハウジングセンター展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVZERmhoNXBBNFR4SjRJbVo1bTB1dWg2SWlJQUQtbC1GUUtyUUdGQVZJVkdUZElCbzJZSDhwdWpUOVpOalpJV2hkNVZsOHNGaXo1QmdMLXljLVdlTlQ1ZWdxamdrZmstUEpJLXpEYW5XZGlUckZ5dHJUa3NmZHF3WXRqRGE?oc=5",
+        "published": "2025-10-25T09:47:53Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスを騙した〈地面師〉から手紙が届いた！ “主犯格”カミンスカスが「偽証」と指摘する重要証言とは《被害額55億円》 - 文春オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hc0N2LUhoSGdmcWtJcWpMMWRqdzdZZW9BX1hTcTBrN3VFcGRiRXRpcktKa3lJeG9jNVV5ZHUxVDRrejVXMnJYY1diWQ?oc=5",
+        "published": "2025-10-25T07:00:00Z",
+        "source": "文春オンライン"
+    },
+    {
+        "company_id": "company_a",
+        "title": "福マルシェ with TERIHA Weekend【照葉積水ハウスアリーナ・福岡市総合体育館（東区香椎照葉）】 ～11月1日・2日、アイランドシティ20周年！芝生広場で楽しむ週末ピクニック！ - 福岡市観光情報サイト よかなび",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HUUhnZUt0REwwZVRWLVd3MlJnaE9keTIxdWVmNjdXdUt3R1FuNGo3NWU3M2p6cXNZUWdvelhRT0V2b0Zkb19mVWJn?oc=5",
+        "published": "2025-10-23T07:00:00Z",
+        "source": "福岡市観光情報サイト よかなび"
+    },
+    {
+        "company_id": "company_b",
+        "title": "モーサテ【大和ハウス芳井会長が生出演】 - tv-tokyo.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0lpUVo5aTlFMmdKaWhmTFYwSGJaNFR1cnkzN2NUMlh2ZTNKZERMUEoya1pBVVRXMWFjbVpSQXRGSWxrV1l4UVU5cjVFRWtBNXlmWVBlTTNjVzAydkhHb0tmckltdWpWeDNlVWZ2dEVxY3BlWXNoMktxR3BheHlUUU93LWxYMmtVUVc3Ty1Fdw?oc=5",
+        "published": "2025-10-23T07:00:00Z",
+        "source": "tv-tokyo.co.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "当社最高水準の「デザイン×住性能×住空間」を備えた新・フラッグシップモデル 『ELVIA（エルビア）』を発売 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQWGxJUW9GcVR6WnFobnFNNzNlQXV5SF9OVGpZWWRLbUJzZFE4MVRERWJzUlRNbjNEWkt6cmxEV3loNmZGblU0V2FQMktRRDJlTVBHVldRbHpFQS1NUHVzRFY5czkyT2drLXc?oc=5",
+        "published": "2025-10-21T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "積水化学、高価格戸建て住宅ブランド立ち上げ 都市部で攻勢 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXNKdWpwUlJEeHJReTZONUxURVlJa1o1X1lpVXF0ZElGOTgyYlNtVnlqSDhqN3RMMXJBX3ZIbWRuU3FpZ2U4Wk5XU3RZcFFOMjlMY0l0NXZlbGNITWJNZmo0TlhZMmZwaG9kTGxGNTY2bE9TeWJaS1NBV0FDeFdQUFE4M3lEbHNWVUI2dWs2MnNncWNRcGZXOWRFNW9tOEs4Rk90c2M5TW4?oc=5",
+        "published": "2025-10-21T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「グラングリーン大阪」がグッドフォーカス賞を、「グランドメゾンThe山手Project」とモデルハウス「Tomorrow’s Life Museum 山口 ＨＵＥ」がグッドデザイン賞を受賞 | 積水ハウス株式会社 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE12dTkwdTlKakdsbEM3ak0yU2lEOGVENHMydEdMVEpLdS0yTEs3eW8zekNRVU41SzM3YnlTQUpEOVFLT2c?oc=5",
+        "published": "2025-10-15T07:00:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、3案件でグッドデザイン賞を受賞 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pN0ltZUxwRndIaTl5RHdmMzZzSW5FNlpmVWN3ZENRRkJnQjgxeVlBSGpQMDlYdHpkTV9qQUJTUzhhOHNWZkoxYWZNcnZZdnVycy1iQmc2UEQ0ajg?oc=5",
+        "published": "2025-10-15T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業／埼玉県加須市に12.1万ｍ2のマルチテナント型物流施設着工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KSVNTRHpJVG81YnhEZDZNT01JSDlDVW12NXkzdFJCUXhMTm1BOVhxcGRMeEtybHN4VWNTV01DWnhPamI2LVZMQVUzOC1BVTBvTUVPWQ?oc=5",
+        "published": "2025-10-15T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大型マルチテナント型物流施設「DPL加須」着工 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbk9iR0F3aGlyWVNGX0lLRVNQd0RRWF9TOU0wc3hma3k3bEtIdWZyTHEyWmJzS0ozc2VNQXpOVDBqZG5CLUpBT2VacUl3ZGticDczcnl6LWZpNTNPZ09MSWlfY0dxVmJDR2c?oc=5",
+        "published": "2025-10-15T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス系、洗車事業の投資2.5倍に 駐車場の料金抑制に還元 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tWVRvUGJ6d2dRazMyb3B1cDQ4NDJWclp4RG9TMUlHLUhxVVhaQnhwaWZXX2tKMVh5OEZsdXFkcXRid0tWZ3JNUm54OGowaGNxckt2MWdZM0dmUEg4UDlZOWhEM3g3b2ljWlNPWA?oc=5",
+        "published": "2025-10-15T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム東北が、のぼり旗50本など宮城県警に贈る 地域の防犯活動を支援 - 河北新報オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHVkhKX3ZIVDFvT3ItOURrTjV3dW9HZ283eVVhLXhTSlZRTG4tUnA0NkJDaGlDX2h1WDQ1bGVGWnBMVVRzS045VW9pdTAtNWhPMTVaSU5CUGpfakNJS0FlZg?oc=5",
+        "published": "2025-10-15T07:00:00Z",
+        "source": "河北新報オンライン"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、CEATEC 2025「暮らしのDXパビリオン」にて、「PLATFORM HOUSE touch」を展示 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UYnQ0dXpLUUR5T003TFJ4MThzV1hXdS1LQTFyREtWSmRnLTl0TEhhOHJiSXF1ZmhwVlRNdWhHZ2lmcEt3bkpoYzV2LVhwa3RFRkhxaWVmbnR4Wkk?oc=5",
+        "published": "2025-10-14T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスグループグロースファンド、外国人材のライフイベント支援サービスを展開するLincに出資 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pSUlSQlhUanB5UzU1amlGLUI4aTV0Q1pGRWEyZlBKZ25aT1ktLThVWVR4RU1BZVA2STdLWlJkTlRnUFdQX0ZIb1FzVXYxbXRxbzRzYUwweEJ6X1hzR0puaXBCazYzLWZSMnc?oc=5",
+        "published": "2025-10-14T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "人気の展示場を【660万円】でお譲りします！ - 家サイト",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcFRiMllDVFJ2WEkyanVlell3UTlqNUg0WWxrb1lhSFFJcVZYNGlCNVV3bUE1c21CdVV5bld4OHBGekFSLTVsVmpNQ2hBcUZhWDQtMmlwZGdwRDBqNFo0NFV4UUVfWVlWOXNuNnVB?oc=5",
+        "published": "2025-10-11T07:00:00Z",
+        "source": "家サイト"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「アートのある暮らし」サービス化に向けた価値検証プロジェクトを開始 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TVzRpV2Nvd1FDWWxrbnVwUkh1bzQ0REtIUkFVZ0RrcjhWc3NOV1FiTEJxZTlNM0pUWDh3eEN5dFJZREVsZ2tnRlM0dXJVYXdSbEk2NnpvUl9iZ1E?oc=5",
+        "published": "2025-10-10T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_b",
+        "title": "グループ会社の駐車場関連事業を経営統合します(ニュースレター) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTU50dl9vbDJtTnk1RXBVdnVpa2ZOOGxud3hvaEtuYWlvZFB0WEQwMjFOcHUtc0RkT2tTaEdMWWZla0s3b25MaGhabzdLSXY5NUQ5NXk0Mmgzbktla0FCMXZnbnJqdV9VWVE?oc=5",
+        "published": "2025-10-10T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスグループ「コトクリエ」開所4周年イベント「奈良のお仕事フェスティバル」に参加 - 奈良クラブ",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmQ0g3UC0xWmR5emt2WGN6UXlZb1FIbm0ya0cwbVBqc3I4WmRSaW1BMFV6RUpYaV9RMTFRbnpmbUQ1VmtNUDdSeXhR?oc=5",
+        "published": "2025-10-10T07:00:00Z",
+        "source": "奈良クラブ"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、駐車場関連事業を統合 重複解消で規模拡大 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUno0aHlTQ1BLcXNRblZQaVdsaGd4YUs4cUN4SHZ5ZFBsdHhWbVVWYWdzX2hpcTZjYmVOOHRQSnkyMlN3YzhOdk5HbGdxTkRZQ0U2M0xleFZlVWhNd2RYekVacWkzcEYzeXFFeQ?oc=5",
+        "published": "2025-10-10T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "ノーベル化学賞に北川進氏、積水ハウス･仲井嘉浩社長｢研究実装で課題解決｣ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxLWFBUElzSFpwSHp3dUdoTm0wdmdOeXNOQW9iLVlKZ0JFd0RDSFBodUNyMENQNm44ZFZZcUVVdnlIWDRPTFpiWFdIS1lvdk5XcjFveGtCVDY4YlBLRzZDMlIxczhoankweTc1Nw?oc=5",
+        "published": "2025-10-09T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "若年世帯から選ばれる注目エリアで「学びと子育て、成長を楽しむ」まちづくり『江別市野幌若葉町市有地利活用事業』 開発開始 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZUMzT0R6OWoxUWhKNWpZNUtJNXZwSTcyek9POTJJV2hkaVQ5RmhkV09RMFpha1BLWDNSR0tNSjRtVmpMS2hOcUFERnRBazJxMngzUVpaTkpkMVhHVnNkYUZ4YjkzR19pSVE?oc=5",
+        "published": "2025-10-09T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "東京大に「住宅都市再生研究センター」新設 大和ハウス工業からの寄付10億円を運用 - Sustainable Brands Japan",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LckN3NlFseGZXS2xCVVV4aDNJT3NqTE9TXzg2dGpsLUNIWjdyNTVybndjWnpVTEtSdWk4aExGY2hiclBXdFA2dS1VbGhrbk41aEs5eWV1TWx2Zw?oc=5",
+        "published": "2025-10-08T23:09:37Z",
+        "source": "Sustainable Brands Japan"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス✖️「北欧、暮らしの道具店」が贈る「わたしの日々、暮らしの機微」New Episode公開！ - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RcDA3YXpQVTYyZGFwaXI5OGpOZ2J6SlJtdUtJOWU3VmRITzBleURNMEtEdFdNTFM3Y1ZpbWZYc2FyU3BPRkZFWW1IOFl3SmNOUVdULXBPb1hnQUE?oc=5",
+        "published": "2025-10-08T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスが考えるスマートホームは「幸せのためのプラットフォーム」、基盤としてのアプリ・データ活用・セキュリティを語る - INTERNET Watch",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvWTdGZF9UZkhka0luNmJGMHpHUlMyaF9EMnRubGpGbFVSTUlJTU9SUHEzQWUwbDBiX01vSHNaSlZVbFNtWXdVTzNzRjBIaUZXNzg3UHl5OVFtakZGTlNpV0lGMW1uYWhnTkZkbmJiaDVhZw?oc=5",
+        "published": "2025-10-07T07:00:00Z",
+        "source": "INTERNET Watch"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム東海、浜松・聖隷高野球部に公式球を寄贈 - 静岡新聞DIGITAL",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kTWtOcXVCblppUzJMbEVmaU1iUHNDU0stdFZreGR6V1VQRk9hSnFRdmhBSGZpYWdVSnJkdHhqeFZzVjctSzB4Sm8yYWlIdw?oc=5",
+        "published": "2025-10-07T07:00:00Z",
+        "source": "静岡新聞DIGITAL"
+    },
+    {
+        "company_id": "company_c",
+        "title": "10/11(土)宮城公演 GENERATIONS LIVE TOUR 2025 \"6IX SENSE\" グッズ販売時間 場所のお知らせ - ldh.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFI4VThuMVM2WWNia2tsdk1zbXd1cW5TYkwtcTEzUWcyaEJiSkViaHpONFk4Sl9XQUd1N2I3R2ZSQmloSmxQUFhjaU9hdElja29xSkgwZG42UnBQMzZ4eXNYWVdPQlp4RWNjLUh1OXBKODhSWnZFMGJGTl9rUFhyaA?oc=5",
+        "published": "2025-10-06T07:00:00Z",
+        "source": "ldh.co.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "「第48回全国育樹祭」式典行事ご臨席（セキスイハイムスーパーアリーナ／宮城県利府町） - kunaicho.go.jp",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PWkR5bUlBQkVZY2dsLU9JR1gzTmJuSFdBU25vQ1Iwc25BWk1Na181U2VuNnRqUmVmNzM5XzE5Ujh5T3QxcnVqMC0waEpqQ2FFbWRZLVc5bkVPWElYZE45S2dn?oc=5",
+        "published": "2025-10-05T07:00:00Z",
+        "source": "kunaicho.go.jp"
+    },
+    {
+        "company_id": "company_b",
+        "title": "ダイワハウス杯 小学生バレーボール大会 愛媛・松山市 | 愛媛のニュース - Nスタえひめ｜あいテレビは6チャンネル - TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdFRBOUt4MWx2YURGUzVMcUJqcjZ6ekw0WlNDa2pjOXpjTXFOeEZDdWstOWhiYU9mXzJUNTJod1BqLVQ2TWJwVHBmczlZZGd0bjUtVUdRYTRjdw?oc=5",
+        "published": "2025-10-04T07:00:00Z",
+        "source": "TBS NEWS DIG"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスグループ70周年記念ユニフォーム コンフィットシャツ先行100着限定販売のお知らせ - 奈良クラブ",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xRm00MTE2bnF2YnVFT2xmX252NE1rV0tJUm1UZU1MNkowSlZpQWVLREx0SXhnS1FOUm1MTHpFX1JKbWRjYWFUVnJR?oc=5",
+        "published": "2025-10-03T07:00:00Z",
+        "source": "奈良クラブ"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスは創業70周年。70周年全国キャンペーン最後となる「秋の住宅フェア」を実施！ - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15VEp5SVM1R3ZhR2hpYzliUVd4WElKNXI1bGlGdHNLMUhFbTRjM1oyUG1JdGlFRzBvZS1XTzZyVk1YU1NjUTVjeWR5SGhfb1VOZ3pqdHRIMElWSHlxWFNBbGZ4U0laZDBhWlE?oc=5",
+        "published": "2025-10-02T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスは創業70周年。 70周年全国キャンペーン最後となる「秋の住宅フェア」を実施！ - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNkp1OG1PaGtaRXlfWG45aWRRN24tYWoyOWpaOTYxYlI1cEw0VlF5UVREaWoydF8yTlV4QllVNVRTV0t0MWdTLWtoRmg5MERIMFREUHVhOUdtVUE?oc=5",
+        "published": "2025-10-02T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「KROMO Bangkok, Curio Collection by Hilton（クローモ・バンコク・キュリオ・コレクションbyヒルトン）」9月24日開業 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZR3ZtTjRST2ZqWUY0aXZzYnRRZXFOSlk2dGhuNHBYemIxV3k0aXJQWkVmN0ZjNHNDTTdmMmNKbnpVSXVMTlpxamJybzFaVW80NWJUTGxKUzlsYUFoYmdiNzBRcV9jUnRxVVE?oc=5",
+        "published": "2025-10-02T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム九州社長に宮下健氏が就任 - data-max.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsY3BZbUoyWDNLNHAxRUdPd1NtTnEyNDdhWWVKbUE5TEZqaC1LUzhPMnRiNUEzV1A3THgtS3lxdTlzVjNoR25FWmVuNThKYjBOUmc?oc=5",
+        "published": "2025-10-02T05:14:01Z",
+        "source": "data-max.co.jp"
+    },
+    {
+        "company_id": "company_b",
+        "title": "11/8(土)八戸戦「DAIWA HOUSE GROUP DAY」を開催 - 奈良クラブ",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tNVNHSG5mdENUOW9mcHVhazdLdHdLMzQxQ3E0Tkl4TEwxUDNyREhNVWtpYndLR0FmczBSbmUyQ0VENVcxREd6N0Jn?oc=5",
+        "published": "2025-10-01T07:00:00Z",
+        "source": "奈良クラブ"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業の「シニア社員活躍」（ＨＲアカデミーレポート） | 『日本の人事部』 - 日本の人事部",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XMExzbnVtbV9pMy1kWWstZ0l4Z25sdjdWWmNSX0cyUVFPZzdUSmc5RG1aWE16S3F1dDVOUW9HLUxQUTRKZnZjNXFXbVZEUUlCTWNzSy1LX0dwSDNwelE?oc=5",
+        "published": "2025-10-01T07:00:00Z",
+        "source": "日本の人事部"
+    },
+    {
+        "company_id": "company_b",
+        "title": "11/8、9のライジングゼファー福岡戦はDAIWA HOUSE GROUP DAY 2025 AUTUMN - バンビシャス奈良",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41QnZVM0VPTnhqdmppRXNIa1FwM2d1cm13UGdSVXYyN3cwSWk4b1pwc3pfOFEwUkY2eUwwaGI5eFBNU0tUNUduVXFTLWQ5bU1LLVFsZg?oc=5",
+        "published": "2025-10-01T07:00:00Z",
+        "source": "バンビシャス奈良"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業株式会社 奈良工場を訪問 - バンビシャス奈良",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YemtZTUVYNktBVTJ5RXJVenBEdnBIXzA5LXJud0Q4VjVFb0RrS1BBS0llTGdKWXk1UVBaZDE1OEh2U1hNVVRYLXBUdXdJd19XNzhoRA?oc=5",
+        "published": "2025-10-01T07:00:00Z",
+        "source": "バンビシャス奈良"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム九州社長に宮下健氏 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNTdxNktUaFhaSXFyQkZObG5pdXpLTGNfeUVmRVY0YTZXTzkxUU9wZjNPYjRrY1NQVjk2VktaQ1pJM1JMRGJVWmNTZUlHWnlyS00xYnZiMDlEc2o2Q08xdndsYlRZWno0ZUpMaQ?oc=5",
+        "published": "2025-10-01T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム九州社長に宮下健氏が就任【略歴】 - 西日本新聞me",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0WkM3LTB5c2ljbm1tWnNvLV85YlpqZG1IMklhR1A5MUotb1Z5TVFuU2ZfV1VlVFY2TW5BRTlzX0tEaGtBMGNZVVVLbkhHYWZqUzRUMHVn?oc=5",
+        "published": "2025-10-01T07:00:00Z",
+        "source": "西日本新聞me"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスの賃貸住宅事業 新CM D-ROOM・自由篇、D-ROOM・軸篇 の放映を開始します。 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xOVRVb1hJTkZYanpFYjRYcXFPRWRaekpkMXQ5WEk4Rnc4WnpvQnBDUEVtTDJtbWxERXppcENaSEdaV0R1UERRRnZGbUN5akNwakVSZ29mSE9WS2lNZmEyTzFscTY3andUR2c?oc=5",
+        "published": "2025-09-30T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスの新企業CMシリーズ 「こっちの世界」の放映を開始します。 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRk5QcV9hdVROSkdSaDNBUDhSNjJsOVZ2YU5kV0hhS21sSWpDaFBNSkZZU2tZYWRzaXgyYVNRQlVRakZzOFRwNkZFU2tOdi1jejhXQjFaRE5lSThlb0o1WlNzRWhldTZ2SlE?oc=5",
+        "published": "2025-09-30T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「AIプランコンシェルジュ ver.1」を大和ハウス工業株式会社と共同開発 | 燈株式会社のプレスリリース - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVGUzd21EVU81SEc3S2tfa1kxb2U5dWM0NzI2MmNvQUNXT1ZKTWxHdG1PSEVUeWZyR3UzVVlHUTA0MkdBUndBeVpiVDRNWXZJNmFtdzhlMTFRYjlRZ0tDaHZla2oxY2h5TlE?oc=5",
+        "published": "2025-09-30T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、AIで戸建て住宅プラン 数秒で2000候補から厳選 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPeWxGUHNWakRYT3VLMWdPUDRKRmlTRTFPRUxlNVhpeVMyUlp3RHZacWhndm9Yd3Qzc01tUE8yZTg3M25pWGRGLTZzTFJ5elR4OTRuRGpOd1VEUkJ3QXUwWVk4MklURVFycFRDdw?oc=5",
+        "published": "2025-09-30T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム近畿社長に杉江孝夫氏 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FYmVmazVDdzVZcERsUHB0ZHlZTy0tMlNyc1VjMzdpdER3QjAzT0hnQWVCVk90MGtSY2xZTkhodlY4V2NXaTZNZlprMThBeUZoMzFLWlJXa29BZEJidUNKQWdVVVZBMjltd01LZg?oc=5",
+        "published": "2025-09-30T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム東北社長に山地晋二朗氏 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IS2MwSVJFWFlSM0NXemdiZDF5VXdmTTFaQUJIS1cxUXRyYWwtWUx1cGJCR1JWVGZfWHllUWoyRWFOaTZoanRnazhwZ243Ulp0cndzMlB4YXZpeDRWOWhBUW1HNlFsb1F6S2xEcQ?oc=5",
+        "published": "2025-09-30T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "東京大学と大和ハウス、住宅問題解決へ新拠点 10億円寄付を運用 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbDVWYk1yVkZUZjVkSFB3dXlGR2hmdmNMUFNtWWJhZkhQOV9qZ1hobWl0ZjhhZ3l5SWl4RkF1NWFnd1JYbk8tWFljaGpXWjBOYzlTc2FyTVdiODgzVlRwRGE1V2tnQWFxd2lOeg?oc=5",
+        "published": "2025-09-29T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「東京大学住宅都市再生研究センター」新設 - u-tokyo.ac.jp",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkQ0wwQXJxb19vRkdKeEhRUFBHTl9wT3BjcGRZVU44VE9MRDNQVTE2SEV2eHAxTUtrSm5HdHBzV21HaTRJRDRCX3E2U0Y3SGZWc2Q2SVZFU01zNGZXNngxOHFYbFVncExT?oc=5",
+        "published": "2025-09-29T07:00:00Z",
+        "source": "u-tokyo.ac.jp"
+    },
+    {
+        "company_id": "company_a",
+        "title": "売れているのにもうからない…積水ハウス、大和ハウス、積水化学「増収減益」のワケ - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ybXhvbTFHTlJJSmd0N0RabGlEX3NTVEJ2dWg5d0t5NWE1ajZ6dlZaR1BBbUtlTkI0dkZ5Rm9xN2dZTm43ckxfeWpUaEnSAU9BVV95cUxQZm13a2E2eHVYa25xVlk3dmtOektDcTFfenZUYzVIWDVibU01ZkNvM1hSc01qXzR1VkprT2cxX2UtZUFjTENHdnRkWHZZVEtB?oc=5",
+        "published": "2025-09-28T07:00:00Z",
+        "source": "ダイヤモンド・オンライン"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、精神・発達障害者を本社で採用 同じ職場で働き理解促進 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQVE1LWFLTnlwaVFKdHZVNTNiTzRSN0NmRkI2NjFMdjkxZHVCVlI2aWc0VTlORlhsNjktTWZkbktLNTF1NHlvSmJ4LTdLSE5xVmh5d2dHc1ZnNFE5d0YyaEV0cjB6RjFMTXRFdA?oc=5",
+        "published": "2025-09-26T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、米社の戸建て住宅事業買収 縮小国内から成長市場にシフト - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SOEhYblRiclVLSFF4ZjZaT3NoX0ozTU5RbmZ3bkdEVzhDaXJlYkYzeDNfMExqeWw4TTRpRFRpUTkzSE5VUDBub2xZcmR6OVk2djJCaVlJZXhNYldXNlo2Rmd6dHlaQy03M2p4VA?oc=5",
+        "published": "2025-09-25T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム中部社長に小林謙一氏 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnOHpWcC1sZXFCcUxXLVNtLS1uaEtaZV8xQ1lxdXJ0TnNYN1BrRUFfV3lyZGxTZlZrQUtZc3E2TldXVVc5MTFPZDAtYWUxejhvWVk4UjBmU0VvN19oVDZGSXQ0ekJZTmRTSmtzWA?oc=5",
+        "published": "2025-09-25T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスグループグロースファンド、社会課題解決ゲームの運営を行う DEA に出資 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2dEp5Z0hBLTNfZnJXcVNiX0tlNHpNYnA1YnBDVTBEbDJZZVRhdW4zMEFwZ2NxOFlwT3ppMTNiMDZmd2xnNTJxX1Jfd1k5VklaNTYySVVVNUZRVEhwTFJiOFg1dmZ2QWRLVWc?oc=5",
+        "published": "2025-09-24T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス「複雑な地盤形状見抜けず」 杭未達で商業施設14cm沈下 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45Z0lEOHpBam5YdUkxRmQzUUNsMlVmWGRHZWJsUE9NWHU1RnFrQUp1akdiYW1RdjNGVXdFWl9PNmFfWnhBQmc5eUszaUU4aHJhWnZuVDdycl9Zb1I5M2p6ZlJYdndvNzQ0cE9teA?oc=5",
+        "published": "2025-09-22T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業／マレーシアに同社海外最大15.6万m2のマルチテナント型施設竣工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SUXJScVFWelRyU3FucXJLVlJtNm1ENHNrY0NXS0w1Vnp0YUM0a3g0cTI0VjVxOTFEcllzTS0xeEVnUjk1S3JGODF2bE9LdEhUQzFvMw?oc=5",
+        "published": "2025-09-22T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_c",
+        "title": "日向坂46、二期生～五期生で臨む初の全国アリーナツアーがスタート！宮城公演で開幕を飾る（THE FIRST TIMES） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nY1JaLVh4ZFZZZEN6Ym5WaTVFZVRWZVQ1c2VCQlRNRG1zRDVEb1NRb0tXNm54MzFQaE54OFhzN2tyVVU5V21vVXFJV0c4djJ3UUdNMTFOSmxpVnNFWjljNTBPdktsRXhrUzUzOFVCbkFpUTd6aFhZd1doV21BRDQ?oc=5",
+        "published": "2025-09-22T07:00:00Z",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【ライブレポート】日向坂46の新体制ツアー開幕、キャプテンが宣言「期待を超えるステージを届けることを約束します」 - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BMlBYRGtNY0dpMEhWdUNPb2pxY2ViZWxYN2xKeFM4c2tHMWlfX1RwWE5ZOHVwS1pzRU1UdjBNcHBac2FZLTdrbmthWEQ3bHp5VE9xeEZ4M0pFUUhiLTE4UFVFcXlCMDNPMTFraXI3Wl9WZEFrUl9VWnRjaU8zMWs?oc=5",
+        "published": "2025-09-20T07:00:00Z",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「男性育休白書 2025」 発表！未就学児の子がいる男性の育休取得率は36.3％ - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZTg2UUotbTBxMlpQZUtNY1k2VEtWR2dhMEZHbEhxSHZGdldMeW40bmZLSmk5N3lKVTI3QnFDTlV3LVFwdURWLWd6MDZOOUVER05hR0pRLTVscTg?oc=5",
+        "published": "2025-09-19T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_c",
+        "title": "若さ溢れる、にぎやかな職人集団 静岡セキスイハイム建設株式会社 - ジュニアアスリート静岡",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YNTZ4Q3JjMkJRMzNuM3BxMWwtVGROWXdPZHN5ZVVrWXJOYXZXeU1lVnI0LThzb3dhWWx1cWlOMlpzWVVBZ3ZjMUZXMXlWeHRh?oc=5",
+        "published": "2025-09-19T07:00:00Z",
+        "source": "ジュニアアスリート静岡"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業、JR貨物／千葉市美浜区で11万m2のマルチテナント型物流施設を竣工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Vdkt5VDA2WjVoVHI2YnBzUVVfQVhSOThkMEdsejR0U2Z4b3MwUVVIUUN1WTdUOUhIa09LVVlQS2ZwUWUyeXZTWU1PUW92d19kUkFVWg?oc=5",
+        "published": "2025-09-18T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「第19回キッズデザイン賞」でこども政策担当大臣賞を受賞 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RcXczUm1keFV0UTNZRVdSZkthOGZJeHRIT2RjMFlqd1ZMUzlXYVZneXpwMVFnTDVDZmdmbktBQjBOY2RNNE1fZnpoQ1NYUnNIWmVFVnZzaG5ubG8?oc=5",
+        "published": "2025-09-17T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_a",
+        "title": "住友林業と積水ハウスが通期見通しを下方修正！ドル箱の米国市場「逆風の行方」と大和ハウスを含めた「3社の勝敗」を占う - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJVkNEWmVfamFlMXgtSndvMHRVMG9hYkNuNkRDdUk2bGVVZUZTMmNuRWtlbktPUWdVeHlvTUxxMFB6bmt2enc0SWZBYmzSAU9BVV95cUxPSlNCTEJzVWRMWGFyTm5pX0FEdndyQWhmQnFNYi0tbkQtdm1adktOQzI1ck1Vc0lZUktzck9qLVFwdFhPX0tMTnotSWQ3MFRz?oc=5",
+        "published": "2025-09-17T07:00:00Z",
+        "source": "ダイヤモンド・オンライン"
+    },
+    {
+        "company_id": "company_b",
+        "title": "住友林業と積水ハウスが通期見通しを下方修正！ドル箱の米国市場「逆風の行方」と大和ハウスを含めた「3社の勝敗」を占う - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJVkNEWmVfamFlMXgtSndvMHRVMG9hYkNuNkRDdUk2bGVVZUZTMmNuRWtlbktPUWdVeHlvTUxxMFB6bmt2enc0SWZBYmzSAU9BVV95cUxPSlNCTEJzVWRMWGFyTm5pX0FEdndyQWhmQnFNYi0tbkQtdm1adktOQzI1ck1Vc0lZUktzck9qLVFwdFhPX0tMTnotSWQ3MFRz?oc=5",
+        "published": "2025-09-17T07:00:00Z",
+        "source": "ダイヤモンド・オンライン"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業／石川県白山市に1.2万ｍ2のマルチ型物流施設着工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDT3FjT2wwOFJabUhBekRyamxOemptODlkZEdwVjFuWnp6M2FURy1FekRDekEzdmhWNEV6ZXROOFBuaFdkS2REaUFHUUM0R2NTbFhHSA?oc=5",
+        "published": "2025-09-16T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_a",
+        "title": "茨城県水戸市笠原町にノーブルホーム×積水ハウスコラボレーション 北関東で唯一の平屋モデルハウスopen - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yM3dfYmoyVnNsUDF3NFVrOWVGbm5lNUhveTN1RUVVWjNiSU8xX25tM2VVLWVVaEM2RVVoX21UMDYtQ2FkM0xoN1VRaHdXMzBnSUxNNzktVy00UEhGWU9lakpaWVpwQUNmNGc?oc=5",
+        "published": "2025-09-10T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "リコー、大和ハウス工業、NTTアノードエナジーのコンソーシアムによるペロブスカイト太陽電池の社会実装に向けた技術開発と実証事業がNEDOのグリーンイノベーション基金に採択 - リコーグループ",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iMk5PY2g3S0FpakFfREpKN2xBRkNJbUhjRlRLWGtJc2VkbmtEeHBxSU5oQk9TcTY5WXNnQm5sMk5tZnNlNm1oZzN1QWtrTmZqUkE?oc=5",
+        "published": "2025-09-10T07:00:00Z",
+        "source": "リコーグループ"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業、福岡市の地下鉄始発駅前にマンションと商業施設 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iX0tqNEVfUWRwUjF3bUpFWW1jZElHNGlvdXc2SkI2UXMxU0V2eTZvOTczaUEwTmtNMjVFb1RXYlVQeWVJd2U1Rl9Cc0ZCNUNtck0talB5SFk2Y3R4QUc2N0xpSkJDdEtkRlVQRQ?oc=5",
+        "published": "2025-09-10T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、ビームス／東京都江東区のビームス物流施設の最先端自動化システム公開 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FTF9fcGhObHUxMkVkVExOTFVVTkhPRG11dVZGajRNN3lLay1iZE1vMXpoVy0xUjNpWE5qbzhDdG95NG9ZdG9yemczcXVfUC1pNGdtRg?oc=5",
+        "published": "2025-09-10T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 市原パルフェ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVhsN1VxN1Z2TTRlNTF0VWctbWVXemlHNHAxcno0cTFGbnBpQW5Va1JxVXVGUVNoZ1N0bUwyWXdKRFpQTDBvdDVqai1Dc3dkTnJ0YXR2THFqUTJqbTdOMkFIMVFPM0ZMYjd5Yk1HQWhFcjFHQks3UmEzU1loSkJKaS1GbXQ?oc=5",
+        "published": "2025-09-09T11:19:10Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_b",
+        "title": "神戸三宮 大和ハウス工業の複合ビル「（仮称）小野柄通５丁目プロジェクト新築工事」 「ダイワロイネットホテル」が出店予定！ - 東京・大阪 都心上空ヘリコプター遊覧飛行",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPazB3NmRoTlY3WU96Rk1nRWlWUlFySEsyT2JWckt5TzNCcEtmWHpCUzlRbUJ5QjVScTFZUE9QRVVtSGpZcU4zNDlUT0hrblpKTUhvaGFWVWlDbW54Y1pyMTJJYW16aHFYOEdYVjZJVFJ6OVk?oc=5",
+        "published": "2025-09-09T07:00:00Z",
+        "source": "東京・大阪 都心上空ヘリコプター遊覧飛行"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、過去最多174賛同企業・団体と共に育休期間をより良いものへと推進 男性育休を考えるプロジェクト「IKUKYU. PJT」を9月19日に向けて開始 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBQQTcxWkV4RGtJZGNPZTRfV0Roa05WZXNUTUk3c2pkaFYtYWVQbTNabTYxTE1WdGpYT2VId1lJcmpuYmc?oc=5",
+        "published": "2025-09-08T07:00:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス／米国で初、ヒューストン郊外に12.5万m2のマルチ型物流施設竣工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNV0Y5Z0hlcUtHUmtTS182LVlLbFQ3MFBUTlhGalp5MllJR1UySHpiT1E3eVdIV042MnlSUTR0Q244RzdUb2lRZDN0bnh6SWhvdjltZA?oc=5",
+        "published": "2025-09-05T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_b",
+        "title": "上越市柿崎区の大和ハウス新潟工場2026年3月末閉鎖へ 住宅需要減少で生産体制を見直し - joetsutj.com",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjWFpIYm5oZkdNUE5iS2V4Tmk0eVdUYy1wbWFKN1AwdjJWZHBuaDZrTTNiTkJoMndoLW90QnFpVHdpWjN6S2NuYkplLUtCdGlaTVIwdw?oc=5",
+        "published": "2025-09-05T07:00:00Z",
+        "source": "joetsutj.com"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム中四国=地域限定販売の鉄骨平屋住宅「ハイムD1セトウチGエディション」、インナーガレージに地元の素材も - 住宅産業新聞",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lWjIzVmE5Vk1OTlVyWXl2bTJJU1g0N1E4U1JYNTBIRi1rVVZwSnJXYVd1TWlfRUZXZmhGdjlmS1I4OExVWXptT0lyYWXSAUxBVV95cUxOZVoyM1ZhOVZNTk5Vcll5dm0ySVNYNDdROFNSWDUwSEYta1VWcEpyV2FXdU1pX0VGV2ZoRnY5ZktSODhMVVl6bU9JcmFl?oc=5",
+        "published": "2025-09-05T07:00:00Z",
+        "source": "住宅産業新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス純利益17%減 25年2〜7月期、金利高で米国戸建て低調 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10d1Bac3FtcGIwZ1ZHblUwRC1nMHU4TlNrQW8tbVhndGJhLTFXS2ZsRkF5ZzBzTEU2bFZVS3RrLUdtQ0w1OEk3bmwtOEdscnFybDlNN1g3cVBOLVBvNXJJdXpIR1RiQ2JoeVJBNg?oc=5",
+        "published": "2025-09-04T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、アメリカ子会社を経営統合へ 3社をMDCの傘下に - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RSzRyc3FHY09XOXVJTTA2VjVZY2paeU1DWEtkelpiMmQ3MXJLbFJJOHJ4S3dzRTZCUnBnbXFzWTRvbFZBVVN2LXRvVUxSb25QaF94bWFSa215ZUJtc0dfT2FQdk5qZ2VlaXpmdQ?oc=5",
+        "published": "2025-09-04T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス[1928]：2026年1月期 第2四半期(中間期)決算短信〔日本基準〕(連結) 2025年9月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TSWl3alhqQ1haRmFGVUxmczRwanFHb1ZUY282OGZZWjd1LU14YUJwRFVuM1NGVWZ3WkJ2ZThXSXEzdGFNdDYwZ1FNVXIzQ2ZRQjluRzFBZzZSb3NZTmV4bnp2WVk4ZXlTdXc?oc=5",
+        "published": "2025-09-04T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【注目】 本日の決算発表予定 … 積水ハウス、泉州電、ファースト住など 5社 (9月4日) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OSVBHZHBmZHFhY2lrTXo5ZTgxMzNHcVFjZFUtS0E1RmdKTEY3NTRFRnJNTkdta0JhUWlNVWtQeG05cDhlVFR4a3RxbFYyS0VqcWhidnZ2Z21sVUstVWVTeA?oc=5",
+        "published": "2025-09-04T07:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス【1928】、今期経常を5％下方修正 | 決算速報 - 株探ニュース - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vS0VZYm9pRW5SLXZicHp4TVdjdTY0WmtXSHNZR1k2RndzZko1dlpLRVJiVndWdC1rRFVEd0EzOThDT1RYQ3d3Si14XzRmSmRLSVE?oc=5",
+        "published": "2025-09-04T07:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウスの株価、午後に下げ拡大 26年1月期営業益予想引き下げ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DVmhOd0pfZGRxQUQxRkRrczAzdmdMdTlXYjU2VmJBSFlhbFpIUjBQXzJBOXRMVDAxcHc3UkR6akozdk1EYnB2TkNVNGJ2am5oeHZjOVJZajY1WWZfbnROOWR5OVBpNGJjN251cw?oc=5",
+        "published": "2025-09-04T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【市況】 明日の決算発表予定 積水ハウス、泉州電など5社 (9月3日) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydHFCM0lrSHhlMXEtcVVMQzF5bGJNdjJZODZ1dnJtZXpHQ1N3VkVzMW5ueWFLczhDbDhqeEdXb1V4V25fZnBLVWZIdUotb1JVNXUxSkx5bHFEdTQxdFlrNg?oc=5",
+        "published": "2025-09-03T07:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_a",
+        "title": "いよいよ今週末！9月6日（土）開催「エアレース X 2025 積水ハウス大阪うめきたデジタルレース」全コンテンツ発表！ - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRnQwM3EzVmFmR1ZoY0dGMVhYbmJ4aGtIVnFUMEI0QWFHWFhkdGJpSmxaUTJxcS1HdWMwNHAyYzRGb1NvY3hWdDBNclg2aHJPNUFkS3JtNmdjSFFEN2ZMTU5NQjdKeWloOUE?oc=5",
+        "published": "2025-09-03T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス新潟工場（上越市）2026年3月末で閉鎖へ、地元雇用70人の再就職を支援 ［記事更新しました］ - 新潟日報",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54elJuVHBtZV8zX3BoSlo1MnJ1Tkk2ODJqcFJZb2ctakozMHhONk5TMkJJdG5QM0NZVWZ1Qlp2X3U0MFBMTDRZdVcwemEySU1SYlJHdEY4WVpvQXJRVGc?oc=5",
+        "published": "2025-09-03T07:00:00Z",
+        "source": "新潟日報"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、26年3月に新潟県上越市の新潟工場を閉鎖へ 住宅需要減で生産体制縮小 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WF9aQmlWcmhSNndmNXFVaEo2NlpPX0w4VzM3Z1IyQVc2T3Z2dEkxMzA0b1pHaUp3SFRyaHZpS2h3RExmNGFDY01iMmlSbFdtaTZMNDZWcUZSa2RNVTAwSXltQnFyeXczWlIyOQ?oc=5",
+        "published": "2025-09-02T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスが明かした商業施設14cm沈下の真相、複雑な地盤を見抜けず杭到達誤認 - 日経クロステック",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MX3FLMm9TX19WNDFnaExJUnlYalduVE1haVN0RF9zd1NXM2dfamxYZXY2SWstblp6OXpETXR6WkR2TVRQS2NDZE1rM1BJSXVTQjl2ZmhIQkJDakNLX3hVdEhGN3BDd2s?oc=5",
+        "published": "2025-09-01T07:00:00Z",
+        "source": "日経クロステック"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「d_ll ＭＡＴＳＵＹＡＭＡ（ディール松山）」竣工 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hb3ZtcEpMSldBUE5NNEg5eVNhZ1l6ZDk0U0lRVnQ4T2xyWm9tMzlYZnhybnNLZHFueGZ0RjdzYV9nT2k1OEVORDNYYWhPN011M1BOdU1uclFsYnFFcHJfbVlSYTNZQk53MlE?oc=5",
+        "published": "2025-09-01T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_a",
+        "title": "【市況】 今週の決算発表予定 積水ハウス、伊藤園、カナモトなど (9月1日～5日) - かぶたん",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94aTdid19STjZlN3dyV09pdkhacXJ1VmZ4RnlDV0NMTU9RMzVaRlFHbml6TFFwb2x5bkE0Qm9CYXNTNU9KenpkdjdCb292Zk4yTTJKM3dweDkzNE01eHY5bA?oc=5",
+        "published": "2025-08-31T07:00:00Z",
+        "source": "かぶたん"
+    },
+    {
+        "company_id": "company_c",
+        "title": "群馬セキスイハイム、太田オフィスを9/1移転リニューアル！ -東毛地区の不動産・リフォーム情報発信場所として新しく - newscast.jp",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9nc01XbkhPMHpkVWZrTVRMTTcyVU5FTjNUUUJJdFdPN21VYmJ3RDJKaFNUTDk5LUJCdlR2VjB4ZXNQcE56MGlv?oc=5",
+        "published": "2025-08-30T02:29:46Z",
+        "source": "newscast.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 大宮北デシオ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVhmZjliMk1wcUxrOEF0bUJubWJ1bWpNblgwdW5fUHJnMGZleHhzdHpnUjl3V3dnQVg3QUNPeUx4azJwSjZWZ0Z0UkdhX29vLXJGVExSY0U5ZmVyS0NqMzN4Ymd2VXp5ZWxTOW9lcWRkQjRVdzFOVTlGeWI1dm50NDJNbWI?oc=5",
+        "published": "2025-08-29T21:37:28Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス／神奈川県相模原市で7.7万m2、ラボ併設の物流施設開発へ - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPclM1SkFITy11b3A0UzU4Z01xQ1kwcHFmWkhhbnVpTXhkTmxEOTIzYXk1S2F0V1NJc2FncC1hOVYyb0RIQUpFOG4wcTF6dTNBWXBWbA?oc=5",
+        "published": "2025-08-29T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、レンタルラボ併設の物流施設 相模原に2027年完成 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43YndUdHkybl9SQWcxbWtBRzlEWGltWUZzc2kxZ1liUEhYVkZIMTljbkxsV2EydHVxWUl4U0k0QmNoLUZUTnRnZExaYThVNk0tYngwU3dCWW85YmJ1Q0NZQVI5b1lhVGhCQzNBdw?oc=5",
+        "published": "2025-08-29T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 立川デシオ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWtPa3dJQW4xQVdyRXFYUHU4clBrcHViT3RsYndUVVk5cXZ0R005d2Y1WnlGWGhnT0lhc1FOVmR2aXJ1YkJEU25VQU8xNUJLZk0xeGx4am5vQUc3ZHp1OXhyWE1jbHdWcDQ0Y0todlBMa2VFQklJaEF4ZzZMWHZCU19kV3c?oc=5",
+        "published": "2025-08-28T21:19:56Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス新社長が住宅事業の「反転攻勢策」を解説！新築戸建て分野で確立を目指す“新たなビジネスモデル”とは？ - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5POXNVRk5MYnBPOHRkQWQ1TVhiNW16U2E3ZWlfWVpkcVlVbWxYa1M4NjlUaUE0YnFIMzZhQl9qZ0xUdWszWlpZd2xtZ23SAU9BVV95cUxOMEhfQktMTE1zTjlGdUp3SnR0R0ZqS3NtNUhKaXZfX3pYa1A4eEN1ejZPelpNb1dYQ2kwa1FQTlgwc0MyRnZrekdnZnRPci1r?oc=5",
+        "published": "2025-08-28T07:00:00Z",
+        "source": "ダイヤモンド・オンライン"
+    },
+    {
+        "company_id": "company_a",
+        "title": "エアレース X 2025 積水ハウス大阪うめきたデジタルレース in グラングリーン大阪 & グランフロント大阪｜LEXUS PATHFINDER AIR RACING 実機 特別展示が決定 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRmRvZlVsdzU5VEN0anA0ejl6aU5JT2FNLXZzdjNtSFVhaTNDN2dWZnlJell5dmppOHFKOXJGSjk4S2NTbDJjTW02bmMyLWwxYjczY3hVdlNQUWhNOGtzV182aFJRNHlVTHc?oc=5",
+        "published": "2025-08-27T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、札幌で民泊対応マンション 観光や食で「第2の家」に熱 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENWp0VmlLcEN3eFlsWDNuaXVUX3d3Z3g5MFlZX2N5Q29LMmphYWxpOFBnYUhKSDI1S0RXbXBaZ0JWOWg4YnFWbWhXUkhWeDRBN1dEbFhwLXNQazUtcDNFTVRMSjdhT1NzemRkSQ?oc=5",
+        "published": "2025-08-27T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "中四国エリア限定 インナーガレージを備えたコンセプト平屋住宅『HeimD1 SETOUCHI G-Edition』発売 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hX2hPcERjb0x6a01fS2FhNGNjeFNZc1FOazg5RFBIbXhkYjc3eGtNVU55cUtnRGRwZzBWWC01WHJnVEhXaEQzbFBnRkRWWFN4ZTBwQV85M3FvWF9HZjJBX21PUF9XdHhvX3c?oc=5",
+        "published": "2025-08-25T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム中四国、インナーガレージを備えたコンセプト平屋住宅を中四国エリア限定で発売 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkZjS3VjRmxFMlludHh1bkxUUjZEQktVNHVzS0dDWUJ1MzJjUmk2UW0xYzNOSDZPNVNMSGdNNXJwYXd6dm9waktyREpldlgtWk1UOFdaQ3YwU29aUHBMS2toSEFNOTVUVXgzU0ktUWtNcFdpNmVORWE4c1Vyd2JYT29zZjZBank5cmVfNjNLd1Nxc0xiWXpyWUNTeEJ4aXFqWWt3?oc=5",
+        "published": "2025-08-25T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム信越、長野県松本市の大型分譲地「ドエル村井町南」にデザインモデルハウス4棟がオープン - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rcm5pYXdTdTlIVldGdlRzbzBJWXdHM2JuZ3FPZlYtTkZuYXp5dVpkb3Z4bzF3U0xLa05leEd5SXZFN2tIWHhZWk54cE1hTXBVYzMwRmdnQXhTWnVmOUZ4MThIaGxDOTlkcnFSTA?oc=5",
+        "published": "2025-08-22T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【熱を帯びる誘致合戦】北海道日本ハムファイターズ2軍本拠地をわが町に！各地で熱心な署名活動…札幌市では築50年以上と老朽化進む「真駒内セキスイハイムスタジアム」建て替えを訴え期成会立ち上げへ〈北海道〉 - UHB 北海道文化放送",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBReHUxZkxQNW9IRnpYNmh3d0FHQ2RBemJydlFvREhMTWV1WEVFYU05WG5ZaGFPckNIYU02Z09HUlNLTG5wa0ZHalNPRkdOS3M1aDZaUlgtVQ?oc=5",
+        "published": "2025-08-22T07:00:00Z",
+        "source": "UHB 北海道文化放送"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 江戸川デシオ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84SlNaaWt2VllLSmtlY181RE1seEJpcFpQRkdIOG9PbFRhQVc4QVdaejNtVVpFb2lwbWZGVXNsMmtIUVpPUFpjRzlwYVg3WVI3ZWxMZ0xWal9veXJYT3NEejJYMkctWnluR1lPQWphOGw3dTVSckw3X0hKNVZrUQ?oc=5",
+        "published": "2025-08-21T23:38:06Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_c",
+        "title": "大型分譲地「スマートハイムシティ前橋ローズタウン」 第二期分譲開始 セキスイハイムの商品8モデル11棟のモデルハウスを一挙大公開 - newscast.jp",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zcmlaVTVremdjRjdVV19LdmZxckhsdVpvNk5kZTRiT1ZrdS1RMm9WLWF6OXUwUHpCa2lZd2h6S3BpWXFHalJleGRPS3B1NWc?oc=5",
+        "published": "2025-08-21T20:33:18Z",
+        "source": "newscast.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 大宮北パルフェ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3c1RmU4SkVNcVBuRG1NWmxoc04wSmF5dHJXMGp1V2U2Qkk0eTROQzM3TzhkVXZVTWluSUdzVDJfbU5ab3lxRWhUb0tyUmtHSy01UVlicEUxTnRzR2t4RHJISVlycFZPcGs1R2cxUlJPbjdrYmlLUmVQOXh3c2VfYw?oc=5",
+        "published": "2025-08-20T18:05:01Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 千葉北デシオ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zSEJrdEtvdFJMSWNreFJGQXRGajMtaXpuUHQtaHEtOS0tZE1NaXNwaGEzNUE4RWJ4bGtISlN3VTZSU2I5c1psWlpvUk81MWlCckViUGttcVJubjl2SGV5YW5DYUM0SFAyLUhsbmw4cFNTNnU3Uk05NW5rZDliQQ?oc=5",
+        "published": "2025-08-20T17:21:30Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_c",
+        "title": "官民協働事業＞ 太陽光パネルの売電益で市内保育所へ おままごとセットをプレゼント！4月22日(月)に贈呈式を開催 ～セキスイハイム太陽光発電kidsニコニコプロジェクト - newscast.jp",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aaHA4anYzcWNWWWdDeUZVek9TeWdBMXdHby1aYVI4RGJLZWR3YU1MZ2dmWEJ1aU1RVVNjSkYtWEJ2cGZGUFRj?oc=5",
+        "published": "2025-08-20T11:34:25Z",
+        "source": "newscast.jp"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、「第19回キッズデザイン賞」で６作品の受賞 - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9wSWtqTGZRTmJNMHU2bjA1M1Y4aFdQMEVjZ0ZhU0xkOVJjMmF2UEFrTG1qbGdxclRfUTdlOTc1VGJTZTQ?oc=5",
+        "published": "2025-08-20T07:00:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム 足立加平デシオ展示場】時を経ても続く価値ある住まい - SUUMO",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WWUlFX3hocmtiSXBxUmthMXFSdE5YdUpVd1luZ1c0MHVSdWtIQkppdXNSRmNVRkpfaDk0UXI1NlIyU2h3a1dSU1lqQ0lWUTdkaUxaNXNTMlFvLTRVUTF5aFk2YkRBT2c5WUtqTXNiNVNIb212ZjViZzc2cUlBQQ?oc=5",
+        "published": "2025-08-20T03:15:49Z",
+        "source": "SUUMO"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、福岡県で再生可能エネルギー需給調整の蓄電所に参入 26年7月に稼働 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SblFtN1ZFbjBTR3RjMXF4T0RqTkd2aXZMSVhZVzkwNXk4NGdRT3BWeThURDUyVmo5QWoxMDBVa182TkV1YnBPYlpTWWtiaWhwZEdhdFJRekI0M05DQ3J3WDBCTDU2OVFyU0NSMg?oc=5",
+        "published": "2025-08-14T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "主任職で11万円増 賞与減含め月給大幅改善 大和ハウス【2025年上半期 よく読まれた記事】 - 労働新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyN3ZKcGhWak85WGo1R0haQzVFNThrMkxIc1dIUVc5c2RZb212YWZmNDQweThzd0pQSk4tcHVUdmdKaGZEVTNqSlBXbzh4UQ?oc=5",
+        "published": "2025-08-13T07:00:00Z",
+        "source": "労働新聞社"
+    },
+    {
+        "company_id": "company_c",
+        "title": "2025年度 セキスイハイム東海カップ 第41回 静岡県中学校U-14新人サッカーチャレンジカップ 準決勝12/13結果速報！ - Green Card ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEeG9iWkswMW9CeEVvRS1pQmZIMFIwVzdma3ZiOHB3TDFEWk5hNzZhZTJIWVNGcHp4T3VoX0tncXF1amRRUVlUcGVJVVA1UjZ0Z3dRTVktOHJiZw?oc=5",
+        "published": "2025-08-11T18:48:33Z",
+        "source": "Green Card ニュース"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業、賃貸商品のブランド化推進 - 全国賃貸住宅新聞",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zbEFzX0o1N0dUTU4zTVYzZ3dLSXFXQ2ZpVDVQdUctdVQtVS1yLWhVZXBRdlVMM3dmS0V2cndzSnpNcnl5YlYzSmZHTUZpVUN3eGRVd1Q4czY?oc=5",
+        "published": "2025-08-08T07:00:00Z",
+        "source": "全国賃貸住宅新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "米津玄師 2026 TOUR / GHOST - reissuerecords.net",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JNkJKMXZ1eDZMVHpIV3lvX2QwWHo1VWd1eTctcFN3TDFPTUVhNHRMQkZFbkUwSHBJd3ZSU2dzbXJaZnpzc0I3eGY4UllVMzY3cVJVbnRiYXVZdFIyUHRkdUJFZzU?oc=5",
+        "published": "2025-08-08T07:00:00Z",
+        "source": "reissuerecords.net"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス 日本金融教育支援機構との共創企画 “ご当地型金融教育ワークショップ”を開催 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zRU1EdmRXS0JCVUR0T3JqTFJmS0FIOUE0emxaT3Y3eXVKR19XcHM1ZVpCWWgxNzVUNTVsREotM2h6N2M0Q0ZZWTBTMWVPMGZ2SEM2RFltZjhfY00?oc=5",
+        "published": "2025-08-07T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、子どもの感性を育む新たな大型体験型施設 「JUNOPARK（ジュノパーク）」 8月5日グランドオープン - Digital PR Platform",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsWl80R1hXbXZ3VnZ5U0gxOExYdjR5azZpWUpKdmRrNHVfTVM2SVZaZGp2WmI4OUlEakMyRlFFQ1Q5RTQ?oc=5",
+        "published": "2025-08-06T07:00:00Z",
+        "source": "Digital PR Platform"
+    },
+    {
+        "company_id": "company_b",
+        "title": "決算:大和ハウス純利益17％減 25年4〜6月、人件費増が押し下げ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sc2d1eDJtbGgwaVJYeFhnS1lZSjkwUkVCOWVCbTRiLTZYVlRGTGVzVUtRdmRJY2dPZzBJUUV3ZGc0Z0d6T0VhMGJwVG9NcjhVNVJSeXhleU9zTkt5Q180eTg5UVVvdVkzWUhacA?oc=5",
+        "published": "2025-08-06T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業、16期連続の「増配」を発表して、配当利回り3.3％に！ 年間配当額は16年で10倍に増加、2026年3月期は前期比20円増の｢1株あたり170円｣に - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpWDVvQWIzMzFMZHFZN1FWNTZKSFd1WVNySkYwWE1VeVVOa204WEFaaUxRcWo3Zk8tb0VFYVMxZ2xtYUJJQ1FKNDhDUUE5Vy1LcWRB?oc=5",
+        "published": "2025-08-06T07:00:00Z",
+        "source": "ダイヤモンド・オンライン"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大林組、大和ハウス工業、清水建設が語る「BIMから始まる建設DX」と未来戦略 (1/3) - EnterpriseZine",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KbW5HVmc1RzR0TDJ1b1JrOE80eUE0U1lacGwweXdVN0laNVJnWjdQTmxZNkR0alVHbzA5Ti11cVlFVG5OZ2dHMmVzczRzM1JZeThLTk1DQ3dsUQ?oc=5",
+        "published": "2025-08-06T07:00:00Z",
+        "source": "EnterpriseZine"
+    },
+    {
+        "company_id": "company_c",
+        "title": "茨城セキスイハイム株式会社 シルバースポンサー契約締結のお知らせ - 茨城ロボッツ",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWkVqSVJEXzh2eE8wVGluMFVGcGp4cnAwMEhDbTFlR016bk1mR1ZwbWtSb1lacVB6RTNHQTBrNm5GUnNoMk14T09XazRwa1p2ZFhlN19iZWJ3OF9ibWhMZE4zdTIwUFk?oc=5",
+        "published": "2025-08-06T07:00:00Z",
+        "source": "茨城ロボッツ"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、京都府木津川市で子ども向け大型体験型施設「JUNOPARK」を開業 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93LVJMSWo3YzVGU2RfcEJJcWdySWI3Y2JBamxrd3MwQ0dvWmJqejdjRzNsREZoQjJEU0FMRHNhMVkwTUhYd2ZHTEJWSGdYNUppTHRhemFTNjhWX1E3MHV1SUZHUkU0WWZHTkJrNA?oc=5",
+        "published": "2025-08-05T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "茨城県民ハウジングパーク「すまいりんぐひたちなか」 - 家サイト",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wT1Z0ZndvSmM4TzNmalhWMk9YdFNEUmkzTFpZSVBka0tUQVZnbmJRakRBNklfOFF6WlVJbUlSWUJLOXJCTHM0ZU1RNGxsSGNuZ2FYa1hGcU1KaXZTenJPenQxaUV4dzkxOFgweFh3?oc=5",
+        "published": "2025-08-04T08:02:00Z",
+        "source": "家サイト"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【PR】816万円でモデル住宅を抽選販売 上越市でセキスイハイム「リユースハイム」説明会 8月10日から開催 - joetsutj.com",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XdjliSnJvWm9MdVhwam9EeVhXTDZPazFyaGFwVEhqZ2dvRl9zWmdWNGU1NHJwdGRRSzBXWU9rSEFDQVhrYTNYa3cxUzZxQUwybFBhTg?oc=5",
+        "published": "2025-08-04T07:00:00Z",
+        "source": "joetsutj.com"
+    },
+    {
+        "company_id": "company_c",
+        "title": "交通事故防止へ反射バンド 東京セキスイハイム神奈川支店が寄贈 - カナロコ",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWWZHVmluYjhxRy16d2tDODcwWFdoZjVqRHUxcDZNNEFCZzdWbHI0Nkl6YjRIaXFOQmpnSzZrZEgxNWg5cHJZQUZWN2s5WkRwSGJ3N1Q5Um1zbDRzMXN4dzhOalE?oc=5",
+        "published": "2025-08-03T07:00:00Z",
+        "source": "カナロコ"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス和田哲郎上席執行役員「営業にAI活用、戸数より利益」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTbkJXNG9pWTFtQjFLS3NKQlBEekdoemZkaXVpNmkyNGNBZ0RoQmgtV3BuT1kycmVjZndYMVl1akVMdS1GMGNoX3QtS0tVQUJmbmFRNjNuZF9UWXEzQkxCbGJaaTZIYkFtaGI5ZQ?oc=5",
+        "published": "2025-08-01T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "“39（サンキュー）” セキスイハイムスーパーアリーナ会場限定！「Same numbers」購入で直筆サイン入りソロポスターのランダム配布が追加決定！ - 乃木坂46公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51V1Fzd1NoMWpRdkRBZ0Vxc2RHaXAxcnd5MG8zYm43MWJ5OG1yZnh0RVpabm9NV0o3N1RobVhhZ1otTGR6N3VDeFl6TGxrakdpakgzOTVqWDdDMXhfMW55aA?oc=5",
+        "published": "2025-08-01T07:00:00Z",
+        "source": "乃木坂46公式サイト"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【乃木坂46 Mobile】「真夏の全国ツアー2025」宮城公演@セキスイハイムスーパーアリーナにおけるモバイルブースのお知らせ - 乃木坂46公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oWmw5SV9VUFJTdjhwaFNXQk04T1ZaTlVKdVM3WlFKVElSTjQzQWR3eWpRWEQ1aXh2M2ZNRFNkSjBkaWlsQkJCTVFzc0pFelBCdzMxMmhtejZ2emd4ZWF6WA?oc=5",
+        "published": "2025-08-01T07:00:00Z",
+        "source": "乃木坂46公式サイト"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業／福山市に3.7万m2のマルチテナント型物流施設を着工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41NGdIQ3ZCYTNTV2ZzTnRPSTZQRWR2TW9nNS03SWRhTmlpR1BkMEoxOU9KcE5VZjRIal8tSDAzbGlPNHV2SDRpa1d3WUNuSUxVUmpSRg?oc=5",
+        "published": "2025-07-31T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_b",
+        "title": "福山市初のマルチテナント型物流施設「DPL広島福山北」着工 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQURDRTJaQ2NzM1U5c2YzZlE1a1l3elZKSjJFOG9GMUtUMTFjOGZMTEd1cWloWVkzcllvRmViRmphOC1idEExWVJTc2k4SzFNV0NsMGVKNkc3MFdMd1FEcUhoVjNhdFJfenc?oc=5",
+        "published": "2025-07-31T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスの企業CM 「そして、世界へ。」篇の放映を開始しました。 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XNUhKdUlIR1Q4NXhEbDhRZUxheGVTRjJyREo4UGh2dEtWWWlJaXNmQnJObHQ3amZuMDExZkxBbGpfSkRjV1ozNW1Xa3pnaFF0RHE4RTlaaVdQbzhyY2hlOXdQTG1yTUNKa0E?oc=5",
+        "published": "2025-07-31T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス・芳井敬一会長「米国の次は東欧がターゲット」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VVFB3RjFsVDRURW5wczJJcGQxVTJjSmJZcUxXRkFVczFqYjBmakZ5ZDV5eUFPWEtjaFlRVVBzaFo3T1ZkRmZyd3lORmxnX1pTMFRhUDhTd0xjUU82NGFsamo4R1Y3VEVOTENWMQ?oc=5",
+        "published": "2025-07-25T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "横浜市戸塚区の土地を大和ハウス工業から取得 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2VnFTOTVNUUE2dnFjNzdBOEFrRnRWLXJZTXYza2hFQU5vNHlsMS1HcHA0RTh5M2t1YWV0Nkt0ckJtYmFqU084SHdBZjNSWXkxd09BZExxNEgtRW5VbEJHRE1UQl9zcXRXN3c?oc=5",
+        "published": "2025-07-24T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業／埼玉県川越市で3.3万m2のマルチテナント型物流施設を8月着工 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yMDVRUnEtWnRvZ0NIRjJmc1R5VTB2N0lPLXFmdG0yazZMSUtITUx1Nk1CSFJUT2FrTzdkSGdvcExHWEQzb2o3ZEIyeG5lUHhuLW1RTA?oc=5",
+        "published": "2025-07-24T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_c",
+        "title": "蓄電池標準搭載(※1)で安心な暮らしを叶えるファミリー層向け賃貸住宅パッケージ 『HEIM MAISON-T』を発売 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYcm5ucTZHWkZWU2NxNXNlRUtaT19WaU93aEN5QlcyU2MxYTVjR3ZTSGJSQ1MybGw4LWFvSkRjVjVVZjJ5U0FlV1k4cEh2cm5nLXliLUtJZDBNWDFKY3lwWjEwMDBsSF9acnc?oc=5",
+        "published": "2025-07-24T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "新連載「実は私、中大出身で」スタート。第１回は学員会会長にも就任した芳井敬一氏（大和ハウス工業会長／CEO） - chuo-u.ac.jp",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Qa1poR0hwWEVaV0Rrcl9UOU5mYXNPVGVSbEtkVEtTcEVFT1NNdVlfSGlCakItTXFITDUwTGZFZ3lHS0dQU21kYTk2aHZMQWRSWGNPSlR2Yw?oc=5",
+        "published": "2025-07-23T07:00:00Z",
+        "source": "chuo-u.ac.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム信越、飯田警察署に交通安全啓発品を寄贈 - 飯田経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmb2FUQkxFV3pDS2x2Yjc1TlBrN1RhUkdOZkg1UWpkbVpRYjU3RmQtT3RIMTVrbkg1NXJreTJQNTlxdXUxb0R0ZHNfbzZYcXc?oc=5",
+        "published": "2025-07-16T07:00:00Z",
+        "source": "飯田経済新聞"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、大型体験型施設「JUNOPARK」 7月9日（水）より体験エリア事前予約開始・CM放映開始 - 共同通信PRワイヤー",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01QW9vUTFLa3BSdWQxZk5mNl9UUW9NUXMyME5sZE1Kci0yeFFjVXM2TVotWF9tYXZLdUZrc2pDcGUxSXdGQ3NoT2V2RmNqN2U2QVR0QU50TzctRTA?oc=5",
+        "published": "2025-07-09T07:00:00Z",
+        "source": "共同通信PRワイヤー"
+    },
+    {
+        "company_id": "company_c",
+        "title": "モダンな美を奏でる、「セキスイハイム」の進化した平屋 - ELLE",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KcUVfbjBTWWpZNjV5d0hoMndQTzZNU1h1bWtrbXRRMnV1dWJ3RzMtRF9NRWtfX2x2Z2VkemdMVkdBbWpCWHR5Znp2UV9haEJrNE9yREE4aDFTR3BnakNjeVUzcUFpYndneUdQMk0teGhQSVlyc1NSbFkzZGN2SlE?oc=5",
+        "published": "2025-07-07T01:14:05Z",
+        "source": "ELLE"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「プレミスト横浜桜木町」概要決定（ニュースレター） - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZWE1LSVdIaFlCZ1doS3Bsc0hZbXBWMXBNQ082MGJvTHprSEV0dUljNmpDbUthcmpXdXJpbERTdXJtVmZuOHNJSGtEb1d4Qk44MmJtNFdOM1U5Qkt6TGp3WnBFdmY3azlIMFE?oc=5",
+        "published": "2025-07-04T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【乃木坂46 Mobile】「真夏の全国ツアー2025」北海道公演@真駒内セキスイハイムアイスアリーナにおけるモバイルブースのお知らせ - 乃木坂46公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NZU9TbnRnNUpyYTZtWXdGMmRKR3RuMU1ZZnFJUTZSTnozYXlwZm1GT2I0eGtXY0hLZkgwSlctbGxZYnp3TWZlNGJyNE1xT3IzM2RSSjlzS3ZSZmRCbE1iMw?oc=5",
+        "published": "2025-07-04T07:00:00Z",
+        "source": "乃木坂46公式サイト"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、国内戸建て住宅「1万戸」目標に黄信号 単価上げに力 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fa0YwZ3VMSmdXd0cxN1lyQ2NDSWF6cC05NDVhV1NEblR5UnpVeU9VcndLVnBwbUFvNmJ5RnZ2bjNHOG55RzN6RjZFcmJvRmZScldiU2MtUTA3eWtHU3ZRMzdKaUtSRTg1VU8ycw?oc=5",
+        "published": "2025-07-02T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【売買】埼玉と神奈川の物流施設を取得、日本エスコンやセキスイハイム東海など - 日経不動産マーケット情報",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55dURKNzZ6THBfUEFJY0daN0pkaG9YTzdYY0cwcjQyMjEyNnRSdl9QMXA1YXpwUHl2WmRKUXdSd0MtOGJwZVNOUmRHUFdrc2R5Z1hqTWhTSTVPeC1EZnhEZ3pR?oc=5",
+        "published": "2025-07-01T20:40:57Z",
+        "source": "日経不動産マーケット情報"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス「FANTASTIC DREAMキャンペーン2025」2025年7月1日よりスタート！（PR） - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RQnZuS1lJQ3Vqb3BWaDNpcGsyUm00UGwxRlBpN1RtN1BSNnZFUzVOdUNGSjk4M1dGMnZ3X096Xzd2dDdBNHMtOVhHVUQ4Qk0waFNacmtObnZhTFlDZEZfMzZneFM3Z2VxcUE?oc=5",
+        "published": "2025-07-01T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "【2024年度】大手ハウスメーカー・ランキング、大和ハウス工業が総販売戸数トップ=戸建て首位、積水ハウス - 住宅産業新聞",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aaXpvUjA2SjB2WVlROGx6dUMxT1JVbEttZF9Bb3ZoelZUWWMxb3RIUWFMYkJGYVJmdS0zNmtfYW9fMDE2SDc3UUY5NzHSAUxBVV95cUxOWml6b1IwNkowdllZUThsenVDMU9SVWxLbWRfQW92aHpWVFljMW90SFFhTGJCRmFSZnUtMzZrX2FvXzAxNkg3N1FGOTcx?oc=5",
+        "published": "2025-07-01T07:00:00Z",
+        "source": "住宅産業新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "＜官民協働事業＞ セキスイハイム太陽光発電kidsニコニコプロジェクト 太陽光の売電益で保育所へブランコを贈呈！ ～7月11日(金)に贈呈式を開催～ - アットプレス",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUTmxhRGUwcGxIdWpHeVF0SFdrS2xfQWlTWDlCOXZDQkFKVm9obTdnVTRtVENURExuYUd2OHhwSDNsVXpQLUI5Z2d3OUxUZw?oc=5",
+        "published": "2025-07-01T07:00:00Z",
+        "source": "アットプレス"
+    },
+    {
+        "company_id": "company_c",
+        "title": "栃木セキスイハイム 社長に飯島氏が就任 - 下野新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aem9Ddm9wYWF2alctWmdpaGJjOFhoeXhxUEJieXY3ZkJoRXdiYW96TU83M0dUQ09vU3NRVUNoUTh6bmNkQW9hZldKMHplc2YzaHBrV0ZSTW1ZUWM?oc=5",
+        "published": "2025-07-01T07:00:00Z",
+        "source": "下野新聞社"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス、劣後ローンで650億円調達 借り換えに充当 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aTRNYll6aUM4Q2VydzBQY3N4azlxcGZoMlcya3hmdDhoMVhlSlIyQUd4Z09vMVB1UWhieFpyeDZrNU85WlZjZXhlaDZXdm9EZExCMTJFeWZubUhKenNqSUIza0dYSVcyWXBOZw?oc=5",
+        "published": "2025-06-30T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "群馬セキスイハイム（前橋市） 新社長に丸山聡氏 - 上毛新聞電子版",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZDYtWmVYeG5yYTlyT1VGNnJzb2ZjS3RRazYyZHM5YV9NMnB3STE4SmlwaE16RkdXdU5MUklmb19TaFFXTU04czlLZUFsQ291R2RERkExVDA?oc=5",
+        "published": "2025-06-27T07:00:00Z",
+        "source": "上毛新聞電子版"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス、熱中症対策でコンテナ型冷房施設 施工現場に試験導入 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rWmdjalIyblNLYldMQmlndDRHMnNWSEI3bnlVX01wUWxrQnJGNktjMG9lTmZKWldpVm1yU3J2OWFBcTAwMGRycTdhc3U3YldZb3laR0JrelF5M3VCdEdfZFNTTXJyYk9oUm0yMw?oc=5",
+        "published": "2025-06-25T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "営業活動に新聞を セキスイハイム九州熊本支店が講座 TSMC関連など電子版でも - 熊本日日新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lbGduYzRxNm5GSVpxSlg0SUtPVVlvcFlWT2xYU3BRZ1h1bzZxMkp6Y2lzVjNEcTFMVEtWRVJSeEpnS3g3UlREbjFmT2VFR0U?oc=5",
+        "published": "2025-06-23T07:00:00Z",
+        "source": "熊本日日新聞社"
+    },
+    {
+        "company_id": "company_c",
+        "title": "「真夏の全国ツアー2025」祝花・プレゼントに関しまして - 乃木坂46公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nMlJ6aERpbF84ejRPeEdSeExBaW1nS0gxWGVncEp5QUtSd045aEI4ckQ4aFpSZ1BNTUt1bjlOZzAwRzZJZl9SWFFCcFhWYm9MbzcxeVFMeGxaanE1TmUzZw?oc=5",
+        "published": "2025-06-22T07:00:00Z",
+        "source": "乃木坂46公式サイト"
+    },
+    {
+        "company_id": "company_c",
+        "title": "ストレスフリーなネットワークを東北最大級のアリーナに。 ドコモが挑む、終わりなき改善 - docomo.ne.jp",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BY0tzZGNQTGlmR3p6RWdUWVpMWllsa0VFdndjYmxTZDR6UmVwRnk5dm5maGtaMmdsdmpFZ0FzSzNnYTB2cUdBLURwb3hsakM0WEJLY3V4anA?oc=5",
+        "published": "2025-06-20T07:00:00Z",
+        "source": "docomo.ne.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "7月5日(土)、6日(日)開催「真夏の全国ツアー2025」北海道公演 6月28日(土)正午12時より会場チケット一般発売が開始決定！ - 乃木坂46公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jNDNOeFQ1UDRDSUtTWU8zVFBuakRSZlJXbXQybldsXy14WW1lNEIxT0Vha2EyaWxfVHhRQl82MzQ4VlJVYS1OM3JiYXMwWWZUdzlWd0QyMU5vRTVtbmlCcQ?oc=5",
+        "published": "2025-06-19T07:00:00Z",
+        "source": "乃木坂46公式サイト"
+    },
+    {
+        "company_id": "company_b",
+        "title": "【5月ハウスメーカー受注】大和ハウス、ヤマダ、ヒノキヤ2ケタ増 - 新建ハウジング",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RdktlenZac0JrMW05NmtEVTFtbDNoWkV4VVJlYmE2UGlqUlhrWEc4eUwxZm15QUZ3NzQ5b1puOUFYVFBjMWlBSmV1ZmI2VVJTTmc?oc=5",
+        "published": "2025-06-18T07:00:00Z",
+        "source": "新建ハウジング"
+    },
+    {
+        "company_id": "company_c",
+        "title": "来場のご案内 RIZIN LANDMARK 11 in SAPPORO - RIZIN",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HaDJ6WTJieXdTalkxSEVoSEpLSU9acDVxUEVZYk15WTR2cjFIR3ZhQTJ6V2YyNG9pelFpT1RBbEtfMWRvNHFVd3NUOA?oc=5",
+        "published": "2025-06-13T07:00:00Z",
+        "source": "RIZIN"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「大和ハウスskye(スカイエ)錦糸町展示場」オープン（ニュースリリース） - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVGtkQ3JXT0tJTkdrVnpWeEFqaUZBVm54M3RYbWJwLXZhRzJLb3R1NzRpbTJfb1Iyamk0WDdLUWUybmdQc0x1UTJDRldDbXNaTDhGVUtVMms0bkhISEc0SFRvaXJGQWxCVEE?oc=5",
+        "published": "2025-06-11T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "新卒採用あえて減らす覚悟 適正求め大和ハウスは8割減 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ka0paRzhMOEpUNFFFU0RwV2taOGtrWUZ2VHR4LXl1SzAzR2NNU0sxc1BISlFuQWt3eW51ZEhaek03UEZyUTl2MVUyWnJrX0ZLMnUyT3I5dnBoNk4yNmVVLXNQWGVEUUhFWm5LYg?oc=5",
+        "published": "2025-06-10T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "秋の札幌に約18,000発の花火が打ち上がる！ 「道新・秋華火」を9月14日(日) 大和ハウス プレミストドームで開催決定！ - アットプレス",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xZ1hrbFIwcUdiZWo1ejRVODRvUGxfTFZKeTZhU2l1MTFFNkFYQl9vZFRtYzBLQkViM191NVVUVEJtcFpFR0pTd3I0OG9LZw?oc=5",
+        "published": "2025-06-10T07:00:00Z",
+        "source": "アットプレス"
+    },
+    {
+        "company_id": "company_c",
+        "title": "6/14（土）RIZIN LANDMARK 11 in SAPPOROグッズ販売ブース情報 - RIZIN",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KQ0JfWDkzSDU5Yk1tOWtmMDhwekJnalRSOVJBbTdEd2NnR244UDlrbld5YXY3TjliSDNwSE9DQ05LNmROUzU5Wk0zdw?oc=5",
+        "published": "2025-06-10T07:00:00Z",
+        "source": "RIZIN"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【6/9更新】未来、千裕、萩原、平本&篠塚が来場決定！チケット購入者限定の豪華特典会を実施！RIZIN LANDMARK 11 in SAPPORO - RIZIN",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rcjFpMEtweGpSMVBKRmZkNnl5OFVsNU81YjA2VEZTNVBKelBCdUQxZUs1UHRBUEROeHE3UzZKMmwtUEc0UU03THRrUQ?oc=5",
+        "published": "2025-06-09T07:00:00Z",
+        "source": "RIZIN"
+    },
+    {
+        "company_id": "company_b",
+        "title": "Daiwa House presents いのち輝く吹奏楽 - ktv.jp",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55N0l5Zi1ySFhDWkc4blZIN2dQNFV5SE1xakVnQkZuZVJFLWRuOTFKNVFRQU5LelQ4akN4Y0ZQMnVCVEt6eDFvd3dtV1o?oc=5",
+        "published": "2025-06-08T07:00:00Z",
+        "source": "ktv.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "🍠家づくりをもっと楽しく！！ クオカードペイ最大1万円プレゼント！🍂 - 家サイト",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16dWRPR3QxUnFSa1paV3NBSHVkOGRhY3BUdE5OMlFEQnQ5R1JuWUVCOW8wekdYVngwNm9oMXg5UmprM19TTjN6a3FIejFJREhPUFZYdmFYMTkwNENJYXpBbm1vQWNJbkNhSEJFbEtB?oc=5",
+        "published": "2025-06-06T09:34:09Z",
+        "source": "家サイト"
+    },
+    {
+        "company_id": "company_a",
+        "title": "積水ハウス×noteで、投稿コンテスト「#わたしの帰りたい場所」を開催します！｜note公式 - note",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hMEFST1A5UE5MS3ZpTkFNSTYyMVdXa2c1QjFqWUJTc0daN1c5WGVIT0l2UWtETXc1QzJRTjAzTlJaOWREazFuRkI4X2JWUQ?oc=5",
+        "published": "2025-06-05T07:00:00Z",
+        "source": "note"
+    },
+    {
+        "company_id": "company_b",
+        "title": "「BiVi二条」リニューアルオープン（ニュースリリース） | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XcTRSSkVraW5kOHk5QWFDZUhGd19Eb1JZNmQwS0p3SkZ6aXlqYTExRUJ4X2xDYW0tY3l1dlgwQVV5VzgyTi1mbVBubVFkX2tyS1ZNS19EUHJCY1JyYVZzakJiMEo0TnJLb3c?oc=5",
+        "published": "2025-06-04T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "愉快になれますように - 乃木坂46公式サイト",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcF94QWtnc1VOaGYwck9ZemNkWWdtai1zYTdkTHpyY2VHcGI5Z3RFX1k1NEtJRUhpOVdYQVB0bzV2X2NZWC1Pa1RFSndMYmo0SV9UalFsT2otWEdPZUVmd0c5aUV1Sk9rRk5wNlNB?oc=5",
+        "published": "2025-06-03T07:00:00Z",
+        "source": "乃木坂46公式サイト"
+    },
+    {
+        "company_id": "company_b",
+        "title": "決算:大和ハウス純利益7％増、アメリカなど海外けん引 26年3月期 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yTUZ2WmRYWmR1TDFGRVppeGF0MjRPODh3ckJ6ZW1tWXd1VDgzaWdDNElVeDA1YUlNd0ZZZ182bG9nMDVpbUFnUjNoYm1NLXk2amRwR3pZUk5OdnJKb3Q4cjNYZDRPZVo4c0l6Rw?oc=5",
+        "published": "2025-05-13T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "物流最前線／総合力を存分に発揮 大和ハウス工業の物流施設開発の肝 - 物流ニュースのLNEWS",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sZDZ6X2s5TEMwUUJXYTQzRmVVNHBJenFMQjVpT0tuYUtpaGoxMVlsUUo0RU9GcXd3X1RTZGRyaHJYLVZvenF4YXhMMmZpaWpEMjhsOA?oc=5",
+        "published": "2025-05-12T07:00:00Z",
+        "source": "物流ニュースのLNEWS"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【2025年最新】真駒内セキスイハイムアイスアリーナへのアクセスと周辺ホテル完全ガイド！遠征・ライブ宿泊にも便利 - domingo.ne.jp",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56bWNIZW50a0twV2RjU2gxczJfaXJqdURPdnpCai1MUkRwMS1SbUh4YXRtX0Q2YW05SmlKUHlPWWkzY2NTUVlrX1NkMA?oc=5",
+        "published": "2025-05-07T07:00:00Z",
+        "source": "domingo.ne.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【MISIA】05.03(土),04(日)札幌公演 当日券情報｜ニュース - ウエス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdmp0c2ZnVFZLdXBkMHo1MzRLSlJMMGpRc004enFjdDEtc09veHlxelhURGpxOGNIcHA3emluVE52VDBQVkJueUhaX2k3aFN6NHFnVg?oc=5",
+        "published": "2025-05-02T07:00:00Z",
+        "source": "ウエス"
+    },
+    {
+        "company_id": "company_c",
+        "title": "当社初、スマートハイムシティ内にオーナーサポート拠点が誕生 『ハイムリフォームギャラリー太田』オープン - アットプレス",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TU1BLVXVpZkgxb3pBMkRmY0RmRjVuMVNDTk5JdzJvZk9KdWtRNU5GQkxPbDNmRkZtampLem9kazlnOC1XaDI3OGtyalF1Zw?oc=5",
+        "published": "2025-04-24T07:00:00Z",
+        "source": "アットプレス"
+    },
+    {
+        "company_id": "company_c",
+        "title": "夜間の交通事故防止へ セキスイハイム東北、反射材１５０個を泉署に寄贈 - 河北新報オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IZTl0YUY2emRmUVNlRGJyYmVnNWNPRC1RcUZjUDNzVF9FSV9iS2ktbnRBc0lIRUx5cWNjN09mX2JvNnlKSVJfcUxoM2VmbHBIYU9NUGcxWVN4WVBoWWVSUA?oc=5",
+        "published": "2025-04-24T07:00:00Z",
+        "source": "河北新報オンライン"
+    },
+    {
+        "company_id": "company_c",
+        "title": "茨城セキスイハイム presents FINAL HOME GAME - 茨城ロボッツ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMEFlQ1FxNlFBQnptNmhfb05aQmZqUHRFR3cwcmlyYTVZQ09mNXNmdE1zeEtlWUxuWDkyQkJyZlAyLVFxczYwcUg0SVJoUHZWVW5Ddw?oc=5",
+        "published": "2025-04-23T07:00:00Z",
+        "source": "茨城ロボッツ"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道立真駒内公園屋内競技場及び屋外競技場ネーミングライツ契約の更新について - pref.hokkaido.lg.jp",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXFhbVBkNlB6Skc4Qmd5MjVQbGxyM0d2NjFjTGduT0lPeGt5TXdiWFpoaXMwZXBiLW40ZkRjQ2R0TExFY25tWEQydlN5VndleHc5Qk1HOFA4eHBYX1QyTzItNFhsajlxeXE1YVJ4ZTFoemVYaFAtMmtJWE9HdzVtX2tzakJVUQ?oc=5",
+        "published": "2025-04-21T07:00:00Z",
+        "source": "pref.hokkaido.lg.jp"
+    },
+    {
+        "company_id": "company_c",
+        "title": "816万円のお家が当たる！？【リユースハイムキャンペーン】 - 家サイト",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSUdMUGNIZFNzeVExd1Vpb0xsVktHOGVVNXhlUmlUQ0dfbldJcjVOSjQxaUFrbzR2Ml8wNHM3SHQ4WEoxOXUxcmhXdzQ5ZlplUGhSa2c5eGZYSWdUZW0wbVpDRWM1Mk1fNWZN?oc=5",
+        "published": "2025-04-19T02:15:50Z",
+        "source": "家サイト"
+    },
+    {
+        "company_id": "company_c",
+        "title": "4/23(水) 千葉J戦 茨城セキスイハイム presents FINAL HOME GAMEで先着5,500名に「ロボスケ巾着」をプレゼント！ - 茨城ロボッツ",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GWHRSMWJuUUROWmJNMEtiZE5OVkZKRHluTmQ1UkQwdzlPdURfQmxZeTUtSUpnaUVZMkFhLUZhWDNSOFZZSDRpMFR0SzRER3lPS1U2TlBxb1VwNXNuQlZTZEF5VQ?oc=5",
+        "published": "2025-04-18T07:00:00Z",
+        "source": "茨城ロボッツ"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【広島公演 チケット一般発売】セキスイハイム presents 辻井伸行 三浦文彰 ARKフィルハーモニック 発売開始 - newscast.jp",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KZ3dqcDFTb0FUT2JmeXdaWjhmb1BjTGNDTldmQXhGVTFXLUJNNDZNMkJIQktveG45NTlmRTFZbjFvWWFNREJZ?oc=5",
+        "published": "2025-04-18T07:00:00Z",
+        "source": "newscast.jp"
+    },
+    {
+        "company_id": "company_b",
+        "title": "【静岡駅北口にホテル】27年春の開業目指す/大和ハウスリアルティ - 建設通信新聞",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTV1JqcklrZDFFVmpvZ2Y5MXZ1S19YMG9zZTY5TFhDSmVOcTdnekVmVEtJMEtzcVpLSXlnWTdfU3k0T0g0THltajh1ZDI4U2ktQ0RJQ183Yw?oc=5",
+        "published": "2025-04-16T07:00:00Z",
+        "source": "建設通信新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスが劣後債350億円、借り換えに充当 30日発行 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50aEtHZi1lcnNQOTdUUEZ4REZOWWo4YWs1Q1VmNUxGYWdDR3FrTWVzcklnWjZFUnBVZ3BZa2wzenhoRGxFSnQ1Sk1MVlhEdnk0eGQtZ25VVkxKTU1BUEpMVmhrOElISEdBWFR2cw?oc=5",
+        "published": "2025-04-11T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "RIZIN LANDMARK 11 in SAPPORO 大会情報／チケット - RIZIN",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CZmpCMFZZTktyMVh6UlNXQ1MzRWdJdlozemtGZnMyak5GQ1Z0UkNMMDJNX3R2bGxYelpMaHgwSGtYTFNfQU5PWHp3Yw?oc=5",
+        "published": "2025-04-11T07:00:00Z",
+        "source": "RIZIN"
+    },
+    {
+        "company_id": "company_c",
+        "title": "工業化建築デザインと住み心地を追求した、セキスイハイムの木の家『ザ・デザイナーズ グランツーユー』を発売 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYTVBSVlqTFJUUXF5Z3dpMDhMM2NNWDZ3NEVwdnJYRE0tWjRoZGgyZFlXZkd1SW9DV2s0RHgyaXF1eEtrcFFsTVVQd3VJeEw5SzFseUc0dC10U3NMUGRzOHZhN2NkeGRBS2c?oc=5",
+        "published": "2025-04-10T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【完成見学会】セキスイハイム信越が五泉市白山にて、「暮らしやすさへのこだわり」にあふれた間取り - にいがた経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA4cGxnSUU2NjVtb200aW1kUmtWVFhjeDhodk00d2l4Q25nUzRyTkxoUEczeWhyZTlNaUNwOHVFaGNmRVV6?oc=5",
+        "published": "2025-04-04T07:00:00Z",
+        "source": "にいがた経済新聞"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウスは4月で創業70周年。感謝を込めて４つの「70周年記念キャンペーン」を実施！ - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NcU9zZnhtNTZLWGFzdy1VNXdtMTFmWXotNWg3b3U5b3B2NzVWOS1UNWlRa0NpVU9sNmVtV09JSVY5Qmh2cnFUN0R0TDdEVlNOdzdLUGdCWmREZ1E3SUVUcHJiT3dBVmtBeXc?oc=5",
+        "published": "2025-04-03T07:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイム社長に村松正臣氏 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVTZTWUJxazRnbU1IS0tpblFkV3JaNnN6SkZ4TEZNUElUbHNYbXZxNU4xRXJFVFJpVzJFMEZXZjJScVRhR01kaXpIN05VcENNUVk2MDJaRjBXakRNeTF3TEg1MExSSk9CdXlYNg?oc=5",
+        "published": "2025-04-02T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【限定抽選】660万円でハイクオリティな住まいを。 - 家サイト",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIdVpPU3I3dk9pUnpJWXliT09zN0hJLVl6VDMtWGdZbzNpOUhlbEZCM2Fvbm96ZVpGSUxjOVVsZlRPM3VCaWlMem1VZGlnc215TWwyRTdoQkgzODF5RnZ6aGhmb0ZqR2JJQVZUcw?oc=5",
+        "published": "2025-03-31T16:11:55Z",
+        "source": "家サイト"
+    },
+    {
+        "company_id": "company_c",
+        "title": "セキスイハイム東海、浜松にスマート機能付きマンション - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVXJpSFRNS3FXaVBWQUZlc1F4Y0VtQzFjS2FRUG95UVhYcmJmNmlpcjI5a094SUZHWTdyeWJRX25MWEVfLW9HZ3lWWVR3dHBQZjB4VnB4ckV0MVJwOFljTWNuNjREWllEQkpZTA?oc=5",
+        "published": "2025-03-21T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【セキスイハイム】見学予約でマックカード3,000円プレゼント！ - 家サイト",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2VVR4NzBiV3BfTDQ5LUJOTHluTi0tVHpUeVZicHhyTkFOY1FJaUwyVHRqS2dXenRlcHBVa1BwYzZkaGQybEM2aHNzbm9seHFfWTJoVk1PWEx0YW10SFRyUFJKTW1WeDJIalY1dw?oc=5",
+        "published": "2025-03-21T07:00:00Z",
+        "source": "家サイト"
+    },
+    {
+        "company_id": "company_c",
+        "title": "北海道セキスイハイム、「スマートハイムシティ発寒8条14丁目」に「ザ・デザイナーズハイム」のモデルハウス3棟をオープン - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3cWF0RG5MVGMtbUJKaGlrZzl3dkR2d3JQWWZkQlNCTmxhdEo1TmRkQlN0Z3Q0dXVibTJQc204bWdnazZCSnU1aFc0Y0hYOWd0TTJSYXZaS2lFUml0eXFwbEUzQVNqcG9RcldCWQ?oc=5",
+        "published": "2025-03-11T07:00:00Z",
+        "source": "日本経済新聞"
+    },
+    {
+        "company_id": "company_c",
+        "title": "羽生結弦アイスショー 2025 \"notte stellata\" 日程・放送予定・時間・ライブ配信・出演スケーター - Olympics.com",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkI0Y3FjUkM4WkU5LS0yLUI0QW01MHRiLXNhWFNmN3JnNEtnT0hreUNCem9NVThEbFlmWU9jRlpEdV9KQ1JlZ3RZRW5VSVgxbTFBeEN1QVpRNWxEYjlLT3E5eTZXVEhHNEZWMXpxRzBVU0xPVWFVZnY4aDlfZzZRV3c0YXhKVkRSR3U4cg?oc=5",
+        "published": "2025-03-06T08:00:00Z",
+        "source": "Olympics.com"
+    },
+    {
+        "company_id": "company_c",
+        "title": "中田由美がスタイリングする、セキスイハイムの美学が詰まった住宅。 - Casa BRUTUS",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OVnNZOWFySTZOTGE5TDBock9LTmJIYVpMNW5CRm1jM0tjc3QtUG5sT3h5MFZPTTJadlZ6WEtyeDk2NUd3X2djV1RJSHpTMzhxS0dWTy1OR1hLd01pRGl0SVVJaw?oc=5",
+        "published": "2025-02-27T08:00:00Z",
+        "source": "Casa BRUTUS"
+    },
+    {
+        "company_id": "company_c",
+        "title": "【積水化学グループ」】建設から住み終えるまで。「家一生」で環境に貢献 大半を工場で生産するからこそできる、地球にやさしい家づくり - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zeV9zZjVUZE1GbUthdU5FODRrenhHQXRIckx0RXNhcDBoeHFCd256SnpncF9EQmxOMEFfc2hqM3VWZVNZaHlHNDZYYVJ2aUxOTVVINENB?oc=5",
+        "published": "2025-02-21T08:00:00Z",
+        "source": "PR TIMES"
+    },
+    {
+        "company_id": "company_b",
+        "title": "大和ハウス工業株式会社 - wingarc.com",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lc2hBTHZiUGV5S0xPZWJYT2dxQWxrUTNhWXVzWXRiUXF5dThkcVdmS2tRbHViNGdjLU4xVTNIS3dacHRlQms3MDg1YWNUUW1QMDV6ZVdENWVZQnN6Z3c?oc=5",
+        "published": "2025-02-10T08:00:00Z",
+        "source": "wingarc.com"
+    },
+    {
+        "company_id": "company_c",
+        "title": "MAN WITH A MISSION、15周年アリーナツアーが宮城・セキスイハイムアリーナで開幕 7,000名の観客を前に未発表の新曲も披露 | SPICE - エンタメ特化型情報メディア スパイス - エンタメ特化型情報メディア スパイス",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0amFLbG1tbDlWSGdjb1lGUV9ybVYwWU1EckVlU0dXYWEtUHB4cnI3dVJSWW1QY21ENno5cmoyU0twcDRRQTZxRUlPckt1LUk?oc=5",
+        "published": "2025-02-03T08:00:00Z",
+        "source": "エンタメ特化型情報メディア スパイス"
     }
 ]
