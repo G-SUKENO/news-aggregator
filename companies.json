@@ -1,0 +1,18 @@
+[
+    {
+        "id": "company_a",
+        "name": "積水ハウス",
+        "search_query": "積水ハウス" 
+    },
+    {
+        "id": "company_b",
+        "name": "ダイワハウス",
+        "search_query": "ダイワハウス"
+    },
+    {
+        "id": "company_c",
+        "name": "セキスイハイム",
+        "search_query": "セキスイハイム"
+    }
+    // 以下、10社分のデータを追加してください
+]
