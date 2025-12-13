@@ -8,6 +8,8 @@ on:
   
   # 手動での実行も可能にする
   workflow_dispatch:
+permissions:
+  contents: write # 👈 これが書き込み権限を付与する設定です
 
 jobs:
   run-script:
