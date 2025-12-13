@@ -52,7 +52,6 @@ function renderNews(newsData, companies) {
     // 1. 新着記事セクションの生成 (NEW!ラベルを付ける)
     // ----------------------------------------------------------------
     
-    // 過去24時間以内の記事をフィルタリング
     const latestArticles = newsData.filter(article => {
         const publishedTime = new Date(article.published).getTime();
         return publishedTime > oneDayAgo;
@@ -65,7 +64,7 @@ function renderNews(newsData, companies) {
         ul.className = 'list-unstyled';
         ul.innerHTML = latestArticles.map(article => {
             const companyName = companyMap[article.company_id] || '不明な企業';
-            // 💡 修正ポイント 1: 新着記事セクションの記事に「NEW!」ラベルを付与
+            // 新着記事セクションの記事に「NEW!」ラベルを付与
             const newLabel = '<span class="new-label">NEW!</span>';
 
             return createNewsListItem(article, companyName, true, newLabel);
@@ -81,10 +80,10 @@ function renderNews(newsData, companies) {
     companies.forEach((company, index) => {
         const companyId = company.id;
         const companyName = company.name;
-        // 最新記事（24時間以内）を除外したアーカイブリストを作成
+        // 24時間以上前の記事（アーカイブ）のみを抽出
         const archiveArticles = (groupedNews[companyId] || []).filter(article => {
              const publishedTime = new Date(article.published).getTime();
-             return publishedTime <= oneDayAgo; // 24時間以上前の記事
+             return publishedTime <= oneDayAgo;
         });
 
         // アコーディオン要素の生成
@@ -104,7 +103,7 @@ function renderNews(newsData, companies) {
                 <div class="accordion-body">
                     <ul class="list-unstyled">
                         ${archiveArticles.length === 0 ? `<li class="text-muted">アーカイブ記事はありません。</li>` : archiveArticles.map(article => {
-                            // 💡 修正ポイント 2: アーカイブセクションでは NEW! ラベルを付けない (空文字)
+                            // アーカイブセクションでは NEW! ラベルを付けない
                             const newLabel = '';
                             
                             return createNewsListItem(article, companyName, false, newLabel);
@@ -156,3 +155,29 @@ function createNewsListItem(article, companyName, showCompanyName = false, newLa
         </li>
     `;
 }
+
+// ----------------------------------------------------------------
+// 3. アコーディオンヘッダー固定機能のイベントリスナー
+// ----------------------------------------------------------------
+document.addEventListener('DOMContentLoaded', () => {
+    const newsAccordion = document.getElementById('newsAccordion');
+    if (newsAccordion) {
+        // アコーディオンが開く直前のイベントを監視
+        newsAccordion.addEventListener('show.bs.collapse', function (event) {
+            const header = event.target.previousElementSibling;
+            if (header && header.classList.contains('accordion-header')) {
+                // ヘッダーに固定用のクラスを追加
+                header.classList.add('sticky-top-header');
+            }
+        });
+
+        // アコーディオンが閉じた後のイベントを監視
+        newsAccordion.addEventListener('hidden.bs.collapse', function (event) {
+            const header = event.target.previousElementSibling;
+            if (header && header.classList.contains('accordion-header')) {
+                // ヘッダーから固定用のクラスを削除
+                header.classList.remove('sticky-top-header');
+            }
+        });
+    }
+});
