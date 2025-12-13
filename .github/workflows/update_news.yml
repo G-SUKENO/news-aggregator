@@ -1,1 +1,37 @@
+name: Daily News Aggregation
 
+# 実行トリガーの設定
+on:
+  # 毎日、日本時間 8:00 AM に自動実行
+  schedule:
+    - cron: '0 23 * * *' 
+  
+  # 手動での実行も可能にする
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 1. リポジトリのファイルをチェックアウト（取得）
+      uses: actions/checkout@v4
+
+    - name: 2. Python環境のセットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: 3. 依存ライブラリのインストール
+      run: pip install feedparser
+
+    - name: 4. Pythonスクリプトの実行
+      run: python main.py
+
+    - name: 5. 変更されたファイルをコミット（GitHubに保存）
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'news.json'
+        author_name: Automated Bot
+        author_email: github-actions[bot]@users.noreply.github.com
+        message: 'Daily update: news.json generated'
