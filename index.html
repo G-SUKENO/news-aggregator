@@ -42,7 +42,7 @@
             margin-bottom: 20px;
             font-size: 1.5rem;
             font-weight: bold;
-            background: linear-gradient(90deg, #0015f9 45%, #ff0095 55%);
+            background: linear-gradient(90deg,#1100f9 45%,#006aff 50%, #00aaff 55%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -56,7 +56,7 @@
         h1{
             font-size: 28px;
             font-weight: bold;
-            background: linear-gradient(90deg, #0015f9 45%, #ff0095 55%);
+            background: linear-gradient(90deg, #1100f9 45%,#006aff 50%, #00aaff 55%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -71,19 +71,19 @@
 </head>
 <body>
     <div class="container my-5">
-        <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
         <h1 class="mb-4 text-center">ハウスメーカーNEWS</h1>
         <p>大手ハウスメーカーの関連記事を毎日更新<p>
-        
-        <div class="input-group mb-4">
-            <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索（タイトル、企業名など）" aria-label="記事をキーワード検索">
-            <button class="btn btn-primary" type="button" id="searchButton">検索</button>
-        </div>
-        <div id="searchResults" class="mb-5" style="display: none;">
-            <h2 class="section-heading text-center">検索結果</h2>
-            <div id="searchList">
+            
+            <div class="input-group mb-4">
+                <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索（タイトル、企業名など）" aria-label="記事をキーワード検索">
+                <button class="btn btn-primary" type="button" id="searchButton">検索</button>
+            </div>
+            <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
+            <div id="searchResults" class="mb-5" style="display: none;">
+                <h2 class="section-heading text-center">検索結果</h2>
+                <div id="searchList">
                 </div>
-            <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
+                <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
         </div>
 
         <h2 class="section-heading text-center">新着記事</h2>
