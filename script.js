@@ -49,7 +49,7 @@ function renderNews(newsData, companies) {
     }, {});
 
     // ----------------------------------------------------------------
-    // 1. 新着記事セクションの生成
+    // 1. 新着記事セクションの生成 (NEW!ラベルを付ける)
     // ----------------------------------------------------------------
     
     // 過去24時間以内の記事をフィルタリング
@@ -65,22 +65,27 @@ function renderNews(newsData, companies) {
         ul.className = 'list-unstyled';
         ul.innerHTML = latestArticles.map(article => {
             const companyName = companyMap[article.company_id] || '不明な企業';
+            // 💡 修正ポイント 1: 新着記事セクションの記事に「NEW!」ラベルを付与
+            const newLabel = '<span class="new-label">NEW!</span>';
 
-            return createNewsListItem(article, companyName, true);
+            return createNewsListItem(article, companyName, true, newLabel);
         }).join('');
         latestNewsList.appendChild(ul);
     }
 
     // ----------------------------------------------------------------
-    // 2. 企業別アーカイブの生成 (アコーディオン)
+    // 2. 企業別アーカイブの生成 (アコーディオン。NEW!ラベルは付けない)
     // ----------------------------------------------------------------
-    // 以前のコンテンツをクリア
     newsAccordion.innerHTML = ''; 
 
     companies.forEach((company, index) => {
         const companyId = company.id;
         const companyName = company.name;
-        const articles = groupedNews[companyId] || [];
+        // 最新記事（24時間以内）を除外したアーカイブリストを作成
+        const archiveArticles = (groupedNews[companyId] || []).filter(article => {
+             const publishedTime = new Date(article.published).getTime();
+             return publishedTime <= oneDayAgo; // 24時間以上前の記事
+        });
 
         // アコーディオン要素の生成
         const accordionItem = document.createElement('div');
@@ -88,7 +93,7 @@ function renderNews(newsData, companies) {
 
         const accordionId = `collapse-${companyId}`;
         
-        // 修正ポイント: isFirstを使わず、デフォルトで閉じた状態にする
+        // デフォルトで閉じた状態
         accordionItem.innerHTML = `
             <h2 class="accordion-header" id="heading-${companyId}">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${accordionId}" aria-expanded="false" aria-controls="${accordionId}">
@@ -98,12 +103,9 @@ function renderNews(newsData, companies) {
             <div id="${accordionId}" class="accordion-collapse collapse" aria-labelledby="heading-${companyId}" data-bs-parent="#newsAccordion">
                 <div class="accordion-body">
                     <ul class="list-unstyled">
-                        ${articles.length === 0 ? `<li class="text-muted">記事が見つかりませんでした。</li>` : articles.map(article => {
-                            // アーカイブセクションでは、記事の横にNEW!ラベルを付ける
-                            const publishedTime = new Date(article.published).getTime();
-                            const oneDayAgo = now.getTime() - (24 * 60 * 60 * 1000);
-                            const isNew = publishedTime > oneDayAgo;
-                            const newLabel = isNew ? '<span class="new-label">NEW!</span>' : '';
+                        ${archiveArticles.length === 0 ? `<li class="text-muted">アーカイブ記事はありません。</li>` : archiveArticles.map(article => {
+                            // 💡 修正ポイント 2: アーカイブセクションでは NEW! ラベルを付けない (空文字)
+                            const newLabel = '';
                             
                             return createNewsListItem(article, companyName, false, newLabel);
                         }).join('')}
@@ -113,7 +115,7 @@ function renderNews(newsData, companies) {
         `;
         newsAccordion.appendChild(accordionItem);
     });
-
+    
     // 最終更新日時を表示
     if (newsData.length > 0) {
         const latestArticleTime = new Date(newsData[0].published);
