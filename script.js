@@ -14,23 +14,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 })
                 .catch(error => {
                     console.error('companies.jsonの読み込みエラー:', error);
-                    // companies.jsonが読めなくても、最小限の表示は試みる
                     renderNews(newsData, []);
                 });
         })
         .catch(error => {
             console.error('ニュースデータの読み込みエラー:', error);
-            document.getElementById('newsAccordion').innerHTML = `<div class="alert alert-danger" role="alert">ニュースの読み込み中にエラーが発生しました。時間を置いて再度お試しください。</div>`;
+            document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger" role="alert">ニュースの読み込み中にエラーが発生しました。時間を置いて再度お試しください。</div>`;
         });
 });
 
 /**
- * ニュースデータを企業ごとにグループ化し、アコーディオンとして表示する
- * @param {Array} newsData - news.json から読み込んだニュース記事の配列
- * @param {Array} companies - companies.json から読み込んだ企業リストの配列
+ * ニュースデータを処理し、新着記事一覧と企業別アーカイブをレンダリングする
  */
 function renderNews(newsData, companies) {
     const newsAccordion = document.getElementById('newsAccordion');
+    const latestNewsList = document.getElementById('latestNewsList');
     const now = new Date();
     const oneDayAgo = now.getTime() - (24 * 60 * 60 * 1000); // 24時間前のUNIXタイムスタンプ
 
@@ -50,7 +48,35 @@ function renderNews(newsData, companies) {
         return groups;
     }, {});
 
-    // 企業リストの順番でアコーディオンを生成
+    // ----------------------------------------------------------------
+    // 1. 新着記事セクションの生成
+    // ----------------------------------------------------------------
+    
+    // 過去24時間以内の記事をフィルタリング
+    const latestArticles = newsData.filter(article => {
+        const publishedTime = new Date(article.published).getTime();
+        return publishedTime > oneDayAgo;
+    });
+
+    if (latestArticles.length === 0) {
+        latestNewsList.innerHTML = `<div class="alert alert-info text-center" role="alert">過去24時間以内に新しい記事はありません。</div>`;
+    } else {
+        const ul = document.createElement('ul');
+        ul.className = 'list-unstyled';
+        ul.innerHTML = latestArticles.map(article => {
+            const companyName = companyMap[article.company_id] || '不明な企業';
+
+            return createNewsListItem(article, companyName, true);
+        }).join('');
+        latestNewsList.appendChild(ul);
+    }
+
+    // ----------------------------------------------------------------
+    // 2. 企業別アーカイブの生成 (アコーディオン)
+    // ----------------------------------------------------------------
+    // 以前のコンテンツをクリア
+    newsAccordion.innerHTML = ''; 
+
     companies.forEach((company, index) => {
         const companyId = company.id;
         const companyName = company.name;
@@ -61,43 +87,25 @@ function renderNews(newsData, companies) {
         accordionItem.className = 'accordion-item';
 
         const accordionId = `collapse-${companyId}`;
-        const isFirst = index === 0; // 最初の企業はデフォルトで開いておく
-
+        
+        // 修正ポイント: isFirstを使わず、デフォルトで閉じた状態にする
         accordionItem.innerHTML = `
             <h2 class="accordion-header" id="heading-${companyId}">
-                <button class="accordion-button ${isFirst ? '' : 'collapsed'}" type="button" data-bs-toggle="collapse" data-bs-target="#${accordionId}" aria-expanded="${isFirst ? 'true' : 'false'}" aria-controls="${accordionId}">
-                    ${companyName} (${articles.length}件)
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${accordionId}" aria-expanded="false" aria-controls="${accordionId}">
+                    ${companyName}
                 </button>
             </h2>
-            <div id="${accordionId}" class="accordion-collapse collapse ${isFirst ? 'show' : ''}" aria-labelledby="heading-${companyId}" data-bs-parent="#newsAccordion">
+            <div id="${accordionId}" class="accordion-collapse collapse" aria-labelledby="heading-${companyId}" data-bs-parent="#newsAccordion">
                 <div class="accordion-body">
                     <ul class="list-unstyled">
-                        ${articles.map(article => {
+                        ${articles.length === 0 ? `<li class="text-muted">記事が見つかりませんでした。</li>` : articles.map(article => {
+                            // アーカイブセクションでは、記事の横にNEW!ラベルを付ける
                             const publishedTime = new Date(article.published).getTime();
+                            const oneDayAgo = now.getTime() - (24 * 60 * 60 * 1000);
                             const isNew = publishedTime > oneDayAgo;
                             const newLabel = isNew ? '<span class="new-label">NEW!</span>' : '';
                             
-                            // 日付を「YYYY/MM/DD hh:mm」形式にフォーマット
-                            const formattedDate = new Date(article.published).toLocaleString('ja-JP', {
-                                year: 'numeric',
-                                month: '2-digit',
-                                day: '2-digit',
-                                hour: '2-digit',
-                                minute: '2-digit',
-                                hour12: false
-                            });
-
-                            return `
-                                <li class="news-item">
-                                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title">
-                                        ${article.title}
-                                    </a>
-                                    ${newLabel}
-                                    <div class="news-meta">
-                                        ${formattedDate} - ${article.source || companyName}
-                                    </div>
-                                </li>
-                            `;
+                            return createNewsListItem(article, companyName, false, newLabel);
                         }).join('')}
                     </ul>
                 </div>
@@ -108,8 +116,7 @@ function renderNews(newsData, companies) {
 
     // 最終更新日時を表示
     if (newsData.length > 0) {
-        // news.jsonファイル自体のタイムスタンプではなく、最も新しい記事の日付を表示することが多いが、今回は簡略化しnews.jsonの更新時刻を代替する
-        const latestArticleTime = new Date(newsData[0].published); // news.jsonは既に新しい順にソートされているため
+        const latestArticleTime = new Date(newsData[0].published);
         document.getElementById('last-updated').textContent = latestArticleTime.toLocaleString('ja-JP', {
             year: 'numeric',
             month: '2-digit',
@@ -119,4 +126,31 @@ function renderNews(newsData, companies) {
             hour12: false
         });
     }
+}
+
+/**
+ * ニュースリストの<li>要素を生成するヘルパー関数
+ */
+function createNewsListItem(article, companyName, showCompanyName = false, newLabel = '') {
+    // 日付を「YYYY/MM/DD hh:mm」形式にフォーマット
+    const formattedDate = new Date(article.published).toLocaleString('ja-JP', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+    });
+
+    return `
+        <li class="news-item">
+            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title">
+                ${article.title}
+            </a>
+            ${newLabel}
+            <div class="news-meta">
+                ${formattedDate} - ${companyName} - ${article.source || '外部ソース'}
+            </div>
+        </li>
+    `;
 }
