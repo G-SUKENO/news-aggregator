@@ -1,221 +1,214 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ハウスメーカーNEWS</title>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    
-    <style>
-        /* ------------------------------------------- */
-        /* ★ 1. 基本設定と余白リセット (元の状態) ★ */
-        /* ------------------------------------------- */
-        body {
-            background-color: #ffffff; 
-            font-family: 'Noto Sans JP', sans-serif;
-            margin: 0;
-            padding: 0;
-            padding-top: 10px; 
-            padding-bottom: 20px;
-        }
-        .main-wrapper {
-            max-width: 950px;
-            margin-left: auto;
-            margin-right: auto;
-            background-color: #ffffff;
-            padding: 20px 15px; 
-        }
-        
-        /* ------------------------------------------- */
-        /* ★ 2. メイン見出し (元の状態) ★ */
-        /* ------------------------------------------- */
-        h1 {
-            font-size: 28px;
-            font-weight: 700;
-            margin-bottom: 5px;
-            text-align: center;
-            /* 元の緑・青系のグラデーションに戻す */
-            background: linear-gradient(90deg, #1f4068 40%, #16a085 60%); 
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            letter-spacing: 0.5px;
-        }
-        .description-text {
-            text-align: center;
-            color: #6c757d;
-            margin-bottom: 30px;
-            font-size: 0.95em;
-        }
-
-        /* セクション見出し (新着/アーカイブ) */
-        .section-heading {
-            /* 元の緑のボーダーに戻す */
-            border-bottom: 3px solid #16a085;
-            padding-bottom: 6px;
-            margin-bottom: 25px;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #2c3e50;
-        }
-        p.text-end {
-            color: #7f8c8d;
-            margin-bottom: 15px;
-            font-size: 0.8em;
-        }
-
-        /* ------------------------------------------- */
-        /* ★ 3. ニュースアイテム (元の状態) ★ */
-        /* ------------------------------------------- */
-        .news-item {
-            display: flex;
-            flex-direction: column;
-            padding: 10px 0; /* 元のパディングに戻す */
-            border-bottom: 1px solid #e9ecef;
-        }
-        .news-item:last-child {
-            border-bottom: none !important; 
-        }
-        
-        .news-header {
-            display: flex;
-            align-items: flex-start;
-            margin-bottom: 3px;
-        }
-        .news-title-link {
-            font-weight: 600;
-            color: #2c3e50;
-            text-decoration: none;
-            line-height: 1.3;
-            flex-grow: 1;
-            margin-right: 8px;
-            font-size: 0.95em;
-        }
-        .news-title-link:hover {
-            /* 元の緑のホバーカラーに戻す */
-            color: #16a085; 
-        }
-        .new-label {
-            background-color: #e74c3c;
-            color: white;
-            font-size: 0.7em;
-            padding: 1px 6px;
-            border-radius: 3px;
-            flex-shrink: 0;
-            align-self: flex-start;
-            margin-top: 2px;
-        }
-        .news-meta {
-            display: flex;
-            font-size: 0.75em;
-            color: #7f8c8d;
-            gap: 10px;
-        }
-
-        /* ------------------------------------------- */
-        /* ★ 4. アーカイブの再構築 (元の状態) ★ */
-        /* ------------------------------------------- */
-        .archive-item {
-            border: 1px solid #e0e0e0;
-            margin-bottom: 1px; 
-            border-radius: 4px;
-            overflow: hidden; 
-        }
-        
-        /* summaryタグ（アコーディオンのヘッダー部分）のスタイル */
-        .archive-item summary {
-            display: block; 
-            padding: 0.5rem 1rem; 
-            font-weight: 600;
-            font-size: 1.0rem; 
-            color: #34495e;
-            background-color: #fcfcfc;
-            cursor: pointer;
-            outline: none;
-            list-style: none; 
-            position: relative;
-        }
-        
-        /* 展開/折りたたみアイコンのカスタム */
-        .archive-item summary::before {
-            content: "+";
-            position: absolute;
-            right: 15px;
-            font-size: 1.2rem;
-            line-height: 1;
-            /* 元の緑のアイコンカラーに戻す */
-            color: #16a085; 
-            transition: transform 0.2s;
-        }
-
-        /* 展開時 */
-        .archive-item[open] summary::before {
-            content: "−";
-            transform: rotate(180deg);
-        }
-
-        /* 詳細コンテンツ (ニュースリスト) のスタイル */
-        .archive-content {
-            padding: 0; 
-            background-color: #ffffff;
-            border-top: 1px solid #e9ecef; 
-            /* 元のパディングに戻す */
-            padding: 5px 15px 5px 15px;
-        }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ハウスメーカーNEWS</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <style>
+        /* ------------------------------------------- */
+        /* ★ 1. 基本設定と余白リセット (元の状態) ★ */
+        /* ------------------------------------------- */
+        body {
+            background-color: #ffffff; 
+            font-family: 'Noto Sans JP', sans-serif;
+            margin: 0;
+            padding: 0;
+            padding-top: 10px; 
+            padding-bottom: 20px;
+        }
+        .main-wrapper {
+            max-width: 950px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #ffffff;
+            padding: 20px 15px; 
+        }
         
-        /* 画面右下に固定するボタンのスタイルを完全に削除（JSも修正が必要です） */
-        #close-accordion-btn {
+        /* ------------------------------------------- */
+        /* ★ 2. メイン見出し (h1) の修正（全角スペース排除済み） ★ */
+        /* ------------------------------------------- */
+        h1 {
+            font-size: 28px !important;
+            font-weight: 700 !important;
+            margin-bottom: 5px !important;
+            text-align: center !important;
+            /* グラデーション: 濃い青/緑系 */
+            background: linear-gradient(90deg, #1f4068 40%, #16a085 60%) !important; 
+            -webkit-background-clip: text !important;
+            -webkit-text-fill-color: transparent !important;
+            letter-spacing: 0.5px !important;
+        }
+        .description-text {
+            text-align: center;
+            color: #6c757d;
+            margin-bottom: 30px;
+            font-size: 0.95em;
+        }
+
+        /* セクション見出し (新着/アーカイブ) */
+        .section-heading {
+            border-bottom: 3px solid #16a085;
+            padding-bottom: 6px;
+            margin-bottom: 25px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+        }
+        p.text-end {
+            color: #7f8c8d;
+            margin-bottom: 15px;
+            font-size: 0.8em;
+        }
+
+        /* ------------------------------------------- */
+        /* ★ 3. ニュースアイテム (レイアウト調整済み) ★ */
+        /* ------------------------------------------- */
+        .news-item {
+            display: flex;
+            flex-direction: column;
+            /* 行の高さ調整のためのパディングを詰める */
+            padding: 8px 0 !important; 
+            border-bottom: 1px solid #e9ecef;
+        }
+        .news-item:last-child {
+            border-bottom: none !important; 
+        }
+        
+        .news-header {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 3px;
+        }
+        .news-title-link {
+            font-weight: 600;
+            color: #2c3e50;
+            text-decoration: none;
+            line-height: 1.3;
+            flex-grow: 1;
+            margin-right: 8px;
+            font-size: 0.95em;
+        }
+        .news-title-link:hover {
+            color: #16a085; 
+        }
+        .new-label {
+            background-color: #e74c3c;
+            color: white;
+            font-size: 0.7em;
+            padding: 1px 6px;
+            border-radius: 3px;
+            flex-shrink: 0;
+            align-self: flex-start;
+            margin-top: 2px;
+        }
+        .news-meta {
+            display: flex;
+            font-size: 0.75em;
+            color: #7f8c8d;
+            gap: 10px;
+            margin: 0 !important; /* 行の高さを詰める */
+        }
+
+        /* ------------------------------------------- */
+        /* ★ 4. アーカイブの再構築 ★ */
+        /* ------------------------------------------- */
+        .archive-item {
+            border: 1px solid #e0e0e0;
+            margin-bottom: 1px; 
+            border-radius: 4px;
+            overflow: hidden; 
+        }
+        
+        .archive-item summary {
+            display: block; 
+            padding: 0.5rem 1rem; 
+            font-weight: 600;
+            font-size: 1.0rem; 
+            color: #34495e;
+            background-color: #fcfcfc;
+            cursor: pointer;
+            outline: none;
+            list-style: none; 
+            position: relative;
+        }
+        
+        .archive-item summary::before {
+            content: "+";
+            position: absolute;
+            right: 15px;
+            font-size: 1.2rem;
+            line-height: 1;
+            color: #16a085; 
+            transition: transform 0.2s;
+        }
+
+        .archive-item[open] summary::before {
+            content: "−";
+            transform: rotate(180deg);
+        }
+
+        .archive-content {
+            background-color: #ffffff;
+            border-top: 1px solid #e9ecef; 
+            /* 記事が左寄せになるよう、左右パディングを調整 */
+            padding: 5px 15px 5px 15px !important; 
+        }
+        
+        /* 画面右下に固定するボタンのスタイルを削除 */
+        #close-accordion-btn {
             display: none;
-            /* 他の固定スタイルも削除 */
         }
 
 
-        /* ------------------------------------------- */
-        /* ★ 5. モバイルでの調整 (元の状態) ★ */
-        /* ------------------------------------------- */
-        @media (max-width: 576px) {
-            .main-wrapper {
-                margin-top: 5px;
-                margin-bottom: 5px;
-                padding: 15px 10px;
-            }
-            .news-meta {
-                flex-wrap: wrap; 
-            }
-        }
-    </style>
+        /* ------------------------------------------- */
+        /* ★ 5. モバイルでの調整 ★ */
+        /* ------------------------------------------- */
+        @media (max-width: 576px) {
+            .main-wrapper {
+                margin-top: 5px;
+                margin-bottom: 5px;
+                padding: 15px 10px;
+            }
+            .news-meta {
+                flex-wrap: wrap; 
+            }
+        }
+    </style>
 </head>
 <body>
-    <div class="main-wrapper">
-        <h1 class="mb-4">ハウスメーカーNEWS</h1>
-        <p class="description-text">大手ハウスメーカーの関連記事を毎日更新</p>
-            
-        <div class="input-group mb-4">
-            <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索" aria-label="記事をキーワード検索">
-                        <button class="btn" style="background-color: #16a085; color: white;" type="button" id="searchButton">検索</button>
-        </div>
-        
-        <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
-        
-        <div id="searchResults" class="mb-5" style="display: none;">
-            <h2 class="section-heading text-center">検索結果</h2>
-            <div id="searchList">
-            </div>
-            <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
-        </div>
+    <div class="main-wrapper">
+        <h1 class="mb-4">ハウスメーカーNEWS</h1>
+        <p class="description-text">大手ハウスメーカーの関連記事を毎日更新</p>
+            
+        <div class="input-group mb-4">
+            <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索" aria-label="記事をキーワード検索">
+            <button class="btn" style="background-color: #16a085; color: white;" type="button" id="searchButton">検索</button>
+        </div>
+        
+        <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
+        
+        <div id="searchResults" class="mb-5" style="display: none;">
+            <h2 class="section-heading text-center">検索結果</h2>
+            <div id="searchList">
+            </div>
+            <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
+        </div>
 
-        <h2 class="section-heading text-center">新着記事</h2>
-        <div id="latestNewsList" class="mb-5">
-        </div>
+        <h2 class="section-heading text-center">新着記事</h2>
+        <div id="latestNewsList" class="mb-5">
+        </div>
 
-        <h2 class="section-heading text-center mt-5">アーカイブ</h2>
-        <div id="archiveListContainer">
-            </div>
+        <h2 class="section-heading text-center mt-5">アーカイブ</h2>
+        <div id="archiveListContainer">
+            </div>
 
-        <p class="mt-5 text-center text-muted">データ提供: Google&Yahoo!ニュースRSS</p>
-    </div>
+        <p class="mt-5 text-center text-muted">データ提供: Google&Yahoo!ニュースRSS</p>
+    </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="script.js"></script>
-    </body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
 </html>
