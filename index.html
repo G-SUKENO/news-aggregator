@@ -4,143 +4,138 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ハウスメーカーNEWS</title>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     
     <style>
         /* ------------------------------------------- */
-        /* ★ ベーススタイル ★ */
+        /* ★ 1. 基本設定と余白リセット ★ */
         /* ------------------------------------------- */
         body {
-            background-color: #f0f2f5; /* わずかに青みがかった背景 */
+            background-color: #f5f7fa; /* 落ち着いた背景色 */
             font-family: 'Noto Sans JP', sans-serif;
+            margin: 0; /* bodyのデフォルトマージンをリセット */
+            padding: 0;
         }
-        .container {
-            max-width: 950px;
+        .container-fluid-custom {
+            /* 最大幅を解除し、paddingで余白を調整 */
+            padding: 0 15px; 
+            margin-top: 20px; /* 最上部の余白を削減 */
+            margin-bottom: 20px;
+        }
+        .main-content {
             background-color: #ffffff;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* 浮遊感を出すシャドウ */
-            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
             border-radius: 8px;
-            margin-top: 50px;
-            margin-bottom: 50px;
+            padding: 20px 15px; /* コンテンツ内のパディングを調整 */
         }
-
+        
         /* ------------------------------------------- */
-        /* ★ メイン見出し ★ */
+        /* ★ 2. 見出しスタイル ★ */
         /* ------------------------------------------- */
         h1 {
-            font-family: 'Roboto', sans-serif;
-            font-size: 34px;
+            font-size: 28px;
             font-weight: 700;
             margin-bottom: 5px;
             text-align: center;
-            /* グラデーションと影で目立たせる */
-            background: linear-gradient(90deg, #1f4068, #16a085, #1f4068);
+            background: linear-gradient(90deg, #1f4068 40%, #16a085 60%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            letter-spacing: 0.5px;
         }
         .description-text {
             text-align: center;
-            color: #666;
-            margin-bottom: 40px;
+            color: #6c757d;
+            margin-bottom: 30px;
+            font-size: 0.95em;
         }
 
-        /* ------------------------------------------- */
-        /* ★ セクション見出し (新着/アーカイブ) ★ */
-        /* ------------------------------------------- */
+        /* セクション見出し (新着/アーカイブ) */
         .section-heading {
-            border-bottom: 3px solid #16a085; /* テーマカラーの太い下線 */
-            padding-bottom: 8px;
-            margin-bottom: 30px;
-            font-size: 1.8rem;
+            border-bottom: 3px solid #16a085;
+            padding-bottom: 6px;
+            margin-bottom: 25px;
+            font-size: 1.5rem;
             font-weight: 700;
             color: #2c3e50;
         }
         p.text-end {
             color: #7f8c8d;
-            margin-bottom: 20px;
-            font-size: 0.9em;
+            margin-bottom: 15px;
+            font-size: 0.8em;
         }
 
         /* ------------------------------------------- */
-        /* ★ ニュースアイテム（Flexboxベース） ★ */
+        /* ★ 3. ニュースアイテム (コンパクトなFlexbox) ★ */
         /* ------------------------------------------- */
         .news-item {
             display: flex;
             flex-direction: column;
-            padding: 12px 0;
-            border-bottom: 1px solid #ebf0f5; /* 細い区切り線 */
-            transition: background-color 0.2s;
-        }
-        .news-item:hover {
-            background-color: #f9f9f9;
-        }
-        .news-item:last-child {
-            border-bottom: none;
+            padding: 10px 0; /* 縦のパディングを削減 */
+            border-bottom: 1px solid #e9ecef;
         }
         
         .news-header {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 4px;
+            margin-bottom: 3px;
         }
 
         .news-title-link {
             font-weight: 600;
             color: #2c3e50;
             text-decoration: none;
-            line-height: 1.4;
-            flex-grow: 1; /* タイトルが残りのスペースを埋める */
-            margin-right: 10px;
+            line-height: 1.3;
+            flex-grow: 1;
+            margin-right: 8px;
+            font-size: 0.95em; /* フォントサイズをわずかに小さく */
         }
         .news-title-link:hover {
             color: #16a085;
         }
 
         .new-label {
-            background-color: #e74c3c; /* 鮮やかな赤 */
+            background-color: #e74c3c;
             color: white;
-            font-size: 0.75em;
-            padding: 2px 7px;
-            border-radius: 4px;
+            font-size: 0.7em;
+            padding: 1px 6px; /* パディングを削減 */
+            border-radius: 3px;
             flex-shrink: 0;
-            align-self: flex-start; /* 上端に揃える */
-            margin-top: 3px;
-            font-weight: bold;
+            align-self: flex-start;
+            margin-top: 2px;
         }
         
         .news-meta {
             display: flex;
-            font-size: 0.8em;
+            font-size: 0.75em; /* メタ情報をさらに小さく */
             color: #7f8c8d;
-            gap: 15px;
+            gap: 10px;
         }
 
         /* ------------------------------------------- */
-        /* ★ アーカイブ アコーディオン ★ */
+        /* ★ 4. アコーディオンの高さ調整 (最重要) ★ */
         /* ------------------------------------------- */
         .accordion-button {
-            font-weight: 700;
-            font-size: 1.25rem;
+            font-weight: 600;
+            font-size: 1.0rem; /* 大幅にサイズダウン */
             color: #34495e;
-            /* 高さを抑える */
-            padding-top: 0.6rem;
-            padding-bottom: 0.6rem;
+            /* 上下のパディングを極限まで削減し、高さを最小化 */
+            padding: 0.5rem 1rem; 
             background-color: #fcfcfc;
-        }
-        .accordion-button:focus {
-            box-shadow: 0 0 0 0.25rem rgba(22, 160, 133, 0.25); /* テーマカラーのフォーカス */
         }
         .accordion-item {
             border: 1px solid #e0e0e0;
-            margin-bottom: 5px;
+            margin-bottom: 3px; /* 企業間のマージンを削減 */
             border-radius: 4px;
         }
         .accordion-body {
-            padding: 0; /* paddingを削除し、news-itemのpaddingで調整 */
+            padding: 0; /* paddingを完全に削除 */
         }
-
+        /* アコーディオン内のニュースリストの最後の区切り線を削除 */
+        .accordion-body .news-item:last-child {
+            border-bottom: none;
+        }
+        
         /* 固定ヘッダーの高さ問題を確実にリセット */
         .accordion-header.sticky-top-header {
             position: sticky;
@@ -150,41 +145,52 @@
             height: auto !important; 
         }
 
-        /* 検索結果リストの調整 */
-        #searchList .news-item:last-child {
-            border-bottom: 1px solid #ebf0f5; 
+        /* ------------------------------------------- */
+        /* ★ 5. モバイルでの調整 (念のため) ★ */
+        /* ------------------------------------------- */
+        @media (max-width: 576px) {
+            h1 {
+                font-size: 24px;
+            }
+            .section-heading {
+                font-size: 1.3rem;
+            }
+            .main-content {
+                padding: 15px 10px;
+            }
         }
-        
     </style>
 </head>
 <body>
-    <div class="container my-5">
-        <h1 class="mb-4">ハウスメーカーNEWS</h1>
-        <p class="description-text">大手ハウスメーカーの関連記事を毎日更新</p>
+    <div class="container-fluid-custom">
+        <div class="main-content">
+            <h1 class="mb-4">ハウスメーカーNEWS</h1>
+            <p class="description-text">大手ハウスメーカーの関連記事を毎日更新</p>
+                
+            <div class="input-group mb-4">
+                <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索" aria-label="記事をキーワード検索">
+                <button class="btn" style="background-color: #16a085; color: white;" type="button" id="searchButton">検索</button>
+            </div>
             
-        <div class="input-group mb-4">
-            <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索（タイトル、企業名など）" aria-label="記事をキーワード検索">
-            <button class="btn" style="background-color: #16a085; color: white;" type="button" id="searchButton">検索</button>
-        </div>
-        
-        <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
-        
-        <div id="searchResults" class="mb-5" style="display: none;">
-            <h2 class="section-heading text-center">検索結果</h2>
-            <div id="searchList">
+            <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
+            
+            <div id="searchResults" class="mb-5" style="display: none;">
+                <h2 class="section-heading text-center">検索結果</h2>
+                <div id="searchList">
                 </div>
-            <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
+                <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
+            </div>
+
+            <h2 class="section-heading text-center">新着記事</h2>
+            <div id="latestNewsList" class="mb-5">
+            </div>
+
+            <h2 class="section-heading text-center mt-5">アーカイブ</h2>
+            <div class="accordion" id="newsAccordion">
+            </div>
+
+            <p class="mt-5 text-center text-muted">データ提供: Google&Yahoo!ニュースRSS</p>
         </div>
-
-        <h2 class="section-heading text-center">新着記事</h2>
-        <div id="latestNewsList" class="mb-5">
-            </div>
-
-        <h2 class="section-heading text-center mt-5">アーカイブ</h2>
-        <div class="accordion" id="newsAccordion">
-            </div>
-
-        <p class="mt-5 text-center text-muted">データ提供: Google&Yahoo!ニュースRSS</p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
