@@ -8,9 +8,9 @@ ALL_NEWS_DATA = []
 
 def fetch_google_news(search_query, company_id):
     # 日本語の検索クエリをURLエンコード
-    # 例: "トヨタ自動車 OR TOYOTA" -> "%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A%20OR%20TOYOTA"
     encoded_query = urllib.parse.quote(search_query)
     # GoogleニュースRSSのURLを生成
+    # gl=JP を使用することで、より地域に特化した記事を取得しやすくします
     RSS_URL = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
     
     print(f"  -> RSS取得中 (クエリ: {search_query})")
@@ -23,13 +23,14 @@ def fetch_google_news(search_query, company_id):
             if not entry.title or not entry.link:
                 continue
 
-            # published_parsedが存在しない場合があるため、published_parsedを使用
+            # published_parsed を使用して日時を取得
             published_time = entry.get('published_parsed')
             if published_time:
-                 # Pythonのdatetimeオブジェクトに変換
+                # Pythonのdatetimeオブジェクトに変換し、タイムゾーン情報なし (Naive) のISOフォーマットで保存
+                # これにより、JS側でローカルタイムとして正確に扱われます。
                 published_iso = datetime.datetime(*published_time[:6]).isoformat()
             else:
-                # 取得できない場合は現在時刻を仮設定 (滅多にないケース)
+                # 取得できない場合は現在時刻を仮設定
                 published_iso = datetime.datetime.now().isoformat()
                 
             ALL_NEWS_DATA.append({
@@ -63,14 +64,27 @@ def main():
         fetch_google_news(company["search_query"], company["id"])
 
     # 3. 記事を公開日時でソート（新しい順）
-    # 日付文字列でソートすれば新しい順になる
+    # ソートにより、重複削除時に古いものが残るのを防ぎます
     ALL_NEWS_DATA.sort(key=lambda x: x.get('published', '1900-01-01'), reverse=True)
     
-    # 4. データをJSONファイルとして保存 (news.jsonを上書き)
+    # 4. データ重複の削除 (linkをキーとして重複を排除)
+    unique_links = set()
+    deduplicated_news = []
+    
+    for item in ALL_NEWS_DATA:
+        # 重複するリンクを持つ記事でなければ追加
+        if item['link'] not in unique_links:
+            unique_links.add(item['link'])
+            deduplicated_news.append(item)
+            
+    print(f"  -> 全体で {len(ALL_NEWS_DATA) - len(deduplicated_news)} 件の重複記事を削除しました。")
+    
+    # 5. データをJSONファイルとして保存 (news.jsonを上書き)
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(ALL_NEWS_DATA, f, indent=4, ensure_ascii=False)
+        # 重複削除後のリストを保存
+        json.dump(deduplicated_news, f, indent=4, ensure_ascii=False)
 
-    print(f"\n✅ 全企業合計で {len(ALL_NEWS_DATA)}件のニュースを news.json に保存しました。")
+    print(f"\n✅ 最終的に {len(deduplicated_news)} 件のニュースを news.json に保存しました。")
 
 if __name__ == "__main__":
     main()
