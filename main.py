@@ -1,65 +1,20 @@
+# =================================================================
+# main.py 修正版 (既存データ読み込みの安定化)
+# =================================================================
 import feedparser
 import json
 import urllib.parse
 import datetime
-import time # 現在時刻取得に使用
+import time 
+# ... (他の import はそのまま)
 
-# ニュースデータを格納する最終的なリスト
-ALL_NEWS_DATA = []
-
-# 1企業あたりの最大取得件数を定義
-MAX_ARTICLES_PER_COMPANY_FETCH = 50
-
-# 1企業あたりの最大保存件数を定義 (アーカイブの上限: 100件)
-MAX_ARTICLES_PER_COMPANY_ARCHIVE = 100 
-
-def fetch_google_news(search_query, company_id):
-    # 日本語の検索クエリをURLエンコード
-    encoded_query = urllib.parse.quote(search_query)
-    RSS_URL = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
-    
-    print(f" -> RSS取得中 (クエリ: {search_query})")
-    
-    try:
-        feed = feedparser.parse(RSS_URL)
-        article_count = 0 
-        
-        for entry in feed.entries:
-            if article_count >= MAX_ARTICLES_PER_COMPANY_FETCH:
-                break
-
-            if not entry.title or not entry.link:
-                continue
-
-            published_time = entry.get('published_parsed')
-            if published_time:
-                # JST時刻変換：UTC時刻をJSTに変換 (9時間加算)
-                dt_utc = datetime.datetime(*published_time[:6])
-                dt_jst = dt_utc + datetime.timedelta(hours=9) 
-                published_iso = dt_jst.isoformat()
-            else:
-                published_iso = datetime.datetime.now().isoformat()
-                
-            ALL_NEWS_DATA.append({
-                "company_id": company_id,
-                "title": entry.title,
-                "link": entry.link,
-                "published": published_iso,
-                "source": entry.source.get('title', 'Google News')
-            })
-            article_count += 1
-            
-        print(f" -> {article_count} 件の記事を取得しました。")
-
-    except Exception as e:
-        print(f" 警告: Googleニュースの取得でエラーが発生しました: {e}")
-
+# ... (fetch_google_news 関数はそのまま)
 
 def main():
     # 0. ★ データ生成時刻を記録 (JST) ★
     generated_time_jst = datetime.datetime.now().isoformat()
 
-    # 1. 企業リストの読み込み
+    # 1. 企業リストの読み込み (省略)
     try:
         with open("companies.json", "r", encoding="utf-8") as f:
             COMPANIES = json.load(f)
@@ -72,20 +27,31 @@ def main():
         return
         
     # 2. 既存のニュースデータを読み込む
-    existing_news_container = {}
+    existing_news = []
     try:
         with open("news.json", "r", encoding="utf-8") as f:
-            # news.json の構造が変更になるため、ここでは一旦 dict で読み込む
             data = json.load(f)
-            # 記事リスト部分を取り出す (メタデータが先頭に追加されるため)
-            existing_news = data.get('articles', [])
-            existing_news_container['articles'] = existing_news
+            
+            # ★★★ 修正点: データの形式をチェックして記事リストを取り出す ★★★
+            if isinstance(data, list):
+                # 古い配列形式の場合
+                existing_news = data
+                print(" -> news.json が古い配列形式で読み込まれました。")
+            elif isinstance(data, dict) and 'articles' in data:
+                # 新しいオブジェクト形式の場合
+                existing_news = data['articles']
+                print(" -> news.json が新しいオブジェクト形式で読み込まれました。")
+            else:
+                print(" -> news.json の形式が不正です。既存データは破棄されます。")
+                
             print(f" -> news.json から既存の {len(existing_news)} 件の記事を読み込みました。")
-    except (FileNotFoundError, json.JSONDecodeError):
-        print(" -> 既存の news.json が見つからないか、読み込みエラーです。新規作成します。")
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f" -> 既存の news.json が見つからないか、読み込みエラーです。新規作成します。エラー: {e}")
         existing_news = [] # 新規作成の場合は空リスト
 
     print("=== ニュースデータ収集開始 ===")
+    
+    # ... (ステップ 3～9 は、ご提示いただいたコードと同じで問題ありません) ...
 
     # 3. 各企業ごとにニュースを取得
     for company in COMPANIES:
