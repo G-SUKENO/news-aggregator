@@ -3,15 +3,10 @@ let companyMap = {};  // 企業マップをグローバルで保持
 
 /**
  * ISO 8601形式の文字列を、JSTとしてパースするヘルパー関数
- * Python側でJSTに変換済みなので、ブラウザのローカルタイムとして正確に解釈させる
- * ために使用します。
  */
 function parseDateAsJST(dateString) {
-    // 日付文字列から 'YYYY-MM-DDTHH:MM:SS' の各パーツを抽出
     const parts = dateString.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
     if (parts) {
-        // new Date(year, monthIndex, day, hours, minutes, seconds) はローカルタイムとして解釈される
-        // monthIndexは0から始まるため、-1する
         return new Date(parts[1], parts[2] - 1, parts[3], parts[4], parts[5], parts[6]);
     }
     return new Date(dateString);
@@ -19,37 +14,36 @@ function parseDateAsJST(dateString) {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    // ニュースデータと企業データを読み込む
-    Promise.all([
-        fetch('news.json').then(response => {
-            if (!response.ok) throw new Error('news.jsonの読み込みに失敗しました。');
-            return response.json();
-        }),
-        fetch('companies.json').then(res => res.json())
-    ])
-    .then(([newsData, companies]) => {
-        allNewsData = newsData;
-        
-        // 企業リストをIDでアクセスしやすいようにマップ化
-        companyMap = companies.reduce((map, company) => {
-            map[company.id] = company.name;
-            return map;
-        }, {});
-        
-        renderNews(allNewsData, companies);
-        setupSearch(); // 検索機能をセットアップ
-    })
-    .catch(error => {
-        console.error('データの読み込みエラー:', error);
-        document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger text-center" role="alert">ニュースの読み込み中にエラーが発生しました。</div>`;
-    });
+    // ニュースデータと企業データを読み込む
+    Promise.all([
+        fetch('news.json').then(response => {
+            if (!response.ok) throw new Error('news.jsonの読み込みに失敗しました。');
+            return response.json();
+        }),
+        fetch('companies.json').then(res => res.json())
+    ])
+    .then(([newsData, companies]) => {
+        allNewsData = newsData;
+        
+        // 企業リストをIDでアクセスしやすいようにマップ化
+        companyMap = companies.reduce((map, company) => {
+            map[company.id] = company.name;
+            return map;
+            }, {});
+        
+        renderNews(allNewsData, companies);
+        setupSearch(); 
+    })
+    .catch(error => {
+        console.error('データの読み込みエラー:', error);
+        document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger text-center" role="alert">ニュースの読み込み中にエラーが発生しました。</div>`;
+    });
 });
 
 /**
- * ニュースリストのアイテム要素を生成するヘルパー関数 (新しいHTML構造)
+ * ニュースリストのアイテム要素を生成するヘルパー関数
  */
 function createNewsListItem(article, companyName, newLabel = '') {
-    // JSTとして正確にパース
     const articleDate = parseDateAsJST(article.published);
     
     const formattedDate = articleDate.toLocaleString('ja-JP', {
@@ -86,10 +80,9 @@ function renderNews(newsData, companies) {
     const latestNewsList = document.getElementById('latestNewsList');
     
     // ----------------------------------------------------------------
-    // ★ 時刻ロジック: 最終更新時間と新着記事の判定ロジックを8:00AM基準に固定 ★
+    // 時刻ロジック: 最終更新時間と新着記事の判定ロジックを8:00AM基準に固定
     // ----------------------------------------------------------------
     
-    // 1. 最新記事の日付を取得し、その日のAM 8:00を「最終更新時間」とする
     const latestArticleDate = newsData.length > 0 ? parseDateAsJST(newsData[0].published) : new Date();
     
     // 最終更新時間: 最新記事の日付の8時00分00秒に固定
@@ -131,9 +124,7 @@ function renderNews(newsData, companies) {
     // 2. 新着記事セクションの生成
     // ----------------------------------------------------------------
     
-    // 新着記事の境界時間(前日8:00AM)以降の記事をフィルタリング
     const latestArticles = newsData.filter(article => {
-        // JSTとして正確にパース
         const publishedTime = parseDateAsJST(article.published).getTime();
         return publishedTime > oneDayAgoCutoff;
     });
@@ -149,7 +140,7 @@ function renderNews(newsData, companies) {
 
             return createNewsListItem(article, companyName, newLabel);
         }).join('');
-        latestNewsList.innerHTML = ''; // 既存の内容をクリア
+        latestNewsList.innerHTML = ''; 
         latestNewsList.appendChild(newsContainer);
     }
 
@@ -161,9 +152,7 @@ function renderNews(newsData, companies) {
     companies.forEach((company, index) => {
         const companyId = company.id;
         const companyName = company.name;
-        // アーカイブ記事の抽出: oneDayAgoCutoff 以前の記事
         const archiveArticles = (groupedNews[companyId] || []).filter(article => {
-             // JSTとして正確にパース
              const publishedTime = parseDateAsJST(article.published).getTime();
              return publishedTime <= oneDayAgoCutoff;
         });
@@ -172,12 +161,10 @@ function renderNews(newsData, companies) {
         accordionItem.className = 'accordion-item';
         const accordionId = `collapse-${companyId}`;
         
-        // アーカイブ記事のHTMLを生成
         const newsListHtml = archiveArticles.length === 0 ? 
             `<div class="text-muted text-center py-3">アーカイブ記事はありません。</div>` : 
             archiveArticles.map(article => {
-                const newLabel = '';
-                return createNewsListItem(article, companyName, newLabel);
+                return createNewsListItem(article, companyName, '');
             }).join('');
 
         accordionItem.innerHTML = `
@@ -197,7 +184,7 @@ function renderNews(newsData, companies) {
 }
 
 /**
- * 検索機能をセットアップする (構造変更に合わせて修正)
+ * 検索機能をセットアップする
  */
 function setupSearch() {
     const searchInput = document.getElementById('searchKeyword');
@@ -266,7 +253,7 @@ function setupSearch() {
 
 
 // ----------------------------------------------------------------
-// アコーディオンヘッダー固定機能のイベントリスナー (変更なし)
+// アコーディオンヘッダー固定機能のイベントリスナー
 // ----------------------------------------------------------------
 document.addEventListener('DOMContentLoaded', () => {
     const newsAccordion = document.getElementById('newsAccordion');
