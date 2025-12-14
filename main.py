@@ -27,10 +27,10 @@ def fetch_google_news(search_query, company_id):
             published_time = entry.get('published_parsed')
             if published_time:
                  # Pythonのdatetimeオブジェクトに変換
-                published_iso = datetime.datetime(*published_time[:6]).isoformat() + 'Z'
+                published_iso = datetime.datetime(*published_time[:6]).isoformat()
             else:
                 # 取得できない場合は現在時刻を仮設定 (滅多にないケース)
-                published_iso = datetime.datetime.now().isoformat() + 'Z'
+                published_iso = datetime.datetime.now().isoformat()
                 
             ALL_NEWS_DATA.append({
                 "company_id": company_id,
