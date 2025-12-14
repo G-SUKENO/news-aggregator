@@ -7,6 +7,7 @@ let companyMap = {};  // 企業マップをグローバルで保持
 function parseDateAsJST(dateString) {
     const parts = dateString.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
     if (parts) {
+        // new Date(year, monthIndex, day, hours, minutes, seconds) はローカルタイムとして解釈される
         return new Date(parts[1], parts[2] - 1, parts[3], parts[4], parts[5], parts[6]);
     }
     return new Date(dateString);
@@ -14,7 +15,6 @@ function parseDateAsJST(dateString) {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    // ニュースデータと企業データを読み込む
     Promise.all([
         fetch('news.json').then(response => {
             if (!response.ok) throw new Error('news.jsonの読み込みに失敗しました。');
@@ -25,7 +25,6 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(([newsData, companies]) => {
         allNewsData = newsData;
         
-        // 企業リストをIDでアクセスしやすいようにマップ化
         companyMap = companies.reduce((map, company) => {
             map[company.id] = company.name;
             return map;
@@ -76,29 +75,24 @@ function createNewsListItem(article, companyName, newLabel = '') {
  * ニュースデータを処理し、新着記事一覧と企業別アーカイブをレンダリングする
  */
 function renderNews(newsData, companies) {
-    const newsAccordion = document.getElementById('newsAccordion');
+    // IDを変更: newsAccordion -> archiveListContainer
+    const archiveListContainer = document.getElementById('archiveListContainer');
     const latestNewsList = document.getElementById('latestNewsList');
     
     // ----------------------------------------------------------------
-    // 時刻ロジック: 最終更新時間と新着記事の判定ロジックを8:00AM基準に固定
+    // 時刻ロジック
     // ----------------------------------------------------------------
-    
     const latestArticleDate = newsData.length > 0 ? parseDateAsJST(newsData[0].published) : new Date();
     
-    // 最終更新時間: 最新記事の日付の8時00分00秒に固定
     const lastUpdateTime = new Date(
         latestArticleDate.getFullYear(), 
         latestArticleDate.getMonth(), 
         latestArticleDate.getDate(), 
-        8, // 常に8時
-        0, // 常に0分
-        0
+        8, 0, 0
     );
 
-    // 新着記事の境界時間: 最終更新時間から24時間前 (前日のAM 8:00)
     const oneDayAgoCutoff = lastUpdateTime.getTime() - (24 * 60 * 60 * 1000);
     
-    // ニュース記事を企業IDごとにグループ化
     const groupedNews = newsData.reduce((groups, item) => {
         const companyId = item.company_id;
         if (!groups[companyId]) {
@@ -121,9 +115,8 @@ function renderNews(newsData, companies) {
     }
 
     // ----------------------------------------------------------------
-    // 2. 新着記事セクションの生成
+    // 2. 新着記事セクションの生成 (変更なし)
     // ----------------------------------------------------------------
-    
     const latestArticles = newsData.filter(article => {
         const publishedTime = parseDateAsJST(article.published).getTime();
         return publishedTime > oneDayAgoCutoff;
@@ -145,42 +138,40 @@ function renderNews(newsData, companies) {
     }
 
     // ----------------------------------------------------------------
-    // 3. 企業別アーカイブの生成
+    // 3. 企業別アーカイブの生成 (details/summaryに修正)
     // ----------------------------------------------------------------
-    newsAccordion.innerHTML = ''; 
+    archiveListContainer.innerHTML = ''; 
 
-    companies.forEach((company, index) => {
+    companies.forEach((company) => {
         const companyId = company.id;
         const companyName = company.name;
+        
         const archiveArticles = (groupedNews[companyId] || []).filter(article => {
              const publishedTime = parseDateAsJST(article.published).getTime();
              return publishedTime <= oneDayAgoCutoff;
         });
 
-        const accordionItem = document.createElement('div');
-        accordionItem.className = 'accordion-item';
-        const accordionId = `collapse-${companyId}`;
+        // details要素を生成 (アコーディオンのitemに相当)
+        const detailsElement = document.createElement('details');
+        detailsElement.className = 'archive-item';
         
+        // アーカイブ記事のHTMLを生成
         const newsListHtml = archiveArticles.length === 0 ? 
             `<div class="text-muted text-center py-3">アーカイブ記事はありません。</div>` : 
             archiveArticles.map(article => {
                 return createNewsListItem(article, companyName, '');
             }).join('');
 
-        accordionItem.innerHTML = `
-            <h2 class="accordion-header" id="heading-${companyId}">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${accordionId}" aria-expanded="false" aria-controls="${accordionId}">
-                    ${companyName}
-                </button>
-            </h2>
-            <div id="${accordionId}" class="accordion-collapse collapse" aria-labelledby="heading-${companyId}" data-bs-parent="#newsAccordion">
-                <div class="accordion-body" style="padding: 0;">
-                    ${newsListHtml}
-                </div>
-            </div>
-        `;
-        newsAccordion.appendChild(accordionItem);
+        detailsElement.innerHTML = `
+            <summary class="archive-header">${companyName}</summary>
+            <div class="archive-content">
+                ${newsListHtml}
+            </div>
+        `;
+        archiveListContainer.appendChild(detailsElement);
     });
+
+    // アコーディオンの固定機能は details/summary では不要なため削除
 }
 
 /**
@@ -192,7 +183,8 @@ function setupSearch() {
     const searchResults = document.getElementById('searchResults');
     const clearSearch = document.getElementById('clearSearch');
     const latestNewsList = document.getElementById('latestNewsList');
-    const newsAccordion = document.getElementById('newsAccordion');
+    // IDを変更: newsAccordion -> archiveListContainer
+    const archiveListContainer = document.getElementById('archiveListContainer');
     const archiveHeading = document.querySelector('h2.section-heading.mt-5');
 
     const performSearch = () => {
@@ -201,7 +193,7 @@ function setupSearch() {
         if (keyword.length === 0) {
             searchResults.style.display = 'none';
             latestNewsList.style.display = 'block';
-            newsAccordion.style.display = 'block';
+            archiveListContainer.style.display = 'block'; // ID変更を反映
             archiveHeading.style.display = 'block';
             return;
         }
@@ -233,7 +225,7 @@ function setupSearch() {
 
         searchResults.style.display = 'block';
         latestNewsList.style.display = 'none';
-        newsAccordion.style.display = 'none';
+        archiveListContainer.style.display = 'none'; // ID変更を反映
         archiveHeading.style.display = 'none';
     };
 
@@ -251,25 +243,4 @@ function setupSearch() {
     });
 }
 
-
-// ----------------------------------------------------------------
-// アコーディオンヘッダー固定機能のイベントリスナー
-// ----------------------------------------------------------------
-document.addEventListener('DOMContentLoaded', () => {
-    const newsAccordion = document.getElementById('newsAccordion');
-    if (newsAccordion) {
-        newsAccordion.addEventListener('show.bs.collapse', function (event) {
-            const header = event.target.previousElementSibling;
-            if (header && header.classList.contains('accordion-header')) {
-                header.classList.add('sticky-top-header');
-            }
-        });
-
-        newsAccordion.addEventListener('hidden.bs.collapse', function (event) {
-            const header = event.target.previousElementSibling;
-            if (header && header.classList.contains('accordion-header')) {
-                header.classList.remove('sticky-top-header');
-            }
-        });
-    }
-});
+// details/summary 要素にはアコーディオンの固定機能は不要のため、対応するイベントリスナーは削除します。
