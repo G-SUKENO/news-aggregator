@@ -179,12 +179,8 @@ function renderNews(newsData, companies) {
                 return createNewsListItem(article, companyName, '');
             }).join('');
 
-        detailsElement.innerHTML = `
-            <summary class="archive-header">${companyName}</summary>
-            <div class="archive-content">
-                ${newsListHtml}
-            </div>
-        `;
+        // 修正版: テンプレートリテラルの改行・スペースを排除
+        detailsElement.innerHTML = `<summary class="archive-header">${companyName}</summary><div class="archive-content">${newsListHtml}</div>`;
         archiveListContainer.appendChild(detailsElement);
     });
 }
