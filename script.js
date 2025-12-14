@@ -1,5 +1,5 @@
 // =================================================================
-// script.js 完全版 (NEW!ラベル：最新記事セクション全体に適用)
+// script.js 完全版 (最新ロジック適用済み)
 // =================================================================
 
 const NEWS_FILE = 'news.json';
@@ -106,15 +106,12 @@ async function renderNews() {
 
     if (latestArticles.length > 0) {
         let latestHtml = '';
+        // ★ NEW! ラベルは最新記事セクション全体に適用 ★
+        const newLabelHtml = '<span class="new-label">NEW!</span>'; 
         
         latestArticles.forEach(article => {
             const companyName = COMPANY_IDS[article.company_id] || '不明';
-            
-            // ★ 修正点: 最新記事セクションにある記事はすべて NEW! とする ★
-            const newLabel = '<span class="new-label">NEW!</span>'; 
-            // 記事の published 時刻から24時間経過するまでは、NEW! ラベルを付ける
-            
-            latestHtml += createNewsListItem(article, companyName, newLabel);
+            latestHtml += createNewsListItem(article, companyName, newLabelHtml);
         });
         
         latestListContainer.innerHTML = latestHtml;
@@ -134,8 +131,6 @@ async function renderNews() {
 
     newsData.forEach(article => {
         const publishedTime = parseDateAsJST(article.published).getTime();
-        
-        // アーカイブの記事は「公開時刻が24時間前以下」であること
         const isArchive = publishedTime <= oneDayAgoCutoff;
 
         if (isArchive && groupedNews[article.company_id]) {
@@ -158,15 +153,14 @@ async function renderNews() {
             let newsListHtml = '';
             
             archiveArticles.forEach(article => {
-                // アーカイブでは NEW! ラベルは不要
                 newsListHtml += createNewsListItem(article, companyName);
             });
             
-            // details要素 (アコーディオン) を生成
             const detailsElement = document.createElement('details');
             detailsElement.className = 'archive-item';
 
-            detailsElement.innerHTML = `<summary class="archive-header">${companyName} (${archiveArticles.length}件)</summary><div class="archive-content">${newsListHtml}</div>`;
+            // ★ 修正点: 件数表示 (${archiveArticles.length}件) を削除しました ★
+            detailsElement.innerHTML = `<summary class="archive-header">${companyName}</summary><div class="archive-content">${newsListHtml}</div>`;
 
             archiveListContainer.appendChild(detailsElement);
         }
@@ -195,12 +189,14 @@ async function renderNews() {
         details.addEventListener('toggle', toggleCloseButton);
     });
 
+    // レンダリング完了後、ボタンの初期状態を確認/設定する (修正点)
     setupCloseButton();
+    toggleCloseButton(); 
 }
 
 
 // ----------------------------------------------------------------
-// 検索ロジック (省略なし)
+// 検索ロジック
 // ----------------------------------------------------------------
 
 function searchNews() {
@@ -257,7 +253,7 @@ function clearSearch(e) {
 
 
 // ----------------------------------------------------------------
-// アコーディオン開閉ボタン制御ロジック (省略なし)
+// アコーディオン開閉ボタン制御ロジック
 // ----------------------------------------------------------------
 
 let scrollPositionBeforeAccordion = 0;
