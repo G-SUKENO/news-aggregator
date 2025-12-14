@@ -28,15 +28,15 @@
         }
         
         /* ------------------------------------------- */
-        /* ★ 2. メイン見出し (h1) ★ */
+        /* ★ 2. メイン見出し (h1) 【BLUE系】 ★ */
         /* ------------------------------------------- */
         h1 {
             font-size: 28px !important;
             font-weight: 700 !important;
             margin-bottom: 5px !important;
             text-align: center !important;
-            /* グラデーション: 濃い青/緑系 (全角スペース排除済み) */
-            background: linear-gradient(90deg, #1f4068 40%, #16a085 60%) !important; 
+            /* BLUEグラデーション: ネイビーからスカイブルーへ */
+            background: linear-gradient(90deg, #19437E 40%, #3498db 60%) !important; 
             -webkit-background-clip: text !important;
             -webkit-text-fill-color: transparent !important;
             letter-spacing: 0.5px !important;
@@ -48,14 +48,16 @@
             font-size: 0.95em;
         }
 
-        /* セクション見出し (新着/アーカイブ) */
+        /* セクション見出し (新着/アーカイブ) 【BLUE系】 */
         .section-heading {
-            border-bottom: 3px solid #16a085;
+            /* 青いボーダーに変更 */
+            border-bottom: 3px solid #3498db;
             padding-bottom: 6px;
             margin-bottom: 25px;
             font-size: 1.5rem;
             font-weight: 700;
-            color: #2c3e50;
+            /* 濃いネイビーに変更 */
+            color: #34495e;
         }
         p.text-end {
             color: #7f8c8d;
@@ -64,14 +66,13 @@
         }
 
         /* ------------------------------------------- */
-        /* ★ 3. ニュースアイテム (最終レイアウト修正) ★ */
+        /* ★ 3. ニュースアイテム (レイアウト修正済み) ★ */
         /* ------------------------------------------- */
         .news-item {
             display: flex;
             flex-direction: column; 
             padding: 8px 0; 
             border-bottom: 1px solid #e9ecef;
-            /* 念のため、内部要素に影響する可能性のあるマージンをリセット */
             margin: 0 !important; 
         }
         .news-item:last-child {
@@ -85,16 +86,17 @@
         }
         .news-title-link {
             font-weight: 600;
-            color: #2c3e50;
+            color: #34495e; /* 濃いネイビー */
             text-decoration: none;
             line-height: 1.3;
             flex-grow: 1;
             margin-right: 8px;
             font-size: 0.95em;
-            min-width: 0; /* Flexboxでタイトルが長くなっても問題なく収まるように */
+            min-width: 0;
         }
         .news-title-link:hover {
-            color: #16a085; 
+            /* ホバー色を青に変更 */
+            color: #3498db; 
         }
         .new-label {
             background-color: #e74c3c;
@@ -116,7 +118,7 @@
         }
 
         /* ------------------------------------------- */
-        /* ★ 4. アーカイブの再構築 ★ */
+        /* ★ 4. アーカイブの再構築 【BLUE系】 ★ */
         /* ------------------------------------------- */
         .archive-item {
             border: 1px solid #e0e0e0;
@@ -144,7 +146,8 @@
             right: 15px;
             font-size: 1.2rem;
             line-height: 1;
-            color: #16a085; 
+            /* アイコンの色を青に変更 */
+            color: #3498db; 
             transition: transform 0.2s;
         }
 
@@ -159,12 +162,10 @@
             padding: 5px 15px 5px 15px !important; 
         }
 
-        /* アーカイブ内のニュースアイテムのパディングを調整 */
         .archive-content .news-item {
             padding: 5px 0 !important; 
         }
         
-        /* 画面右下に固定するボタンのスタイルを削除 */
         #close-accordion-btn {
             display: none;
         }
@@ -192,7 +193,7 @@
             
         <div class="input-group mb-4">
             <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索" aria-label="記事をキーワード検索">
-            <button class="btn" style="background-color: #16a085; color: white;" type="button" id="searchButton">検索</button>
+            <button class="btn" style="background-color: #3498db; color: white;" type="button" id="searchButton">検索</button>
         </div>
         
         <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
