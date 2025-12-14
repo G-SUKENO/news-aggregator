@@ -9,10 +9,22 @@
         body{
             background-color: #f7f7f7;
         }
+        
+        /* ------------------------------------------- */
+        /* ★ レイアウト崩れ修正箇所 (1/3) ★ */
+        /* 記事の左寄せを確実にするための修正 */
+        /* ------------------------------------------- */
+        .list-unstyled {
+            /* Bootstrapのデフォルトの左パディング(40px)をリセット */
+            padding-left: 0 !important; 
+        }
         .news-item {
             border-bottom: 1px solid #eee;
             padding: 10px 0;
+            /* リストアイテムのデフォルトの余白をリセットし、左端に合わせる */
+            list-style: none;
         }
+
         .news-title {
             font-weight: bold;
             color: #333;
@@ -31,14 +43,23 @@
             border-radius: 3px;
             margin-left: 5px;
         }
+        
+        /* ------------------------------------------- */
+        /* ★ レイアウト崩れ修正箇所 (2/3) ★ */
+        /* アーカイブ見出しの高さ調整 */
+        /* ------------------------------------------- */
         .accordion-button {
             font-weight: bold;
             font-size: 24px !important;
+            /* 高さを調整：上下のパディングをデフォルトに戻すか、少し調整 */
+            padding-top: 0.75rem; 
+            padding-bottom: 0.75rem;
         }
         .accordion-button.collapsed {
             color: #333;
             font-size: 24px !important
         }
+        
         /* セクション見出しのスタイル */
         .section-heading {
             border-bottom: 1.5px solid #bbbbbb;
@@ -47,13 +68,20 @@
             font-size: 1.5rem;
             font-weight: bold;
         }
+        
         /* アコーディオンヘッダーを固定するためのスタイル */
+        /* ------------------------------------------- */
+        /* ★ レイアウト崩れ修正箇所 (3/3) ★ */
+        /* 高さの異常を防ぐために、sticky-top-header の高さをリセット */
+        /* ------------------------------------------- */
         .accordion-header.sticky-top-header {
             position: sticky;
             top: 0; /* 画面の最上部に固定 */
             z-index: 1020; /* 他の要素より前面に出るように設定 */
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 固定時に影をつけて目立たせる */
-        }   
+            height: auto !important; /* 異常な高さをリセット */
+        }    
+        
         h1{
             font-size: 31px;
             font-weight: bold;
@@ -67,7 +95,6 @@
         }
         .mb-4{
             margin-bottom: 5px !important;
-
         }
         p.text-end{
             margin-bottom: 50px;
