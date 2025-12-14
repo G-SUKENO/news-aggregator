@@ -2,9 +2,9 @@ let allNewsData = []; // 記事データをグローバルで保持
 let companyMap = {};  // 企業マップをグローバルで保持
 
 /**
- * [追加] ISO 8601形式の文字列を、タイムゾーンを考慮せずJSTとしてパースするヘルパー関数
- * Pythonから送られてくる 'YYYY-MM-DDTHH:MM:SS' 形式を、
- * ブラウザのローカルタイムとして正確に解釈させるために使用します。
+ * ISO 8601形式の文字列を、JSTとしてパースするヘルパー関数
+ * Python側でJSTに変換済みなので、ブラウザのローカルタイムとして正確に解釈させる
+ * ために使用します。
  */
 function parseDateAsJST(dateString) {
     // 日付文字列から 'YYYY-MM-DDTHH:MM:SS' の各パーツを抽出
@@ -52,9 +52,29 @@ document.addEventListener('DOMContentLoaded', () => {
 function renderNews(newsData, companies) {
     const newsAccordion = document.getElementById('newsAccordion');
     const latestNewsList = document.getElementById('latestNewsList');
+    
+    // ----------------------------------------------------------------
+    // ★ 修正点1: 最終更新時間と新着記事の判定ロジックを8:00AM基準に変更 ★
+    // ----------------------------------------------------------------
+    
     const now = new Date();
-    const oneDayAgo = now.getTime() - (24 * 60 * 60 * 1000); // 24時間前のUNIXタイムスタンプ
+    
+    // 1. 最新記事の日付を取得し、その日のAM 8:00を「最終更新時間」とする
+    const latestArticleDate = newsData.length > 0 ? parseDateAsJST(newsData[0].published) : now;
+    
+    // 最終更新時間: 最新記事の日付の8時00分00秒に固定
+    const lastUpdateTime = new Date(
+        latestArticleDate.getFullYear(), 
+        latestArticleDate.getMonth(), 
+        latestArticleDate.getDate(), 
+        8, // 常に8時
+        0, // 常に0分
+        0
+    );
 
+    // 新着記事の境界時間: 最終更新時間から24時間前 (前日のAM 8:00)
+    const oneDayAgoCutoff = lastUpdateTime.getTime() - (24 * 60 * 60 * 1000);
+    
     // ニュース記事を企業IDごとにグループ化
     const groupedNews = newsData.reduce((groups, item) => {
         const companyId = item.company_id;
@@ -66,18 +86,32 @@ function renderNews(newsData, companies) {
     }, {});
 
     // ----------------------------------------------------------------
-    // 1. 新着記事セクションの生成 (NEW!ラベルを付ける)
+    // 1.1 最終更新日時を表示
+    // ----------------------------------------------------------------
+    if (newsData.length > 0) {
+        document.getElementById('last-updated').textContent = lastUpdateTime.toLocaleString('ja-JP', {
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+        }) + ' (システム更新)';
+    }
+
+    // ----------------------------------------------------------------
+    // 2. 新着記事セクションの生成 (NEW!ラベルを付ける)
     // ----------------------------------------------------------------
     
-    // 過去24時間以内の記事をフィルタリング
+    // 新着記事の境界時間(前日8:00AM)以降の記事をフィルタリング
     const latestArticles = newsData.filter(article => {
         // JSTとして正確にパース
         const publishedTime = parseDateAsJST(article.published).getTime();
-        return publishedTime > oneDayAgo;
+        return publishedTime > oneDayAgoCutoff;
     });
 
     if (latestArticles.length === 0) {
-        latestNewsList.innerHTML = `<div class="alert alert-info text-center" role="alert">過去24時間以内に新しい記事はありません。</div>`;
+        latestNewsList.innerHTML = `<div class="alert alert-info text-center" role="alert">直近のシステム更新（${lastUpdateTime.toLocaleString('ja-JP', {hour: '2-digit', minute: '2-digit', hour12: false})}）以降、新しい記事はありません。</div>`;
     } else {
         const ul = document.createElement('ul');
         ul.className = 'list-unstyled';
@@ -92,18 +126,18 @@ function renderNews(newsData, companies) {
     }
 
     // ----------------------------------------------------------------
-    // 2. 企業別アーカイブの生成 (アコーディオン。NEW!ラベルは付けない)
+    // 3. 企業別アーカイブの生成 (アコーディオン。新着記事の境界時間以前)
     // ----------------------------------------------------------------
     newsAccordion.innerHTML = ''; 
 
     companies.forEach((company, index) => {
         const companyId = company.id;
         const companyName = company.name;
-        // 24時間以上前の記事（アーカイブ）のみを抽出
+        // アーカイブ記事の抽出: oneDayAgoCutoff 以前の記事
         const archiveArticles = (groupedNews[companyId] || []).filter(article => {
              // JSTとして正確にパース
              const publishedTime = parseDateAsJST(article.published).getTime();
-             return publishedTime <= oneDayAgo;
+             return publishedTime <= oneDayAgoCutoff;
         });
 
         const accordionItem = document.createElement('div');
@@ -129,20 +163,6 @@ function renderNews(newsData, companies) {
         `;
         newsAccordion.appendChild(accordionItem);
     });
-    
-    // 最終更新日時を表示
-    if (newsData.length > 0) {
-        // JSTとして正確にパース
-        const latestArticleTime = parseDateAsJST(newsData[0].published);
-        document.getElementById('last-updated').textContent = latestArticleTime.toLocaleString('ja-JP', {
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit',
-            hour: '2-digit',
-            minute: '2-digit',
-            hour12: false
-        });
-    }
 }
 
 /**
@@ -176,7 +196,7 @@ function createNewsListItem(article, companyName, showCompanyName = false, newLa
 }
 
 /**
- * 検索機能をセットアップする
+ * 検索機能をセットアップする (変更なし)
  */
 function setupSearch(companies) {
     const searchInput = document.getElementById('searchKeyword');
@@ -185,13 +205,12 @@ function setupSearch(companies) {
     const clearSearch = document.getElementById('clearSearch');
     const latestNewsList = document.getElementById('latestNewsList');
     const newsAccordion = document.getElementById('newsAccordion');
-    const archiveHeading = document.querySelector('h2.section-heading.mt-5'); // 企業別アーカイブ見出し
+    const archiveHeading = document.querySelector('h2.section-heading.mt-5');
 
     const performSearch = () => {
         const keyword = searchInput.value.toLowerCase().trim();
         
         if (keyword.length === 0) {
-            // キーワードが空の場合は検索結果を非表示にし、通常表示に戻す
             searchResults.style.display = 'none';
             latestNewsList.style.display = 'block';
             newsAccordion.style.display = 'block';
@@ -199,7 +218,6 @@ function setupSearch(companies) {
             return;
         }
 
-        // 検索ロジック
         const filteredArticles = allNewsData.filter(article => {
             const companyName = companyMap[article.company_id] || '';
             const title = article.title.toLowerCase();
@@ -210,7 +228,6 @@ function setupSearch(companies) {
                    source.includes(keyword);
         });
 
-        // 検索結果のレンダリング
         const searchList = document.getElementById('searchList');
         
         if (filteredArticles.length === 0) {
@@ -220,20 +237,18 @@ function setupSearch(companies) {
             ul.className = 'list-unstyled';
             ul.innerHTML = filteredArticles.map(article => {
                 const companyName = companyMap[article.company_id] || '不明な企業';
-                return createNewsListItem(article, companyName, true, ''); // 検索結果にはNEW!ラベルはつけない
+                return createNewsListItem(article, companyName, true, '');
             }).join('');
             searchList.innerHTML = '';
             searchList.appendChild(ul);
         }
 
-        // 表示の切り替え
         searchResults.style.display = 'block';
         latestNewsList.style.display = 'none';
         newsAccordion.style.display = 'none';
         archiveHeading.style.display = 'none';
     };
 
-    // 検索ボタンとEnterキーで検索を実行
     searchButton.addEventListener('click', performSearch);
     searchInput.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') {
@@ -241,7 +256,6 @@ function setupSearch(companies) {
         }
     });
 
-    // 検索クリア機能
     clearSearch.addEventListener('click', (e) => {
         e.preventDefault();
         searchInput.value = '';
@@ -251,25 +265,21 @@ function setupSearch(companies) {
 
 
 // ----------------------------------------------------------------
-// 3. アコーディオンヘッダー固定機能のイベントリスナー
+// アコーディオンヘッダー固定機能のイベントリスナー (変更なし)
 // ----------------------------------------------------------------
 document.addEventListener('DOMContentLoaded', () => {
     const newsAccordion = document.getElementById('newsAccordion');
     if (newsAccordion) {
-        // アコーディオンが開く直前のイベントを監視
         newsAccordion.addEventListener('show.bs.collapse', function (event) {
             const header = event.target.previousElementSibling;
             if (header && header.classList.contains('accordion-header')) {
-                // ヘッダーに固定用のクラスを追加
                 header.classList.add('sticky-top-header');
             }
         });
 
-        // アコーディオンが閉じた後のイベントを監視
         newsAccordion.addEventListener('hidden.bs.collapse', function (event) {
             const header = event.target.previousElementSibling;
             if (header && header.classList.contains('accordion-header')) {
-                // ヘッダーから固定用のクラスを削除
                 header.classList.remove('sticky-top-header');
             }
         });
