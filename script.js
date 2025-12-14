@@ -14,7 +14,6 @@ function parseDateAsJST(dateString) {
         // monthIndexは0から始まるため、-1する
         return new Date(parts[1], parts[2] - 1, parts[3], parts[4], parts[5], parts[6]);
     }
-    // パースに失敗した場合はそのまま返す
     return new Date(dateString);
 }
 
@@ -38,13 +37,46 @@ document.addEventListener('DOMContentLoaded', () => {
         }, {});
         
         renderNews(allNewsData, companies);
-        setupSearch(companies); // 検索機能をセットアップ
+        setupSearch(); // 検索機能をセットアップ
     })
     .catch(error => {
         console.error('データの読み込みエラー:', error);
-        document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger" role="alert">ニュースの読み込み中にエラーが発生しました。時間を置いて再度お試しください。</div>`;
+        document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger text-center" role="alert">ニュースの読み込み中にエラーが発生しました。</div>`;
     });
 });
+
+/**
+ * ニュースリストのアイテム要素を生成するヘルパー関数 (新しいHTML構造)
+ */
+function createNewsListItem(article, companyName, newLabel = '') {
+    // JSTとして正確にパース
+    const articleDate = parseDateAsJST(article.published);
+    
+    const formattedDate = articleDate.toLocaleString('ja-JP', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+    });
+
+    return `
+        <div class="news-item">
+            <div class="news-header">
+                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title-link">
+                    ${article.title}
+                </a>
+                ${newLabel}
+            </div>
+            <div class="news-meta">
+                <span>${formattedDate}</span>
+                <span>${companyName}</span>
+                <span>${article.source || '外部ソース'}</span>
+            </div>
+        </div>
+    `;
+}
 
 /**
  * ニュースデータを処理し、新着記事一覧と企業別アーカイブをレンダリングする
@@ -54,13 +86,11 @@ function renderNews(newsData, companies) {
     const latestNewsList = document.getElementById('latestNewsList');
     
     // ----------------------------------------------------------------
-    // ★ 修正点1: 最終更新時間と新着記事の判定ロジックを8:00AM基準に変更 ★
+    // ★ 時刻ロジック: 最終更新時間と新着記事の判定ロジックを8:00AM基準に固定 ★
     // ----------------------------------------------------------------
     
-    const now = new Date();
-    
     // 1. 最新記事の日付を取得し、その日のAM 8:00を「最終更新時間」とする
-    const latestArticleDate = newsData.length > 0 ? parseDateAsJST(newsData[0].published) : now;
+    const latestArticleDate = newsData.length > 0 ? parseDateAsJST(newsData[0].published) : new Date();
     
     // 最終更新時間: 最新記事の日付の8時00分00秒に固定
     const lastUpdateTime = new Date(
@@ -85,9 +115,7 @@ function renderNews(newsData, companies) {
         return groups;
     }, {});
 
-    // ----------------------------------------------------------------
     // 1.1 最終更新日時を表示
-    // ----------------------------------------------------------------
     if (newsData.length > 0) {
         document.getElementById('last-updated').textContent = lastUpdateTime.toLocaleString('ja-JP', {
             year: 'numeric',
@@ -100,7 +128,7 @@ function renderNews(newsData, companies) {
     }
 
     // ----------------------------------------------------------------
-    // 2. 新着記事セクションの生成 (NEW!ラベルを付ける)
+    // 2. 新着記事セクションの生成
     // ----------------------------------------------------------------
     
     // 新着記事の境界時間(前日8:00AM)以降の記事をフィルタリング
@@ -113,20 +141,20 @@ function renderNews(newsData, companies) {
     if (latestArticles.length === 0) {
         latestNewsList.innerHTML = `<div class="alert alert-info text-center" role="alert">直近のシステム更新（${lastUpdateTime.toLocaleString('ja-JP', {hour: '2-digit', minute: '2-digit', hour12: false})}）以降、新しい記事はありません。</div>`;
     } else {
-        const ul = document.createElement('ul');
-        ul.className = 'list-unstyled';
-        ul.innerHTML = latestArticles.map(article => {
+        const newsContainer = document.createElement('div');
+        newsContainer.className = 'news-list-container';
+        newsContainer.innerHTML = latestArticles.map(article => {
             const companyName = companyMap[article.company_id] || '不明な企業';
             const newLabel = '<span class="new-label">NEW!</span>';
 
-            return createNewsListItem(article, companyName, true, newLabel);
+            return createNewsListItem(article, companyName, newLabel);
         }).join('');
         latestNewsList.innerHTML = ''; // 既存の内容をクリア
-        latestNewsList.appendChild(ul);
+        latestNewsList.appendChild(newsContainer);
     }
 
     // ----------------------------------------------------------------
-    // 3. 企業別アーカイブの生成 (アコーディオン。新着記事の境界時間以前)
+    // 3. 企業別アーカイブの生成
     // ----------------------------------------------------------------
     newsAccordion.innerHTML = ''; 
 
@@ -144,6 +172,14 @@ function renderNews(newsData, companies) {
         accordionItem.className = 'accordion-item';
         const accordionId = `collapse-${companyId}`;
         
+        // アーカイブ記事のHTMLを生成
+        const newsListHtml = archiveArticles.length === 0 ? 
+            `<div class="text-muted text-center py-3">アーカイブ記事はありません。</div>` : 
+            archiveArticles.map(article => {
+                const newLabel = '';
+                return createNewsListItem(article, companyName, newLabel);
+            }).join('');
+
         accordionItem.innerHTML = `
             <h2 class="accordion-header" id="heading-${companyId}">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${accordionId}" aria-expanded="false" aria-controls="${accordionId}">
@@ -151,13 +187,8 @@ function renderNews(newsData, companies) {
                 </button>
             </h2>
             <div id="${accordionId}" class="accordion-collapse collapse" aria-labelledby="heading-${companyId}" data-bs-parent="#newsAccordion">
-                <div class="accordion-body">
-                    <ul class="list-unstyled">
-                        ${archiveArticles.length === 0 ? `<li class="text-muted">アーカイブ記事はありません。</li>` : archiveArticles.map(article => {
-                            const newLabel = '';
-                            return createNewsListItem(article, companyName, false, newLabel);
-                        }).join('')}
-                    </ul>
+                <div class="accordion-body" style="padding: 0;">
+                    ${newsListHtml}
                 </div>
             </div>
         `;
@@ -166,39 +197,9 @@ function renderNews(newsData, companies) {
 }
 
 /**
- * ニュースリストの<li>要素を生成するヘルパー関数
+ * 検索機能をセットアップする (構造変更に合わせて修正)
  */
-function createNewsListItem(article, companyName, showCompanyName = false, newLabel = '') {
-    // JSTとして正確にパース
-    const articleDate = parseDateAsJST(article.published);
-    
-    const formattedDate = articleDate.toLocaleString('ja-JP', {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false
-    });
-
-    // 企業名はタグなしで直接埋め込む（レイアウト崩れ防止）
-    return `
-        <li class="news-item">
-            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title">
-                ${article.title}
-            </a>
-            ${newLabel}
-            <div class="news-meta">
-                ${formattedDate} - ${companyName} - ${article.source || '外部ソース'}
-            </div>
-        </li>
-    `;
-}
-
-/**
- * 検索機能をセットアップする (変更なし)
- */
-function setupSearch(companies) {
+function setupSearch() {
     const searchInput = document.getElementById('searchKeyword');
     const searchButton = document.getElementById('searchButton');
     const searchResults = document.getElementById('searchResults');
@@ -233,14 +234,14 @@ function setupSearch(companies) {
         if (filteredArticles.length === 0) {
             searchList.innerHTML = `<div class="alert alert-warning text-center" role="alert">「${keyword}」に一致する記事は見つかりませんでした。</div>`;
         } else {
-            const ul = document.createElement('ul');
-            ul.className = 'list-unstyled';
-            ul.innerHTML = filteredArticles.map(article => {
+            const newsContainer = document.createElement('div');
+            newsContainer.className = 'news-list-container';
+            newsContainer.innerHTML = filteredArticles.map(article => {
                 const companyName = companyMap[article.company_id] || '不明な企業';
-                return createNewsListItem(article, companyName, true, '');
+                return createNewsListItem(article, companyName, '');
             }).join('');
             searchList.innerHTML = '';
-            searchList.appendChild(ul);
+            searchList.appendChild(newsContainer);
         }
 
         searchResults.style.display = 'block';
