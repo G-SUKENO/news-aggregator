@@ -74,12 +74,13 @@
         }
 
         /* ------------------------------------------- */
-        /* ★ 2. ニュースアイテム (レイアウト修正済み) ★ */
+        /* ★ 2. ニュースアイテム (レイアウト復元: 行の高さ調整) ★ */
         /* ------------------------------------------- */
         .news-item {
             display: flex;
             flex-direction: column;
-            padding: 10px 0; 
+            /* 行の上下のパディングを適度に詰め、高さを調整 */
+            padding: 8px 0; 
             border-bottom: 1px solid #ADD8E6; 
         }
         .news-item:last-child {
@@ -95,6 +96,7 @@
             font-weight: 600;
             color: #2c3e50;
             text-decoration: none;
+            /* 行の高さは1.3で維持 */
             line-height: 1.3;
             flex-grow: 1;
             margin-right: 8px;
@@ -118,6 +120,8 @@
             font-size: 0.75em;
             color: #7f8c8d;
             gap: 10px;
+            /* メタ情報の上下マージンを削除して高さを詰める */
+            margin: 0; 
         }
 
         /* ------------------------------------------- */
@@ -165,13 +169,13 @@
         .archive-content {
             background-color: #ffffff;
             border-top: 1px solid #ADD8E6; 
-            /* 左パディング 25px を親要素に適用 */
+            /* 親要素の左右パディングをここで設定 */
             padding: 5px 15px 5px 25px; 
         }
 
-        /* ★ 修正済み: アーカイブ内の個別記事のスタイル調整 (レイアウト復元) ★ */
+        /* ★ 修正済み: アーカイブ内の個別記事のスタイル調整 (左寄せ・行の高さ復元) ★ */
         .archive-content .news-item {
-            /* 左右のパディングをリセットし、親要素のパディング（25px）を活かす */
+            /* 左右のパディングを完全にリセットし、親要素の字下げを適用 */
             padding: 5px 0; 
         }
         
