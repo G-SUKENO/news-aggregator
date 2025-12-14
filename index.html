@@ -9,25 +9,24 @@
     
     <style>
         /* ------------------------------------------- */
-        /* ★ 1. 基本設定と余白リセット (最外層のコンテナを排除) ★ */
+        /* ★ 1. 基本設定と余白リセット ★ */
         /* ------------------------------------------- */
         body {
-            background-color: #f5f7fa; /* 落ち着いた背景色 */
+            background-color: #f5f7fa; 
             font-family: 'Noto Sans JP', sans-serif;
-            margin: 0; /* bodyのデフォルトマージンをリセット */
+            margin: 0;
             padding: 0;
-            padding-top: 10px; /* サイト最上部の余白を最小化 */
+            padding-top: 10px; 
             padding-bottom: 20px;
         }
         .main-wrapper {
-            /* 最大幅を設定し、コンテンツを中央に寄せる（横幅を狭く感じさせないよう広めに設定） */
             max-width: 950px;
             margin-left: auto;
             margin-right: auto;
             background-color: #ffffff;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
             border-radius: 8px;
-            padding: 20px 15px; /* コンテンツ内のパディングを調整 */
+            padding: 20px 15px; 
         }
         
         /* ------------------------------------------- */
@@ -74,7 +73,10 @@
             padding: 10px 0;
             border-bottom: 1px solid #e9ecef;
         }
-        /* ... (ニュースアイテム関連のCSSは前バージョンから変更なし) ... */
+        .news-item:last-child {
+            border-bottom: none !important; /* リストの最後の線は消す */
+        }
+        
         .news-header {
             display: flex;
             align-items: flex-start;
@@ -109,45 +111,53 @@
             gap: 10px;
         }
 
-
         /* ------------------------------------------- */
-        /* ★ 4. アコーディオンの高さ調整 (重点修正) ★ */
+        /* ★ 4. アーカイブの再構築 (details/summary) ★ */
         /* ------------------------------------------- */
-        /* accordion-item の上下マージン/パディングを最小化 */
-        .accordion-item {
+        .archive-item {
             border: 1px solid #e0e0e0;
-            margin-bottom: 1px; /* 項目間のマージンを最小限に */
+            margin-bottom: 1px; /* 企業間のマージンを最小限に */
             border-radius: 4px;
+            overflow: hidden; /* 角丸を保つ */
         }
-
-        /* accordion-header の高さ調整 */
-        .accordion-header {
-            margin: 0; /* ヘッダーのマージンをリセット */
-            padding: 0; /* ヘッダーのパディングをリセット */
-        }
-
-        /* accordion-button の高さ調整 */
-        .accordion-button {
+        
+        /* summaryタグ（アコーディオンのヘッダー部分）のスタイル */
+        .archive-item summary {
+            display: block; /* Flexboxを有効にするため */
+            padding: 0.5rem 1rem; /* 上下のパディングを最小化 */
             font-weight: 600;
             font-size: 1.0rem; 
             color: #34495e;
-            padding: 0.5rem 1rem; /* 上下のパディングを最小化 */
             background-color: #fcfcfc;
-        }
-        .accordion-body {
-            padding: 0; /* Bodyのパディングを完全に削除 */
-        }
-        .accordion-body .news-item:last-child {
-            border-bottom: none;
+            cursor: pointer;
+            outline: none;
+            list-style: none; /* デフォルトの矢印を非表示 */
+            position: relative;
         }
         
-        /* 固定ヘッダーの高さ問題を確実にリセット */
-        .accordion-header.sticky-top-header {
-            position: sticky;
-            top: 0; 
-            z-index: 1020; 
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); 
-            height: auto !important; 
+        /* 展開/折りたたみアイコンのカスタム */
+        .archive-item summary::before {
+            content: "+";
+            position: absolute;
+            right: 15px;
+            font-size: 1.2rem;
+            line-height: 1;
+            color: #16a085;
+            transition: transform 0.2s;
+        }
+
+        /* 展開時 */
+        .archive-item[open] summary::before {
+            content: "−";
+            transform: rotate(180deg);
+        }
+
+        /* 詳細コンテンツ (ニュースリスト) のスタイル */
+        .archive-content {
+            padding: 0; /* paddingを完全に削除 */
+            background-color: #ffffff;
+            /* 展開された内容の上部にボーダーを引く */
+            border-top: 1px solid #e9ecef; 
         }
 
         /* ------------------------------------------- */
@@ -157,10 +167,10 @@
             .main-wrapper {
                 margin-top: 5px;
                 margin-bottom: 5px;
-                padding: 15px 10px; /* スマホでは左右のパディングも少し減らす */
+                padding: 15px 10px;
             }
             .news-meta {
-                flex-wrap: wrap; /* メタ情報が一行に収まらない場合に折り返す */
+                flex-wrap: wrap; 
             }
         }
     </style>
@@ -189,8 +199,8 @@
         </div>
 
         <h2 class="section-heading text-center mt-5">アーカイブ</h2>
-        <div class="accordion" id="newsAccordion">
-        </div>
+        <div id="archiveListContainer">
+            </div>
 
         <p class="mt-5 text-center text-muted">データ提供: Google&Yahoo!ニュースRSS</p>
     </div>
