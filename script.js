@@ -50,35 +50,36 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 /**
- * ニュースリストのアイテム要素を生成するヘルパー関数
- */
+ * ニュースリストのアイテム要素を生成するヘルパー関数
+ */
 function createNewsListItem(article, companyName, newLabel = '') {
-    const articleDate = parseDateAsJST(article.published);
-    
-    const formattedDate = articleDate.toLocaleString('ja-JP', {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false
-    });
+    const articleDate = parseDateAsJST(article.published);
+    
+    // 日付フォーマットの調整 (秒を削除し、よりコンパクトに)
+    const formattedDate = articleDate.toLocaleString('ja-JP', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+    });
 
-    return `
-        <div class="news-item">
-            <div class="news-header">
-                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title-link">
-                    ${article.title}
-                </a>
-                ${newLabel}
-            </div>
-            <div class="news-meta">
-                <span>${formattedDate}</span>
-                <span>${companyName}</span>
-                <span>${article.source || '外部ソース'}</span>
-            </div>
-        </div>
-    `;
+    return `
+        <div class="news-item">
+            <div class="news-header">
+                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title-link">
+                    ${article.title}
+                </a>
+                ${newLabel}
+            </div>
+            <div class="news-meta text-muted"> 
+                <span>${formattedDate}</span>
+                <span>${companyName}</span>
+                <span>${article.source || '外部ソース'}</span>
+            </div>
+        </div>
+    `;
 }
 
 /**
