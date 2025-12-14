@@ -74,12 +74,12 @@
         }
 
         /* ------------------------------------------- */
-        /* ★ 2. ニュースアイテム (新着記事の基本スタイル) ★ */
+        /* ★ 2. ニュースアイテム (レイアウト修正済み) ★ */
         /* ------------------------------------------- */
         .news-item {
             display: flex;
             flex-direction: column;
-            padding: 10px 0; /* 左右の余白は親要素で制御 */
+            padding: 10px 0; 
             border-bottom: 1px solid #ADD8E6; 
         }
         .news-item:last-child {
@@ -165,13 +165,13 @@
         .archive-content {
             background-color: #ffffff;
             border-top: 1px solid #ADD8E6; 
-            /* ★ 修正済み: ご要望の左パディング 25px を親要素に適用 ★ */
+            /* 左パディング 25px を親要素に適用 */
             padding: 5px 15px 5px 25px; 
         }
 
-        /* アーカイブ内の個別記事のスタイル（個別記事の表示を元に戻す修正） */
+        /* ★ 修正済み: アーカイブ内の個別記事のスタイル調整 (レイアウト復元) ★ */
         .archive-content .news-item {
-            /* 左右のパディングをリセットすることで、archive-contentのパディングを活かす */
+            /* 左右のパディングをリセットし、親要素のパディング（25px）を活かす */
             padding: 5px 0; 
         }
         
@@ -246,7 +246,7 @@
     </div>
 
     <button id="close-accordion-btn" class="scroll-to-top-btn" title="トップに戻り、アコーディオンを閉じる">
-        閉じる
+        トップに戻り、閉じる
     </button>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
