@@ -4,120 +4,176 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ハウスメーカーNEWS</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@700&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
     <style>
-        body{
-            background-color: #f7f7f7;
-        }
-        
         /* ------------------------------------------- */
-        /* ★ 修正箇所1: 記事の見出しのずれ修正 (左寄せを徹底) ★ */
+        /* ★ ベーススタイル ★ */
         /* ------------------------------------------- */
-        .list-unstyled {
-            /* ul要素のデフォルトの左パディング(40px)を強制的にリセット */
-            padding-left: 0 !important; 
+        body {
+            background-color: #f0f2f5; /* わずかに青みがかった背景 */
+            font-family: 'Noto Sans JP', sans-serif;
         }
+        .container {
+            max-width: 950px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* 浮遊感を出すシャドウ */
+            padding: 30px;
+            border-radius: 8px;
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+
+        /* ------------------------------------------- */
+        /* ★ メイン見出し ★ */
+        /* ------------------------------------------- */
+        h1 {
+            font-family: 'Roboto', sans-serif;
+            font-size: 34px;
+            font-weight: 700;
+            margin-bottom: 5px;
+            text-align: center;
+            /* グラデーションと影で目立たせる */
+            background: linear-gradient(90deg, #1f4068, #16a085, #1f4068);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+        }
+        .description-text {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        /* ------------------------------------------- */
+        /* ★ セクション見出し (新着/アーカイブ) ★ */
+        /* ------------------------------------------- */
+        .section-heading {
+            border-bottom: 3px solid #16a085; /* テーマカラーの太い下線 */
+            padding-bottom: 8px;
+            margin-bottom: 30px;
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #2c3e50;
+        }
+        p.text-end {
+            color: #7f8c8d;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+
+        /* ------------------------------------------- */
+        /* ★ ニュースアイテム（Flexboxベース） ★ */
+        /* ------------------------------------------- */
         .news-item {
-            border-bottom: 1px solid #eee;
-            padding: 10px 0;
-            /* list-style-type を none にし、リスト項目としてのデフォルト余白をなくす */
-            list-style-type: none;
-            padding-left: 0; /* li要素自体のパディングをリセット */
-            margin-left: 0; /* li要素自体のマージンをリセット */
+            display: flex;
+            flex-direction: column;
+            padding: 12px 0;
+            border-bottom: 1px solid #ebf0f5; /* 細い区切り線 */
+            transition: background-color 0.2s;
         }
-        .news-title {
-            display: block; 
-            font-weight: bold;
-            color: #333;
-            text-decoration: none;
-            /* リンク自体に左マージンが設定されていないか確認 */
-            margin-left: 0; 
+        .news-item:hover {
+            background-color: #f9f9f9;
+        }
+        .news-item:last-child {
+            border-bottom: none;
         }
         
+        .news-header {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 4px;
+        }
+
+        .news-title-link {
+            font-weight: 600;
+            color: #2c3e50;
+            text-decoration: none;
+            line-height: 1.4;
+            flex-grow: 1; /* タイトルが残りのスペースを埋める */
+            margin-right: 10px;
+        }
+        .news-title-link:hover {
+            color: #16a085;
+        }
+
+        .new-label {
+            background-color: #e74c3c; /* 鮮やかな赤 */
+            color: white;
+            font-size: 0.75em;
+            padding: 2px 7px;
+            border-radius: 4px;
+            flex-shrink: 0;
+            align-self: flex-start; /* 上端に揃える */
+            margin-top: 3px;
+            font-weight: bold;
+        }
+        
+        .news-meta {
+            display: flex;
+            font-size: 0.8em;
+            color: #7f8c8d;
+            gap: 15px;
+        }
+
         /* ------------------------------------------- */
-        /* ★ 修正箇所2: アーカイブの見出しの高さ調整 (不要な高さを削除) ★ */
+        /* ★ アーカイブ アコーディオン ★ */
         /* ------------------------------------------- */
         .accordion-button {
-            font-weight: bold;
-            font-size: 24px !important;
-            /* 上下のパディングをさらに削減し、高さを抑える */
-            padding-top: 0.5rem; 
-            padding-bottom: 0.5rem;
-            min-height: auto; /* 最小高さを強制的にリセット */
+            font-weight: 700;
+            font-size: 1.25rem;
+            color: #34495e;
+            /* 高さを抑える */
+            padding-top: 0.6rem;
+            padding-bottom: 0.6rem;
+            background-color: #fcfcfc;
         }
-        
-        /* ------------------------------------------- */
-        /* ★ 修正箇所3: ヘッダー固定時の高さリセット ★ */
-        /* ------------------------------------------- */
+        .accordion-button:focus {
+            box-shadow: 0 0 0 0.25rem rgba(22, 160, 133, 0.25); /* テーマカラーのフォーカス */
+        }
+        .accordion-item {
+            border: 1px solid #e0e0e0;
+            margin-bottom: 5px;
+            border-radius: 4px;
+        }
+        .accordion-body {
+            padding: 0; /* paddingを削除し、news-itemのpaddingで調整 */
+        }
+
+        /* 固定ヘッダーの高さ問題を確実にリセット */
         .accordion-header.sticky-top-header {
             position: sticky;
             top: 0; 
             z-index: 1020; 
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
-            height: auto !important; /* 異常な高さをリセット */
-        } 
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); 
+            height: auto !important; 
+        }
+
+        /* 検索結果リストの調整 */
+        #searchList .news-item:last-child {
+            border-bottom: 1px solid #ebf0f5; 
+        }
         
-        /* ------------------------------------------- */
-        /* その他 (変更なし) */
-        /* ------------------------------------------- */
-        .news-meta {
-            font-size: 0.85em;
-            color: #777;
-        }
-        .new-label {
-            display: inline-block;
-            background-color: #dc3545; /* 赤色 */
-            color: white;
-            font-size: 0.7em;
-            padding: 2px 6px;
-            border-radius: 3px;
-            margin-left: 5px;
-        }
-        .accordion-button.collapsed {
-            color: #333;
-            font-size: 24px !important
-        }
-        .section-heading {
-            border-bottom: 1.5px solid #bbbbbb;
-            padding-bottom: 5px;
-            margin-bottom: 20px;
-            font-size: 1.5rem;
-            font-weight: bold;
-        }
-        h1{
-            font-size: 31px;
-            font-weight: bold;
-            background: linear-gradient(90deg, #1100f9 45%,#006aff 50%, #00aaff 55%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-        p{
-            text-align: center;
-            margin-bottom: 50px;
-        }
-        .mb-4{
-            margin-bottom: 5px !important;
-        }
-        p.text-end{
-            margin-bottom: 50px;
-        }
     </style>
 </head>
 <body>
     <div class="container my-5">
-        <h1 class="mb-4 text-center">ハウスメーカーNEWS</h1>
-        <p>大手ハウスメーカーの関連記事を毎日更新<p>
+        <h1 class="mb-4">ハウスメーカーNEWS</h1>
+        <p class="description-text">大手ハウスメーカーの関連記事を毎日更新</p>
             
-            <div class="input-group mb-4">
-                <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索（タイトル、企業名など）" aria-label="記事をキーワード検索">
-                <button class="btn btn-primary" type="button" id="searchButton">検索</button>
-            </div>
-            <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
-            <div id="searchResults" class="mb-5" style="display: none;">
-                <h2 class="section-heading text-center">検索結果</h2>
-                <div id="searchList">
+        <div class="input-group mb-4">
+            <input type="text" id="searchKeyword" class="form-control" placeholder="記事をキーワード検索（タイトル、企業名など）" aria-label="記事をキーワード検索">
+            <button class="btn" style="background-color: #16a085; color: white;" type="button" id="searchButton">検索</button>
+        </div>
+        
+        <p class="text-end text-muted">最終更新: <span id="last-updated">--/-- --:--</span></p>
+        
+        <div id="searchResults" class="mb-5" style="display: none;">
+            <h2 class="section-heading text-center">検索結果</h2>
+            <div id="searchList">
                 </div>
-                <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
+            <p class="mt-4 text-center"><a href="#" id="clearSearch">検索をクリアして全記事を表示</a></p>
         </div>
 
         <h2 class="section-heading text-center">新着記事</h2>
