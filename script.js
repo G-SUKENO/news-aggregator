@@ -71,7 +71,7 @@ function renderNews(newsData, companies) {
     
     // 過去24時間以内の記事をフィルタリング
     const latestArticles = newsData.filter(article => {
-        // ★修正適用: JSTとして正確にパース
+        // JSTとして正確にパース
         const publishedTime = parseDateAsJST(article.published).getTime();
         return publishedTime > oneDayAgo;
     });
@@ -101,7 +101,7 @@ function renderNews(newsData, companies) {
         const companyName = company.name;
         // 24時間以上前の記事（アーカイブ）のみを抽出
         const archiveArticles = (groupedNews[companyId] || []).filter(article => {
-             // ★修正適用: JSTとして正確にパース
+             // JSTとして正確にパース
              const publishedTime = parseDateAsJST(article.published).getTime();
              return publishedTime <= oneDayAgo;
         });
@@ -132,7 +132,7 @@ function renderNews(newsData, companies) {
     
     // 最終更新日時を表示
     if (newsData.length > 0) {
-        // ★修正適用: JSTとして正確にパース
+        // JSTとして正確にパース
         const latestArticleTime = parseDateAsJST(newsData[0].published);
         document.getElementById('last-updated').textContent = latestArticleTime.toLocaleString('ja-JP', {
             year: 'numeric',
@@ -149,7 +149,7 @@ function renderNews(newsData, companies) {
  * ニュースリストの<li>要素を生成するヘルパー関数
  */
 function createNewsListItem(article, companyName, showCompanyName = false, newLabel = '') {
-    // ★修正適用: JSTとして正確にパース
+    // JSTとして正確にパース
     const articleDate = parseDateAsJST(article.published);
     
     const formattedDate = articleDate.toLocaleString('ja-JP', {
@@ -161,6 +161,7 @@ function createNewsListItem(article, companyName, showCompanyName = false, newLa
         hour12: false
     });
 
+    // 企業名はタグなしで直接埋め込む（レイアウト崩れ防止）
     return `
         <li class="news-item">
             <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title">
