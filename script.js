@@ -1,61 +1,22 @@
 // =================================================================
-// 修正完全版 script.js: 閉じるボタン機能、details要素対応
+// script.js 完全版 (NEW!ラベル：最新記事セクション全体に適用)
 // =================================================================
 
-let allNewsData = []; // 記事データをグローバルで保持
-let companyMap = {};  // 企業マップをグローバルで保持
-let scrollPositionBeforeAccordion = 0; // ★★★ 新規追加: アコーディオンを開く前のスクロール位置を保持
+const NEWS_FILE = 'news.json';
+const COMPANIES_FILE = 'companies.json';
+const COMPANY_IDS = {}; // 企業IDと企業名をマッピング
 
-// UI要素の取得（HTMLに #close-accordion-btn がある前提）
-const closeBtn = document.getElementById('close-accordion-btn');
+// ----------------------------------------------------------------
+// ユーティリティ関数
+// ----------------------------------------------------------------
 
-/**
- * ISO 8601形式の文字列を、JSTとしてパースするヘルパー関数
- */
 function parseDateAsJST(dateString) {
-    const parts = dateString.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
-    if (parts) {
-        // new Date(year, monthIndex, day, hours, minutes, seconds) はローカルタイムとして解釈される
-        return new Date(parts[1], parts[2] - 1, parts[3], parts[4], parts[5], parts[6]);
-    }
-    return new Date(dateString);
+    return new Date(dateString);
 }
 
-
-document.addEventListener('DOMContentLoaded', () => {
-    Promise.all([
-        fetch('news.json').then(response => {
-            if (!response.ok) throw new Error('news.jsonの読み込みに失敗しました。');
-            return response.json();
-        }),
-        fetch('companies.json').then(res => res.json())
-    ])
-    .then(([newsData, companies]) => {
-        allNewsData = newsData;
-        
-        companyMap = companies.reduce((map, company) => {
-            map[company.id] = company.name;
-            return map;
-            }, {});
-        
-        renderNews(allNewsData, companies);
-        setupSearch(); 
-        // ★★★ 追加: 閉じるボタンのセットアップを呼び出し ★★★
-        setupCloseButton(); 
-    })
-    .catch(error => {
-        console.error('データの読み込みエラー:', error);
-        document.getElementById('latestNewsList').innerHTML = `<div class="alert alert-danger text-center" role="alert">ニュースの読み込み中にエラーが発生しました。</div>`;
-    });
-});
-
-/**
- * ニュースリストのアイテム要素を生成するヘルパー関数
- */
 function createNewsListItem(article, companyName, newLabel = '') {
     const articleDate = parseDateAsJST(article.published);
     
-    // 日付フォーマットの調整 (秒を削除し、よりコンパクトに)
     const formattedDate = articleDate.toLocaleString('ja-JP', {
         year: 'numeric',
         month: '2-digit',
@@ -65,248 +26,275 @@ function createNewsListItem(article, companyName, newLabel = '') {
         hour12: false
     });
 
-    return `
-        <div class="news-item">
+    return `<div class="news-item">
             <div class="news-header">
                 <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="news-title-link">
                     ${article.title}
                 </a>
                 ${newLabel}
             </div>
-            <div class="news-meta text-muted"> 
+            <div class="news-meta">
                 <span>${formattedDate}</span>
                 <span>${companyName}</span>
                 <span>${article.source || '外部ソース'}</span>
             </div>
-        </div>
-    `;
+        </div>`;
 }
 
-/**
- * ニュースデータを処理し、新着記事一覧と企業別アーカイブをレンダリングする
- */
-function renderNews(newsData, companies) {
-    const archiveListContainer = document.getElementById('archiveListContainer');
-    const latestNewsList = document.getElementById('latestNewsList');
-    
-    // ----------------------------------------------------------------
-    // 時刻ロジック (変更なし)
-    // ----------------------------------------------------------------
-    const latestArticleDate = newsData.length > 0 ? parseDateAsJST(newsData[0].published) : new Date();
-    
-    const lastUpdateTime = new Date(
-        latestArticleDate.getFullYear(), 
-        latestArticleDate.getMonth(), 
-        latestArticleDate.getDate(), 
-        8, 0, 0
-    );
+// ----------------------------------------------------------------
+// メインレンダリング関数
+// ----------------------------------------------------------------
 
-    const oneDayAgoCutoff = lastUpdateTime.getTime() - (24 * 60 * 60 * 1000);
-    
-    const groupedNews = newsData.reduce((groups, item) => {
-        const companyId = item.company_id;
-        if (!groups[companyId]) {
-            groups[companyId] = [];
-        }
-        groups[companyId].push(item);
-        return groups;
-    }, {});
+async function renderNews() {
+    let newsData = [];
+    let companies = [];
 
-    // 1.1 最終更新日時を表示 (変更なし)
-    if (newsData.length > 0) {
-        document.getElementById('last-updated').textContent = lastUpdateTime.toLocaleString('ja-JP', {
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit',
-            hour: '2-digit',
-            minute: '2-digit',
-            hour12: false
-        }) + ' (システム更新)';
-    }
+    // データの読み込み
+    try {
+        const [newsResponse, companiesResponse] = await Promise.all([
+            fetch(NEWS_FILE),
+            fetch(COMPANIES_FILE)
+        ]);
 
-    // 2. 新着記事セクションの生成 (変更なし)
-    const latestArticles = newsData.filter(article => {
-        const publishedTime = parseDateAsJST(article.published).getTime();
-        return publishedTime > oneDayAgoCutoff;
-    });
+        if (!newsResponse.ok || !companiesResponse.ok) {
+            throw new Error('データの読み込みに失敗しました。');
+        }
 
-    if (latestArticles.length === 0) {
-        latestNewsList.innerHTML = `<div class="alert alert-info text-center" role="alert">直近のシステム更新（${lastUpdateTime.toLocaleString('ja-JP', {hour: '2-digit', minute: '2-digit', hour12: false})}）以降、新しい記事はありません。</div>`;
-    } else {
-        const newsContainer = document.createElement('div');
-        newsContainer.className = 'news-list-container';
-        newsContainer.innerHTML = latestArticles.map(article => {
-            const companyName = companyMap[article.company_id] || '不明な企業';
-            const newLabel = '<span class="new-label">NEW!</span>';
+        newsData = await newsResponse.json();
+        companies = await companiesResponse.json();
+    } catch (error) {
+        console.error('データ取得エラー:', error);
+        document.getElementById('latestNewsList').innerHTML = `<p class="text-center text-danger">ニュースデータの読み込みに失敗しました。</p>`;
+        return;
+    }
 
-            return createNewsListItem(article, companyName, newLabel);
-        }).join('');
-        latestNewsList.innerHTML = ''; 
-        latestNewsList.appendChild(newsContainer);
-    }
+    // 企業IDマップの構築
+    companies.forEach(company => {
+        COMPANY_IDS[company.id] = company.name;
+    });
 
-    // ----------------------------------------------------------------
-    // 3. 企業別アーカイブの生成 (details/summaryに修正とリスナー追加)
-    // ----------------------------------------------------------------
-    archiveListContainer.innerHTML = ''; 
+    // ----------------------------------------------------------------
+    // 時刻ロジックの定義
+    // ----------------------------------------------------------------
+    const currentTime = new Date(); 
+    // 24時間前のカットオフタイムを定義 (最新記事とアーカイブの境界)
+    const oneDayAgoCutoff = currentTime.getTime() - (24 * 60 * 60 * 1000); 
+    
+    // 最終更新日の表示
+    document.getElementById('last-updated').textContent = currentTime.toLocaleString('ja-JP', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+    });
 
-    companies.forEach((company) => {
-        const companyId = company.id;
-        const companyName = company.name;
-        
-        const archiveArticles = (groupedNews[companyId] || []).filter(article => {
-             const publishedTime = parseDateAsJST(article.published).getTime();
-             return publishedTime <= oneDayAgoCutoff;
-        });
 
-        // details要素を生成 (アコーディオンのitemに相当)
-        const detailsElement = document.createElement('details');
-        detailsElement.className = 'archive-item';
+    // ----------------------------------------------------------------
+    // 1. 新着記事セクションの生成 (公開から24時間以内)
+    // ----------------------------------------------------------------
+    
+    const latestArticles = newsData.filter(article => {
+        const publishedTime = parseDateAsJST(article.published).getTime();
+        // 記事公開時刻が「現在時刻から24時間前」より新しいかを判定
+        return publishedTime > oneDayAgoCutoff;
+    });
+
+    const latestListContainer = document.getElementById('latestNewsList');
+    latestListContainer.innerHTML = ''; 
+
+    if (latestArticles.length > 0) {
+        let latestHtml = '';
         
-        // ★★★ 修正: details要素にクリックリスナーを追加し、開く前のスクロール位置を記録 ★★★
-        detailsElement.addEventListener('click', (e) => {
-            // クリックされた時点で、detailsが閉じている場合 (これから開く場合)
-            if (!detailsElement.open) {
-                // 開く前のスクロール位置を記録
-                scrollPositionBeforeAccordion = window.scrollY || document.documentElement.scrollTop;
-            }
+        latestArticles.forEach(article => {
+            const companyName = COMPANY_IDS[article.company_id] || '不明';
+            
+            // ★ 修正点: 最新記事セクションにある記事はすべて NEW! とする ★
+            const newLabel = '<span class="new-label">NEW!</span>'; 
+            // 記事の published 時刻から24時間経過するまでは、NEW! ラベルを付ける
+            
+            latestHtml += createNewsListItem(article, companyName, newLabel);
         });
-        
-        // アーカイブ記事のHTMLを生成
-        const newsListHtml = archiveArticles.length === 0 ? 
-            `<div class="text-muted text-center py-3">アーカイブ記事はありません。</div>` : 
-            archiveArticles.map(article => {
-                return createNewsListItem(article, companyName, '');
-            }).join('');
-
-        // 修正版: テンプレートリテラルの改行・スペースを排除
-        detailsElement.innerHTML = `<summary class="archive-header">${companyName}</summary><div class="archive-content">${newsListHtml}</div>`;
-        archiveListContainer.appendChild(detailsElement);
-    });
-}
-
-/**
- * 検索機能をセットアップする (変更なし)
- */
-function setupSearch() {
-    const searchInput = document.getElementById('searchKeyword');
-    const searchButton = document.getElementById('searchButton');
-    const searchResults = document.getElementById('searchResults');
-    const clearSearch = document.getElementById('clearSearch');
-    const latestNewsList = document.getElementById('latestNewsList');
-    const archiveListContainer = document.getElementById('archiveListContainer');
-    const archiveHeading = document.querySelector('h2.section-heading.mt-5');
-
-    const performSearch = () => {
-        const keyword = searchInput.value.toLowerCase().trim();
-        
-        if (keyword.length === 0) {
-            searchResults.style.display = 'none';
-            latestNewsList.style.display = 'block';
-            archiveListContainer.style.display = 'block';
-            archiveHeading.style.display = 'block';
-            return;
-        }
-
-        const filteredArticles = allNewsData.filter(article => {
-            const companyName = companyMap[article.company_id] || '';
-            const title = article.title.toLowerCase();
-            const source = article.source.toLowerCase();
-
-            return title.includes(keyword) || 
-                   companyName.toLowerCase().includes(keyword) || 
-                   source.includes(keyword);
-        });
-
-        const searchList = document.getElementById('searchList');
-        
-        if (filteredArticles.length === 0) {
-            searchList.innerHTML = `<div class="alert alert-warning text-center" role="alert">「${keyword}」に一致する記事は見つかりませんでした。</div>`;
-        } else {
-            const newsContainer = document.createElement('div');
-            newsContainer.className = 'news-list-container';
-            newsContainer.innerHTML = filteredArticles.map(article => {
-                const companyName = companyMap[article.company_id] || '不明な企業';
-                return createNewsListItem(article, companyName, '');
-            }).join('');
-            searchList.innerHTML = '';
-            searchList.appendChild(newsContainer);
-        }
-
-        searchResults.style.display = 'block';
-        latestNewsList.style.display = 'none';
-        archiveListContainer.style.display = 'none';
-        archiveHeading.style.display = 'none';
-    };
-
-    searchButton.addEventListener('click', performSearch);
-    searchInput.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') {
-            performSearch();
-        }
-    });
-
-    clearSearch.addEventListener('click', (e) => {
-        e.preventDefault();
-        searchInput.value = '';
-        performSearch();
-    });
-}
-
-// =================================================================
-// ★★★ 新規機能: 画面右下の閉じるボタンのロジック ★★★
-// =================================================================
-
-/**
- * 画面右下の閉じるボタンの表示/非表示を制御する
- */
-function toggleCloseButton() {
-    if (!closeBtn) return;
-    const scrollY = window.scrollY || document.documentElement.scrollTop;
-    
-    // 現在開いている details 要素があるかチェック
-    // details[open] は開いている details 要素を指す
-    const activeDetails = document.querySelector('details[open]');
-    
-    // スクロール量が 150px より大きい AND detailsが開いている場合 のみ表示
-    if (scrollY > 150 && activeDetails) {
-        closeBtn.style.display = "block";
+        
+        latestListContainer.innerHTML = latestHtml;
     } else {
-        closeBtn.style.display = "none";
+        latestListContainer.innerHTML = `<p class="text-center text-muted">過去24時間以内に公開された新しい記事はありません。</p>`;
+    }
+
+
+    // ----------------------------------------------------------------
+    // 2. 企業別アーカイブの生成 (公開から24時間以上経過)
+    // ----------------------------------------------------------------
+
+    const groupedNews = {};
+    companies.forEach(company => {
+        groupedNews[company.id] = [];
+    });
+
+    newsData.forEach(article => {
+        const publishedTime = parseDateAsJST(article.published).getTime();
+        
+        // アーカイブの記事は「公開時刻が24時間前以下」であること
+        const isArchive = publishedTime <= oneDayAgoCutoff;
+
+        if (isArchive && groupedNews[article.company_id]) {
+            groupedNews[article.company_id].push(article);
+        }
+    });
+
+    const archiveListContainer = document.getElementById('archiveListContainer');
+    archiveListContainer.innerHTML = ''; 
+    let archiveFound = false;
+    
+    companies.forEach(company => {
+        const companyId = company.id;
+        const companyName = company.name;
+        
+        const archiveArticles = groupedNews[companyId] || [];
+
+        if (archiveArticles.length > 0) {
+            archiveFound = true;
+            let newsListHtml = '';
+            
+            archiveArticles.forEach(article => {
+                // アーカイブでは NEW! ラベルは不要
+                newsListHtml += createNewsListItem(article, companyName);
+            });
+            
+            // details要素 (アコーディオン) を生成
+            const detailsElement = document.createElement('details');
+            detailsElement.className = 'archive-item';
+
+            detailsElement.innerHTML = `<summary class="archive-header">${companyName} (${archiveArticles.length}件)</summary><div class="archive-content">${newsListHtml}</div>`;
+
+            archiveListContainer.appendChild(detailsElement);
+        }
+    });
+
+    if (!archiveFound) {
+         archiveListContainer.innerHTML = `<p class="text-center text-muted">現在、アーカイブ記事はありません。</p>`;
+    }
+
+    // ----------------------------------------------------------------
+    // 3. 検索機能
+    // ----------------------------------------------------------------
+
+    document.getElementById('searchButton').onclick = searchNews;
+    document.getElementById('searchKeyword').onkeydown = (e) => {
+        if (e.key === 'Enter') {
+            searchNews();
+        }
+    };
+    document.getElementById('clearSearch').onclick = clearSearch;
+
+    // ----------------------------------------------------------------
+    // 4. アコーディオン開閉制御とボタン設定
+    // ----------------------------------------------------------------
+    document.querySelectorAll('.archive-item').forEach(details => {
+        details.addEventListener('toggle', toggleCloseButton);
+    });
+
+    setupCloseButton();
+}
+
+
+// ----------------------------------------------------------------
+// 検索ロジック (省略なし)
+// ----------------------------------------------------------------
+
+function searchNews() {
+    const keyword = document.getElementById('searchKeyword').value.toLowerCase();
+    const searchList = document.getElementById('searchList');
+    const searchResults = document.getElementById('searchResults');
+    const newsItems = document.querySelectorAll('.news-item');
+    
+    searchList.innerHTML = ''; 
+
+    if (keyword.length === 0) {
+        searchResults.style.display = 'none';
+        document.getElementById('latestNewsList').parentElement.style.display = 'block';
+        document.getElementById('archiveListContainer').parentElement.style.display = 'block';
+        return;
+    }
+
+    document.getElementById('latestNewsList').parentElement.style.display = 'none';
+    document.getElementById('archiveListContainer').parentElement.style.display = 'none';
+    searchResults.style.display = 'block';
+
+    let resultsHtml = '';
+    let foundCount = 0;
+
+    newsItems.forEach(item => {
+        const titleLink = item.querySelector('.news-title-link');
+        const meta = item.querySelector('.news-meta');
+        
+        if (titleLink && meta) {
+            const titleText = titleLink.textContent.toLowerCase();
+            const metaText = meta.textContent.toLowerCase();
+            
+            if (titleText.includes(keyword) || metaText.includes(keyword)) {
+                resultsHtml += item.outerHTML;
+                foundCount++;
+            }
+        }
+    });
+
+    if (foundCount > 0) {
+        searchList.innerHTML = resultsHtml;
+    } else {
+        searchList.innerHTML = `<p class="text-center text-muted">「${keyword}」に一致する記事は見つかりませんでした。</p>`;
     }
 }
 
-/**
- * 画面右下の閉じるボタンのイベントを設定する
- */
+function clearSearch(e) {
+    if (e) e.preventDefault();
+    document.getElementById('searchKeyword').value = '';
+    document.getElementById('searchResults').style.display = 'none';
+    document.getElementById('latestNewsList').parentElement.style.display = 'block';
+    document.getElementById('archiveListContainer').parentElement.style.display = 'block';
+}
+
+
+// ----------------------------------------------------------------
+// アコーディオン開閉ボタン制御ロジック (省略なし)
+// ----------------------------------------------------------------
+
+let scrollPositionBeforeAccordion = 0;
+
+function toggleCloseButton() {
+    const openAccordions = document.querySelectorAll('.archive-item[open]').length;
+    const btn = document.getElementById('close-accordion-btn');
+
+    if (openAccordions > 0) {
+        if (btn.style.display === 'none') {
+            scrollPositionBeforeAccordion = window.scrollY; 
+        }
+        btn.style.display = 'flex'; 
+    } else {
+        btn.style.display = 'none';
+    }
+}
+
 function setupCloseButton() {
-    if (!closeBtn) return; // ボタン要素が存在しない場合は何もしない
+    const btn = document.getElementById('close-accordion-btn');
 
-    // スクロール監視の登録
-    window.addEventListener('scroll', toggleCloseButton);
-
-    // ボタンクリック時の処理
-    closeBtn.onclick = function() {
-        
-        // 1. 開いている details 要素をすべて閉じる
-        document.querySelectorAll('details[open]').forEach(details => {
-            details.open = false; 
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.archive-item[open]').forEach(details => {
+            details.open = false;
         });
-
-        // 2. 記録した位置に戻る（スムーズスクロール）
-        const targetScroll = scrollPositionBeforeAccordion || 0; 
+        
+        btn.style.display = 'none'; 
         
         window.scrollTo({
-            top: targetScroll,
+            top: scrollPositionBeforeAccordion,
             behavior: 'smooth'
         });
-
-        // 3. 記録位置をリセット
-        scrollPositionBeforeAccordion = 0;
-
-        // 4. ボタンを非表示にする (スムーズスクロール完了後に消えるが、即座に消す)
-        closeBtn.style.display = "none";
-        // スムーズスクロールが完了した後、最終的に非表示になるように (保険)
-        setTimeout(toggleCloseButton, 500); 
-    };
+    });
 }
+
+
+// ----------------------------------------------------------------
+// 初期化
+// ----------------------------------------------------------------
+document.addEventListener('DOMContentLoaded', renderNews);
