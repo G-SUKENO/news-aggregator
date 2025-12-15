@@ -1,5 +1,5 @@
 // =================================================================
-// script.js 完全版 (二重表示修正、検索機能、JST強制表示、新JSON形式対応)
+// script.js 完全版 (検索コンテナ表示/非表示ロジック追加済み)
 // =================================================================
 
 const NEWS_FILE = 'news.json';
@@ -25,7 +25,6 @@ function parseDateAsJST(dateString) {
 function createNewsListItem(article, companyName, newLabel = '') {
     const articleDate = parseDateAsJST(article.published);
     
-    // タイムゾーンを明示的に 'Asia/Tokyo' に指定し、JSTで表示する
     const formattedDate = articleDate.toLocaleString('ja-JP', {
         year: 'numeric',
         month: '2-digit',
@@ -70,9 +69,8 @@ async function renderNews() {
             throw new Error('データの読み込みに失敗しました。ファイルパスまたはサーバーを確認してください。');
         }
 
-        // ニュースデータと企業リストの読み込み
         newsDataContainer = await newsResponse.json();
-        const newsData = newsDataContainer.articles || []; // 新JSON形式: 'articles'リストを取り出す
+        const newsData = newsDataContainer.articles || []; 
         companies = await companiesResponse.json();
         
         // ----------------------------------------------------------------
@@ -84,7 +82,6 @@ async function renderNews() {
         if (generatedAtString) {
             const generatedDate = parseDateAsJST(generatedAtString);
             
-            // タイムゾーンを明示的に 'Asia/Tokyo' に指定し、JSTで表示する
             displayTime = generatedDate.toLocaleString('ja-JP', {
                 year: 'numeric',
                 month: '2-digit',
@@ -95,17 +92,15 @@ async function renderNews() {
                 timeZone: 'Asia/Tokyo'
             });
         } else {
-            // データがない場合は、読み込み時刻をローカルタイムで表示
             displayTime = new Date().toLocaleString('ja-JP', {
                 year: 'numeric', month: '2-digit', day: '2-digit', 
                 hour: '2-digit', minute: '2-digit', hour12: false
             }) + " (時刻不明)";
         }
         
-        // 'last-updated' エレメントに表示
+        // 'last-updated' エレメントに時刻のみを表示 (二重表示解消済み)
         const lastUpdatedElement = document.getElementById('last-updated');
         if (lastUpdatedElement) {
-             // ★修正箇所: 「最終更新: 」を削除し、時刻データのみをtextContentに設定★
              lastUpdatedElement.textContent = displayTime;
         }
 
@@ -114,7 +109,6 @@ async function renderNews() {
         // 記事の分類・レンダリングロジック
         // ----------------------------------------------------------------
         
-        // 企業IDマップの構築
         companies.forEach(company => {
             COMPANY_IDS[company.id] = company.name;
         });
@@ -122,7 +116,7 @@ async function renderNews() {
         const currentTime = new Date(); 
         const oneDayAgoCutoff = currentTime.getTime() - (24 * 60 * 60 * 1000); 
         
-        // 1. 新着記事セクションの生成 (公開から24時間以内)
+        // 1. 新着記事セクションの生成
         
         const latestArticles = newsData.filter(article => {
             const publishedTime = parseDateAsJST(article.published).getTime();
@@ -146,7 +140,7 @@ async function renderNews() {
             latestListContainer.innerHTML = `<p class="text-center text-muted">過去24時間以内に公開された新しい記事はありません。</p>`;
         }
 
-        // 2. 企業別アーカイブの生成 (公開から24時間以上経過)
+        // 2. 企業別アーカイブの生成
         const groupedNews = {};
         companies.forEach(company => { groupedNews[company.id] = []; });
 
@@ -230,20 +224,27 @@ function searchNews() {
     
     // 検索前の初期化: 全記事を表示状態に戻し、全アコーディオンを一旦閉じる
     document.querySelectorAll('.archive-item').forEach(details => {
-        details.open = false; // 検索前に全アコーディオンを閉じる
+        details.open = false; 
     });
 
     allNewsItems.forEach(item => {
-        item.style.display = 'block'; // 初期化
+        item.style.display = 'block'; 
         item.classList.remove('hidden-by-search');
     });
 
     if (keyword.trim() === '') {
-        // キーワードが空の場合は全て表示
         document.getElementById('search-result-count').textContent = '';
-        toggleCloseButton(); // ボタンの状態を更新
+        // キーワードが空の場合は、検索結果コンテナも非表示にする
+        document.getElementById('searchResults').style.display = 'none'; // ★ 修正 ★
+        toggleCloseButton(); 
         return;
     }
+    
+    // 検索開始時に、検索結果コンテナを表示する
+    document.getElementById('searchResults').style.display = 'block'; // ★ 修正 ★
+
+    // 検索結果リストをクリア (このHTMLでは使用されていないが、念のため)
+    // document.getElementById('searchList').innerHTML = '';
     
     // 検索実行
     allNewsItems.forEach(item => {
@@ -251,19 +252,16 @@ function searchNews() {
         const meta = item.querySelector('.news-meta')?.textContent.toLowerCase() || '';
         
         if (title.includes(keyword) || meta.includes(keyword)) {
-            // キーワードが見つかった場合
             item.style.display = 'block';
             item.classList.remove('hidden-by-search');
             foundCount++;
 
-            // アーカイブ記事の場合、親のアコーディオンを開く
             const parentDetails = item.closest('.archive-item');
             if (parentDetails) {
-                parentDetails.open = true; // 該当記事を含むアコーディオンを開く
+                parentDetails.open = true; 
             }
 
         } else {
-            // キーワードが見つからなかった場合
             item.style.display = 'none';
             item.classList.add('hidden-by-search');
         }
@@ -272,7 +270,6 @@ function searchNews() {
     // 検索結果の表示
     document.getElementById('search-result-count').textContent = ` (${foundCount} 件)`;
     
-    // 検索後のアコーディオン開閉ボタンの状態更新
     toggleCloseButton();
 }
 
@@ -284,6 +281,9 @@ function clearSearch(e) {
     }
     document.getElementById('search-result-count').textContent = '';
     
+    // 検索結果コンテナを非表示に戻す
+    document.getElementById('searchResults').style.display = 'none'; // ★ 修正 ★
+
     // 全て表示に戻す
     document.querySelectorAll('.news-item').forEach(item => {
         item.style.display = 'block';
@@ -295,7 +295,6 @@ function clearSearch(e) {
         details.open = false;
     });
 
-    // アコーディオン開閉ボタンの状態更新
     toggleCloseButton();
 }
 
@@ -307,7 +306,6 @@ function toggleCloseButton() {
     if (btn) {
         if (openAccordions > 0) {
             if (btn.style.display === 'none') {
-                // 開き始めた瞬間のスクロール位置を記録
                 scrollPositionBeforeAccordion = window.scrollY; 
             }
             btn.style.display = 'flex'; 
@@ -328,7 +326,6 @@ function setupCloseButton() {
             
             btn.style.display = 'none'; 
             
-            // アコーディオンを開く前の位置に戻る
             window.scrollTo({
                 top: scrollPositionBeforeAccordion,
                 behavior: 'smooth'
