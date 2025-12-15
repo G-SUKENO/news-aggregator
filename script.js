@@ -1,5 +1,5 @@
 // =================================================================
-// script.js 完全版 (検索コンテナ表示/非表示ロジック追加済み)
+// script.js 完全版 (クリアロジック強化済み)
 // =================================================================
 
 const NEWS_FILE = 'news.json';
@@ -98,7 +98,6 @@ async function renderNews() {
             }) + " (時刻不明)";
         }
         
-        // 'last-updated' エレメントに時刻のみを表示 (二重表示解消済み)
         const lastUpdatedElement = document.getElementById('last-updated');
         if (lastUpdatedElement) {
              lastUpdatedElement.textContent = displayTime;
@@ -235,16 +234,14 @@ function searchNews() {
     if (keyword.trim() === '') {
         document.getElementById('search-result-count').textContent = '';
         // キーワードが空の場合は、検索結果コンテナも非表示にする
-        document.getElementById('searchResults').style.display = 'none'; // ★ 修正 ★
+        document.getElementById('searchResults').style.display = 'none'; 
         toggleCloseButton(); 
         return;
     }
     
     // 検索開始時に、検索結果コンテナを表示する
-    document.getElementById('searchResults').style.display = 'block'; // ★ 修正 ★
+    document.getElementById('searchResults').style.display = 'block'; 
 
-    // 検索結果リストをクリア (このHTMLでは使用されていないが、念のため)
-    // document.getElementById('searchList').innerHTML = '';
     
     // 検索実行
     allNewsItems.forEach(item => {
@@ -281,21 +278,9 @@ function clearSearch(e) {
     }
     document.getElementById('search-result-count').textContent = '';
     
-    // 検索結果コンテナを非表示に戻す
-    document.getElementById('searchResults').style.display = 'none'; // ★ 修正 ★
-
-    // 全て表示に戻す
-    document.querySelectorAll('.news-item').forEach(item => {
-        item.style.display = 'block';
-        item.classList.remove('hidden-by-search');
-    });
-    
-    // アコーディオンを閉じる
-    document.querySelectorAll('.archive-item').forEach(details => {
-        details.open = false;
-    });
-
-    toggleCloseButton();
+    // ★ 修正ポイント: キーワードをクリアした後、searchNews関数を呼び出し、
+    // キーワードが空の状態での全記事再表示ロジックを実行させる。
+    searchNews(); 
 }
 
 
