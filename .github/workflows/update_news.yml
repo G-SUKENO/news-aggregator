@@ -2,14 +2,23 @@ name: Daily News Aggregation
 
 # 実行トリガーの設定
 on:
-  # 毎日、日本時間 8:00 AM に自動実行
+  # 毎日、日本時間 8:00 AM に自動実行 (UTC 23:00)
   schedule:
-    - cron: '0 23 * * *' 
+    - cron: '0 23 * * *'  # 実行時刻は JST 8:00 AM
   
   # 手動での実行も可能にする
   workflow_dispatch:
+
+# 同時実行の制御：古いジョブをキャンセルし、新しいジョブのデプロイ競合を防ぐ
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# 権限設定: 読み書き権限と Pages デプロイに必要な権限を付与
 permissions:
-  contents: write # 👈 これが書き込み権限を付与する設定です
+  contents: write # news.json のコミットに必要
+  pages: write    # Pages デプロイに必要
+  id-token: write # Pages デプロイの認証に必要
 
 jobs:
   run-script:
@@ -30,10 +39,30 @@ jobs:
     - name: 4. Pythonスクリプトの実行
       run: python main.py
 
+    # --- データのコミット（news.jsonの更新） ---
     - name: 5. 変更されたファイルをコミット（GitHubに保存）
+      # main.pyによってnews.jsonが変更された場合のみコミットされます
       uses: EndBug/add-and-commit@v9
       with:
         add: 'news.json'
         author_name: Automated Bot
         author_email: github-actions[bot]@users.noreply.github.com
         message: 'Daily update: news.json generated'
+
+    # --- Pages デプロイのための準備 ---
+
+    - name: 6. Pages デプロイのためのアーティファクトのアップロード (必須)
+      # デプロイ対象のファイル（index.html, script.js, news.jsonなど）を
+      # Pagesサービスが認識できるように 'github-pages' という名前でアップロードします。
+      uses: actions/upload-artifact@v4
+      with:
+        # リポジトリのルートディレクトリ全体をアップロード対象とします。
+        # (index.html, script.js, news.jsonなどがすべてルートにある前提)
+        path: . 
+        name: github-pages # ★ deploy-pages アクションが探す必須のアーティファクト名 ★
+        
+    - name: 7. Pages へのデプロイ
+      id: deployment
+      uses: actions/deploy-pages@v4 
+      with:
+        artifact_name: github-pages # ステップ6でアップロードした名前を指定
