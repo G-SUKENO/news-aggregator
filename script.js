@@ -1,5 +1,5 @@
 // =================================================================
-// script.js 完全版 (検索機能、JST強制表示、新JSON形式対応)
+// script.js 完全版 (二重表示修正、検索機能、JST強制表示、新JSON形式対応)
 // =================================================================
 
 const NEWS_FILE = 'news.json';
@@ -16,7 +16,6 @@ const COMPANY_IDS = {}; // 企業IDと企業名をマッピング
  * @returns {Date} - Dateオブジェクト
  */
 function parseDateAsJST(dateString) {
-    // タイムゾーン情報（+09:00）を含むため、Dateオブジェクトは正しいUTC時刻を内部保持する
     return new Date(dateString);
 }
 
@@ -56,7 +55,6 @@ function createNewsListItem(article, companyName, newLabel = '') {
 // メインレンダリング関数
 // ----------------------------------------------------------------
 
-// ★★★ この定義は、他の関数の内部ではなく、グローバルに配置されます ★★★
 async function renderNews() {
     let newsDataContainer = {}; 
     let companies = [];
@@ -107,7 +105,8 @@ async function renderNews() {
         // 'last-updated' エレメントに表示
         const lastUpdatedElement = document.getElementById('last-updated');
         if (lastUpdatedElement) {
-             lastUpdatedElement.textContent = `最終更新: ${displayTime}`;
+             // ★修正箇所: 「最終更新: 」を削除し、時刻データのみをtextContentに設定★
+             lastUpdatedElement.textContent = displayTime;
         }
 
 
@@ -126,7 +125,6 @@ async function renderNews() {
         // 1. 新着記事セクションの生成 (公開から24時間以内)
         
         const latestArticles = newsData.filter(article => {
-            // 時刻比較にはgetTime()を使う
             const publishedTime = parseDateAsJST(article.published).getTime();
             return publishedTime > oneDayAgoCutoff;
         });
@@ -258,7 +256,7 @@ function searchNews() {
             item.classList.remove('hidden-by-search');
             foundCount++;
 
-            // ★ 検索機能修正ポイント: アーカイブ記事の場合、親のアコーディオンを開く ★
+            // アーカイブ記事の場合、親のアコーディオンを開く
             const parentDetails = item.closest('.archive-item');
             if (parentDetails) {
                 parentDetails.open = true; // 該当記事を含むアコーディオンを開く
