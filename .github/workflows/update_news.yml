@@ -4,7 +4,8 @@ name: Daily News Aggregation
 on:
   # 毎日、日本時間 8:00 AM に自動実行 (UTC 23:00)
   schedule:
-    - cron: '0 23 * * *'  # 実行時刻は JST 8:00 AM
+    # UTCの 3, 7, 11, 15, 23 時に実行
+    - cron: '0 3,7,11,15,23 * * *'
   
   # 手動での実行も可能にする
   workflow_dispatch:
