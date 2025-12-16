@@ -1,20 +1,16 @@
 name: Daily News Aggregation
 
-# 修正提案 (冗長なcron設定)
+# 実行トリガーの設定
 on:
   schedule:
     # 0, 8, 12, 16, 20 時 (JST) およびその5分後に実行
-    # UTC: 3, 7, 11, 15, 23 時 および 3, 7, 11, 15, 23 時の5分後
-    - cron: '0,5 3,7,11,15,23 * * *' 
-  
+    - cron: '0,5 3,7,11,15,23 * * *'  
   workflow_dispatch:
 
-# 同時実行の制御：古いジョブをキャンセルし、新しいジョブのデプロイ競合を防ぐ
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-# 権限設定: 読み書き権限と Pages デプロイに必要な権限を付与
 permissions:
   contents: write # news.json のコミットに必要
   pages: write    # Pages デプロイに必要
@@ -24,6 +20,11 @@ jobs:
   run-script:
     runs-on: ubuntu-latest
     
+    # ★ ここに環境設定を追加します ★
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
     steps:
     - name: 1. リポジトリのファイルをチェックアウト（取得）
       uses: actions/checkout@v4
@@ -32,7 +33,7 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-
+# ... (ステップ 3〜7 は変更なし) ...
     - name: 3. 依存ライブラリのインストール
       run: pip install feedparser
 
@@ -41,7 +42,6 @@ jobs:
 
     # --- データのコミット（news.jsonの更新） ---
     - name: 5. 変更されたファイルをコミット（GitHubに保存）
-      # main.pyによってnews.jsonが変更された場合のみコミットされます
       uses: EndBug/add-and-commit@v9
       with:
         add: 'news.json'
@@ -52,17 +52,13 @@ jobs:
     # --- Pages デプロイのための準備 ---
 
     - name: 6. Pages デプロイのためのアーティファクトのアップロード (必須)
-      # デプロイ対象のファイル（index.html, script.js, news.jsonなど）を
-      # Pagesサービスが認識できるように 'github-pages' という名前でアップロードします。
       uses: actions/upload-artifact@v4
       with:
-        # リポジトリのルートディレクトリ全体をアップロード対象とします。
-        # (index.html, script.js, news.jsonなどがすべてルートにある前提)
         path: . 
-        name: github-pages # ★ deploy-pages アクションが探す必須のアーティファクト名 ★
+        name: github-pages 
         
     - name: 7. Pages へのデプロイ
       id: deployment
       uses: actions/deploy-pages@v4 
       with:
-        artifact_name: github-pages # ステップ6でアップロードした名前を指定
+        artifact_name: github-pages
