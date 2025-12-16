@@ -113,7 +113,7 @@ async function renderNews() {
         });
 
         const currentTime = new Date(); 
-        const oneDayAgoCutoff = currentTime.getTime() - (24 * 60 * 60 * 1000); 
+        const oneDayAgoCutoff = currentTime.getTime() - (12 * 60 * 60 * 1000); 
         
         // 1. 新着記事セクションの生成
         
