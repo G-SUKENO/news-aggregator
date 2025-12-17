@@ -136,7 +136,7 @@ async function renderNews() {
             
             latestListContainer.innerHTML = latestHtml;
         } else {
-            latestListContainer.innerHTML = `<p class="text-center text-muted">過去24時間以内に公開された新しい記事はありません。</p>`;
+            latestListContainer.innerHTML = `<p class="text-center text-muted">過去12時間以内に公開された新しい記事はありません。</p>`;
         }
 
         // 2. 企業別アーカイブの生成
