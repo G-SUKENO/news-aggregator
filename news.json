@@ -1,6 +1,13 @@
 {
-    "generated_at": "2025-12-18T18:52:01.506092+09:00",
+    "generated_at": "2025-12-18T19:49:47.238976+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "【売買】総額552億円の資産入れ替え取引、積水ハウス・リート - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTbmRDWUZxeU5FZ2d1WHFVSjk0WmYyVzdTakhqWXNaWFVzU3F3UkhUbE13U3hYcFVyMzM3eHBlRFo0anoxZDZoVkhVZVl6RUhYQlhNSTlGczhPUUFlOFNUcUdn?oc=5",
+            "published": "2025-12-18T19:14:29+09:00",
+            "source": "日経不動産マーケット情報"
+        },
         {
             "company_id": "daiwa_house",
             "title": "モジュールＤＣ発売 短納期、効率化を追求 大和ハウス - kankyo-news.co.jp",
@@ -504,13 +511,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEeG9iWkswMW9CeEVvRS1pQmZIMFIwVzdma3ZiOHB3TDFEWk5hNzZhZTJIWVNGcHp4T3VoX0tncXF1amRRUVlUcGVJVVA1UjZ0Z3dRTVktOHJiZw?oc=5",
             "published": "2025-12-16T05:59:44+09:00",
             "source": "Green Card ニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【売買】総額552億円の資産入れ替え取引、積水ハウス・リート - 日経不動産マーケット情報",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTbmRDWUZxeU5FZ2d1WHFVSjk0WmYyVzdTakhqWXNaWFVzU3F3UkhUbE13U3hYcFVyMzM3eHBlRFo0anoxZDZoVkhVZVl6RUhYQlhNSTlGczhPUUFlOFNUcUdn?oc=5",
-            "published": "2025-12-16T05:50:00+09:00",
-            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "daiwa_house",
@@ -1347,6 +1347,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス、遠州鉄道と共同戸建て住宅 耐震技術で災害にも備え - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTzMxcEE0RTNreks5U0tMeHpteTM2QWcwTG1MeFB5QmN5YllGN3J0WExPYXhxS3hwU05sWWszc2tyM2VMbWx5V2IzVmJiLUZGQXBHLXdJOWNMdEF6bnVxVUNFNDJGV3ZyYlA2cg?oc=5",
+            "published": "2025-12-09T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "東海地方で初、積水ハウスと遠州鉄道が12月より事業開始 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTWtrVmltU1NDM0J4ay1kcmtRa3YyUjI0QWdmS3VXV1N1VXN0OE1tRjFSekNZaVI4dDdiQ1JrdkV4VlRSQXppQVRwZFZKMVRDMkdmUHp5RnlvN3M?oc=5",
             "published": "2025-12-09T17:00:00+09:00",
@@ -1358,13 +1365,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QczBOWnowSUtwU1dBOElZR2sxYkFtM0loZHc3aUF1MTFnQ3dOTEc2YzZLeExXTl9YZC1oRVdpOXhUTjVSMzBGa2VIR0pZQnZMX1dqOHhHT3IxcUE?oc=5",
             "published": "2025-12-09T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、遠州鉄道と共同戸建て住宅 耐震技術で災害にも備え - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTzMxcEE0RTNreks5U0tMeHpteTM2QWcwTG1MeFB5QmN5YllGN3J0WExPYXhxS3hwU05sWWszc2tyM2VMbWx5V2IzVmJiLUZGQXBHLXdJOWNMdEF6bnVxVUNFNDJGV3ZyYlA2cg?oc=5",
-            "published": "2025-12-09T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -1465,18 +1465,25 @@
             "source": "LOGISTICS TODAY"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、モジュール型DC発売 納期5分の1 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PTjliOFBabE5sVEN1ZDNPcHlQZy1LUTZwUjh3azVERV85RkZWS0JremZrSTNYbnAtcklVUzlmNDk2SmZ3aG53Qjl3TzJLM0dLc180M0g3RjBBc0E?oc=5",
-            "published": "2025-12-08T17:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【積水ハウス】千葉県最大級ワンラブマーケット２０２５初出店 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtY1kyc21NeTBxaW0tNmVwdFdKbzlRVWlkclBXdHVyb2NydGFxdU5qVDNycndCTnZZTDhxdFNZblJMY2hVb3pDSllPeGFVcUJ2QnMydG9sYm94bm8?oc=5",
             "published": "2025-12-08T17:00:00+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、モジュール型データセータ「Module DPDC」発売--約1年で構築可能 - ZDNET Japan",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSVGVPSmQ1VjlTUEg0U29Ba3VYR1RxWXBIeVVCaHozNVQwRmxxN3VoRXhsNmM5bTJGWFlFWjh0cXgyaFJfaTdXTWcwd3hsN0JKUkxv?oc=5",
+            "published": "2025-12-08T17:00:00+09:00",
+            "source": "ZDNET Japan"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、モジュール型DC発売 納期5分の1 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PTjliOFBabE5sVEN1ZDNPcHlQZy1LUTZwUjh3azVERV85RkZWS0JremZrSTNYbnAtcklVUzlmNDk2SmZ3aG53Qjl3TzJLM0dLc180M0g3RjBBc0E?oc=5",
+            "published": "2025-12-08T17:00:00+09:00",
+            "source": "日刊工業新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -1505,13 +1512,6 @@
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzYmhaM3VjcW1zbnk4Y19VeEZRaUphcjk2dmhpY1pNeHFiYTNSUVRsQVptTjZBY0llS1pMY1NuNHFGWGhLajBRWGNGajFSVmVJUzRsNkVxMlVnQ3RUc0s4bTVxVEZDSXVxVW1rTVpaSjdBQmhSWU1MSG1WdXhtTFk?oc=5",
             "published": "2025-12-08T16:44:00+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、モジュール型データセータ「Module DPDC」発売--約1年で構築可能 - ZDNET Japan",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSVGVPSmQ1VjlTUEg0U29Ba3VYR1RxWXBIeVVCaHozNVQwRmxxN3VoRXhsNmM5bTJGWFlFWjh0cXgyaFJfaTdXTWcwd3hsN0JKUkxv?oc=5",
-            "published": "2025-12-08T16:44:00+09:00",
-            "source": "ZDNET Japan"
         },
         {
             "company_id": "daiwa_house",
@@ -1612,18 +1612,18 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、データセンターの工期5分の1 組み立て型の新工法 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUW1CUEE1Rm96SWtzd294aVNhcVRvVWZQcGRiZjVVeDM4UWhzY3FHWEhqX0pNaDRMZDZWcW52M1ZxcW5CZFl6eTRSZWNvTzZvOVdYRHNqOG1XMEJnMmp5TXJpRXdSNW9EUDBYNg?oc=5",
-            "published": "2025-12-05T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【特集】 決算マイナス・インパクト銘柄・寄付 … 積水ハウス、トラースＯＰ、キタック (12月4日発表分) - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IMWJFSk4ydUY5UXFIOXh2YXREa3hrVlRhelZQUzZlWEtQdWlnMzFzaGxkVnR1NWQ4amJrNlkyTEFJMmlPVnAzMFV2OTRCVlliY2hlVXNid203NE9RMzdkUg?oc=5",
             "published": "2025-12-05T17:00:00+09:00",
             "source": "かぶたん"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、データセンターの工期5分の1 組み立て型の新工法 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUW1CUEE1Rm96SWtzd294aVNhcVRvVWZQcGRiZjVVeDM4UWhzY3FHWEhqX0pNaDRMZDZWcW52M1ZxcW5CZFl6eTRSZWNvTzZvOVdYRHNqOG1XMEJnMmp5TXJpRXdSNW9EUDBYNg?oc=5",
+            "published": "2025-12-05T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -1703,13 +1703,6 @@
             "source": "tv-tokyo.co.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの快適防音室【音の自由区】ハラミちゃんがオーナー様宅にサプライズ訪問する特別動画を本日公開「奏でる、つながる、出会う音。」いよいよフィナーレ！ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVUZrUkhZcWlqMncxTWhwVXJmNmcyTVFIZm9YSHlaWFBUUTA4SF9jb2ItY0JkRDE1Rl92WjlWT0JNUlBpdGl6VVdXRXNIc0wwbmdFVjF6UXY0d2w2Q0hJNGo2MnFKM0pMWlE?oc=5",
-            "published": "2025-12-04T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス【1928】、2-10月期(3Q累計)経常が6％減益で着地・8-10月期も3％減益 | 決算速報 - 株探ニュース - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50eWdqSHdMYTV1M051VW1zRmxZb3BIZjBsUVdGR0dpc0VYQ1Z6a21vMjNqUE1EdS1JS2E0b1Z4MXdNenRiTEUzTmY0eG53V1Z1LUE?oc=5",
@@ -1743,6 +1736,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16N2JaR1psZ25hcEdzRHVjMzlIcUNMYTRRcXhsZkM5ZDZybnVfZU8xbXhKYTRpd0c1MWFCMlRScG5tUnM0V3p5VHhCZmF1VUhIbndZNDljVXZkUHNFdGRxNg?oc=5",
             "published": "2025-12-04T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの快適防音室【音の自由区】ハラミちゃんがオーナー様宅にサプライズ訪問する特別動画を本日公開「奏でる、つながる、出会う音。」いよいよフィナーレ！ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVUZrUkhZcWlqMncxTWhwVXJmNmcyTVFIZm9YSHlaWFBUUTA4SF9jb2ItY0JkRDE1Rl92WjlWT0JNUlBpdGl6VVdXRXNIc0wwbmdFVjF6UXY0d2w2Q0hJNGo2MnFKM0pMWlE?oc=5",
+            "published": "2025-12-04T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
@@ -1836,20 +1836,6 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "コスモスイニシアとスマイルズがリノベーションマンションを共同プロデュース「ものが好きな、物好きのための理想の家」(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ITlIzOURzVEZzbTZKeDFBQm95dDBGTlpPSVJ2a3VSQlBHTTNodVZab2lYWVdkMlpxSlpBSnZFNUN2cElkR2h5Y09fS2ZManZqMS1DSlp3UGdVSmo0RTMxQVQwM0dVR1F2WFE?oc=5",
-            "published": "2025-12-03T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "「田の字」からの脱却 大和ハウス、生活空間を物で満たすリノベマンション - Impress Watch",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pU0E4Z19DZnV3S1dBRGUtMF9Vejg4X3ZOZ3pBaDNXUk9aMnJPajRYaUkzbkhyaTVZSWtPUUNEdzBlQWxTTmFZX1NBVkVDSGlVVU11Q1p3NWxlQkNWOVF6aVFwNHc?oc=5",
-            "published": "2025-12-03T17:00:00+09:00",
-            "source": "Impress Watch"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、セーフィーのクラウドカメラで施工管理DXを推進 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBROGlEQ2lsWmcwbllHRUphb2ROSUdBOTZOOVdkaFNpYnYwb3FhWWRIUlIzX1pzSl9jRElfU1Z3VlFCVkZZVk5XcDBsWjU5MGxfMXhmcmlQM2lmcHlkZGI4MFdTMkJuUFJkQUE?oc=5",
@@ -1899,6 +1885,20 @@
             "source": "紀伊民報AGARA"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "コスモスイニシアとスマイルズがリノベーションマンションを共同プロデュース「ものが好きな、物好きのための理想の家」(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ITlIzOURzVEZzbTZKeDFBQm95dDBGTlpPSVJ2a3VSQlBHTTNodVZab2lYWVdkMlpxSlpBSnZFNUN2cElkR2h5Y09fS2ZManZqMS1DSlp3UGdVSmo0RTMxQVQwM0dVR1F2WFE?oc=5",
+            "published": "2025-12-03T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "「田の字」からの脱却 大和ハウス、生活空間を物で満たすリノベマンション - Impress Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pU0E4Z19DZnV3S1dBRGUtMF9Vejg4X3ZOZ3pBaDNXUk9aMnJPajRYaUkzbkhyaTVZSWtPUUNEdzBlQWxTTmFZX1NBVkVDSGlVVU11Q1p3NWxlQkNWOVF6aVFwNHc?oc=5",
+            "published": "2025-12-03T17:00:00+09:00",
+            "source": "Impress Watch"
+        },
+        {
             "company_id": "misawa_home",
             "title": "【高新住宅総合展示場「Lim“ライム”」】「蔵のある家」 豊かさを暮らしにプラスできる新しい空間 - SUUMO",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tODhBZzhrbUlSM21acTN1QzV6UlZKQ0VxbjUwMmJhOGxXZDlPOGItU1otc0F6LXFDNWRxRThUeUI4RGVzektvTUhVd2MzZWo1bS1wbFU3SzZCWGlJa0ZQQWQtdUxlU0VZV3NidHh2OFRrdUNXdlMyWkhTSnZzZw?oc=5",
@@ -1906,16 +1906,16 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業－底堅い 建設用3Dプリンタを開発するＰｏｌｙｕｓｅに出資(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWlCYmZpSWNSZmJHdVloclg1LWxTVDNLc1RZbC1odVIwWWREdXV6a1V3OHJVZUNXMi01QlMtSFNpa25mel9QNzZ3T3lJWlNQNk9Ia0pTM1lRSnJnZ2RIaDNvY1NtaVY0RVFfQ0Y1dTZULWFvTlRWRHhUQmhrejVpM08tWnJZZlU?oc=5",
+            "company_id": "sekisui_house",
+            "title": "明日の決算発表予定 積水ハウス、トラースＯＰなど4社 (12月3日)(株探ニュース) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1BNbDlHeEt2ZV9BYlJDMEVyeDRITjR6UWlpZHRLN1VCenRnS2FXYlh1WVFRb2ZlcVhlazVvb0FuM01KY09tVW0tU3ZqWkRyNnBoWi1xMzNOQTA0MWxXanEwQmx3QXJFanJrYWRVbEJWNFc1TDhCOElybVEwUy1HRWZGRmk3TzA?oc=5",
             "published": "2025-12-03T17:00:00",
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "明日の決算発表予定 積水ハウス、トラースＯＰなど4社 (12月3日)(株探ニュース) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1BNbDlHeEt2ZV9BYlJDMEVyeDRITjR6UWlpZHRLN1VCenRnS2FXYlh1WVFRb2ZlcVhlazVvb0FuM01KY09tVW0tU3ZqWkRyNnBoWi1xMzNOQTA0MWxXanEwQmx3QXJFanJrYWRVbEJWNFc1TDhCOElybVEwUy1HRWZGRmk3TzA?oc=5",
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業－底堅い 建設用3Dプリンタを開発するＰｏｌｙｕｓｅに出資(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWlCYmZpSWNSZmJHdVloclg1LWxTVDNLc1RZbC1odVIwWWREdXV6a1V3OHJVZUNXMi01QlMtSFNpa25mel9QNzZ3T3lJWlNQNk9Ia0pTM1lRSnJnZ2RIaDNvY1NtaVY0RVFfQ0Y1dTZULWFvTlRWRHhUQmhrejVpM08tWnJZZlU?oc=5",
             "published": "2025-12-03T17:00:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -3895,6 +3895,13 @@
         },
         {
             "company_id": "sumitomo_forestry",
+            "title": "住友林業が「森空(もりそら)プロジェクトⓇ」へ参画｜ニュースリリース - nipponpapergroup.com",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ISUxwcVJLUnVOOTRsNXgwMjdtYzhqYUlWRlBHTGZFYTJEekhYeUY0VlRadk1INE1DdDRBeDJZTWhsVkY4QlUtNEdXemJCR0RZaVhmcVJseXhUUjNTR0tCbkdkcE5hOGg2LUdVU1BCR3VPaGFGR29qdg?oc=5",
+            "published": "2025-09-30T16:00:00+09:00",
+            "source": "nipponpapergroup.com"
+        },
+        {
+            "company_id": "sumitomo_forestry",
             "title": "Green Carbon株式会社は、住友林業株式会社が運営する森林価値創造プラットフォームを活用し「自然資本由来」のネイチャーベースカーボンクレジットの取引を推進 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ScGQ4Nm1XVjFydkhnTzBrbWxBc00wQjhRY1VwTE5qaEF6SVZhSzVTaGM4RDdpUmROZzBkZWhpSVNURWNXdDZQbXFUeVZZSFZjMUhiNUNfUzFRYnFPWVRlZXhvazlVd3ZwWXc?oc=5",
             "published": "2025-09-30T16:00:00+09:00",
@@ -3906,13 +3913,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdERFaFZRTFJTLUNrb05JTmVuVXkwUXFpUkRud01xcVBkSnRoWDRQWS11bnBhaXdqR1dKMlB3dXdTQkk3enpJSU10dlNkQjhWUlg2OFpzR0VuUmM?oc=5",
             "published": "2025-09-30T16:00:00+09:00",
             "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業が「森空(もりそら)プロジェクトⓇ」へ参画｜ニュースリリース - nipponpapergroup.com",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ISUxwcVJLUnVOOTRsNXgwMjdtYzhqYUlWRlBHTGZFYTJEekhYeUY0VlRadk1INE1DdDRBeDJZTWhsVkY4QlUtNEdXemJCR0RZaVhmcVJseXhUUjNTR0tCbkdkcE5hOGg2LUdVU1BCR3VPaGFGR29qdg?oc=5",
-            "published": "2025-09-30T16:00:00+09:00",
-            "source": "nipponpapergroup.com"
         },
         {
             "company_id": "sekisui_heim",
