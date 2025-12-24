@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-25T02:36:40.348341+09:00",
+    "generated_at": "2025-12-25T03:56:49.043725+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -28,6 +28,13 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9paGxXZ084Q2FXNW5YV044Q1ktTkMtWkI0NXdqazhiQ0h6aVZ3cVozQmRWR2NWc1ZjZ19PUVpvcms3RnlJdmlDX0ZCNA?oc=5",
             "published": "2025-12-24T21:03:59+09:00",
             "source": "47NEWS"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "【特報】旧沖縄三越、大和ハウス主導で再開発へ 第一交通から取得、商業・ホテルの複合施設を検討 - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9meS1kYXhMNkhneUxHa1F0NUhtWWVEOHRlRC1Dd0V6TWlZbXl2VEVPZldHQVFKUGpGS2lVWXNPVUwwYWtoN3E1MDF2eWhNQlFzYjZaZGNodUR4RnNVWnh1bVJyZV9oMXp2R1d1Z1o0N1V0VXZRQXFNTzhiTQ?oc=5",
+            "published": "2025-12-24T21:03:00+09:00",
+            "source": "au Webポータル"
         },
         {
             "company_id": "misawa_home",
@@ -497,6 +504,13 @@
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16MEJRczQ4cXF3aTR5X3NQMWE5dDVMeWpoVjNGUnBaZG1jWjhzZFNfQnQxQkFNR3N5OFBBd3NMeXJ5Z245Q0pmNWQ1V283Z0ZtbW5MV1NLU1FISGZMZGp0ZDJMUVF4aEJZ?oc=5",
             "published": "2025-12-21T05:00:00+09:00",
             "source": "読売新聞オンライン"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "セキスイハイム東海、一戸建て「スマートホーム」の販売を開始：ニュース - 中日BIZナビ",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCYks5VHF5dk1CdS0ydUl5TkFRT3VOeVZ3RVBIR25ubHRmYVBlVzI3YTFiekpZQXNMQ3dZLV9xU2VJQUdYQzF1V1E3UWstTkRVRng1dXdTYjBWMzJWQW1nWGlBOA?oc=5",
+            "published": "2025-12-20T13:59:58+09:00",
+            "source": "中日BIZナビ"
         },
         {
             "company_id": "sekisui_heim",
@@ -2523,15 +2537,15 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "堆積管理システム「Smart Level™」の提供を高速道路の休憩施設向けに開始 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVGtuRDBnRl82WDN4Q01ZRkZsY0J0S3N3VU9YMDVoUDY0czhkVFhsUEFaS3dNRTI0cmR0Nzk2VzhhcmprTDlYd2dWMDBta2VIOHFRbm5zT0p0Ul8zVWJUZWVoRDdLWFdydHc?oc=5",
+            "title": "パテ埋め不要防火区画貫通措置部材『フィブロックNEO』が空調分野に新登場！ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZGdnc0s2ZjBsRFBWUm9OSE5sS182aENBN3JvTVJHSU5OWnJHRlNvOG5zTTBQaHFQamhwcTlBZGxua2w0SVFrTnlORE5mNmhVSHB5eWp2NTVuODFTeTVlYmZoQkF5QjdkeFE?oc=5",
             "published": "2025-12-09T17:00:00+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
-            "title": "パテ埋め不要防火区画貫通措置部材『フィブロックNEO』が空調分野に新登場！ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZGdnc0s2ZjBsRFBWUm9OSE5sS182aENBN3JvTVJHSU5OWnJHRlNvOG5zTTBQaHFQamhwcTlBZGxua2w0SVFrTnlORE5mNmhVSHB5eWp2NTVuODFTeTVlYmZoQkF5QjdkeFE?oc=5",
+            "title": "堆積管理システム「Smart Level™」の提供を高速道路の休憩施設向けに開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVGtuRDBnRl82WDN4Q01ZRkZsY0J0S3N3VU9YMDVoUDY0czhkVFhsUEFaS3dNRTI0cmR0Nzk2VzhhcmprTDlYd2dWMDBta2VIOHFRbm5zT0p0Ul8zVWJUZWVoRDdLWFdydHc?oc=5",
             "published": "2025-12-09T17:00:00+09:00",
             "source": "PR TIMES"
         },
@@ -2618,13 +2632,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWkJBSWtHS0xZbzhpM2U3LTRfeEZHdkVHUW5nSE92Z0N2WElfRkFrSTcwcjBxNkNWNk9kOEIxV1UwZl8yemctSjJrOW9VTXUtR3V1Vk1wTHdyUTZmRm5uVDhxVE90V2lDNGc?oc=5",
             "published": "2025-12-08T17:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、モジュール型データセータ「Module DPDC」発売--約1年で構築可能 - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzYmhaM3VjcW1zbnk4Y19VeEZRaUphcjk2dmhpY1pNeHFiYTNSUVRsQVptTjZBY0llS1pMY1NuNHFGWGhLajBRWGNGajFSVmVJUzRsNkVxMlVnQ3RUc0s4bTVxVEZDSXVxVW1rTVpaSjdBQmhSWU1MSG1WdXhtTFk?oc=5",
-            "published": "2025-12-08T16:44:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4588,10 +4595,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業が「森空(もりそら)プロジェクトⓇ」へ参画｜ニュースリリース - nipponpapergroup.com",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ISUxwcVJLUnVOOTRsNXgwMjdtYzhqYUlWRlBHTGZFYTJEekhYeUY0VlRadk1INE1DdDRBeDJZTWhsVkY4QlUtNEdXemJCR0RZaVhmcVJseXhUUjNTR0tCbkdkcE5hOGg2LUdVU1BCR3VPaGFGR29qdg?oc=5",
+            "title": "Green Carbon株式会社は、住友林業株式会社が運営する森林価値創造プラットフォームを活用し「自然資本由来」のネイチャーベースカーボンクレジットの取引を推進 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ScGQ4Nm1XVjFydkhnTzBrbWxBc00wQjhRY1VwTE5qaEF6SVZhSzVTaGM4RDdpUmROZzBkZWhpSVNURWNXdDZQbXFUeVZZSFZjMUhiNUNfUzFRYnFPWVRlZXhvazlVd3ZwWXc?oc=5",
             "published": "2025-09-30T16:00:00+09:00",
-            "source": "nipponpapergroup.com"
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
@@ -4599,13 +4606,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4M0ZSOWdKdjFsVzc2Umw0cHpmc1F6a0ZjMVdGTjVZbGt1N0lfVnZsMEN1QXpma1lxWTFEU0tCSFJTakRmcmNMaG9nWjNmRlNESkVVZDQ5Rk1ucUN2ZUdBVjl4d1Q?oc=5",
             "published": "2025-09-30T16:00:00+09:00",
             "source": "TBS NEWS DIG"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "セキスイハイム近畿社長に杉江孝夫氏 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FYmVmazVDdzVZcERsUHB0ZHlZTy0tMlNyc1VjMzdpdER3QjAzT0hnQWVCVk90MGtSY2xZTkhodlY4V2NXaTZNZlprMThBeUZoMzFLWlJXa29BZEJidUNKQWdVVVZBMjltd01LZg?oc=5",
-            "published": "2025-09-30T16:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "misawa_home",
@@ -4644,17 +4644,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ 服部緑地近くに共住新築 - digital.kentsu.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVdrY1pBakd0M0xGNndrbEFjYlJNMTRSbzUwSUJRZFExWXpHLVFGMmNfWG5wYmJ5aktLY2h6Sk4yT21ILU1VWE9NV055X1ZxVmRyUThYeUxKR3hWY2JocGw0UVNJNWc5OTRhRUR6cUZDSFpvdV9faDNibzFtQTZzTA?oc=5",
-            "published": "2025-09-23T16:00:00+09:00",
-            "source": "digital.kentsu.co.jp"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "京都パナホーム、建築強みに受託 管理3800戸 - 全国賃貸住宅新聞",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtN09GQlZGYlEyckI4S3dyOERGRER3XzlhV0FFY1huWDR1R3B2UGl2ZlQ1c1ZWakZmVWR0S19RWGROTFM1emFkcWVVajdZZllfWXVIVFM4Mks?oc=5",
             "published": "2025-09-23T16:00:00+09:00",
             "source": "全国賃貸住宅新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ 服部緑地近くに共住新築 - digital.kentsu.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVdrY1pBakd0M0xGNndrbEFjYlJNMTRSbzUwSUJRZFExWXpHLVFGMmNfWG5wYmJ5aktLY2h6Sk4yT21ILU1VWE9NV055X1ZxVmRyUThYeUxKR3hWY2JocGw0UVNJNWc5OTRhRUR6cUZDSFpvdV9faDNibzFtQTZzTA?oc=5",
+            "published": "2025-09-23T16:00:00+09:00",
+            "source": "digital.kentsu.co.jp"
         },
         {
             "company_id": "misawa_home",
