@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-28T01:53:10.986151+09:00",
+    "generated_at": "2025-12-28T02:39:54.805216+09:00",
     "articles": [
         {
             "company_id": "ichijo_komuten",
@@ -56,6 +56,13 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IbUotbmhFQ2RmTDR6V1FQRkpqZTdDSVk2bDItamItQ3k0d2dMWV9CY1FKTGtLUjhjeUVJU1VhZmVrMk5HajNGOHRVM2dsaldpeEVQb05BVHY1YThBbXpR?oc=5",
             "published": "2025-12-26T17:48:06+09:00",
             "source": "AdverTimes.（アドタイ） by 宣伝会議"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "森林保全、林業活性化で協力 西粟倉村と大和ハウスが協定 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeV9sVmNNanBYeDBuc3J1Tm0xUmo0bTVvMUtJdS1QZDRTTVB5WG1tVnRuUldBczJWdkgtb1NKZnVmR01QZUNyS0g3cldZT0pVYVE?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "山陽新聞"
         },
         {
             "company_id": "misawa_home",
@@ -567,6 +574,13 @@
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HODZCVFBfWXlISTFtU3lFTzNUSkp4WjBHQk01VWZ3Y0FUMTVkNzRiWk5jNVRIaElhdlVaRnJWM0xmTjdpUk91Xzdn?oc=5",
             "published": "2025-12-23T13:10:26+09:00",
             "source": "AERA DIGITAL"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス×note「#わたしの帰りたい場所」コンテスト受賞作品をアニメーション動画と朗読の形でお届け。 - MANTAN WEB",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fN1JSMzJiWVNCUHh0M20yd1BKRGlJNFFMZVFsSHFaMnMycm9SX0pPdlV1MkxGelQ4ak5Eb1lGVVNjczRiSldYSlptWWYtZEtYRTN3MElaQW1zMEFRTmNRNk9DX3lGaHFHZi1F?oc=5",
+            "published": "2025-12-23T12:46:54+09:00",
+            "source": "MANTAN WEB"
         },
         {
             "company_id": "sekisui_house",
@@ -1127,13 +1141,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45RWRKaTVCMkdLbjlZcm1FX1BtMk9DRy1uemNxYlU2YklmblBVR2Vld2dMLWdCdF9pZ29IMHZUaUoxbjRhNUkyVmFhc1RlamU1V21FMHVqUlo?oc=5",
             "published": "2025-12-19T17:30:00+09:00",
             "source": "上毛新聞電子版"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "森林保全、林業活性化で協力 西粟倉村と大和ハウスが協定 - 山陽新聞",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeV9sVmNNanBYeDBuc3J1Tm0xUmo0bTVvMUtJdS1QZDRTTVB5WG1tVnRuUldBczJWdkgtb1NKZnVmR01QZUNyS0g3cldZT0pVYVE?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "山陽新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -2075,10 +2082,24 @@
         },
         {
             "company_id": "sumitomo_forestry",
+            "title": "文化への扉 住友林業会長 市川晃 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakhWU2NzQ0tZdW9BNGsxdWZjUWhpejZ0REpYMjV3R0ZVTjh0anZWalRUOHRWMWNGQkFwMGswWUZqb3JvdHZod1FxbFQ2eXBBUXExM19wbTZ3V1JoOVQwa0l4YnRyNEdOWUc0QklINTFlTlg2TGxmMnRaTzRFdXRYMlFVN1ozNXJ0T014ZkZmLThsMVhOZzZwS3Nkek9IRTYweXFDUDN1Wi0?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：子会社の商号変更及び異動に関するお知らせ 2025年12月15日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OeHUtT3ZERlRsTzE4MVNKWVIzYU1nay1fS0p1QXBaNVhiZXRXSzdfRmlReEJ4NTY0cVpVYkxMaF9yNWtWaGpLelQwSmVxVE9zYVYwOWctY1BOTDVoTGcxMUNrZzllV2V6blE?oc=5",
             "published": "2025-12-15T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "【セキスイハイム】みんなで工場見学会！ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tME54aUx5dnp4MnRTS0VUYjNqZUdBQXhqc0thOEJNc19YYjRvdnF5OGhuOUZnbktUcjFMblI1UGRJOERoTUhlZlJScTk0T2ZFZWR6dGhWRGpoLWFT?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -2145,13 +2166,6 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "文化への扉 住友林業会長 市川晃 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakhWU2NzQ0tZdW9BNGsxdWZjUWhpejZ0REpYMjV3R0ZVTjh0anZWalRUOHRWMWNGQkFwMGswWUZqb3JvdHZod1FxbFQ2eXBBUXExM19wbTZ3V1JoOVQwa0l4YnRyNEdOWUc0QklINTFlTlg2TGxmMnRaTzRFdXRYMlFVN1ozNXJ0T014ZkZmLThsMVhOZzZwS3Nkek9IRTYweXFDUDN1Wi0?oc=5",
-            "published": "2025-12-15T15:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "文化への扉 住友林業会長・市川晃 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUnlvZ1BJT05ycmZIcHdVTDVzV1FiUkFDc1pKVVFMdGVJQVZJSkNpZ1Rrb2ZxVklHeHF2cHJpY1Z5UW5Zcm9IWUg4dmNhTXYwMUIwUDlHNzk1bU5fRzkxMXNDOFlZU1JVUkRUUA?oc=5",
             "published": "2025-12-15T14:00:00+09:00",
@@ -2198,13 +2212,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Dc1EySEM0R1hjY3U0bHpZaE5NZVRhSms2THl5MC1IMGtaY2tiQnRkSGp0TmpWQXVtV3RHT0Q3ZVZwM19RU2ZydXB6RVgzSng1TFVfeHRpaHYyWk9hRXVz?oc=5",
             "published": "2025-12-15T10:44:00+09:00",
             "source": "週刊不動産経営"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "【セキスイハイム】みんなで工場見学会！ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tME54aUx5dnp4MnRTS0VUYjNqZUdBQXhqc0thOEJNc19YYjRvdnF5OGhuOUZnbktUcjFMblI1UGRJOERoTUhlZlJScTk0T2ZFZWR6dGhWRGpoLWFT?oc=5",
-            "published": "2025-12-15T10:34:17+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -2767,13 +2774,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "京都府木津川市と積水ハウスが大型体験施設「ジュノパーク」活用で協定 - 京都新聞デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wWDVnSldpN3licnVNR1hObmZVZmlSQmN3ckxqMTRHWVN4UXpYUV9mLUNhd0J2NnFwOFE3R1RaTVlPbE93b2t5U2xHbVhadzBVSWNyeGhCQzU?oc=5",
-            "published": "2025-12-11T17:00:00+09:00",
-            "source": "京都新聞デジタル"
-        },
-        {
             "company_id": "mitsui_home",
             "title": "自然の｢声｣を聞く 三井ホーム社長 野島秀敏 おはようございます、新社長 No.79 - PRESIDENT Online（プレジデントオンライン）",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxWHlrcjhTSlJMX0J5TlFuak9JNHU4cThER0ZoWkR4WHhJaTU4SThqQUpFT0tjTnVDWDg3aldIY29NaHlHSy1nVi1IY2JkSTVvWGRiZHNtU3c?oc=5",
@@ -2901,15 +2901,15 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "パテ埋め不要防火区画貫通措置部材『フィブロックNEO』が空調分野に新登場！ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZGdnc0s2ZjBsRFBWUm9OSE5sS182aENBN3JvTVJHSU5OWnJHRlNvOG5zTTBQaHFQamhwcTlBZGxua2w0SVFrTnlORE5mNmhVSHB5eWp2NTVuODFTeTVlYmZoQkF5QjdkeFE?oc=5",
+            "title": "堆積管理システム「Smart Level™」の提供を高速道路の休憩施設向けに開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVGtuRDBnRl82WDN4Q01ZRkZsY0J0S3N3VU9YMDVoUDY0czhkVFhsUEFaS3dNRTI0cmR0Nzk2VzhhcmprTDlYd2dWMDBta2VIOHFRbm5zT0p0Ul8zVWJUZWVoRDdLWFdydHc?oc=5",
             "published": "2025-12-09T17:00:00+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
-            "title": "堆積管理システム「Smart Level™」の提供を高速道路の休憩施設向けに開始 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVGtuRDBnRl82WDN4Q01ZRkZsY0J0S3N3VU9YMDVoUDY0czhkVFhsUEFaS3dNRTI0cmR0Nzk2VzhhcmprTDlYd2dWMDBta2VIOHFRbm5zT0p0Ul8zVWJUZWVoRDdLWFdydHc?oc=5",
+            "title": "パテ埋め不要防火区画貫通措置部材『フィブロックNEO』が空調分野に新登場！ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZGdnc0s2ZjBsRFBWUm9OSE5sS182aENBN3JvTVJHSU5OWnJHRlNvOG5zTTBQaHFQamhwcTlBZGxua2w0SVFrTnlORE5mNmhVSHB5eWp2NTVuODFTeTVlYmZoQkF5QjdkeFE?oc=5",
             "published": "2025-12-09T17:00:00+09:00",
             "source": "PR TIMES"
         },
@@ -2992,17 +2992,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "旭化成ホームズ、LONGLIFE総合研究所が「築20年以上二世帯同居のくらしと住まい方の変遷」に関する調査の結果を発表 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16X3dsejlVZzk2UzNZOE9mbm5JZXFHMFNzUVQ2WUl1Mk9aZ1RyeGtmNnQ3Nm1ta29ZcGxMNVVtamE3Y0dWY2xZZlZONGNxUjF4V2p5Vm43WURwZzcxLUlnTEpDLXg5QkYzN2M0RA?oc=5",
-            "published": "2025-12-05T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "二世帯住宅発売から50年 築20年以上 二世帯同居調査 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RnJXLTlkalc2RmVidUV3amhVbUNWYmlGQ0RfVEc0NmZRT3ZnNEJFSndsR0M3eFE5N052RmdVcGpKdVZ2R3A1T3FnOElESmxNbnJPU21wMlVXWE5wby0xNEpkbTRCMzdTS3c?oc=5",
             "published": "2025-12-05T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "旭化成ホームズ、LONGLIFE総合研究所が「築20年以上二世帯同居のくらしと住まい方の変遷」に関する調査の結果を発表 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16X3dsejlVZzk2UzNZOE9mbm5JZXFHMFNzUVQ2WUl1Mk9aZ1RyeGtmNnQ3Nm1ta29ZcGxMNVVtamE3Y0dWY2xZZlZONGNxUjF4V2p5Vm43WURwZzcxLUlnTEpDLXg5QkYzN2M0RA?oc=5",
+            "published": "2025-12-05T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "mitsui_home",
@@ -3010,6 +3010,13 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pdG0xT1hmb2c4QS1Zb3o3cFBKSXRHa0RLNWt4d1IwR2RnTGlCcTloS2RIWUhDOURXaVdPOWpkSm1LVkkzeXVEMkVnb0fSAUxBVV95cUxNaXRtMU9YZm9nOEEtWW96N3BQSkl0R2tESzVreHdSMEdkZ0xpQnE5aEtkSFlIQzlEV2lXTzlqZEptS1ZJM3l1RDJFZ29H?oc=5",
             "published": "2025-12-05T13:31:11+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "寒さを感じやすい場所「特にない」3.4％にとどまる 一条工務店調査 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHQVgzZnhpb3pKdU5WeEdyS0d5MjcyVjE3MkhKY05JNHNzME14ZXR3bzZKcXBkcGI3U1VTdDJDV3VrcllaZlA0RnpEVVFfQWk3SGc?oc=5",
+            "published": "2025-12-04T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -3052,13 +3059,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mVUNUcXlaS3EwNzVhWFMzN2x6ZEV6RURuLUdTRU5RZFh2R1B3akg2UG1Nb2NpdHpnNEVGOWE5WU82c01sOHNyNHFwbjZ4MkdRQWI5VTFicDRKbVU?oc=5",
             "published": "2025-12-04T17:00:00",
             "source": "朝日新聞"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "寒さを感じやすい場所「特にない」3.4％にとどまる 一条工務店調査 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHQVgzZnhpb3pKdU5WeEdyS0d5MjcyVjE3MkhKY05JNHNzME14ZXR3bzZKcXBkcGI3U1VTdDJDV3VrcllaZlA0RnpEVVFfQWk3SGc?oc=5",
-            "published": "2025-12-04T08:15:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -4357,17 +4357,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業 群馬工場様と応急復旧に関する協定を締結しました - city.maebashi.gunma.jp",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEQ3UlZiajdkdFZfRlRKU1FLNEFmbElTY3VSRUVReEgycWt0Y3hsX2FENE51eW5iT1A2SFRySjlidk5lRVFKRU5hX2tIcUhaQkp0SmpTb1o1Mk5CUzdxeDRseFBLajN5UnhTM2ZJS1ZzUm12ekc1QUxuSTYzci1jUHZpUEJucjFHb2gzdC1n?oc=5",
-            "published": "2025-10-24T16:00:00+09:00",
-            "source": "city.maebashi.gunma.jp"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "見守りセンサー「ANSIEL™（アンシエル）」・データ活用アプリ「Reha3.0(リハサン)」を国際福祉機器展（10月8日～10日）に出展しました | 積水化学工業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qaldYU2Z1alhTMzBHSnc0cHFNMGVzcXgzTm5xZWQ4cDJjSW82Qmh6S0kwUFAzODhVeDlmdTFUOGJ3VUdvQ0FNcVpzWjBTZGY1QlBVbGZuclRnNzYzVm9JRjJXZWNKdWU5WFE?oc=5",
             "published": "2025-10-24T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業 群馬工場様と応急復旧に関する協定を締結しました - city.maebashi.gunma.jp",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEQ3UlZiajdkdFZfRlRKU1FLNEFmbElTY3VSRUVReEgycWt0Y3hsX2FENE51eW5iT1A2SFRySjlidk5lRVFKRU5hX2tIcUhaQkp0SmpTb1o1Mk5CUzdxeDRseFBLajN5UnhTM2ZJS1ZzUm12ekc1QUxuSTYzci1jUHZpUEJucjFHb2gzdC1n?oc=5",
+            "published": "2025-10-24T16:00:00+09:00",
+            "source": "city.maebashi.gunma.jp"
         },
         {
             "company_id": "misawa_home",
@@ -5234,7 +5234,7 @@
             "company_id": "mitsui_home",
             "title": "築250年の古民家「旧用賀名主邸」が耐震改修 三井不動産 - Impress Watch",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03bXBXUHdOWExqQUxaXzZ0MGlUYk5ha2hFV1EwRUhfaEF5X28tekd1bE5TeHk0dEpoRzRzMHJ5Z1ZfUlZsM2owd1NxVUNmTWlvMVFCb3B0VG56Nm4wVzFkejZnWVM?oc=5",
-            "published": "2025-08-19T16:00:00",
+            "published": "2025-08-19T16:00:00+09:00",
             "source": "Impress Watch"
         },
         {
