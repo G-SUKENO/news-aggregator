@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-01T05:41:14.849733+09:00",
+    "generated_at": "2026-01-01T06:33:48.711974+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -255,17 +255,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス「春の住宅フェア」を開催！ - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
-            "published": "2025-12-26T16:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大和ハウス「春の住宅フェア」を開催！ 大和ハウス工業株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Q0FZZ1BoS3U1c2ZkWDhiWXA0NEE0aXZVRExHTGFiWTRPcHA4LXpuZjVkeGlLTHVGSk5HZXIta1dudUxDUXJJRkc5Y1FJR1djbGo2QVdjUFdLTjdLLWc?oc=5",
             "published": "2025-12-26T16:00:00+09:00",
             "source": "新潟日報"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス「春の住宅フェア」を開催！ - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
+            "published": "2025-12-26T16:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "daiwa_house",
@@ -2712,7 +2712,7 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "打合せプラットフォーム「MYHOME WORKS」全支店で運用開始 - 共同通信PRワイヤー",
+            "title": "打合せプラットフォーム「MYHOME WORKS」全支店で運用開始 | 住友林業のプレスリリース - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQUG9qekZPSEFtUHR1WWdIVE9zZThqMkxmWHNObWw1ZjVwVFFVeVF0NjJBTXd6NkxQLWM3dENtNEc5OWxwXzRvTFNid2JMYU5uT2tOaXlyY0t5Zm8?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
@@ -3062,6 +3062,13 @@
         },
         {
             "company_id": "ichijo_komuten",
+            "title": "約9割が重視する断熱。健康リスクと睡眠の質低下を招く自宅の寒暖差対策にリフォーム、2026年に展開される新しい補助金制度とは（SUUMOジャーナル） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSVg4TE5TOHVXMnc3UHc0ak1TYnYwNGhJT0NoUjBGV2pSd2FPaUtGOEFzUTNRajFpSGEtdzhQZG43SVM4TU5MWl8yajQtQmE1eFdaOE1fQlIxVjF2cFk5Nl9hal9yNWZWS2NYY0RoUHpLQ0FnUEZ1OWJiS0hWUDQ?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "ichijo_komuten",
             "title": "約9割が重視する断熱。健康リスクと睡眠の質低下を招く自宅の寒暖差対策にリフォーム、2026年に展開される新しい補助金制度とは - SUUMO",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14MFFDUndjU0xBMEZWUGxudWdaaS11T21UdjFja0tWNGdqTDBSdEFyTnRvR1B3bldMU2Vyck9ENjBGRnBtN0JZNU8weUFfdHBIeTR5THpR?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
@@ -3188,7 +3195,7 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "二世帯住宅発売から50年 築20年以上 二世帯同居調査 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
+            "title": "二世帯住宅発売から50年 築20年以上 二世帯同居調査 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RnJXLTlkalc2RmVidUV3amhVbUNWYmlGQ0RfVEc0NmZRT3ZnNEJFSndsR0M3eFE5N052RmdVcGpKdVZ2R3A1T3FnOElESmxNbnJPU21wMlVXWE5wby0xNEpkbTRCMzdTS3c?oc=5",
             "published": "2025-12-05T17:00:00+09:00",
             "source": "PR TIMES"
@@ -3615,6 +3622,13 @@
         },
         {
             "company_id": "mitsui_home",
+            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
+            "published": "2025-11-27T17:00:00+09:00",
+            "source": "tokyo-gas.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
             "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） - tv-tokyo.co.jp",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKelhwcWs4UmxZSlZ0c3FnWUs2anBtemhkRVpZbUctWTY1TlZuSXlnYkdSQ2YzM0FLd3Ztdy12WDV6LTlfNXJMcUlmeTdad1ZEd0dacEFrTnR2OU82Ym1TbnlXTGRMaGZ5bGtBbQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
@@ -3626,13 +3640,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WnBUQktpWlg4M182a1BqNV9tWV9BakxDVF9SdGJCUWdDVUEta3pjdUZHLTJ1YmppOVo2RjBjbVo0bUZtN0dyaXlhNzZzQXRzZGIxM29sVjFUazRrSlMxSHZfdHE1M05jdlJsRQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
-            "published": "2025-11-27T17:00:00+09:00",
-            "source": "tokyo-gas.co.jp"
         },
         {
             "company_id": "mitsui_home",
@@ -6293,13 +6300,6 @@
             "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZV1VrcVRjSi1TMi1TOXFHaEI3RkIyWDlpbkxQNl9oWUVJSElwcEFnV1FlTVRGUlpwQ25XNEhZbnRKTHB3RFFZ?oc=5",
             "published": "2025-04-07T16:00:00",
             "source": "ニュースメディアVOIX"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "★12月 完成現場見学会 開催決定！！★ - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqenRQM1QzdTFNRUxHUHBxYk5Gb19JS0JITFhzODdKbUtRdW9SWVMzME1VOVVhZ2V1d2FDdTFFTnhRM1dEdTE3ajZhSF9lZ2Q2SUd3OGpCeWRjckdjY0F4TkZ1N1h3eUxPMnFyaA?oc=5",
-            "published": "2025-04-05T13:15:58",
-            "source": "家サイト"
         }
     ]
 }
