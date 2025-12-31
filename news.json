@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-01T07:42:24.984362+09:00",
+    "generated_at": "2026-01-01T08:34:15.682154+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -2432,6 +2432,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "【決算速報】積水ハウスＲ、今期経常は26％増で3期ぶり最高益更新へ(株探ニュース) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSV8yMjl6d3Zwelh6NXo1dUpLYjhXZUJEY2JQQndRZmRMb1dZeFY5M19JOTV5dzlPUmJQbkVELUFvZWhSNUpQVWRmM1o1T1FQRk9ZcFBXNFNCWWVjclZSTVBjUzRBWGRLd2xvR1VaenhEclNWbkF3ZVUwT3FLcWJINXFDYWhqN1E?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウスＲ - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UaTRybHBrTGI5UF9uNGNRUXNCVjI5YkVxY1BnNFRTWWpYb284R3NRbzh6STZtcmhXWUs0aHZlYm1ONmlXVkZJNFp6LWo2MGIxeWNaUUdWTkpyVXRJT09iU0o1UDdOY3Jhd0E?oc=5",
             "published": "2025-12-15T17:00:00+09:00",
@@ -2443,13 +2450,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56U1QySlpiWUZiUmFmZEs0SkxCbHJnVGJEano4UkdXcExzUFNqdUwtSEpCdURVMVVtcnhWYWRmajl2a1hVNFYtTUx4NExlTlNsVmFrUW56Zk82OEhINC1wNkpWYVNXVzFTd1E?oc=5",
             "published": "2025-12-15T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【決算速報】積水ハウスＲ、今期経常は26％増で3期ぶり最高益更新へ(株探ニュース) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSV8yMjl6d3Zwelh6NXo1dUpLYjhXZUJEY2JQQndRZmRMb1dZeFY5M19JOTV5dzlPUmJQbkVELUFvZWhSNUpQVWRmM1o1T1FQRk9ZcFBXNFNCWWVjclZSTVBjUzRBWGRLd2xvR1VaenhEclNWbkF3ZVUwT3FLcWJINXFDYWhqN1E?oc=5",
-            "published": "2025-12-15T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -2712,7 +2712,7 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "打合せプラットフォーム「MYHOME WORKS」全支店で運用開始 - 共同通信PRワイヤー",
+            "title": "打合せプラットフォーム「MYHOME WORKS」全支店で運用開始 | 住友林業のプレスリリース - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQUG9qekZPSEFtUHR1WWdIVE9zZThqMkxmWHNObWw1ZjVwVFFVeVF0NjJBTXd6NkxQLWM3dENtNEc5OWxwXzRvTFNid2JMYU5uT2tOaXlyY0t5Zm8?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
@@ -4063,17 +4063,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "autobacs.co.jp"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "autobacs.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -5316,17 +5316,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
-            "published": "2025-08-21T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "京急グループが「学生賃貸マンション」を展開！ - keikyu.co.jp",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sYjFTYi1tYlctZ1d6STNQRk1MN2ZpREhpbGhKZWtxMndLejRMYzhYX1htX1RYZktWamlQN0djX3FRWE9FTzZYRTdIYjFGOVZiTmlaMkpBTVU0X0FwWHBKZHFEUWREYkVsWld2clBraEZrYlVo?oc=5",
             "published": "2025-08-21T16:00:00+09:00",
             "source": "keikyu.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
+            "published": "2025-08-21T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
