@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-01T15:59:53.199957+09:00",
+    "generated_at": "2026-01-01T16:41:07.663406+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -1059,6 +1059,13 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "別子の山 住友林業会長・市川晃 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VG5hTDQyZVI0WjJQU2t6S2pDa1B6bTZmZUZKNUdGaGJWTnpfZmJEby1sWkZJV29OSnNzSUtnTi1HWHpfdmI2V0I4OVAwN0tvNnJoNk1MT1VwTHgzOUR6NFNHcnJFcWU3X1lZNA?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51T3pMNExCS3hJZm1zc0FDNWtrNXNybWRsM1lobkJhVGpBdzJ3cHhOSkR2YjJ1eUtVZU1vcDVpekNyamM0TEItaEs4OXRjd3otWUF3MW5rTTZhTmFkZW14ZnloMk5tM2NoRzhkemtn?oc=5",
@@ -1141,13 +1148,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdXB0ZFdFLXFGcENleU9nWElDNTFocDRyRmwyc0V0cTNNMEZ4U25kNEhNQlA2R2dvb1doc184ZGxvbkVJeDdVQUVrRjVYZnlrcHp0RnRST2VCVVg5b0RSeEwzNEVxTzd1MEE?oc=5",
             "published": "2025-12-22T15:00:02+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "別子の山 住友林業会長・市川晃 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VG5hTDQyZVI0WjJQU2t6S2pDa1B6bTZmZUZKNUdGaGJWTnpfZmJEby1sWkZJV29OSnNzSUtnTi1HWHpfdmI2V0I4OVAwN0tvNnJoNk1MT1VwTHgzOUR6NFNHcnJFcWU3X1lZNA?oc=5",
-            "published": "2025-12-22T14:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -1466,17 +1466,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス・リート投資法人が第22期決算、7物件取得、12物件売却を発表(JAPAN-REIT.COM) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTJhaEJSVHZCUmU5STIzd0pKbHVUMGFZcTFhV05CcHpwS1J6ODdIS2ZTSHpKMUNGUkVKZlR3SlJ0UUJRUVVrY1QxOWhDYm1VMGtUV2ViVHVLNWdmWWJCeFZYaVlMaktzVWFGenJ3cFBrT0pCZzZrV3prNlBrSWxINklPenBrVEE?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "外国人らのマンション投機に歯止め 積水ハウスが物件引渡し前の転売禁止へ 全物件対象に - 産経ニュース",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpM0JxbFhyeEIzZGJ5Nm8ySUg4N0hzUGNRUWFvUFBqMk5FcFNfV1VCVFdPeEpzOFVFUHA1LVNpLWUwUGlIcVhfR011emE1dTFWNXlyU2VlWkowWEp4bEw2QkUyYWppNy1tWkdEWmo3aXNzMkFSTnc?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
             "source": "産経ニュース"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス・リート投資法人が第22期決算、7物件取得、12物件売却を発表(JAPAN-REIT.COM) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTJhaEJSVHZCUmU5STIzd0pKbHVUMGFZcTFhV05CcHpwS1J6ODdIS2ZTSHpKMUNGUkVKZlR3SlJ0UUJRUVVrY1QxOWhDYm1VMGtUV2ViVHVLNWdmWWJCeFZYaVlMaktzVWFGenJ3cFBrT0pCZzZrV3prNlBrSWxINklPenBrVEE?oc=5",
+            "published": "2025-12-19T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -3013,6 +3013,13 @@
         },
         {
             "company_id": "sumitomo_forestry",
+            "title": "東京建物と住友林業、米カリフォルニア州ロングビーチ市で賃貸住宅開発事業に参画 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnBsWC16SVRqQ2dfV3FEeldWeUhFa3NUUmQ1b2hZeVlzRllOSkFJRnZ6M3kxQjk3T2htWXE2MVIyRVBPc2xjXzljclo1eTBpdmVyTThFNGVDaEpQdlBvVmRpeldCSExhWm9LYTBSU3ZsMGFvSHZVS3lIcGZ5Sy15TG9PdGZaNktzem5wVURHS3lwYW5FZ1hHYWY2S2NyYWNpOG5F?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
             "title": "米国ロサンゼルス近郊ロングビーチ市で賃貸住宅開発事業に参画 産業集積や再開発により高まる住宅需要に対応 多様な需要に応える間取りとプール、コワークスペース、サウナ等充実した共用部を完備 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oa20xaTBhNzRBcVN4ckgxcHZKRzhQNDI0U1dsX2pZb0NTNzZ5TWlwOXNKekdCZ056TjRZbWpBUXBiaXhKN1dRck5nV25hdmw4YWtvVFJFSDMyUDdfXzRteHRMdXFtVlJqd2c?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
@@ -3052,13 +3059,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsRWN1TlVDS3FmZGZRUV9NMWFfMkFMZVZJaV85TDFFM0lWQjkwZ3NFTzBEZnFWM29wMlZOTXpiaXdQcURpeXJlY19Lc0RHeXJLUjVhQg?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "物流ニュースのLNEWS"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "東京建物と住友林業、米カリフォルニア州ロングビーチ市で賃貸住宅開発事業に参画 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnBsWC16SVRqQ2dfV3FEeldWeUhFa3NUUmQ1b2hZeVlzRllOSkFJRnZ6M3kxQjk3T2htWXE2MVIyRVBPc2xjXzljclo1eTBpdmVyTThFNGVDaEpQdlBvVmRpeldCSExhWm9LYTBSU3ZsMGFvSHZVS3lIcGZ5Sy15TG9PdGZaNktzem5wVURHS3lwYW5FZ1hHYWY2S2NyYWNpOG5F?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -3209,7 +3209,7 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "二世帯住宅発売から50年 築20年以上 二世帯同居調査 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
+            "title": "二世帯住宅発売から50年 築20年以上 二世帯同居調査 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RnJXLTlkalc2RmVidUV3amhVbUNWYmlGQ0RfVEc0NmZRT3ZnNEJFSndsR0M3eFE5N052RmdVcGpKdVZ2R3A1T3FnOElESmxNbnJPU21wMlVXWE5wby0xNEpkbTRCMzdTS3c?oc=5",
             "published": "2025-12-05T17:00:00+09:00",
             "source": "PR TIMES"
@@ -4077,17 +4077,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "autobacs.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
