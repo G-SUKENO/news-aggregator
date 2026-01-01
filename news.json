@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-01T16:41:07.663406+09:00",
+    "generated_at": "2026-01-01T17:56:11.135847+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -2257,6 +2257,13 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
+            "published": "2025-12-16T17:00:00+09:00",
+            "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
@@ -2268,13 +2275,6 @@
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Q1JEb1pxekxnbUF1d0dWV2sxbVVRbmxqbFY3RU5QdENjdTJGeUxsOEhXTHRTMXlHUVRMODh2MFVaS2Z0ZF9CWTQ3TV9kUl9EcmtPSnhsdDZYblgxLTNNTkx3LUl5aS1WdjBaQkZwTmplbFhoR3d1LUJCU2RJVlk?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
-            "published": "2025-12-16T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "misawa_home",
@@ -3013,17 +3013,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "東京建物と住友林業、米カリフォルニア州ロングビーチ市で賃貸住宅開発事業に参画 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnBsWC16SVRqQ2dfV3FEeldWeUhFa3NUUmQ1b2hZeVlzRllOSkFJRnZ6M3kxQjk3T2htWXE2MVIyRVBPc2xjXzljclo1eTBpdmVyTThFNGVDaEpQdlBvVmRpeldCSExhWm9LYTBSU3ZsMGFvSHZVS3lIcGZ5Sy15TG9PdGZaNktzem5wVURHS3lwYW5FZ1hHYWY2S2NyYWNpOG5F?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "米国ロサンゼルス近郊ロングビーチ市で賃貸住宅開発事業に参画 産業集積や再開発により高まる住宅需要に対応 多様な需要に応える間取りとプール、コワークスペース、サウナ等充実した共用部を完備 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oa20xaTBhNzRBcVN4ckgxcHZKRzhQNDI0U1dsX2pZb0NTNzZ5TWlwOXNKekdCZ056TjRZbWpBUXBiaXhKN1dRck5nV25hdmw4YWtvVFJFSDMyUDdfXzRteHRMdXFtVlJqd2c?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "東京建物と住友林業、米カリフォルニア州ロングビーチ市で賃貸住宅開発事業に参画 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnBsWC16SVRqQ2dfV3FEeldWeUhFa3NUUmQ1b2hZeVlzRllOSkFJRnZ6M3kxQjk3T2htWXE2MVIyRVBPc2xjXzljclo1eTBpdmVyTThFNGVDaEpQdlBvVmRpeldCSExhWm9LYTBSU3ZsMGFvSHZVS3lIcGZ5Sy15TG9PdGZaNktzem5wVURHS3lwYW5FZ1hHYWY2S2NyYWNpOG5F?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -4539,17 +4539,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ウエルネス軸に事業間連携 ミサワホーム、福祉施設直営の知見活用 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cGp5V2RUc1NiQkgwRnp1QmZpajYwa1l6Z3hnamNmUURRblQ5QUFtbnA4ZnBNVFRDeWZ4UE5SWTJPZnFuTDFIZThPb0JOV2U0bW9PS0d6eWY0QTFfMF80M09EVEtlWkJRTjZXeG1PWVB3andI?oc=5",
-            "published": "2025-10-23T16:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "ミサワホーム、青森市で複合開発に参画=観光交流拠点の整備も - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbzlxMXl1c1dOc3dSSnFDa3RheVdLbWNzTjByVnJMRWtJN3hwQkZ1MTdXelExcVg5cmVBazluVHJZQV9rdV9oZmJzMFTSAUxBVV95cUxOcG85cTF5dXNXTnN3UkpxQ2t0YXlXS21jc04wclZyTEVrSTd4cEJGdTE3V3pRMXFYOXJlQWs5blRyWUFfa3VfaGZiczBU?oc=5",
             "published": "2025-10-23T16:00:00+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ウエルネス軸に事業間連携 ミサワホーム、福祉施設直営の知見活用 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cGp5V2RUc1NiQkgwRnp1QmZpajYwa1l6Z3hnamNmUURRblQ5QUFtbnA4ZnBNVFRDeWZ4UE5SWTJPZnFuTDFIZThPb0JOV2U0bW9PS0d6eWY0QTFfMF80M09EVEtlWkJRTjZXeG1PWVB3andI?oc=5",
+            "published": "2025-10-23T16:00:00+09:00",
+            "source": "日刊工業新聞"
         },
         {
             "company_id": "misawa_home",
@@ -5407,17 +5407,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "panasonic_homes",
