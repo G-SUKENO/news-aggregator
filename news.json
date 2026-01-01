@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-01T13:16:31.209448+09:00",
+    "generated_at": "2026-01-01T14:51:51.332155+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -1045,6 +1045,13 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
+            "company_id": "panasonic_homes",
+            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN3g0b2lhUGZzVFBaVlcybDhSRlN1OGtwM29ycElJbGxnWXhkd3BhRjhIbVlydm80WC1Zcmt6Q0RlR0Zab25zcUxPSkdfNFR3dVlkYkhFMEVFbDhwX3VHWXBFcVF0X2tBZHc?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51T3pMNExCS3hJZm1zc0FDNWtrNXNybWRsM1lobkJhVGpBdzJ3cHhOSkR2YjJ1eUtVZU1vcDVpekNyamM0TEItaEs4OXRjd3otWUF3MW5rTTZhTmFkZW14ZnloMk5tM2NoRzhkemtn?oc=5",
@@ -1078,13 +1085,6 @@
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0pLV3dyVno2N3ZYZHZ2cU9RRnI3c0FISGlEYmxLY3ZCTmZyc3lQU2FYd3hpdjVRX0VFcDlTNG1makExWWIzR0Rycmx3Zm9zZmZ4MlVkY1JjTWhqVFBnNUFRVFZpYVJvNUlVX25HUVB3UlF5QWJWdVpTZTdRbFIxaWh6ZmdJcldv?oc=5",
             "published": "2025-12-22T16:15:00+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN3g0b2lhUGZzVFBaVlcybDhSRlN1OGtwM29ycElJbGxnWXhkd3BhRjhIbVlydm80WC1Zcmt6Q0RlR0Zab25zcUxPSkdfNFR3dVlkYkhFMEVFbDhwX3VHWXBFcVF0X2tBZHc?oc=5",
-            "published": "2025-12-22T16:00:02+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
@@ -1270,10 +1270,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、久慈市のごみ資源化実証プラント撤収へ - 岩手日報",
+            "title": "積水化学工業、久慈市のごみ資源化実証プラント撤収へ - iwate-np.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pY01IZVJSTDhLM19abldCTkc4cGR5am9WcXNLOHhCbE01dXl2elktblNZWEluV1lxN0p0WWZHbENVbXBLVGdIaTZsUTJYZDdRMmF4Zjk5MmhRc0J6ZFdhUlJR?oc=5",
             "published": "2025-12-20T17:00:00+09:00",
-            "source": "岩手日報"
+            "source": "iwate-np.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -3629,6 +3629,13 @@
         },
         {
             "company_id": "mitsui_home",
+            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
+            "published": "2025-11-27T17:00:00+09:00",
+            "source": "tokyo-gas.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
             "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） - tv-tokyo.co.jp",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKelhwcWs4UmxZSlZ0c3FnWUs2anBtemhkRVpZbUctWTY1TlZuSXlnYkdSQ2YzM0FLd3Ztdy12WDV6LTlfNXJMcUlmeTdad1ZEd0dacEFrTnR2OU82Ym1TbnlXTGRMaGZ5bGtBbQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
@@ -3640,13 +3647,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WnBUQktpWlg4M182a1BqNV9tWV9BakxDVF9SdGJCUWdDVUEta3pjdUZHLTJ1YmppOVo2RjBjbVo0bUZtN0dyaXlhNzZzQXRzZGIxM29sVjFUazRrSlMxSHZfdHE1M05jdlJsRQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
-            "published": "2025-11-27T17:00:00+09:00",
-            "source": "tokyo-gas.co.jp"
         },
         {
             "company_id": "mitsui_home",
@@ -4070,17 +4070,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "autobacs.co.jp"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "autobacs.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -4532,17 +4532,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム、青森市で複合開発に参画=観光交流拠点の整備も - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbzlxMXl1c1dOc3dSSnFDa3RheVdLbWNzTjByVnJMRWtJN3hwQkZ1MTdXelExcVg5cmVBazluVHJZQV9rdV9oZmJzMFTSAUxBVV95cUxOcG85cTF5dXNXTnN3UkpxQ2t0YXlXS21jc04wclZyTEVrSTd4cEJGdTE3V3pRMXFYOXJlQWs5blRyWUFfa3VfaGZiczBU?oc=5",
-            "published": "2025-10-23T16:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "ウエルネス軸に事業間連携 ミサワホーム、福祉施設直営の知見活用 - 日刊工業新聞",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cGp5V2RUc1NiQkgwRnp1QmZpajYwa1l6Z3hnamNmUURRblQ5QUFtbnA4ZnBNVFRDeWZ4UE5SWTJPZnFuTDFIZThPb0JOV2U0bW9PS0d6eWY0QTFfMF80M09EVEtlWkJRTjZXeG1PWVB3andI?oc=5",
             "published": "2025-10-23T16:00:00+09:00",
             "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、青森市で複合開発に参画=観光交流拠点の整備も - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbzlxMXl1c1dOc3dSSnFDa3RheVdLbWNzTjByVnJMRWtJN3hwQkZ1MTdXelExcVg5cmVBazluVHJZQV9rdV9oZmJzMFTSAUxBVV95cUxOcG85cTF5dXNXTnN3UkpxQ2t0YXlXS21jc04wclZyTEVrSTd4cEJGdTE3V3pRMXFYOXJlQWs5blRyWUFfa3VfaGZiczBU?oc=5",
+            "published": "2025-10-23T16:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "misawa_home",
@@ -5330,17 +5330,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
-            "published": "2025-08-21T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "京急グループが「学生賃貸マンション」を展開！ - keikyu.co.jp",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sYjFTYi1tYlctZ1d6STNQRk1MN2ZpREhpbGhKZWtxMndLejRMYzhYX1htX1RYZktWamlQN0djX3FRWE9FTzZYRTdIYjFGOVZiTmlaMkpBTVU0X0FwWHBKZHFEUWREYkVsWld2clBraEZrYlVo?oc=5",
             "published": "2025-08-21T16:00:00+09:00",
             "source": "keikyu.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
+            "published": "2025-08-21T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
@@ -5400,17 +5400,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
