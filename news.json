@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-01T17:56:11.135847+09:00",
+    "generated_at": "2026-01-01T18:45:37.280871+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -149,6 +149,13 @@
             "source": "Yahoo!ニュース"
         },
         {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム2026年版「偉人の生涯と筆跡カレンダー」第77回全国カレンダー展「経済産業省大臣官房商務・サービス審議官賞」受賞 - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55TlB3ZUl2UVRWbWhKVS1ibEpqTmtyU2lXa0I4RDBxSmRtX1p3VGgtUEphRnF6UWk2UF9aNUt0bEdIbUYzWnVmZVg1SDFXS1hSRVNCZ01zdVJCSGFtZjVTTnhTa0ZTdV9WLTVJ?oc=5",
+            "published": "2025-12-28T07:10:00+09:00",
+            "source": "時事ドットコム"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "賞与支給、夏に一本化へ 評価負担を軽減―大和ハウス会長 - 時事ドットコム",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92cDJEZ0s4eXhwazBpaUJEcE1pS3JqZXhMR0hLUmR4dXBmRjA1aFN3QkRqZGdnV0twRTc5SUMzMmlMZENGcWR0cllwVUVwTlFmaFQzaXdlQU56cVpkVW5oOHpqdw?oc=5",
@@ -231,13 +238,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeV9sVmNNanBYeDBuc3J1Tm0xUmo0bTVvMUtJdS1QZDRTTVB5WG1tVnRuUldBczJWdkgtb1NKZnVmR01QZUNyS0g3cldZT0pVYVE?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "山陽新聞"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "ミサワホーム2026年版「偉人の生涯と筆跡カレンダー」第77回全国カレンダー展「経済産業省大臣官房商務・サービス審議官賞」受賞 - 時事ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55TlB3ZUl2UVRWbWhKVS1ibEpqTmtyU2lXa0I4RDBxSmRtX1p3VGgtUEphRnF6UWk2UF9aNUt0bEdIbUYzWnVmZVg1SDFXS1hSRVNCZ01zdVJCSGFtZjVTTnhTa0ZTdV9WLTVJ?oc=5",
-            "published": "2025-12-26T16:40:00+09:00",
-            "source": "時事ドットコム"
         },
         {
             "company_id": "daiwa_house",
@@ -661,15 +661,15 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "「子どもの貧困の連鎖」を断ち切るためにNPO法人Unityへの寄附を実施 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mR2lnQUVHekxWZWtDUVdOeFI1UUJOR0c5MzVFQXNzSnpHYThRakI2WXVpOC1wR3JDeHRxWEI4WVNzQTJseGhGR2IxVkVRUGw5VmFoU2VQcXhJLU9ndVluZnVKbmxnV3Qxb0E?oc=5",
+            "title": "「子どもの貧困の連鎖」を断ち切るために 認定NPO法人キッズドアへの寄附を実施 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LMWZ2QWVUMmxJYjZvWFA3T0c0SEprcGpMSzhWMVVyTmptTzk0dEtuNWlUUHdfYlk2VC1tNFlFZUtfQkt1V3NySWFYblJvTVRNcEdITUVqX1NQSEZtWGtfUHRwaHZUR1R2WlE?oc=5",
             "published": "2025-12-24T15:00:02+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "「子どもの貧困の連鎖」を断ち切るために 認定NPO法人キッズドアへの寄附を実施 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LMWZ2QWVUMmxJYjZvWFA3T0c0SEprcGpMSzhWMVVyTmptTzk0dEtuNWlUUHdfYlk2VC1tNFlFZUtfQkt1V3NySWFYblJvTVRNcEdITUVqX1NQSEZtWGtfUHRwaHZUR1R2WlE?oc=5",
+            "title": "「子どもの貧困の連鎖」を断ち切るためにNPO法人Unityへの寄附を実施 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mR2lnQUVHekxWZWtDUVdOeFI1UUJOR0c5MzVFQXNzSnpHYThRakI2WXVpOC1wR3JDeHRxWEI4WVNzQTJseGhGR2IxVkVRUGw5VmFoU2VQcXhJLU9ndVluZnVKbmxnV3Qxb0E?oc=5",
             "published": "2025-12-24T15:00:02+09:00",
             "source": "PR TIMES"
         },
@@ -1277,10 +1277,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、久慈市のごみ資源化実証プラント撤収へ - iwate-np.co.jp",
+            "title": "積水化学工業、久慈市のごみ資源化実証プラント撤収へ - 岩手日報",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pY01IZVJSTDhLM19abldCTkc4cGR5am9WcXNLOHhCbE01dXl2elktblNZWEluV1lxN0p0WWZHbENVbXBLVGdIaTZsUTJYZDdRMmF4Zjk5MmhRc0J6ZFdhUlJR?oc=5",
             "published": "2025-12-20T17:00:00+09:00",
-            "source": "iwate-np.co.jp"
+            "source": "岩手日報"
         },
         {
             "company_id": "sekisui_heim",
@@ -2257,17 +2257,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
-            "published": "2025-12-16T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
+            "published": "2025-12-16T17:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "daiwa_house",
