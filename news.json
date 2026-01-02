@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-03T07:43:24.438976+09:00",
+    "generated_at": "2026-01-03T08:33:31.238277+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -100,6 +100,13 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "panasonic_homes",
+            "title": "株式会社松栄パナホーム熊本「地域に根差し40年 住まいの満足を追求」代表取締役社長・田中義定氏【トップインタビュー】 - 熊本日日新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdmd4ZURzLXBfWFVrTkYtV0M4blRvTXowcW5LTkcwVHMtdy11anNjc0ZjZmlJN0Nfajl0Q2NqaG1FQ0dRdG1faW5sb01NMmc?oc=5",
+            "published": "2026-01-01T00:01:05+09:00",
+            "source": "熊本日日新聞社"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウス 新春トップインタビュー２０２６ - カナロコ",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hc2N6bWVQb2pnaWh6SkQtTUpMVWQtUzJ4NXJDMmFVQ295UGxhSHZsQWYtVkllRzMyTkZIUHlXdG42aUVCYzFVREk0US1ZMHNxZERhY0c3T1d0UQ?oc=5",
@@ -135,13 +142,6 @@
             "source": "沖縄タイムス社"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "株式会社松栄パナホーム熊本「地域に根差し40年 住まいの満足を追求」代表取締役社長・田中義定氏【トップインタビュー】 - 熊本日日新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdmd4ZURzLXBfWFVrTkYtV0M4blRvTXowcW5LTkcwVHMtdy11anNjc0ZjZmlJN0Nfajl0Q2NqaG1FQ0dRdG1faW5sb01NMmc?oc=5",
-            "published": "2025-12-30T17:00:00+09:00",
-            "source": "熊本日日新聞社"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス---1月につけた年初来高値を射程に(フィスコ) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmhOU0FvcHlOWUtyeGEzOEprNG5xRXViT01ual9CSjczSFVKOThJcHZIX0J4eWprbnF4dnVGRVVHUXFhNU1SOGo4QjloTXNRWUJuOXZkN3dyWXVOVFdQNFNSLTB4VnJqc3RfM2o1WnNQX1BTWTdLOGM1dFFHMUl2ZjBxS3ZVQjQ?oc=5",
@@ -150,10 +150,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス---1月につけた年初来高値を射程に - 株探",
+            "title": "積水ハウス---1月につけた年初来高値を射程に - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNUZZcmRzNUZnYklrZ2VQakVVX3p6UXBBbTBxUzZLSDgzTlowWmI0TnNxVWtxNUZleWZVUXNLblhLWkh1d3p1VGFjRGNZa1l4dUE?oc=5",
             "published": "2025-12-30T08:40:27+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -444,10 +444,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "【積水化学】JSEC2025で「積水化学工業賞」を決定‐都立日比谷高校の長坂さんに贈呈 - yakuji.co.jp",
+            "title": "【積水化学】JSEC2025で「積水化学工業賞」を決定‐都立日比谷高校の長坂さんに贈呈 - CLUB-Abo",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45WmhqN1BtVTByZUhZRTVHbEc4WXl1ZmxzMWpaclhOc2NNemdRQlJQcTc0V0x0Q2lNXzlqemtTWEphMDBZZW9IbW42YUctckQ0VFIw?oc=5",
             "published": "2025-12-26T07:43:19+09:00",
-            "source": "yakuji.co.jp"
+            "source": "CLUB-Abo"
         },
         {
             "company_id": "panasonic_homes",
@@ -668,10 +668,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "【特報】 寄前【成行注文】買い越しランキング 大和ハウス、ＭＳ＆ＡＤ、ＫＤＤＩ [08:36] - 株探",
+            "title": "【特報】 寄前【成行注文】買い越しランキング 大和ハウス、ＭＳ＆ＡＤ、ＫＤＤＩ [08:36] - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVVFPUnBmN0M4M3pqalFrWkw0SW1FQzJzSUQ2b2VYbVB0YnNockRHOW1hS2t2RGZxVWtReGdUTGs0cE9BNUJ1YTNXaGl6dkhDVXNKNUJoNTZ2SHM1WmpLSQ?oc=5",
             "published": "2025-12-25T08:36:41+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "daiwa_house",
@@ -1332,18 +1332,18 @@
             "source": "日経不動産マーケット情報"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "［チェックＣＭ］積水化学工業 あったかハイム「二人のウクレレ」編…暖かい家なら、優しくなれる？ - 読売新聞オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16MEJRczQ4cXF3aTR5X3NQMWE5dDVMeWpoVjNGUnBaZG1jWjhzZFNfQnQxQkFNR3N5OFBBd3NMeXJ5Z245Q0pmNWQ1V283Z0ZtbW5MV1NLU1FISGZMZGp0ZDJMUVF4aEJZ?oc=5",
+            "published": "2025-12-21T17:00:00+09:00",
+            "source": "読売新聞オンライン"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業 「ＤＰＬつくば中央II」着工、最大８テナント入居可 - 物流ウィークリー",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sZmlLa2g5R2VXQW5NYkxicjNHX09INUtTUG5vc0QyeGYyWDRsUGVKZTczTU1haVFYWW1RZ3hKVFlsSXZKYldKUGxKSG1QQQ?oc=5",
             "published": "2025-12-21T16:35:58+09:00",
             "source": "物流ウィークリー"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "［チェックＣＭ］積水化学工業 あったかハイム「二人のウクレレ」編…暖かい家なら、優しくなれる？ - 読売新聞オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16MEJRczQ4cXF3aTR5X3NQMWE5dDVMeWpoVjNGUnBaZG1jWjhzZFNfQnQxQkFNR3N5OFBBd3NMeXJ5Z245Q0pmNWQ1V283Z0ZtbW5MV1NLU1FISGZMZGp0ZDJMUVF4aEJZ?oc=5",
-            "published": "2025-12-21T05:00:00+09:00",
-            "source": "読売新聞オンライン"
         },
         {
             "company_id": "sekisui_house",
@@ -2348,17 +2348,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
-            "published": "2025-12-16T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
+            "published": "2025-12-16T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "daiwa_house",
@@ -2495,10 +2495,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "【特報】 話題株先取り【寄り付き】（1）：パーク２４、積水ハウスＲ、サンバイオなど - 株探",
+            "title": "【特報】 話題株先取り【寄り付き】（1）：パーク２４、積水ハウスＲ、サンバイオなど - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RW5ILUtsWFpOT052Wkg1cDdNNWFnVTNlNTNaVjJUV01pVXJQRnFsUzNpcjJfTl85RGpIVmN1X1lRdVNadjU4Z1Bod3J3RXNRR3RuXzByNl9qTmsta19rcg?oc=5",
             "published": "2025-12-16T09:07:43+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -4105,17 +4105,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "autobacs.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -5015,10 +5015,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "メディカルＮは堅調、旭化成ホームズと業務提携 | 個別株 - 株探ニュース - 株探",
+            "title": "メディカルＮは堅調、旭化成ホームズと業務提携 | 個別株 - 株探ニュース - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMk5Cc3Q0RHR3RFM3NjZPcXg1d0hSc2dwamJiQTFvU3NjT2c1MzdxTThCbGN5dWhYNTJJclNkRHpIU0RlLVhWa0sxbGFZanRlRk05M3d3RExySDlYTWlBQw?oc=5",
             "published": "2025-09-22T16:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "misawa_home",
