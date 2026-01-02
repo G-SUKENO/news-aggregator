@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-02T17:56:03.940911+09:00",
+    "generated_at": "2026-01-02T18:46:19.894580+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "プレスリリース：大和ハウスの企業CMシリーズ 「そして、世界へ。」アメリカ篇の放映を開始しました。（PR TIMES） - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50OTlqU0xZTlR0S0VQTHo0S0JFSjVZSHVTYS1tbHlMVnFLanZDcXVsbktpR08xUDhPR1MySFRPR0syWFpiT1ZmcFBONFZlSDlsRmtPU1FjaVlteGh5UGFQaS1PdmltbG1V?oc=5",
+            "published": "2026-01-02T12:51:23+09:00",
+            "source": "毎日新聞"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウスの企業CMシリーズ こっちの世界「中身が大事」篇の放映を開始しました。：マピオンニュースの注目トピック - マピオン",
@@ -31,7 +38,7 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの企業CMシリーズ こっちの世界「中身が大事」篇の放映を開始しました。 - PR TIMES",
+            "title": "大和ハウスの企業CMシリーズ こっちの世界「中身が大事」篇の放映を開始しました。 | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbWxHTzBfNUlsc0xxU0YyZGlmY3NfUVhycllvbE9kNlh2cWtGNlUtMjFsUkZrOER1RFB6ZTliR04xR3JtU3NmQTFPZldHalpRV1BvM3p0ekdOcngzRUdlNlhJUU1VU3lkb3c?oc=5",
             "published": "2026-01-02T12:00:02+09:00",
             "source": "PR TIMES"
@@ -2648,13 +2655,6 @@
             "source": "週刊不動産経営"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス モジュール型データセンターを発売 短工期で既存の高圧電力による運営も可能 - 週刊不動産経営",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkZkFPYTBJc1FobEhfelRrUnliWFRheXVsNEFicWprMm1HU0Z1OTVNVGJKOFhfTFVoZkZ5UF81dmNzX0IxSmZVdnBIQTdmY3BIWmdMU2VXNEtlWUV0WUJF?oc=5",
-            "published": "2025-12-15T10:29:00+09:00",
-            "source": "週刊不動産経営"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業グループ、住宅事業者向けDX支援を加速 「構造エクスプレス」など基盤サービスを強化 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzMnVFZXh6b2k0aWZPY2VseklRczY2UlBOS3NyelZHSjg0R1VlTnM2S3VocTExU3Q5Z3pxSnhfUVdrM3BVaGJicFdNOTZadkd0aEE?oc=5",
@@ -2768,13 +2768,6 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、減損148億円に 実証プラント撤収 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXNEMDFia2RwX1prLVFOMWl0a2ZGa0pYbmg3TWNmTFN5T3FSemZRX3MzbVVyVF9PYlgzVjFBRkdWLUpwd0wxWDFtVHpCMHYxNVM0MlRMTGFiSkxwbHg3djVvcXo5LUF2VGd0b1BjUUsxd1dLX0pyY2E3VDVoV3R6NzhSZjBzR1FIMmhQWXZTTEhvc1JYdHVJQUNTSmw1RlljNmc?oc=5",
-            "published": "2025-12-12T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業、カナダにモジュラー建築の新会社 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPNkIxcUEtNWNNRE9DSkk2V1pmM0x6ekp1eG00ekVSbUZTY3MwZTZJcjJ3dXAzX1c4aGRzY05kVEl2NkRRYllXdUNscWhWU1ZhM1NRNUpB?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
@@ -2784,6 +2777,13 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業、減損148億円に 実証プラント撤収 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamhIZWU0YnVNWU5rOWxEUHNIOGZvbE1lLVI0T1lQekFBdFI3dC1xN0dyOE5oLWdxWGlsNmNVMFBqaTU1Nk9oUG92eUZCMVpaMS1YWHAtOUdYcVg5Z3hkQWFhU3dRTXRDN3JJX0w2Nkxic1RQNGppYmxxTGNLMTM0NXhtbUZaNV9RWno0ekxId0NBOU1KTjlGYVZMLWdLVWlGVi1HYnF3?oc=5",
+            "published": "2025-12-12T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業、減損148億円に 実証プラント撤収 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXNEMDFia2RwX1prLVFOMWl0a2ZGa0pYbmg3TWNmTFN5T3FSemZRX3MzbVVyVF9PYlgzVjFBRkdWLUpwd0wxWDFtVHpCMHYxNVM0MlRMTGFiSkxwbHg3djVvcXo5LUF2VGd0b1BjUUsxd1dLX0pyY2E3VDVoV3R6NzhSZjBzR1FIMmhQWXZTTEhvc1JYdHVJQUNTSmw1RlljNmc?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -3377,17 +3377,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホーム 「MOCX WALL工法」採用初のモデルハウス建設中 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fcTdHSDZfRHEwd2Ixc3BMck5McUg0X1A5V1NhUzY5STFpcmI1dmR5UjdtUDd4a1RHc3ZIYkhZVlZ1NnkxeWxvU050d2RkcHVDM0E?oc=5",
-            "published": "2025-12-02T17:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "東京ガス､三井ホーム工場に薄型太陽光 CO2排出44%減 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vWmtTalo4Sm9VckhhTklrdVdRV1RYWDRsNzhpTk1iQThxSG96b0VGY1Fqc3otLW1LcUtNNVJ0WkRKSDJ5NUdlbGdvNXNDcUY4c1hweG1qNjJ5N3Z3VXUzcmwyLUM5d0ZJNjRJR1I0dGdwajBBYVFN?oc=5",
             "published": "2025-12-02T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "三井ホーム 「MOCX WALL工法」採用初のモデルハウス建設中 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fcTdHSDZfRHEwd2Ixc3BMck5McUg0X1A5V1NhUzY5STFpcmI1dmR5UjdtUDd4a1RHc3ZIYkhZVlZ1NnkxeWxvU050d2RkcHVDM0E?oc=5",
+            "published": "2025-12-02T17:00:00+09:00",
+            "source": "Housing Tribune Online"
         },
         {
             "company_id": "sekisui_heim",
@@ -3650,13 +3650,6 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
-            "published": "2025-11-27T17:00:00+09:00",
-            "source": "tokyo-gas.co.jp"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "東京ガス、三井ホームの埼玉工場に薄型太陽光パネル納入 CO2を44%減 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WnBUQktpWlg4M182a1BqNV9tWV9BakxDVF9SdGJCUWdDVUEta3pjdUZHLTJ1YmppOVo2RjBjbVo0bUZtN0dyaXlhNzZzQXRzZGIxM29sVjFUazRrSlMxSHZfdHE1M05jdlJsRQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
@@ -3668,6 +3661,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KNDFOSFhqSnBuRVVYZWJQcUNJcHhJQW13ZHZHMV81Q2g2c2xwbklUN2VmRUxxZkw5azZ0NlVGUzRxSXowSEtIN2xHR0NUd2huLWpzeUZsOVk1cGdlWmstTlJjeEZYdzRHMUE?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
+            "published": "2025-11-27T17:00:00+09:00",
+            "source": "tokyo-gas.co.jp"
         },
         {
             "company_id": "mitsui_home",
@@ -4105,17 +4105,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "autobacs.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
