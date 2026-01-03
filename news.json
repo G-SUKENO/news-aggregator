@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-04T02:37:55.606953+09:00",
+    "generated_at": "2026-01-04T03:53:47.852268+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -338,6 +338,13 @@
             "source": "山陽新聞"
         },
         {
+            "company_id": "misawa_home",
+            "title": "中日新聞 桑名ハウジングセンター - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHcE41OVdDeVZaWGd4TGFuZDJZODNkVGhCcDZ0bDZxTF9DOXlsc3hDejZiWUxmUENSc0ZtWVZvcFN4czlmNmhHenpHZWVLV2I1TFQ0dVhqd0h6XzRZWTRCUmdrcGtHQjRZVnZwRg?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業が春の住宅フェアを開催。お得なキャンペーンが満載！ - サードニュース",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YX01zUU5kcWdHbzJlaHdIN0JQdThBSnk0NXdhWHc3VW5wNU5lUV9PQjhEcUUxb3FPbXhaOGJablFOV3V3aHR2WUNFNGlnUEdrRkJSZjRBVW5WMVIxRUhYZUswdXdTc3lvSEtFYmlYbm5RdGlaM1FTTHNR?oc=5",
@@ -506,6 +513,13 @@
             "source": "かぶたん"
         },
         {
+            "company_id": "panasonic_homes",
+            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU5Kb28yUl9QQV9KUkF0WmNOSjN2ZDladUdrVW84YnAtTExOaEgwRl9Gd1ZycE05a3R4SGdUcnJDOEJOcm9hWXpVVGlBTGZyV042NnVKVEdwV28?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "『一条工務店』『住友林業』を抑えた！【マイホームを建てたいハウスメーカー】堂々の1位に「作りがしっかりとしている」「長期にわたって安心して住める品質」 - TRILL",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
@@ -644,13 +658,6 @@
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HT1FLa0pYYmlGa3dZU1VwbXFrY2EwWENvbHdNXzVIRkV4YWhLb25RY0t4Snh6akhYcDB1dW9lNy1YdTJ0ZHNLVUx4X1FjZndTVHR5aVVfV2hrS3F6TXJHME5YeGpISG5IUmhPTlppeXVrd3JZZDBIcWlZMA?oc=5",
             "published": "2025-12-25T10:09:47+09:00",
             "source": "産経ニュース"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU5Kb28yUl9QQV9KUkF0WmNOSjN2ZDladUdrVW84YnAtTExOaEgwRl9Gd1ZycE05a3R4SGdUcnJDOEJOcm9hWXpVVGlBTGZyV042NnVKVEdwV28?oc=5",
-            "published": "2025-12-25T10:07:30+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -2355,17 +2362,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
-            "published": "2025-12-16T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
+            "published": "2025-12-16T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "daiwa_house",
@@ -4112,17 +4119,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "autobacs.co.jp"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "autobacs.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -4574,17 +4581,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ウエルネス軸に事業間連携 ミサワホーム、福祉施設直営の知見活用 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cGp5V2RUc1NiQkgwRnp1QmZpajYwa1l6Z3hnamNmUURRblQ5QUFtbnA4ZnBNVFRDeWZ4UE5SWTJPZnFuTDFIZThPb0JOV2U0bW9PS0d6eWY0QTFfMF80M09EVEtlWkJRTjZXeG1PWVB3andI?oc=5",
-            "published": "2025-10-23T16:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "ミサワホーム、青森市で複合開発に参画=観光交流拠点の整備も - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbzlxMXl1c1dOc3dSSnFDa3RheVdLbWNzTjByVnJMRWtJN3hwQkZ1MTdXelExcVg5cmVBazluVHJZQV9rdV9oZmJzMFTSAUxBVV95cUxOcG85cTF5dXNXTnN3UkpxQ2t0YXlXS21jc04wclZyTEVrSTd4cEJGdTE3V3pRMXFYOXJlQWs5blRyWUFfa3VfaGZiczBU?oc=5",
             "published": "2025-10-23T16:00:00+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ウエルネス軸に事業間連携 ミサワホーム、福祉施設直営の知見活用 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cGp5V2RUc1NiQkgwRnp1QmZpajYwa1l6Z3hnamNmUURRblQ5QUFtbnA4ZnBNVFRDeWZ4UE5SWTJPZnFuTDFIZThPb0JOV2U0bW9PS0d6eWY0QTFfMF80M09EVEtlWkJRTjZXeG1PWVB3andI?oc=5",
+            "published": "2025-10-23T16:00:00+09:00",
+            "source": "日刊工業新聞"
         },
         {
             "company_id": "misawa_home",
@@ -4854,17 +4861,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "東京建物・ミサワホーム／愛知県江南市で3.1万ｍ2のマルチ型物流施設着工 - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zM3NMdEYtZy1NMEFydHF1SVNJRjd0VUU1Wmd5c2c0ZEl5UnFvN3YzNUZmWU9fbDdza0N1bS1lWG1UWW9ORmhqaGRZS09vQ3VlNktscA?oc=5",
-            "published": "2025-10-08T16:00:00+09:00",
-            "source": "物流ニュースのLNEWS"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "「（仮称）江南・小牧物流施設プロジェクト」着工 | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUnJWZExQZnRydWNWdktSMDN3TDFkeEl3VFBvVGplU2ctZkgzRHNPVkk0MWVwUU52M2FDN1RLQ3ZTeHNxZGtvbmNnbHgwWVpVQVFnblllZFUyVkQ4T2FRMGpJLWh4bVR5OEE?oc=5",
             "published": "2025-10-08T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "東京建物・ミサワホーム／愛知県江南市で3.1万ｍ2のマルチ型物流施設着工 - 物流ニュースのLNEWS",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zM3NMdEYtZy1NMEFydHF1SVNJRjd0VUU1Wmd5c2c0ZEl5UnFvN3YzNUZmWU9fbDdza0N1bS1lWG1UWW9ORmhqaGRZS09vQ3VlNktscA?oc=5",
+            "published": "2025-10-08T16:00:00+09:00",
+            "source": "物流ニュースのLNEWS"
         },
         {
             "company_id": "misawa_home",
@@ -5250,13 +5257,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aN252VHJsSHdrczJCWWh2eXppNzRqbDhZc1RjVFcxaVJ2anVXZHZLdHE0SWR0cEkwWUtQVHMzMmxUQ2V4NFlxYklpQkZsdG5KcnI1U3VobXYtYldFVkxiZWY1THhsZHlVV0NtSw?oc=5",
             "published": "2025-09-03T16:00:00+09:00",
             "source": "ITmedia"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "【静岡】「edit x seven富士御殿場」ミサワホームが富士山望むホテル開業 グループ滞在型 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyTlRPMkR6blNoUjBqb3dnR0piZGxwa216T2E5TktyWk03SFQtaVVIbzBsekRrcFJiTEt0SDgzZGIyMUhDc19tckZydHRnQk1RMlp5MmhfSWpNNTBzaW85VlY0bkZMY3NrQW5fVA?oc=5",
-            "published": "2025-09-03T16:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "ichijo_komuten",
