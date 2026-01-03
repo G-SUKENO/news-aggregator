@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-04T03:53:47.852268+09:00",
+    "generated_at": "2026-01-04T04:28:32.593509+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -898,6 +898,13 @@
             "source": "住宅産業新聞"
         },
         {
+            "company_id": "hebel_haus",
+            "title": "第8回エコプロアワード コネプラの「GOKINJO」が奨励賞を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWTJ1TFVtMzB5NE1JTERLTWxQTTVWbVZteE1BZGxUcUNSalhISWhHUjY0NUFUVmNfeGVuQzJNdTJZNkZrYTNQMHpVVU1sRnM5WGczaEtlX1ZnTWNyYlNTVTQxU0dGT1FPelE?oc=5",
+            "published": "2025-12-23T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "misawa_home",
             "title": "ミサワホーム2026年版「偉人の生涯と筆跡カレンダー」第77回全国カレンダー展「経済産業省大臣官房商務・サービス審議官賞」受賞 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vWmlqWnZzSG9hQW80Q1dmRmtGU0FraXRNNkRiaENGTHhIWVVfVTJ2akNPNk8yN095dE9Qby15aDB5RWQ2a3MwWnBuQy1TaFdWVWpHUl9ubGx1QnJYbVdsLWFhbUdfVnlKY2c?oc=5",
@@ -938,13 +945,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sY29MRXNaV2Fub0lUa0hjQi1fTnV3NlVULWdQWkgzV1d0VkFMUDNYenZwUkVVX0RoSWJNbWdmcXRVSHI1RXpCa0tGYnVmZlBr0gFQQVVfeXFMTWxjb0xFc1pXYW5vSVRrSGNCLV9OdXc2VVQtZ1BaSDNXV3RWQUxQM1h6dnBSRVVfRGhJYk1tZ2ZxdFVIcjVFekJrS0ZidWZmUGs?oc=5",
             "published": "2025-12-23T14:00:25+09:00",
             "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "第8回エコプロアワード コネプラの「GOKINJO」が奨励賞を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWTJ1TFVtMzB5NE1JTERLTWxQTTVWbVZteE1BZGxUcUNSalhISWhHUjY0NUFUVmNfeGVuQzJNdTJZNkZrYTNQMHpVVU1sRnM5WGczaEtlX1ZnTWNyYlNTVTQxU0dGT1FPelE?oc=5",
-            "published": "2025-12-23T14:00:02+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -2404,7 +2404,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "防犯や安全啓発へ 県警にグッズ寄贈 - 下野新聞社",
+            "title": "防犯や安全啓発へ 県警にグッズ寄贈 栃木セキスイハイム｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TFd6Ny1lSjZOR0RkYTE4ODlHcWIxQzRXdXN6eVpXUjR3b1htQmFZS1RUeGxVRzY1ZTh1VUROTU1UVjZNZGFKdlkwc1Vxb2MtUnZFd2Z3ald6Ylk?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "下野新聞社"
@@ -3041,17 +3041,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "米国ロサンゼルス近郊ロングビーチ市で賃貸住宅開発事業に参画 産業集積や再開発により高まる住宅需要に対応 多様な需要に応える間取りとプール、コワークスペース、サウナ等充実した共用部を完備 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oa20xaTBhNzRBcVN4ckgxcHZKRzhQNDI0U1dsX2pZb0NTNzZ5TWlwOXNKekdCZ056TjRZbWpBUXBiaXhKN1dRck5nV25hdmw4YWtvVFJFSDMyUDdfXzRteHRMdXFtVlJqd2c?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "東京建物と住友林業、米カリフォルニア州ロングビーチ市で賃貸住宅開発事業に参画 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YdGttd3VFYks2MFZJUjB0WUhqcFlBT0tid0JhNGRSSVotWDJSSjlpSVMxel82SXdjUlY0c1dyUFFxV2dfZWdXLTV6Z0JSWG9ob1U1Qjc3SE9hVXFYMGlIRUVpdmZlLVUydUFSaw?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "米国ロサンゼルス近郊ロングビーチ市で賃貸住宅開発事業に参画 産業集積や再開発により高まる住宅需要に対応 多様な需要に応える間取りとプール、コワークスペース、サウナ等充実した共用部を完備 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oa20xaTBhNzRBcVN4ckgxcHZKRzhQNDI0U1dsX2pZb0NTNzZ5TWlwOXNKekdCZ056TjRZbWpBUXBiaXhKN1dRck5nV25hdmw4YWtvVFJFSDMyUDdfXzRteHRMdXFtVlJqd2c?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3594,17 +3594,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "薄型軽量太陽光パネルと複合PPAで荷重・余剰電力の課題を解決、三井ホーム - 株式会社インプレス",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3Zl95VmpyYkdfbUk4am0xYW5HMGE2UkwtSFVNSEVxQXN6VDBMUTBoQVYxQlRaVDJYOTF2MkM2bHpoSzkxdHVMVmxEOVYyal9yLV9VbQ?oc=5",
-            "published": "2025-11-28T17:00:00+09:00",
-            "source": "株式会社インプレス"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "三井ホーム、埼玉工場でオンサイト・バーチャルPPA - re-port.net",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tWDBraEgtZnZ4WUQ3cGwzSmtuWXgzOUpOcjJWX0ZLY3hhUHBneXVkTVVTTzBHd1RjTnlHVU1wZHB0TnpYN0xfQzFEa0dxdWIzSXJ2dFJsV0k5VVJp0gFiQVVfeXFMTU9lQmtJR045emt2eXFXQXNmUFdTaHBxSTNwWEtEc0x1bWlaWW11RGQyRDFNaFpBSzMwN3VqeWFyYVhXT0p0emVvZEJORmdmZHd1RWwxRlI4d3RMdllmZE9NWEE?oc=5",
             "published": "2025-11-28T17:00:00+09:00",
             "source": "re-port.net"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "薄型軽量太陽光パネルと複合PPAで荷重・余剰電力の課題を解決、三井ホーム - 株式会社インプレス",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3Zl95VmpyYkdfbUk4am0xYW5HMGE2UkwtSFVNSEVxQXN6VDBMUTBoQVYxQlRaVDJYOTF2MkM2bHpoSzkxdHVMVmxEOVYyal9yLV9VbQ?oc=5",
+            "published": "2025-11-28T17:00:00+09:00",
+            "source": "株式会社インプレス"
         },
         {
             "company_id": "sekisui_heim",
@@ -4119,17 +4119,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - autobacs.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "autobacs.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -4273,10 +4273,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "2026年オリジナルカレンダー「住友林業の森」 抽選で400名様にプレゼント - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NcmE1aE1CRkE2ZFBlT0FnQnRiLTBrWmd1VFkxRm0zUEFDaTRmb0hHSFBOTXZzZlJheG5iR25xNWNOM3kweFA1c2hkSlVxN2RiS2JfUnJQYzctRVE?oc=5",
+            "title": "技能五輪 住友林業会長・市川晃 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzcnlYTDc5dEZGdmhEcW1pVnZ5R3FmMF95dUQ5aTFZejNYYWthOW9lRHBacGFGZE90X05COVJ4NFlHZWlFei1jbm1jeTlDOTZ2UENXUU00dUdLaHZVZnp3dmowYXhEeklKYzJWbA?oc=5",
             "published": "2025-11-10T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
+            "source": "日本経済新聞"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4581,17 +4581,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム、青森市で複合開発に参画=観光交流拠点の整備も - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbzlxMXl1c1dOc3dSSnFDa3RheVdLbWNzTjByVnJMRWtJN3hwQkZ1MTdXelExcVg5cmVBazluVHJZQV9rdV9oZmJzMFTSAUxBVV95cUxOcG85cTF5dXNXTnN3UkpxQ2t0YXlXS21jc04wclZyTEVrSTd4cEJGdTE3V3pRMXFYOXJlQWs5blRyWUFfa3VfaGZiczBU?oc=5",
-            "published": "2025-10-23T16:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "ウエルネス軸に事業間連携 ミサワホーム、福祉施設直営の知見活用 - 日刊工業新聞",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cGp5V2RUc1NiQkgwRnp1QmZpajYwa1l6Z3hnamNmUURRblQ5QUFtbnA4ZnBNVFRDeWZ4UE5SWTJPZnFuTDFIZThPb0JOV2U0bW9PS0d6eWY0QTFfMF80M09EVEtlWkJRTjZXeG1PWVB3andI?oc=5",
             "published": "2025-10-23T16:00:00+09:00",
             "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、青森市で複合開発に参画=観光交流拠点の整備も - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbzlxMXl1c1dOc3dSSnFDa3RheVdLbWNzTjByVnJMRWtJN3hwQkZ1MTdXelExcVg5cmVBazluVHJZQV9rdV9oZmJzMFTSAUxBVV95cUxOcG85cTF5dXNXTnN3UkpxQ2t0YXlXS21jc04wclZyTEVrSTd4cEJGdTE3V3pRMXFYOXJlQWs5blRyWUFfa3VfaGZiczBU?oc=5",
+            "published": "2025-10-23T16:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "misawa_home",
@@ -4861,17 +4861,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "「（仮称）江南・小牧物流施設プロジェクト」着工 | ミサワホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUnJWZExQZnRydWNWdktSMDN3TDFkeEl3VFBvVGplU2ctZkgzRHNPVkk0MWVwUU52M2FDN1RLQ3ZTeHNxZGtvbmNnbHgwWVpVQVFnblllZFUyVkQ4T2FRMGpJLWh4bVR5OEE?oc=5",
-            "published": "2025-10-08T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "東京建物・ミサワホーム／愛知県江南市で3.1万ｍ2のマルチ型物流施設着工 - 物流ニュースのLNEWS",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zM3NMdEYtZy1NMEFydHF1SVNJRjd0VUU1Wmd5c2c0ZEl5UnFvN3YzNUZmWU9fbDdza0N1bS1lWG1UWW9ORmhqaGRZS09vQ3VlNktscA?oc=5",
             "published": "2025-10-08T16:00:00+09:00",
             "source": "物流ニュースのLNEWS"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "「（仮称）江南・小牧物流施設プロジェクト」着工 | ミサワホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUnJWZExQZnRydWNWdktSMDN3TDFkeEl3VFBvVGplU2ctZkgzRHNPVkk0MWVwUU52M2FDN1RLQ3ZTeHNxZGtvbmNnbHgwWVpVQVFnblllZFUyVkQ4T2FRMGpJLWh4bVR5OEE?oc=5",
+            "published": "2025-10-08T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "misawa_home",
@@ -5365,17 +5365,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
-            "published": "2025-08-21T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "京急グループが「学生賃貸マンション」を展開！ - keikyu.co.jp",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sYjFTYi1tYlctZ1d6STNQRk1MN2ZpREhpbGhKZWtxMndLejRMYzhYX1htX1RYZktWamlQN0djX3FRWE9FTzZYRTdIYjFGOVZiTmlaMkpBTVU0X0FwWHBKZHFEUWREYkVsWld2clBraEZrYlVo?oc=5",
             "published": "2025-08-21T16:00:00+09:00",
             "source": "keikyu.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
+            "published": "2025-08-21T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
