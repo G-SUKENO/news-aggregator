@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-04T18:37:24.052790+09:00",
+    "generated_at": "2026-01-04T19:42:37.243745+09:00",
     "articles": [
         {
             "company_id": "ichijo_komuten",
@@ -28,6 +28,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uYnBXQmJuSmtxNDAyd2RtOW90VmthcFFjcjFGNnZBd1NaS2FON1FIRXVSTERZaHZIRmdPS2huY1gwaW5BZzhrMjY3WjVWX2pZbVNVMTB6NFU4bFZzb3d0WnhR?oc=5",
             "published": "2026-01-04T09:49:08+09:00",
             "source": "マネーフォワード"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xLXdKalkyaHRsdGpkdFRYc3AwQjFoVWxfZ1dNZ3ZySHRPVmxqb2xVOWJtNjk5Vk9zRm4yNXJzd2ZmX3A4VW5LaFNuUzBaLTRuS1J0YUgtaGZFV0U?oc=5",
+            "published": "2026-01-04T01:54:49+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -73,14 +80,14 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの企業CMシリーズ 「そして、世界へ。」アメリカ篇の放映を開始しました。 | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "title": "大和ハウスの企業CMシリーズ 「そして、世界へ。」アメリカ篇の放映を開始しました。 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CMVdYMG5ySmVJdmhlSUhhaV9hYTJMbWlsdUN1RmNkOXZXcnBZWlN3REw2T0F3bldRbS1YNnFfazVhRmdfNVBpMXRRYTJyM2tjT29wM1pHMGZnU0FXTFhNOEFaUTBoekg5SlE?oc=5",
             "published": "2026-01-02T12:00:02+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの企業CMシリーズ こっちの世界「中身が大事」篇の放映を開始しました。 | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "title": "大和ハウスの企業CMシリーズ こっちの世界「中身が大事」篇の放映を開始しました。 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbWxHTzBfNUlsc0xxU0YyZGlmY3NfUVhycllvbE9kNlh2cWtGNlUtMjFsUkZrOER1RFB6ZTliR04xR3JtU3NmQTFPZldHalpRV1BvM3p0ekdOcngzRUdlNlhJUU1VU3lkb3c?oc=5",
             "published": "2026-01-02T12:00:02+09:00",
             "source": "PR TIMES"
@@ -437,17 +444,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス「春の住宅フェア」を開催！ 大和ハウス工業株式会社 - 新潟日報",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Q0FZZ1BoS3U1c2ZkWDhiWXA0NEE0aXZVRExHTGFiWTRPcHA4LXpuZjVkeGlLTHVGSk5HZXIta1dudUxDUXJJRkc5Y1FJR1djbGo2QVdjUFdLTjdLLWc?oc=5",
-            "published": "2025-12-26T16:00:00+09:00",
-            "source": "新潟日報"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大和ハウス「春の住宅フェア」を開催！ - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
             "published": "2025-12-26T16:00:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス「春の住宅フェア」を開催！ 大和ハウス工業株式会社 - 新潟日報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Q0FZZ1BoS3U1c2ZkWDhiWXA0NEE0aXZVRExHTGFiWTRPcHA4LXpuZjVkeGlLTHVGSk5HZXIta1dudUxDUXJJRkc5Y1FJR1djbGo2QVdjUFdLTjdLLWc?oc=5",
+            "published": "2025-12-26T16:00:00+09:00",
+            "source": "新潟日報"
         },
         {
             "company_id": "daiwa_house",
@@ -1641,6 +1648,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス－底堅い 米国の戸建て｢加速度的に成長｣ 年2万戸に自信＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpuLWotVWRCN2wxeHdCTFRMT0FZYkVuV3VhcVkzWWxXVWhMdEF4Q2NlY21SZFk1cnVBekktWlNtMElhWGdkY1dCcEJEbVk1eUgtbDd0VVZ0VFZIR0tmZG5VaGkzWTdzZllhampXZjR5aVI5ekxzd1ByNmtqSmJZOHh4cUpEa1E?oc=5",
+            "published": "2025-12-19T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス・リート投資法人が第22期決算、7物件取得、12物件売却を発表(JAPAN-REIT.COM) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTJhaEJSVHZCUmU5STIzd0pKbHVUMGFZcTFhV05CcHpwS1J6ODdIS2ZTSHpKMUNGUkVKZlR3SlJ0UUJRUVVrY1QxOWhDYm1VMGtUV2ViVHVLNWdmWWJCeFZYaVlMaktzVWFGenJ3cFBrT0pCZzZrV3prNlBrSWxINklPenBrVEE?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
@@ -1652,13 +1666,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdldteWFWazg1aG1OUjJzTVYxNW9lOU92WktzQWdwTHVuTnE5bHBlaHpqWDZwdS1GS1BjdnUwakhkbmxqZmlvM0d1MllVbUEzZUZkQVJyZHItbHpPMzdhaDhpNFBpLWpPekVSUUVDMjFYQVRPMjFTbjRpbnRQcGdta29xdFJ5dXR0aEo3YnlFd2hXeXNadzQ5VVRpUmVlemQ3ZHlGR3RfZDk?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス－底堅い 米国の戸建て｢加速度的に成長｣ 年2万戸に自信＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpuLWotVWRCN2wxeHdCTFRMT0FZYkVuV3VhcVkzWWxXVWhMdEF4Q2NlY21SZFk1cnVBekktWlNtMElhWGdkY1dCcEJEbVk1eUgtbDd0VVZ0VFZIR0tmZG5VaGkzWTdzZllhampXZjR5aVI5ekxzd1ByNmtqSmJZOHh4cUpEa1E?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -3692,13 +3699,6 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
-            "published": "2025-11-27T17:00:00+09:00",
-            "source": "tokyo-gas.co.jp"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "東京ガス、三井ホームの埼玉工場に薄型太陽光パネル納入 CO2を44%減 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WnBUQktpWlg4M182a1BqNV9tWV9BakxDVF9SdGJCUWdDVUEta3pjdUZHLTJ1YmppOVo2RjBjbVo0bUZtN0dyaXlhNzZzQXRzZGIxM29sVjFUazRrSlMxSHZfdHE1M05jdlJsRQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
@@ -3710,6 +3710,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KNDFOSFhqSnBuRVVYZWJQcUNJcHhJQW13ZHZHMV81Q2g2c2xwbklUN2VmRUxxZkw5azZ0NlVGUzRxSXowSEtIN2xHR0NUd2huLWpzeUZsOVk1cGdlWmstTlJjeEZYdzRHMUE?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） 三井ホーム埼玉工場へのメガソーラー導入により同社国内工場のCO2排出量を44％削減 - tokyo-gas.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWkhvdHdqbzdYTVJaQTZxOGlEWkNYa012RUFVb1FKNHVDODlESVY1UlNqblpKcFk4SHZjZVA4UmtzN2c4MkcxMWxWeDYxRTlKR0Rqc1Y5SjRIWjBCaFc5bUFlUnRvUQ?oc=5",
+            "published": "2025-11-27T17:00:00+09:00",
+            "source": "tokyo-gas.co.jp"
         },
         {
             "company_id": "mitsui_home",
@@ -5379,17 +5386,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
-            "published": "2025-08-21T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "京急グループが「学生賃貸マンション」を展開！ - keikyu.co.jp",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sYjFTYi1tYlctZ1d6STNQRk1MN2ZpREhpbGhKZWtxMndLejRMYzhYX1htX1RYZktWamlQN0djX3FRWE9FTzZYRTdIYjFGOVZiTmlaMkpBTVU0X0FwWHBKZHFEUWREYkVsWld2clBraEZrYlVo?oc=5",
             "published": "2025-08-21T16:00:00+09:00",
             "source": "keikyu.co.jp"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "2025年大阪・関西万博 カタール館建設プロジェクトに参画 | 三井ホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVWVoWGM1X1B5YVdDUkxZQWs2aVZEcTJlVWZjckVzNFEwZHFTQ1JLYmZrZ3pLcXFWTk9TWnNrYzVpY1MyM2l3U0QwSnlUTGh4OERXcmtQMWsyMzJ4SHZrb2UzbGtjWldxOEE?oc=5",
+            "published": "2025-08-21T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -6237,13 +6244,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RTzdhM2xTVktpVXBvUGRNNC1jSmVaN0h4c3diMzRlTmpYTW1SQ2pVVzJXdF9DRHlVUnRLN0lLSFdObzRmSEZrOXhPVU4yLTg0NDBoMkFYQ2xKR1plX3g5QnJReWN6MWtNUEE?oc=5",
             "published": "2025-04-24T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ、神戸市垂水区の大型分譲地が「ABINC認証」を取得=近畿の戸建住宅団地では初 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UUktka0NCU2hxR2NmZ0R3VzRZeUE0UVVlVFdYXzA3STd1Z0p4cDBJYk1tbHp3UjRvVTFuOC02RlI1U3pjR2tkZWo4X0XSAUxBVV95cUxPVFJLZGtDQlNocUdjZmdEd1c0WXlBNFFVZVRXWF8wN0k3dWdKeHAwSWJNbWx6d1I0b1UxbjgtNkZSNVN6Y0drZGVqOF9F?oc=5",
-            "published": "2025-04-24T16:00:00",
-            "source": "住宅産業新聞"
         },
         {
             "company_id": "ichijo_komuten",
