@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-07T05:44:19.349844+09:00",
+    "generated_at": "2026-01-07T06:39:23.943627+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業、RUTILEA、タイズAIの3社、福島県大熊町にデータセンターショールーム「Module DPDC Fukushima」を建設 - クラウド Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VTWI1VGcwNjNLT2NKVEhuNFVBbGxMejdtdUxlU3FvcFkweDlqYlFMLXBjaGhwMC1rV1BvLUtXT2tpR2dRMGVmUmwxVUgwUVgzQ3VpSXdoZTl0SjgtS1I4b3BvYXhPc28?oc=5",
+            "published": "2026-01-07T06:00:00+09:00",
+            "source": "クラウド Watch"
+        },
         {
             "company_id": "daiwa_house",
             "title": "展望2026／大和ハウス工業・芳井敬一会長「米国以外でも売上高拡大へ」 - 日刊工業新聞",
@@ -17,7 +24,7 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "1月は権利確定月【積水ハウス（1928）の株価】利回り4％超え＆14期連続増配予想！物価高に嬉しい「お米優待」の内容をチェック - LIMO | くらしとお金の経済メディア",
+            "title": "1月は権利確定月【積水ハウス（1928）の株価】利回り4％超え＆14期連続増配予想！物価高に嬉しい「お米優待」の内容をチェック 1000株で「コシヒカリ5kg」の株主優待がもらえる | 概要 - LIMO | くらしとお金の経済メディア",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wY2ZSY0hSV2VVS2ZMQkZibkVOZElaRW9kQkNWaVo4dEJGS3ZKSHN4cV9fVGY0QXJBeF9KYkFUQmZLbVBJTEtwc1R2cFM?oc=5",
             "published": "2026-01-06T18:05:00+09:00",
             "source": "LIMO | くらしとお金の経済メディア"
@@ -2655,13 +2662,6 @@
             "source": "時事ドットコム"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、住友電設ＴＯＢ成立＝計２９２０億円で完全子会社化 - 時事通信ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14bnRKS0tkMHJldEZidW9TQmpLTGhUUEx4c2o1eVVWb3VaRnZaemg4b2FFeUdaVjhDNzJzaFFVdWZZejMyOVRZLVhkM2I5TEJKQ1V1Xw?oc=5",
-            "published": "2025-12-16T17:41:00+09:00",
-            "source": "時事通信ニュース"
-        },
-        {
             "company_id": "misawa_home",
             "title": "電気通信大・大末建設・ミサワホーム、床下点検ヘビ型ロボット「ユカダイショウ」を共同開発・実用化 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10WHczWUVTTGNuM2VwU0EyZHlFY01MVW5pTWwzM2VzSVA5c2NqdE1oazdSU0tVN3BHYjlHUXhjM2ttNWladDMzQTNyc0JFSWhEaE14QU45b3BoSHJ1ejUtZ0xXTUN5dGk4TEJCbw?oc=5",
@@ -5288,17 +5288,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "旭化成ホームズ、自社事業だけで生涯CO₂収支ゼロの戸建 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sb3ZHdTdDSVZoRy1mYXpSV3FEMmRyOWctREYtUVY4X1hCam4zZGhMeHhfR2tEMl94c3ZOSzJhTVZ6am5ueFR3SGs4VnlDdDdkeDZycWhn?oc=5",
-            "published": "2025-09-05T16:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "旭化成ホームズ、自社事業だけで生涯CO₂収支ゼロの戸建 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sb3ZHdTdDSVZoRy1mYXpSV3FEMmRyOWctREYtUVY4X1hCam4zZGhMeHhfR2tEMl94c3ZOSzJhTVZ6am5ueFR3SGs4VnlDdDdkeDZycWhn?oc=5",
+            "published": "2025-09-05T16:00:00+09:00",
+            "source": "Housing Tribune Online"
         },
         {
             "company_id": "hebel_haus",
