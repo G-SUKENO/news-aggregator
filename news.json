@@ -1,6 +1,20 @@
 {
-    "generated_at": "2026-01-06T14:51:25.431759+09:00",
+    "generated_at": "2026-01-06T16:01:48.191781+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "データセンターショールーム「Module DPDC Fukushima」着工 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTXRsSHFreU9lQnFHempNUnlzbl9YLVhQY3FWUXJreEN4ZktnQUllS1hPNUxhM1RoaDhUR0RfZmFDQWh0RGpvRzJ0dU9YeXRVclpOaHBhWDltSXc?oc=5",
+            "published": "2026-01-06T15:38:20+09:00",
+            "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店、全棟「断熱等級6」を全国標準化 | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QzgwY3lvdHhMSFNSRXl4T0VmMzY5dm81bEF0Y3lnZG9vaThvRGNwLUZxSGFWUEwwdVUtNGxGWXRNT0FReFlISFozYTdGQVVzM0w2S2xPbnlnblhEMjBERWpSdDTSAWRBVV95cUxNNkM4MGN5b3R4TEhTUkV5eE9FZjM2OXZvNWxBdGN5Z2Rvb2k4b0RjcC1GcUhhVlBMMHVVLTRsRll0TU9BUXhZSEhaM2E3RkFVczNMNktsT255Z25YRDIwREVqUnQ0?oc=5",
+            "published": "2026-01-06T11:48:06+09:00",
+            "source": "千葉テレビ放送"
+        },
         {
             "company_id": "daiwa_house",
             "title": "伊藤忠32万円、大和ハウス35万円、ファストリ37万円…「初任給引き上げラッシュ」を手放しで称賛できないワケ - ダイヤモンド・オンライン",
@@ -758,13 +772,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "『一条工務店』『住友林業』を抑えた！【マイホームを建てたいハウスメーカー】堂々の1位に「作りがしっかりとしている」「長期にわたって安心して住める品質」 - TRILL",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "TRILL"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、「外部収納調査」の結果を発表 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzZzV012dktDd3Q5c2UzMEYzcnNLXzRLenc2dnNTTERjM21BZzFORVFtOEV0N3FaOS16WmQyZ2Q5SFg3WXRWTHBpcDBzaFpLZzk1MEtMdFg3LWQ3a01uTDBHRWRubktGN0xscGN6UFhHMmotUGxOblVZUzVfME16N3p2eXEwblp4UFpMZEZrV2ZiOE1wQlJXZ001V1VQbXpVY2ZaYWE0UC1MQQ?oc=5",
@@ -777,6 +784,13 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU5Kb28yUl9QQV9KUkF0WmNOSjN2ZDladUdrVW84YnAtTExOaEgwRl9Gd1ZycE05a3R4SGdUcnJDOEJOcm9hWXpVVGlBTGZyV042NnVKVEdwV28?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "『一条工務店』『住友林業』を抑えた！【マイホームを建てたいハウスメーカー】堂々の1位に「作りがしっかりとしている」「長期にわたって安心して住める品質」 - TRILL",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "TRILL"
         },
         {
             "company_id": "sekisui_house",
@@ -1381,18 +1395,18 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "福岡市との「脱炭素社会の実現に向けた連携協定」の締結について | 積水化学工業株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdXB0ZFdFLXFGcENleU9nWElDNTFocDRyRmwyc0V0cTNNMEZ4U25kNEhNQlA2R2dvb1doc184ZGxvbkVJeDdVQUVrRjVYZnlrcHp0RnRST2VCVVg5b0RSeEwzNEVxTzd1MEE?oc=5",
-            "published": "2025-12-22T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51T3pMNExCS3hJZm1zc0FDNWtrNXNybWRsM1lobkJhVGpBdzJ3cHhOSkR2YjJ1eUtVZU1vcDVpekNyamM0TEItaEs4OXRjd3otWUF3MW5rTTZhTmFkZW14ZnloMk5tM2NoRzhkemtn?oc=5",
             "published": "2025-12-22T17:00:00+09:00",
             "source": "家サイト"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "福岡市との「脱炭素社会の実現に向けた連携協定」の締結について | 積水化学工業株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdXB0ZFdFLXFGcENleU9nWElDNTFocDRyRmwyc0V0cTNNMEZ4U25kNEhNQlA2R2dvb1doc184ZGxvbkVJeDdVQUVrRjVYZnlrcHp0RnRST2VCVVg5b0RSeEwzNEVxTzd1MEE?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -1907,17 +1921,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "10年連続「気候変動Aリスト」、新たに「フォレストAリスト」にも選定 CDP2025で最高評価 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdDItbGotcDJMMXVvbWM5aXZjQlZkMW94VmF1amJFODZJNXRSSjlad1pWYVNMdDNRdVpaRFRjQVNnRDUzNGFzak5uaGt2dGFoWDZCUTNmSldWb28?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "10年連続「気候変動Aリスト」、新たに「フォレストAリスト」にも選定 CDP2025で最高評価 | 住友林業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SbGh5LUN4eV91Z2NIbkJYelNTSDVRaWxSTS1RbWRBMjQ4UTliUnJMQUlLZ1E5T0taWFJiWllyeXd1WEFRTFNWc1pkMWlEZkpFc2xtdjFHa05wdHJTUzhnd1Zpa0lLcEd2MkE?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "10年連続「気候変動Aリスト」、新たに「フォレストAリスト」にも選定 CDP2025で最高評価 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdDItbGotcDJMMXVvbWM5aXZjQlZkMW94VmF1amJFODZJNXRSSjlad1pWYVNMdDNRdVpaRFRjQVNnRDUzNGFzak5uaGt2dGFoWDZCUTNmSldWb28?oc=5",
+            "published": "2025-12-19T17:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sekisui_house",
@@ -2340,18 +2354,18 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "知事公舎、予定価格の2・3倍の7億円超 セキスイハイム東海が落札 - 中日新聞Web",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NVMwdk4xazlDLUhJdkw4YjlNSFI5SEttM0dITGFWeGJlNG92eW5ETWNLeUhmU3lCazRTa2xLaHBmTU5nZnIyY0Vvcjd1LVBoa2hvUg?oc=5",
-            "published": "2025-12-17T17:00:00+09:00",
-            "source": "中日新聞Web"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "【一条工務店千葉東展示場】茂原大芝宿泊棟NEW OPEN！ - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUFlPTzRNOVZtMktnY3ZxbVFwZkVjdTBOS1VJQ29YemxFM2VIRERSUjVmVHlLV3RONjFNUmhHc1RNdkc1ZW81QUU5eW5aQW04T3Q3TlNtbUFpaTF3?oc=5",
             "published": "2025-12-17T17:00:00+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "知事公舎、予定価格の2・3倍の7億円超 セキスイハイム東海が落札 - 中日新聞Web",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NVMwdk4xazlDLUhJdkw4YjlNSFI5SEttM0dITGFWeGJlNG92eW5ETWNLeUhmU3lCazRTa2xLaHBmTU5nZnIyY0Vvcjd1LVBoa2hvUg?oc=5",
+            "published": "2025-12-17T17:00:00+09:00",
+            "source": "中日新聞Web"
         },
         {
             "company_id": "misawa_home",
@@ -2621,13 +2635,6 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
-            "published": "2025-12-16T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcnFZU3c4OGlmcEE5WlEtX0lyVDlJNU0zQTd2ZjhCLUsyRGdhU01tVmptT1p3XzNSYTBJOE5haVBOUFp2NGZiUnl4dVc3ZkRKQVBJeFVSVnJjX3M?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
@@ -2732,18 +2739,18 @@
             "source": "建設通信新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "【セキスイハイム】みんなで工場見学会！ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tME54aUx5dnp4MnRTS0VUYjNqZUdBQXhqc0thOEJNc19YYjRvdnF5OGhuOUZnbktUcjFMblI1UGRJOERoTUhlZlJScTk0T2ZFZWR6dGhWRGpoLWFT?oc=5",
-            "published": "2025-12-15T17:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "【一条工務店】来場予約キャンペーン開催中 - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOWlVMENybXdBbmMtVV9wT0ltZThSYmN2aFhlS24xWE1zVlh2UTdaX0YyanZYVXEteUpHRVdCenhONWV4a0Nab25PZXo4MzREUGVwQXlKSlQwemxFR05oUXZ5X2JBOVlGUmNpRw?oc=5",
             "published": "2025-12-15T17:00:00+09:00",
             "source": "家サイト"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "【セキスイハイム】みんなで工場見学会！ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tME54aUx5dnp4MnRTS0VUYjNqZUdBQXhqc0thOEJNc19YYjRvdnF5OGhuOUZnbktUcjFMblI1UGRJOERoTUhlZlJScTk0T2ZFZWR6dGhWRGpoLWFT?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "misawa_home",
@@ -3145,20 +3152,6 @@
             "source": "ストレイナー"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業[4204]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iX0Njazlob0M3SUpVVmNBd2ZHTTV5cGpfVy1FQ0o2QjJ5YnQzYUN3Z2RlMlhjSlVBWUNUZ3lVR25QZU5BM1FENC02aWI5OVVjUkF4UUNoZXJSQ3NvTV9PR2dmc0xiY2FkZmpZOA?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業[4204]：訂正自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtck13Mmh2UlhLMkJvWDB3M0xBMW9UeTNVWmNCaUhoWTE2blh6WU94Rjk4VXNNc3BPeHBqZzYxR2JaekNSNDk1OWp2by1aQVp1SmVFcXo2aUxFQzBDRHppaXVQemNFdHQxemtxTA?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "約9割が重視する断熱。健康リスクと睡眠の質低下を招く自宅の寒暖差対策にリフォーム、2026年に展開される新しい補助金制度とは（SUUMOジャーナル） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSVg4TE5TOHVXMnc3UHc0ak1TYnYwNGhJT0NoUjBGV2pSd2FPaUtGOEFzUTNRajFpSGEtdzhQZG43SVM4TU5MWl8yajQtQmE1eFdaOE1fQlIxVjF2cFk5Nl9hal9yNWZWS2NYY0RoUHpLQ0FnUEZ1OWJiS0hWUDQ?oc=5",
@@ -3178,6 +3171,20 @@
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUERtNEFOWHphRXRSeW5VTS1rcm04ZGJDb09UbDcyLTctLUg5YWlwekZHakVqSXZRMEhoZDhpd2Y2ZUIwVnJEODBucFNQUXQ4c1F4dHRzWmRrSlJ5Y09sRFNuNU5UQWZsTUJ5ejdZZzdrUWJQS1hycWRGN0Myd1o5bWlMRlZHTGR6NVlJTHVR?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業[4204]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iX0Njazlob0M3SUpVVmNBd2ZHTTV5cGpfVy1FQ0o2QjJ5YnQzYUN3Z2RlMlhjSlVBWUNUZ3lVR25QZU5BM1FENC02aWI5OVVjUkF4UUNoZXJSQ3NvTV9PR2dmc0xiY2FkZmpZOA?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業[4204]：訂正自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtck13Mmh2UlhLMkJvWDB3M0xBMW9UeTNVWmNCaUhoWTE2blh6WU94Rjk4VXNNc3BPeHBqZzYxR2JaekNSNDk1OWp2by1aQVp1SmVFcXo2aUxFQzBDRHppaXVQemNFdHQxemtxTA?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "misawa_home",
@@ -3411,18 +3418,18 @@
             "source": "SBSマイホームセンター"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "asai、積水化学工業で体験型生理研修を実施 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbEFBenpxMno5T09DQzRyZG53UXVwRmxjN01Vd0lPZTVJMlJlZG1LSU9TR3diUTNyUklpSUNIU29VT3V5cEpXQU80NmpQUzR4eDVUeHhlRXozMVQxYUhQTHl3WVBNZzRGSWc?oc=5",
-            "published": "2025-12-04T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "寒さを感じやすい場所「特にない」3.4％にとどまる 一条工務店調査 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHQVgzZnhpb3pKdU5WeEdyS0d5MjcyVjE3MkhKY05JNHNzME14ZXR3bzZKcXBkcGI3U1VTdDJDV3VrcllaZlA0RnpEVVFfQWk3SGc?oc=5",
             "published": "2025-12-04T17:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "asai、積水化学工業で体験型生理研修を実施 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbEFBenpxMno5T09DQzRyZG53UXVwRmxjN01Vd0lPZTVJMlJlZG1LSU9TR3diUTNyUklpSUNIU29VT3V5cEpXQU80NmpQUzR4eDVUeHhlRXozMVQxYUhQTHl3WVBNZzRGSWc?oc=5",
+            "published": "2025-12-04T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "misawa_home",
@@ -3572,18 +3579,18 @@
             "source": "物流ウィークリー"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "復調半導体市場 各社に聞く（12）積水化学工業執行役員・村松隆氏 新参生かし業容2倍に - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45aWNwLXhsZ2JRRDQyUTJYSTNHd0VpYURlMWZSSUNmem5EUUd6U0N0VXJYUXp4T1lNRi1JdVVtRFFqbGZzWTJ4M19DZUVwTDZtajZOVjltRVZXWTQ?oc=5",
-            "published": "2025-12-01T17:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "「冬の自宅内の寒さ・乾燥対策に関する意識調査 2025」結果発表 冬の寒さが原因で、睡眠の質が下がると感じる人は7割以上。9割以上の人は、住宅を購入・リフォームするなら断熱性や気密性を重視したい。 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZzJDTV8zQnhaWTVxZDFsV0NDcF9PbFdCOU9UQzNtaWl1WWFFNkRDNnh2QXQ1TTkwUWhBRE5va0pRZTkwOXl4ZTRfOHY3dFgycUJlVjlOWEc4M19hcU9aUUFpWEtWaTg0Rmc?oc=5",
             "published": "2025-12-01T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "復調半導体市場 各社に聞く（12）積水化学工業執行役員・村松隆氏 新参生かし業容2倍に - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45aWNwLXhsZ2JRRDQyUTJYSTNHd0VpYURlMWZSSUNmem5EUUd6U0N0VXJYUXp4T1lNRi1JdVVtRFFqbGZzWTJ4M19DZUVwTDZtajZOVjltRVZXWTQ?oc=5",
+            "published": "2025-12-01T17:00:00+09:00",
+            "source": "日刊工業新聞"
         },
         {
             "company_id": "misawa_home",
@@ -3957,18 +3964,18 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業、最終減益 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEJHNHVWZHIwVzZZbmNuWFNWOFg2d0hPazJsVC1HS3JkNmUwTDNlaS1ueDFvdThxRkNCdzBOdFhIcFM2OWJ6Q01LTGFmaGFCS0ttQ2puVW1sdHRQVlp3bTZsNTB6WnhLRjRkMFhVRDg0bUdXclpscXUya0tjVl92U2pOakx2WWo4V0lVRUF0VGczZkNUZHhmU1MxbGJBOGYxanc?oc=5",
-            "published": "2025-11-23T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xTEVVTmhDZTZYRmU0RzRJcTVDSDVCTDM2cXdhQlBOMXp6a3dCUFpkMVFQczhVSGxJejEwc094Wjh6SUtqcGd2MWZpb294MGRPMDJrY25BbWR5VnNRNXo1eF9PcVpZS05meDlLaQ?oc=5",
             "published": "2025-11-23T17:00:00+09:00",
             "source": "家サイト"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業、最終減益 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEJHNHVWZHIwVzZZbmNuWFNWOFg2d0hPazJsVC1HS3JkNmUwTDNlaS1ueDFvdThxRkNCdzBOdFhIcFM2OWJ6Q01LTGFmaGFCS0ttQ2puVW1sdHRQVlp3bTZsNTB6WnhLRjRkMFhVRDg0bUdXclpscXUya0tjVl92U2pOakx2WWo4V0lVRUF0VGczZkNUZHhmU1MxbGJBOGYxanc?oc=5",
+            "published": "2025-11-23T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4090,6 +4097,13 @@
             "source": "新建ハウジング"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店 - 伊賀タウン情報 YOU",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTWg5dEZLSUZCYmp3YUV0MmhBQ3BLdnVKaEt4clRxUk80Q2lEbTRaeDBDSFY5QzZQdzIyYlptRkdtRVFSX3JuSXl5M0pXMTcyQVZuMFd1RjNUVU0?oc=5",
+            "published": "2025-11-19T17:00:00+09:00",
+            "source": "伊賀タウン情報 YOU"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "セキスイハイム - 伊賀タウン情報 YOU",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oZW1vM2tnR3l1N0YzZkFoRnM1WEdMMWlwOWFWaHd5Q0VaUEctWndBTmFLNEMzZXVjczRMNkRRR0ZYck9XYmhwWlA3WjA1Nmcxc1hIcXdDczJVa2M?oc=5",
@@ -4102,13 +4116,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5RV94WDBhOEFlUmxPb3pwSVZPOWVpZjFGZldtOTJTWVlhQlAwbGtYd3BqYkV6Z19wd2l0NUc5enlGbnpPbHZiSDFOYWdyam85MlFrWTZGQ0o5ZDg4UlZiYzNlWFFIbVBfSXc?oc=5",
             "published": "2025-11-19T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店 - 伊賀タウン情報 YOU",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTWg5dEZLSUZCYmp3YUV0MmhBQ3BLdnVKaEt4clRxUk80Q2lEbTRaeDBDSFY5QzZQdzIyYlptRkdtRVFSX3JuSXl5M0pXMTcyQVZuMFd1RjNUVU0?oc=5",
-            "published": "2025-11-19T17:00:00+09:00",
-            "source": "伊賀タウン情報 YOU"
         },
         {
             "company_id": "panasonic_homes",
@@ -4312,13 +4319,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRDYzSEN1bDh2cEhRcmE0ajZ2czM1RHBPdUFMNjNHVnJRZlNCZUxEZHR3U0Vsd2ZhanVyUVJyeENta0dMVXRFTFFRMHBmUkVJV09BeG9wbm1PTVU?oc=5",
             "published": "2025-11-12T17:00:00+09:00",
             "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【銘柄発掘】住友林業、海外売上60%超の木材・住宅総合企業。米国事業と成長戦略を分析 - logmi Finance",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ONnpWY2xCckJzZ3VRd251Z2JEbzlkaXhJS1cyTUh3UGFhNF8td1I0SHJxM2NnZHFHWmp4Vlc2STR5MzkzZHVxUmRDaVlZODd2QVE?oc=5",
-            "published": "2025-11-12T17:00:00+09:00",
-            "source": "logmi Finance"
         },
         {
             "company_id": "misawa_home",
