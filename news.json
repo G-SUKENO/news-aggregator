@@ -1,12 +1,26 @@
 {
-    "generated_at": "2026-01-06T16:46:51.916095+09:00",
+    "generated_at": "2026-01-06T17:58:55.801721+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、福島県大熊町にデータセンターのショールーム 震災復興 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcndReVBnbGszWC02VDlaeEFST2RyMzRITU44TDhIb0FBS2VFWlRGTnFSaFd4TWZoS01hWWpwNWdaV2t6ZGJrWXVQRzB4MUhZbnFtMWFpUnByamtVRV8wREFwTGN3c04zcGFORA?oc=5",
+            "published": "2026-01-06T17:10:33+09:00",
+            "source": "日本経済新聞"
+        },
         {
             "company_id": "daiwa_house",
             "title": "データセンターショールーム「Module DPDC Fukushima」着工 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTXRsSHFreU9lQnFHempNUnlzbl9YLVhQY3FWUXJreEN4ZktnQUllS1hPNUxhM1RoaDhUR0RfZmFDQWh0RGpvRzJ0dU9YeXRVclpOaHBhWDltSXc?oc=5",
             "published": "2026-01-06T15:38:20+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "データセンターショールーム「Module DPDC Fukushima」着工(ニュースレター) - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oY2o5Z1lLZHRJWU5YXy00NERybUJPM0tYU3JfRVpWTmhvRHhuNU9fZGhQcV9fUEExTVViMXNpNjUyYURST3BXdVdNcHMxb1ptUVNDNUJkdm1mR2FMNDQ5ZmZJbXpyZXFDdmc?oc=5",
+            "published": "2026-01-06T15:35:11+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -786,6 +800,13 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "panasonic_homes",
+            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nc0NDazRxRHg5UGNkZGhPR0xZNW9ieDdVTEt3QldJemRqU1lpV1UxT0hoVW9wd1BjbFpxanZEYmp0VzdMMEVKMmdZeVd0X1VybElISDVsenNMSDdwNUVjTFRPYWpOY2xrUTYxUC0wQVYwNWVUX0E?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "ニコニコニュース"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "『一条工務店』『住友林業』を抑えた！【マイホームを建てたいハウスメーカー】堂々の1位に「作りがしっかりとしている」「長期にわたって安心して住める品質」 - TRILL",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
@@ -819,13 +840,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByXzVRY2o0RjRPbHhNLXAtWHdPdVM1Z3VWdGlVX1g2ZXl6RTA5SDBvMHVTSWVaX3Vob0UxMGI5R01sT2tsMXc1elI3N2Q2Wi1zaW1pQTJMalBkODRjejZtRmhlNTFtODRwRm1yUQ?oc=5",
             "published": "2025-12-25T14:30:00+09:00",
             "source": "福島民友新聞社"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - ニコニコニュース",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nc0NDazRxRHg5UGNkZGhPR0xZNW9ieDdVTEt3QldJemRqU1lpV1UxT0hoVW9wd1BjbFpxanZEYmp0VzdMMEVKMmdZeVd0X1VybElISDVsenNMSDdwNUVjTFRPYWpOY2xrUTYxUC0wQVYwNWVUX0E?oc=5",
-            "published": "2025-12-25T13:51:14+09:00",
-            "source": "ニコニコニュース"
         },
         {
             "company_id": "sekisui_house",
@@ -2620,25 +2634,11 @@
             "source": "ｄメニューニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、住友電設のTOB成立 26年3月に買収完了 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10UDdfdXZLRHg3SUtKRzBEM0VicTdXLS1zeDlRd0dielQyX0p1U0V5bnl1S3ZESzI4akRSSUJhaHdWVF9CSjJENXBSOU9lbVY4MzdYQTJ5Um9UeDRUTjExM3R1cDVkV2NlNlY0SA?oc=5",
-            "published": "2025-12-16T17:25:04+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "misawa_home",
             "title": "電気通信大・大末建設・ミサワホーム、床下点検ヘビ型ロボット「ユカダイショウ」を共同開発・実用化 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10WHczWUVTTGNuM2VwU0EyZHlFY01MVW5pTWwzM2VzSVA5c2NqdE1oazdSU0tVN3BHYjlHUXhjM2ttNWladDMzQTNyc0JFSWhEaE14QU45b3BoSHJ1ejUtZ0xXTUN5dGk4TEJCbw?oc=5",
             "published": "2025-12-16T17:05:40+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "岡山県西粟倉村と大和ハウス工業が連携協定書を締結（ニュースレター） - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1razBJNURrQnF1ek1BN29OMUhIb29nbE5uN3hwcUFKNURSZVA4TlVFQlpQY3NyekQwZThJRmhiTmVUNGwyeWZQdTNEZmJiTkhtMU12cGNYYVhKVWFodWhmLWpkRzd4MUM2OHc?oc=5",
-            "published": "2025-12-16T17:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
