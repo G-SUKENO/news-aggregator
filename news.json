@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-08T07:44:43.748636+09:00",
+    "generated_at": "2026-01-08T08:36:32.675610+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -934,6 +934,13 @@
         },
         {
             "company_id": "panasonic_homes",
+            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - tv-tokyo.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qeVNESDE2d2k3QVFzY1BtQnVCTHI1Q0E0LWxHNUNKelRMWDF6VjFwNUk2UEhrbDZOc1l2dWVRajVaTmhEVk5COTBQZnFpVmtTc0Q2YV9EcEFyRjl2RXU5S0J1YUVIY2tOMDQ1TQ?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "tv-tokyo.co.jp"
+        },
+        {
+            "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU5Kb28yUl9QQV9KUkF0WmNOSjN2ZDladUdrVW84YnAtTExOaEgwRl9Gd1ZycE05a3R4SGdUcnJDOEJOcm9hWXpVVGlBTGZyV042NnVKVEdwV28?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
@@ -1606,17 +1613,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業、注文住宅の打ち合わせプラットフォームを全支店に導入 営業／設計プロセス効率化：製品動向 - ITmedia",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RHJVXzVfYWQyU3lEdGtYRTZoNFhCbHJiX1AtTXBXcTRRS3U3QWZWV3lISFQ4Vl81S1VRcTZ4SDhxanNvTHJuT1JJYmozRlpSVkJTVG5IWGp6MGtUTDhfZWpCSWJzVk5jUm5sWg?oc=5",
-            "published": "2025-12-22T17:00:00+09:00",
-            "source": "ITmedia"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "別子の山 住友林業会長・市川晃 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VG5hTDQyZVI0WjJQU2t6S2pDa1B6bTZmZUZKNUdGaGJWTnpfZmJEby1sWkZJV29OSnNzSUtnTi1HWHpfdmI2V0I4OVAwN0tvNnJoNk1MT1VwTHgzOUR6NFNHcnJFcWU3X1lZNA?oc=5",
             "published": "2025-12-22T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、注文住宅の打ち合わせプラットフォームを全支店に導入 営業／設計プロセス効率化：製品動向 - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RHJVXzVfYWQyU3lEdGtYRTZoNFhCbHJiX1AtTXBXcTRRS3U3QWZWV3lISFQ4Vl81S1VRcTZ4SDhxanNvTHJuT1JJYmozRlpSVkJTVG5IWGp6MGtUTDhfZWpCSWJzVk5jUm5sWg?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "ITmedia"
         },
         {
             "company_id": "mitsui_home",
@@ -2719,7 +2726,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "防犯や安全啓発へ 県警にグッズ寄贈 - 下野新聞社",
+            "title": "防犯や安全啓発へ 県警にグッズ寄贈 栃木セキスイハイム｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TFd6Ny1lSjZOR0RkYTE4ODlHcWIxQzRXdXN6eVpXUjR3b1htQmFZS1RUeGxVRzY1ZTh1VUROTU1UVjZNZGFKdlkwc1Vxb2MtUnZFd2Z3ald6Ylk?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "下野新聞社"
@@ -4452,13 +4459,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VYnZpeDBHUjBSdmxWWHFhajZERnRKbml5amNhUVZtLWNvRGhkaTdKV1gwX2JVVnNMREFyM3VIbW5PWXoxX3U2dUg5TVlDR2RtNVZRdTVYR3RETVFreU9hQ2NaNnI?oc=5",
             "published": "2025-11-08T17:00:00",
             "source": "タウンニュース"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - tv-tokyo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qeVNESDE2d2k3QVFzY1BtQnVCTHI1Q0E0LWxHNUNKelRMWDF6VjFwNUk2UEhrbDZOc1l2dWVRajVaTmhEVk5COTBQZnFpVmtTc0Q2YV9EcEFyRjl2RXU5S0J1YUVIY2tOMDQ1TQ?oc=5",
-            "published": "2025-11-08T14:04:31+09:00",
-            "source": "tv-tokyo.co.jp"
         },
         {
             "company_id": "panasonic_homes",
