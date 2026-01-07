@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-07T14:03:23.670005+09:00",
+    "generated_at": "2026-01-07T14:51:21.327291+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -128,6 +128,13 @@
             "source": "住宅産業新聞"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "伊藤忠32万円、大和ハウス35万円、ファストリ37万円…「初任給引き上げラッシュ」を手放しで称賛できないワケ - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQUNfTi13b2p4Vl92U2V3WE9uRGpKaHM5T1Buei03YTFhZHRBVGJoeU1way1qaFVrcV9sbm1uME1TQlIzLVVDcUhwb1k?oc=5",
+            "published": "2026-01-06T07:00:00+09:00",
+            "source": "ダイヤモンド・オンライン"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "約25年前の会計システムを刷新 S/4HANAで経営高度化狙う - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1WGQ0T3l6cmt4eU50ZHBqWldfVTJuTzdjenY2MjhfVXBJOHNqYTdReTZraUxyZ3A5SzBHWWFEREt3ZTEzY1FidlIxVHY4SjJ5akYtcVU5UF9vWmExMi1ZVlFUSXVtRTRHWGtfRDkzX19Edw?oc=5",
@@ -252,6 +259,13 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdmd4ZURzLXBfWFVrTkYtV0M4blRvTXowcW5LTkcwVHMtdy11anNjc0ZjZmlJN0Nfajl0Q2NqaG1FQ0dRdG1faW5sb01NMmc?oc=5",
             "published": "2026-01-05T09:28:06+09:00",
             "source": "熊本日日新聞社"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "【売買】紀尾井町の土地581m2を売却、積水ハウス不動産 - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GcnpjanZzVFVyRWJKdUVMSXREeU1VRm9FeEJGclBvSkl5Yk1qdDNNdHFjT2tIYTE4ZThZdzhXR0ctc3pUVkNEeEtlYlY3TlBRa1pXcm84R0JtVUl3QlhXZ1h3?oc=5",
+            "published": "2026-01-05T05:46:00+09:00",
+            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "sekisui_heim",
@@ -2228,6 +2242,13 @@
             "source": "re-port.net"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、KUMA LAB・東京大学と産学協働で 大阪・関西万博 日本政府館の解体材再利用に取り組む「旅するCLT」発表 サーキュラーエコノミーへの移行を見据え、建材の再利用を検証 - AGARA 紀伊民報",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhaHFjdVRXWU44Vnduc1B1LW5sRUhpbndsZFU5ZFB3RFFjMkN3RG1VU1RQX3Q2bUZHeDFwRTE0WEdoeFcxTFp3bFZvOVJUUGs?oc=5",
+            "published": "2025-12-18T18:52:34+09:00",
+            "source": "AGARA 紀伊民報"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "モジュールＤＣ発売 短納期、効率化を追求 大和ハウス - kankyo-news.co.jp",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90SFozczdrTXBvMUFWUGh4YXp4dWZIY3A1UlJVb21CQWJyMXBCX0JpWEhUMnVUSC11M1pXeVZpcVZOcmo3SDY4ZlE5b1U1TGRzTk16MGNtdVFWMGVFb2ZvVE83cTlGT2ZLMDA2RzdtUmt5RkJWcFhma2pudw?oc=5",
@@ -2375,13 +2396,6 @@
             "source": "カーゴニュースオンライン"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス等と共同で万博CLTの再利用 CLT Reuse Project from Expo 2025 with Sekisui House etc. - t.u-tokyo.ac.jp",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03c01SZ0FwaUxfOVVMYnM5b1F3UkhCOExDOGZYNEFFR25aWjdPRXNJQ0JqUk5iLUduSFBWSHU2TUNMNGJlOV9BeWduN3hhM09EZHJtR3VDTkRmTW9TcTdkVkRfN1VTek1iMEp3aGxIQkXSAXBBVV95cUxNN3NNUmdBcGlMXzlVTGJzOW9Rd1JIQjhMQzhmWDRBRUduWlo3T0VzSUNCalJOYi1HbkhQVkh1Nk1DTDRiZTlfQXlnbjd4YTNPRGRybUd1Q05EZk1vU3E3ZFZEXzdVU3pNYjBKd2hsSEJF?oc=5",
-            "published": "2025-12-18T05:01:04+09:00",
-            "source": "t.u-tokyo.ac.jp"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "セキスイハイム東海、一戸建て「スマートホーム」の販売を開始：ニュース - 中日BIZナビ",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oNWhKVjBvQ0lxNFBIZGx4Yl9vOEFNd1RBWHQ0OFlFMUxBUUVrOWhOdTlKQ1VERjZwOW44dE1oVTJhUi0xTkFldFc1UFVrSC1jajJuYnJjLXlleVVsUlo4?oc=5",
@@ -2422,13 +2436,6 @@
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41cHRJY24tek95YjZqZHFnQjZ3SlUxZEdQVmlWUmxwLU5HcjFGYzdwTGlpcGdYck1Ybm5XZ3FGODRKTTRWZmkwTkhzSmpzR0Q1S3g2UnVGUlR2cUdmakwyYnRJR3hyNml2SEhNWHFHRTNxZ9IBckFVX3lxTE41cHRJY24tek95YjZqZHFnQjZ3SlUxZEdQVmlWUmxwLU5HcjFGYzdwTGlpcGdYck1Ybm5XZ3FGODRKTTRWZmkwTkhzSmpzR0Q1S3g2UnVGUlR2cUdmakwyYnRJR3hyNml2SEhNWHFHRTNxZw?oc=5",
             "published": "2025-12-17T17:48:00+09:00",
             "source": "ｄメニューニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスの26年1月期第3四半期連結業績=国内戸建住宅が堅調、国際事業が大幅減益に - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sOWttWDJURlNYWXZGSmVEblluaU14M1VoaHJjaVBFakwwOFJwNFNXX2pxVmNmR3p5WHUwcGdMRFZxMlFzZ08yRkREZUzSAUxBVV95cUxPbDlrbVgyVEZTWFl2RkplRG5ZbmlNeDNVaGhyY2lQRWpMMDhScDRTV19qcVZjZkd6eVh1MHBnTERWcTJRc2dPMkZERGVM?oc=5",
-            "published": "2025-12-17T17:01:56+09:00",
-            "source": "住宅産業新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -2674,13 +2681,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ST1ZjZ1RVa2U5NGRHYlE5dGpLVmZXYy1BS2lsbHdlZm00Vmk3c0dhVkhZM2dJZlYwZW1BYnlXdjR2V0ZEX0xJbDVkYUd2LVpWM0E?oc=5",
             "published": "2025-12-16T18:00:32+09:00",
             "source": "にいがた速報"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、住友電設TOB成立 計2920億円で完全子会社化（時事通信） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHQmlTSVFzTExoMVRFZWRXN21tSkx4cjNTRWJLTkREU3hQRVlZZGVKSnB3WUtTbkJMbnRydlo5YW04ZkhHM2otaHBGQkZCejllbmQ1V2lZNHRpYmFJOWgtWGw2S3ZrQmhYek1tQjdTQ0R6U01rbUg5dTE2azhOSTA?oc=5",
-            "published": "2025-12-16T17:41:59+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "misawa_home",
@@ -4028,7 +4028,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "令和7年度「東京エコビルダーズアワード」で、3つの賞（4部門）を受賞 - PR TIMES",
+            "title": "令和7年度「東京エコビルダーズアワード」で、3つの賞（4部門）を受賞 | パナソニック ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NGFhQ0p6b2FKM1gtdmVvc25XNEN3cVpfd1luRTE3Z1RJOGVnY3luSzJCSV9EUGdXeFdsdHQtNFdVRjBpUmVueHZZaFRWa1dZdkIwbGxXbjJYbnZYQnBsb18tdzdEUjJjR3c?oc=5",
             "published": "2025-11-21T17:00:00+09:00",
             "source": "PR TIMES"
