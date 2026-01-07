@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-07T12:56:09.491193+09:00",
+    "generated_at": "2026-01-07T14:03:23.670005+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業 九条駅近くにマンション新築 - digital.kentsu.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVNTMjlraVVHUVBma3BDUXdacVBmRVB4QmFWYTVUSFlhbzIzWm1jY2ljU0hpLXU5Z2pTSmRGelVnbE1qMV9RWWFXc2UxcnczWnFhRFBjTUpQUnR3TkhwNTl1R1pmM2xJY0tINXRHWXQyRkpGVjNOcXpKTnpKMmpsRg?oc=5",
+            "published": "2026-01-07T13:00:00+09:00",
+            "source": "digital.kentsu.co.jp"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業、RUTILEA、タイズAIの3社、福島県大熊町にデータセンターショールーム「Module DPDC Fukushima」を建設 - クラウド Watch",
@@ -17,10 +24,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナホーム静岡で「いい生活Square」「いい生活賃貸クラウド」を採用 | 鹿児島・九州プレスリリース | 生活情報 | くらし - 373news.com",
+            "title": "パナホーム静岡で「いい生活Square」「いい生活賃貸クラウド」を採用 | 鹿児島・九州プレスリリース | 生活情報 | くらし - 南日本新聞",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaFJYUFUzMFA5SXFXYkdlYlZaQkx2WmtyNm5xb2J2d3VBSTdPNkNJZHJXNU9SME8waUpQdXBYMnlOYjlMUzdVQUNPSXpZeExNVzZrWU1xNDgtbzZ6RzhrYzk1dmlkNWJldGltS2g2YmZsYXlsemlXdUZmVEhzYWxFTg?oc=5",
             "published": "2026-01-07T00:02:59+09:00",
-            "source": "373news.com"
+            "source": "南日本新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -273,6 +280,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52QkxOenhSa2FlRTZSQjNOSDFYRVhxNEFDRk85Y1BqQzJFUGNSdGwwUmpfR3pXX1dKSlVKT2JzN0R4a1NxdHE2aEVtb2E1U2ZqeUE?oc=5",
             "published": "2026-01-04T11:25:13+09:00",
             "source": "SBSマイホームセンター"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "500万円以上のリフォームを行った利用者おすすめのフルリフォーム、1位は？ - AGARA 紀伊民報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12blN6bUlDQ21yWmxfM3FGdnR3LVozdURxRHpJXzZabktsamFXdVRlWFZOWmtpV0kwVzlyM0R1VXdoQlN5T0JWV1lySHVaVkhKdkl1T0RJc1FOR19UTEE?oc=5",
+            "published": "2026-01-04T10:00:00+09:00",
+            "source": "AGARA 紀伊民報"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2669,13 +2683,6 @@
             "source": "Yahoo!ニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、住友電設ＴＯＢ成立 計２９２０億円で完全子会社化 - 時事ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OM0RwcFFoTVBUWFFXTjZVN0s0XzlkeVF6Z0g1dXhHSWJqVUEyVkVndFdSOE9vQm5ObnhkWWVZVHQtNVJ5X0R5dzNmT0gySDF0bHNlemVPdHBlOG9KSThoWjRrTQ?oc=5",
-            "published": "2025-12-16T17:41:00+09:00",
-            "source": "時事ドットコム"
-        },
-        {
             "company_id": "misawa_home",
             "title": "電気通信大・大末建設・ミサワホーム、床下点検ヘビ型ロボット「ユカダイショウ」を共同開発・実用化 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10WHczWUVTTGNuM2VwU0EyZHlFY01MVW5pTWwzM2VzSVA5c2NqdE1oazdSU0tVN3BHYjlHUXhjM2ttNWladDMzQTNyc0JFSWhEaE14QU45b3BoSHJ1ejUtZ0xXTUN5dGk4TEJCbw?oc=5",
@@ -4319,13 +4326,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMGM0eFdVN1ZKNmh1OEg0MDllQnh0NEhCckU2elRvUkx0WUlJWTF2d2hMZ01WdUNmclZhSnJHbHgyTHB5c1hPU1BnemF0aEtVeEd1eXpn?oc=5",
             "published": "2025-11-14T17:00:00",
             "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、「Germoglio(ジェルモーリオ) 洗面化粧台」を発売 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMEExclVUMEJFMGNmbllOVmt3V3NkZjFUYy1zX0kzbDVjYkdfRkRxWFZmNnZXd3pvVkFTeXFvalZzVGYyYWI0WXJNQU1kMUhpOW9qM3BiM3VLQ0lNbGctdjhMUGhqeTBnX3k1MA?oc=5",
-            "published": "2025-11-14T17:00:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "hebel_haus",
