@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-07T16:46:47.306049+09:00",
+    "generated_at": "2026-01-07T18:00:44.318630+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -461,6 +461,13 @@
             "title": "若手の成長で着工戸数大幅増 住友林業株式会社 岐阜支店長 副島洋樹氏 - 岐阜新聞デジタル",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYNlRRZkVnNXhRTWtqdmdocDMxTTlvRW5jTEJZcHZhRGVhbng0OEJxemVjRlZ6YkdsWWVZQk5DUlhiclMzRUdrR0dySzJMZ1JYS3JxOWR3?oc=5",
             "published": "2025-12-31T19:14:00+09:00",
+            "source": "岐阜新聞デジタル"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "新たな価値創造に向けて変革 積水ハウス株式会社 岐阜支店支店長 田中政考氏 - 岐阜新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTFJ3QTNrV1hpT2xvUzQwRTIyR0haQnZXazNfOTdDZmNKWVluS1luSjlld3VRbFVqa1FDTDFzRnNzaDUzUFp3TGFzX3huMHN3eFZYbm93?oc=5",
+            "published": "2025-12-31T19:10:00+09:00",
             "source": "岐阜新聞デジタル"
         },
         {
@@ -2306,15 +2313,15 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス、大阪万博「日本館」の建材を再利用 2027年以降 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnFhQi11eGt4T25Yd1NmRUFvemlaYXFjMlEtLVh0WlB1TmVBZ21RRS1oWWVCUW9kankyal9nWUllSVM2bXhfWEwyRWp4blBtdWJ5d3dES2hSTzZwRXFza0drNldxd3gtT1JFYXVGMkVpOXI0cER3OEFRTUpINGFmSGVrZVlUb01qQ3pyclVmdVpfR0xNNUVsVGtqaDdxTW1mOHN2X3Vra1Q?oc=5",
+            "title": "積水ハウス、KUMA LAB・東大と産学協働で大阪・関西万博 日本政府館の解体材再利用に取り組む「旅するCLT」を発表 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEoweHZCTHNHUzF2WlRVRWtMZVJQUkg2N0paZjc4bnh2NmNKWHRuZHZLRzkwVnlheGJZVl9PYVN3em1jaUVCclBnb2VTSUVsSWlzeHJKendjLWJWbk9jZ1pMSUMyeDNDVWh5TjRqQ2FvaGt5ZFg2emtBRE5uQ0FWbng5eVhxYm1haEIzMXo4TUVybXRCSUtVd0Z1d0hHQVotSTFMbXVlTmV4QQ?oc=5",
             "published": "2025-12-18T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス、KUMA LAB・東大と産学協働で大阪・関西万博 日本政府館の解体材再利用に取り組む「旅するCLT」を発表 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEoweHZCTHNHUzF2WlRVRWtMZVJQUkg2N0paZjc4bnh2NmNKWHRuZHZLRzkwVnlheGJZVl9PYVN3em1jaUVCclBnb2VTSUVsSWlzeHJKendjLWJWbk9jZ1pMSUMyeDNDVWh5TjRqQ2FvaGt5ZFg2emtBRE5uQ0FWbng5eVhxYm1haEIzMXo4TUVybXRCSUtVd0Z1d0hHQVotSTFMbXVlTmV4QQ?oc=5",
+            "title": "積水ハウス、大阪万博「日本館」の建材を再利用 2027年以降 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnFhQi11eGt4T25Yd1NmRUFvemlaYXFjMlEtLVh0WlB1TmVBZ21RRS1oWWVCUW9kankyal9nWUllSVM2bXhfWEwyRWp4blBtdWJ5d3dES2hSTzZwRXFza0drNldxd3gtT1JFYXVGMkVpOXI0cER3OEFRTUpINGFmSGVrZVlUb01qQ3pyclVmdVpfR0xNNUVsVGtqaDdxTW1mOHN2X3Vra1Q?oc=5",
             "published": "2025-12-18T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -2359,13 +2366,6 @@
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQ3dUZkNiWmtzRXVuX3dxZ0xJbW9BUDV0cmRLSm1xbi1ZUWxEdW43UDJFTk9NVVhoUnNmN3ExNklBSVNOU3A4NDFBUjZvdDFNZDNaNFJhTEhTUV93VE91VjQ4eGZaMjBOV3EyYTBBQXAxVFlHb2YwT1RB?oc=5",
             "published": "2025-12-18T14:40:50+09:00",
             "source": "サードニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスと遠州鉄道が共同建築事業―国内・良質住宅ストック形成を推進 - 不動産経済オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DVXJiUktKNFpCbVZoRXg4SnpmRjVCeXlNbGhIVm56R2FCTXZKWGkyYUJHQ244MHI2YkFHeFVLTTFvMmFoWVA4RWlyTQ?oc=5",
-            "published": "2025-12-18T14:09:36+09:00",
-            "source": "不動産経済オンライン"
         },
         {
             "company_id": "mitsui_home",
@@ -6135,6 +6135,13 @@
         },
         {
             "company_id": "panasonic_homes",
+            "title": "本社北側に建設中の新ショールームで上棟式・・・松栄パナホーム熊本｜くま経 フォトレポート - kumamoto-keizai.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUVJtUUdsZ0VwU3VYYlJrTDdtcUFiRVpOSnBqOGp1TDZFQ0RCVUZPc29Zek5VdF9OSkpuSWNUUUdoek5mSE9UUWdIWWZTRkpaT0lNcU9jbHFiMktTR2VMVEtDbUVtSlA2WXVxQThobnBKcFd2NW13WFpHcVFsdm1raUZKRExrZjlISlV3dmVEY1lwdGRObEVZZldmUWMxb093VTVvRENYTkZjcXRZdDZRWFFKdTM5bk40MkxPa2xsVENxUWxYbXBLdFgyM0QyZl9rVXM3Y2cyRVNNanBuTVRkaDdhQWtOdFhRbkp4dlhSZHM?oc=5",
+            "published": "2025-05-29T16:00:00+09:00",
+            "source": "kumamoto-keizai.co.jp"
+        },
+        {
+            "company_id": "panasonic_homes",
             "title": "【鎌倉市】コンパスステイ、パナソニックホームズ施工の由比ヶ浜オーシャンビュー宿泊施設「コンドステイ鎌倉 坂の下 希」の運営開始 - 湘南人",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LTEtQVlJhaE5fTUV1bXd3MU9YOEhhcUQ0ekwwSzhrUm9LcVpLV1E4ZTVPelo2ZWZDVk9iRi1IY1llbnRINHZCdEtMWS1vdEV5UGU0UUlPNFY5dDlrYnlianFBZWtXUkduRFBqMkNLVFU?oc=5",
             "published": "2025-05-28T16:00:00",
@@ -6188,13 +6195,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzNkN6SzNtMjVGRW1sWVMxYlRsdXduTTJrVm1KdUVISW9BbS14LXNnV1hDZjk0dkZNa2dqejRZOUZJc3dTTlN1RU9Mc0dhVUdOVUR6ZQ?oc=5",
             "published": "2025-05-17T16:00:00",
             "source": "joetsutj.com"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ、鉄骨系工業化住宅「カサート」に1・5階モデル=ワンフロアの暮らしやすさに「ひと部屋プラス」の提案強化 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3aVdndDNoa1RJcnlIdmU4N3AyY3M1Z2xUREtIU1NUZTlmR20zS3NwV29tU1hwZ0Q2eDJuZ0VDck9tOG12Ym9KaDRNVEzSAUxBVV95cUxQN2lXZ3QzaGtUSXJ5SHZlODdwMmNzNWdsVERLSFNTVGU5ZkdtM0tzcFdvbVNYcGdENngybmdFQ3JPbThtdmJvSmg0TVRM?oc=5",
-            "published": "2025-05-13T16:00:00",
-            "source": "住宅産業新聞"
         },
         {
             "company_id": "ichijo_komuten",
