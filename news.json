@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-09T00:52:43.452481+09:00",
+    "generated_at": "2026-01-09T02:02:08.092527+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -255,10 +255,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業 九条駅近くにマンション新築 - 建通新聞",
+            "title": "大和ハウス工業 九条駅近くにマンション新築 - digital.kentsu.co.jp",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVNTMjlraVVHUVBma3BDUXdacVBmRVB4QmFWYTVUSFlhbzIzWm1jY2ljU0hpLXU5Z2pTSmRGelVnbE1qMV9RWWFXc2UxcnczWnFhRFBjTUpQUnR3TkhwNTl1R1pmM2xJY0tINXRHWXQyRkpGVjNOcXpKTnpKMmpsRg?oc=5",
             "published": "2026-01-07T13:00:00+09:00",
-            "source": "建通新聞"
+            "source": "digital.kentsu.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -630,6 +630,13 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xLXdKalkyaHRsdGpkdFRYc3AwQjFoVWxfZ1dNZ3ZySHRPVmxqb2xVOWJtNjk5Vk9zRm4yNXJzd2ZmX3A4VW5LaFNuUzBaLTRuS1J0YUgtaGZFV0U?oc=5",
             "published": "2026-01-04T01:54:49+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "セキュレア高松伏石中央公園南 (分譲住宅)【ダイワハウス】 （現地レポート） - SUUMO",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTXFoYklzd0pCSUV2ZDhPeUthem5vUnQwcC05MnpYTkp3dFlrV3Bmc0JsYWlfRS02MDMyOTlOek1RODFRYmd4MDZFUzAxdlV5ZlVVSGdodFZndDhqRGRyb1dKbEVuTFhob1dLck5wUEdJQTI2?oc=5",
+            "published": "2026-01-02T23:00:32+09:00",
+            "source": "SUUMO"
         },
         {
             "company_id": "daiwa_house",
@@ -2816,13 +2823,6 @@
             "source": "千葉テレビ放送"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスが新築収益マンション『SOLASIA residence 千里丘』を竣工 - サードニュース",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tUDVycGQ1MWZxbUhmWkVLVEZ1bUN5UWtLdGxPRHczZlRMZXEtYmhfS0lyeWh0NDVCVEtQMU5mb0JNa2lWd1doRkkwU1RSNWdMYUtIVGJjWVVfTzh5MjVteGpBVkVWQkxJdFJCbEd3QjZOWFJDVDJ1dHRR?oc=5",
-            "published": "2025-12-17T11:08:12+09:00",
-            "source": "サードニュース"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "東京建物と住友林業、米国ロス近郊ロングビーチで賃貸住宅開発に参画 - 不動産経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9feGh5bHdicWJnS2VtcERnVlZrSnU4QklmcGhmMkxna1J1NVhESkQ3c2U1NFJZZXpoVG16cW5JcE5PbGxPLXo1aExYdw?oc=5",
@@ -2922,7 +2922,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "防犯や安全啓発へ 県警にグッズ寄贈 栃木セキスイハイム｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
+            "title": "防犯や安全啓発へ 県警にグッズ寄贈 - 下野新聞社",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TFd6Ny1lSjZOR0RkYTE4ODlHcWIxQzRXdXN6eVpXUjR3b1htQmFZS1RUeGxVRzY1ZTh1VUROTU1UVjZNZGFKdlkwc1Vxb2MtUnZFd2Z3ald6Ylk?oc=5",
             "published": "2025-12-16T17:00:00+09:00",
             "source": "下野新聞社"
@@ -3517,17 +3517,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -4518,7 +4518,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "『パークナードテラス結の宙(ゆいのそら)』沖縄各地で本格展開を開始 | パナソニック ホームズ株式会社のプレスリリース - PR TIMES",
+            "title": "『パークナードテラス結の宙(ゆいのそら)』沖縄各地で本格展開を開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZmdDM0xfYnBTakhKMjhhbkZQLWVYbVpyUVdqQXZpWlNqN3plYnFLbGV4MFJNUjBrbnU3S3ZCWWlOMXZJSS1yMFFwZlNOSnIyb3NSQ1huTVotSGN2UEtRbDNINV9uQWpfRlE?oc=5",
             "published": "2025-11-07T17:00:00+09:00",
             "source": "PR TIMES"
