@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-09T20:34:20.606726+09:00",
+    "generated_at": "2026-01-09T22:55:51.204162+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -56,6 +56,13 @@
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xN2pxUGxIVWtOQVQxYkFTZnpHcW04enhwRXBZUWhjazcxQWtKREVsbFpsUERZam5aTXFUNk8ycHNybVV5NVhfSUJCUnZNclhOenhydGhUdXJoa29nRE5HN3duVDQtNzdGRjRhaE9NUVhwNWVCN3JMcFRB?oc=5",
             "published": "2026-01-09T10:16:25+09:00",
             "source": "サードニュース"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林が反発、熊谷組株の売却を好感(ウエルスアドバイザー) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXBMdVd3NmtIU01vTlA4TDRrekU3aHU2anM3WGpDTjVLTGdUdUFzUExhODUwTTJhTkFrWmdQZVBTWVJkMmViZXF5OGdBODU5UmdzS3Jic3FxY2lUMmN3WHdIRWZ6c2x6MW5HM1FxLVlNTFg2SDJranFWd2h5S1lOVFcwVFFoRDg?oc=5",
+            "published": "2026-01-09T10:07:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3726,13 +3733,6 @@
             "source": "ハフポスト"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "万博で子供たちが植樹したヒノキの苗、すくすく…万博ゆかりの「いのちの森」へ - 読売新聞オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YaldHc1RoeVlLUmM3SnU3bU9wOUxBdmdCdUpaUEVockpZS3hXMVlreXN0ODVTa1lqTmkyMU1tMTJ4MDBGSnREN3ozcDFjV1NiUVo0SE5DaFdMZm52VzBuNnpoTVM3Zw?oc=5",
-            "published": "2025-12-05T17:00:00+09:00",
-            "source": "読売新聞オンライン"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "二世帯住宅発売から50年 築20年以上 二世帯同居調査 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RnJXLTlkalc2RmVidUV3amhVbUNWYmlGQ0RfVEc0NmZRT3ZnNEJFSndsR0M3eFE5N052RmdVcGpKdVZ2R3A1T3FnOElESmxNbnJPU21wMlVXWE5wby0xNEpkbTRCMzdTS3c?oc=5",
@@ -5589,17 +5589,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "panasonic_homes",
@@ -5680,17 +5680,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニック ホームズ、OB訪問にAIを活用 - リフォーム産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkdxWC1NZndaYzZzUzFrazFGVVlKenNTTkwyM2NDSXZWOFBLLUx4dHlDeUY3eHp6WWZUTWJkeWZaOXZKSTdpLW5aUFRPbnFjR2NpeENyV3RfSlRtQlJwd0tRRXllZG8?oc=5",
-            "published": "2025-07-28T16:00:00+09:00",
-            "source": "リフォーム産業新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "兵庫県宝塚市『中山台ニュータウン』において 公民連携による付加価値創出型ニュータウン再生事業をスタート／パナソニック ホームズ株式会社 - エリマネこ",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSUI4cEFUY05SVTZaay1qaERqQm84WDd6WVJkZVhMSTRzN0ZYcERuekJJMzZUbC04NUJDT1pOZUEyeWRHRG83b0FBWjlKT3VtTEE?oc=5",
             "published": "2025-07-28T16:00:00+09:00",
             "source": "エリマネこ"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニック ホームズ、OB訪問にAIを活用 - リフォーム産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkdxWC1NZndaYzZzUzFrazFGVVlKenNTTkwyM2NDSXZWOFBLLUx4dHlDeUY3eHp6WWZUTWJkeWZaOXZKSTdpLW5aUFRPbnFjR2NpeENyV3RfSlRtQlJwd0tRRXllZG8?oc=5",
+            "published": "2025-07-28T16:00:00+09:00",
+            "source": "リフォーム産業新聞"
         },
         {
             "company_id": "panasonic_homes",
