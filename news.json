@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-10T17:50:26.464198+09:00",
+    "generated_at": "2026-01-10T18:42:42.770475+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "【売買】紀尾井町の土地581m2を売却、積水ハウス不動産 - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GcnpjanZzVFVyRWJKdUVMSXREeU1VRm9FeEJGclBvSkl5Yk1qdDNNdHFjT2tIYTE4ZThZdzhXR0ctc3pUVkNEeEtlYlY3TlBRa1pXcm84R0JtVUl3QlhXZ1h3?oc=5",
+            "published": "2026-01-10T18:00:43+09:00",
+            "source": "日経不動産マーケット情報"
+        },
         {
             "company_id": "panasonic_homes",
             "title": "パナホーム山梨が「新春家楽デー」【経済／山梨】 - sannichi.co.jp",
@@ -42,13 +49,6 @@
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96eEhGTlE1OG1kT3NyeTIxVjI2eW5UU2FaczJyM01ib2lUR29ueWt1N05mNGtHejRXUE1qTnZWZHNwblJJdWlFUmdMYXcwYkY4OVdEckhUWQ?oc=5",
             "published": "2026-01-09T18:45:00+09:00",
             "source": "四季報オンライン"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【売買】紀尾井町の土地581m2を売却、積水ハウス不動産 - 日経不動産マーケット情報",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GcnpjanZzVFVyRWJKdUVMSXREeU1VRm9FeEJGclBvSkl5Yk1qdDNNdHFjT2tIYTE4ZThZdzhXR0ctc3pUVkNEeEtlYlY3TlBRa1pXcm84R0JtVUl3QlhXZ1h3?oc=5",
-            "published": "2026-01-09T18:01:34+09:00",
-            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "daiwa_house",
@@ -1241,6 +1241,13 @@
             "source": "AdverTimes.（アドタイ） by 宣伝会議"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスが万博日本館のCLT再利用、KUMA LAB・東大と建築物に - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSlVXUnJGTkZlY2Fqd3htZ1AzSzNxWHZQMW11S3lkTG1hZEhycHpxSUZKeFlGWVBHZWp2bGZaVDdWRzItMGVnTXJ1S1ZLMzhfMjlwZ1lUMjYxTHptMFBNeGQwMTlFZU0?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "AItegrity、積算業務でAI活用 パナソニック ホームズで業務改革検討 - Plus Web3",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBva1VtV3lMRGZkUnhRYUQydUN0Y0NUZ0lnSklpZVlJdWREaXhrdXBDUGlaaThyeFZiU2hXMm54MXlhQWdTbURxamlnclVqYzRpbVBic1dpOEk1bURWb2c?oc=5",
@@ -1253,13 +1260,6 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUelduRWVBQ0gzQ2syVDNnZy1meGlUV2ZGeTZxT3ZoX1RYUWozemoxOGlleWRhT3YtT1FjbVZCM0FPZm1DMmhvRlI0X2pCbHoya0tIbENESWx3RGdXbGVlcWxKSWpYMmt2dzBPUzZB?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスが万博日本館のCLT再利用、KUMA LAB・東大と建築物に - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSlVXUnJGTkZlY2Fqd3htZ1AzSzNxWHZQMW11S3lkTG1hZEhycHpxSUZKeFlGWVBHZWp2bGZaVDdWRzItMGVnTXJ1S1ZLMzhfMjlwZ1lUMjYxTHptMFBNeGQwMTlFZU0?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
@@ -1430,6 +1430,20 @@
             "source": "タウンニュース"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、「外部収納調査」の結果を発表 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84YmtmR1N4Q1E3dTFBNUxlYXlIckZjWmFVOWJHdE5tWjNQRUZrUE1iMDYwS3pUcG9obS1STVdCbmFPeDVyTldiWGUxZmNEQVZBVEJPR1VINDRlX1FRSXNWVnlndW5wQmFBaXFEeA?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、「外部収納調査」の結果を発表 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzZzV012dktDd3Q5c2UzMEYzcnNLXzRLenc2dnNTTERjM21BZzFORVFtOEV0N3FaOS16WmQyZ2Q5SFg3WXRWTHBpcDBzaFpLZzk1MEtMdFg3LWQ3a01uTDBHRWRubktGN0xscGN6UFhHMmotUGxOblVZUzVfME16N3p2eXEwblp4UFpMZEZrV2ZiOE1wQlJXZ001V1VQbXpVY2ZaYWE0UC1MQQ?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - tv-tokyo.co.jp",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qeVNESDE2d2k3QVFzY1BtQnVCTHI1Q0E0LWxHNUNKelRMWDF6VjFwNUk2UEhrbDZOc1l2dWVRajVaTmhEVk5COTBQZnFpVmtTc0Q2YV9EcEFyRjl2RXU5S0J1YUVIY2tOMDQ1TQ?oc=5",
@@ -1470,20 +1484,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "TRILL"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、「外部収納調査」の結果を発表 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84YmtmR1N4Q1E3dTFBNUxlYXlIckZjWmFVOWJHdE5tWjNQRUZrUE1iMDYwS3pUcG9obS1STVdCbmFPeDVyTldiWGUxZmNEQVZBVEJPR1VINDRlX1FRSXNWVnlndW5wQmFBaXFEeA?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、「外部収納調査」の結果を発表 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzZzV012dktDd3Q5c2UzMEYzcnNLXzRLenc2dnNTTERjM21BZzFORVFtOEV0N3FaOS16WmQyZ2Q5SFg3WXRWTHBpcDBzaFpLZzk1MEtMdFg3LWQ3a01uTDBHRWRubktGN0xscGN6UFhHMmotUGxOblVZUzVfME16N3p2eXEwblp4UFpMZEZrV2ZiOE1wQlJXZ001V1VQbXpVY2ZaYWE0UC1MQQ?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -2067,13 +2067,6 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN3g0b2lhUGZzVFBaVlcybDhSRlN1OGtwM29ycElJbGxnWXhkd3BhRjhIbVlydm80WC1Zcmt6Q0RlR0Zab25zcUxPSkdfNFR3dVlkYkhFMEVFbDhwX3VHWXBFcVF0X2tBZHc?oc=5",
-            "published": "2025-12-22T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス×東京大学大学院情報学環 “人や社会に役立つことで幸せを感じ、豊かな暮らしを実現する” 新たなライフスタイル「ソーシャルライフ」を定義 | 積水ハウス株式会社 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04Q0UwUDVLTVdfTDJFN09xMTMyV19fV3gxanpScndlRmMzLWFrUm1iMy04TlhoZkJ1ckdpc29jTy00cTQ?oc=5",
@@ -2086,6 +2079,13 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZHRrd0JRWHNDWjFURkFNWU5zYmJGLUp0UUFEaXpMVXBZbmNaMlFnYWYtUDJzVVNZUTdNaFpKNEoyLTJoczdXaTFJUllqb0dpdUF2NW1sdUUwcmlEdkE?oc=5",
             "published": "2025-12-22T17:00:00+09:00",
             "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN3g0b2lhUGZzVFBaVlcybDhSRlN1OGtwM29ycElJbGxnWXhkd3BhRjhIbVlydm80WC1Zcmt6Q0RlR0Zab25zcUxPSkdfNFR3dVlkYkhFMEVFbDhwX3VHWXBFcVF0X2tBZHc?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "daiwa_house",
@@ -5393,15 +5393,15 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
+            "title": "建築現場の脱炭素化に向けた取り組み 再エネ電力×電動駆動のクローラクレーン - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2tSUnlFc3BKVldsa2NEQ25adVFYT2syempNM0Q0V0pETFFJWnBKMm00a3VDY1JPNnN1X0pGN2g4RHhtM2ZwMkZfZ1c1TGtwaGVPYW5hR29RLVE0ZmZJT3k3ZU9uRWNYRGc?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
-            "title": "建築現場の脱炭素化に向けた取り組み 再エネ電力×電動駆動のクローラクレーン - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2tSUnlFc3BKVldsa2NEQ25adVFYT2syempNM0Q0V0pETFFJWnBKMm00a3VDY1JPNnN1X0pGN2g4RHhtM2ZwMkZfZ1c1TGtwaGVPYW5hR29RLVE0ZmZJT3k3ZU9uRWNYRGc?oc=5",
+            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
         },
