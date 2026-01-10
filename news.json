@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-10T13:58:22.948696+09:00",
+    "generated_at": "2026-01-10T14:42:42.257902+09:00",
     "articles": [
         {
             "company_id": "ichijo_komuten",
@@ -1108,6 +1108,13 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "賞与支給、夏に一本化へ 評価負担を軽減―大和ハウス会長 - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92cDJEZ0s4eXhwazBpaUJEcE1pS3JqZXhMR0hLUmR4dXBmRjA1aFN3QkRqZGdnV0twRTc5SUMzMmlMZENGcWR0cllwVUVwTlFmaFQzaXdlQU56cVpkVW5oOHpqdw?oc=5",
+            "published": "2025-12-28T17:00:00+09:00",
+            "source": "時事ドットコム"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "「セキスイハイム信越 サッカー教室」に参加しました【報告】 - 松本山雅FC",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1dkJ4RFR0d1JibXZWcHF6Yk16MTJId3RtUjdaM0JvUHYyOU5tcVVQdy04RmIzZUszcEh1M3g5cnRMNEpQM3d5THdkbFg0TEE1c1FZ?oc=5",
@@ -1140,13 +1147,6 @@
             "title": "ミサワホーム2026年版「偉人の生涯と筆跡カレンダー」第77回全国カレンダー展「経済産業省大臣官房商務・サービス審議官賞」受賞 - 時事ドットコム",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55TlB3ZUl2UVRWbWhKVS1ibEpqTmtyU2lXa0I4RDBxSmRtX1p3VGgtUEphRnF6UWk2UF9aNUt0bEdIbUYzWnVmZVg1SDFXS1hSRVNCZ01zdVJCSGFtZjVTTnhTa0ZTdV9WLTVJ?oc=5",
             "published": "2025-12-28T07:10:00+09:00",
-            "source": "時事ドットコム"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "賞与支給、夏に一本化へ 評価負担を軽減―大和ハウス会長 - 時事ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92cDJEZ0s4eXhwazBpaUJEcE1pS3JqZXhMR0hLUmR4dXBmRjA1aFN3QkRqZGdnV0twRTc5SUMzMmlMZENGcWR0cllwVUVwTlFmaFQzaXdlQU56cVpkVW5oOHpqdw?oc=5",
-            "published": "2025-12-28T07:09:00+09:00",
             "source": "時事ドットコム"
         },
         {
@@ -1256,17 +1256,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス「春の住宅フェア」を開催！ - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大和ハウス「春の住宅フェア」を開催！ 大和ハウス工業株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Q0FZZ1BoS3U1c2ZkWDhiWXA0NEE0aXZVRExHTGFiWTRPcHA4LXpuZjVkeGlLTHVGSk5HZXIta1dudUxDUXJJRkc5Y1FJR1djbGo2QVdjUFdLTjdLLWc?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "新潟日報"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス「春の住宅フェア」を開催！ - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sekisui_heim",
@@ -3629,17 +3629,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "sekisui_heim",
