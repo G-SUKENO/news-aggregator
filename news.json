@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-11T23:45:17.072736+09:00",
+    "generated_at": "2026-01-12T00:36:41.381175+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -476,6 +476,13 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jblZKeWRpRXQydU5wajVVaWdQUkVnbDRaajRDY1pPU1BJVW9ySEV4bWJwbXNhZjROZVU1VmpfVjRFRDhOYVZPRmQ0X2x5VVVmaTRfUjZlSFBDd1E?oc=5",
             "published": "2026-01-08T05:02:59+09:00",
             "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（2ページ目） - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QllrWWtNWFFsOUxxS0tqenN0cjBHWW5vZGlRRHRHTWlrNmtBZWtmTXZNQkxFZUV3bGtvVGhuMDB3SGRyX0tYNlF0QzRRcWE3MzR6T0xTb1htNlRlaVRsTlFOOTRET29SR3hDWlQ3dXg0UQ?oc=5",
+            "published": "2026-01-08T05:00:00+09:00",
+            "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
@@ -2942,13 +2949,6 @@
             "source": "kankyo-news.co.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "【アナリスト評価】大和ハウス工業、レーティング中立に引下げ、目標株価5,700円に引上げ（日系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWRlYzhtRHBEYTJ3THV0UzdiYVUzc0E3eldVZzJGcXBxWW84NTVZOXQ5anNnQ1lZZl95N2xtZVVkQ2tqU2VLbVVEeEJ3dFlGeXNpajZvX0d6YmMwd1p5UHRjbE1yUTF5ZDUzcHdBSE9GY3BfNVV4TUdRYXh3cHFSbXFueTZhb2s?oc=5",
-            "published": "2025-12-18T18:08:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ、断熱等級7標準賃貸の実証実験 | チバテレ＋プラス - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoUWRVQU8tZDlVa1AzMTZEYnhkYjBzdzFtVGtiMXgwSkZORU9pd01qQXJOVmpaTzc3b0V5SVMtcEhtU1pMdFR6RC16dHZ0WUs1ZG9aOFAyMEk4X1hpTTJv0gFkQVVfeXFMT2syRXVQZjJFdXJyZ1VTbGdQZHJHd0hJU05UTkd5a0Rxc1hSTXIxcm9TM3hMano2bjE5bVpVU094SUVSZkxCc2ZWZHkxX1BKQWVTRlNkeXZsLV9IYUlqWHRWdXU4cw?oc=5",
@@ -3706,17 +3706,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -5393,15 +5393,15 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
+            "title": "旭化成グループのALC商品由来の再生土壌を活用 世田谷区で「雨庭×都市緑化」実証実験開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remlRQ2dGV2JmVjJUMWdrNHNvVlo3c2UwcXdURzFqbC1NaGJUSWFzN3hqRGdWczFiTmk2RGthckJ1V2pWZmNya3I2U0lMNVR4MEFfNHZzd0psVFlnQ0JRU050elloS1FNeUE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
-            "title": "旭化成グループのALC商品由来の再生土壌を活用 世田谷区で「雨庭×都市緑化」実証実験開始 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remlRQ2dGV2JmVjJUMWdrNHNvVlo3c2UwcXdURzFqbC1NaGJUSWFzN3hqRGdWczFiTmk2RGthckJ1V2pWZmNya3I2U0lMNVR4MEFfNHZzd0psVFlnQ0JRU050elloS1FNeUE?oc=5",
+            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
         },
