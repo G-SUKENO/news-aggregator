@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-12T07:41:07.799121+09:00",
+    "generated_at": "2026-01-12T08:34:14.341062+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -112,6 +112,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BbE44VVZjYmVaUDdpUTZnNkxNY0gtLWlYMFUxczlkRUctM2FvdkliTExjMGk2akhOclpuSFNzMTFSXzk3VDNNTkdZd1FZNDBFbk9wSV9iaWF2U3g4WjBVdlJ4Qk5rTzJMUkE?oc=5",
             "published": "2026-01-09T10:00:04+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "IRサイトが３つの主要な評価機関で高評価を獲得 ～「最優秀サイト」「優秀賞」「銅賞」に選出～ - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NcndLNjFTV1pFTzRPR01IMDhqZm5xbEY5MEF6YkZZNTFVaDdtTk5nXzhiLWo5SElSRlhmVlhROVJNSGxTX0FQRk9oMnhVajdydHhoWUtBU0JsOXc?oc=5",
+            "published": "2026-01-09T10:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1578,17 +1585,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス投資法人（3309）｢稼働率の推移｣を更新しました。 - 四季報オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZ3FuRnQ4SHFMcFYtSDJsWlJ1em1OX2dFbk5VSlVFN3pjcjM2ZkpuLVZTUk04anlGUVFucWNSMFA1S0M4QmpYVV92Sm51aHBMNmdCZGhVdw?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "四季報オンライン"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス、「外部収納調査」の結果を発表 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84YmtmR1N4Q1E3dTFBNUxlYXlIckZjWmFVOWJHdE5tWjNQRUZrUE1iMDYwS3pUcG9obS1STVdCbmFPeDVyTldiWGUxZmNEQVZBVEJPR1VINDRlX1FRSXNWVnlndW5wQmFBaXFEeA?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス投資法人（3309）｢稼働率の推移｣を更新しました。 - 四季報オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZ3FuRnQ4SHFMcFYtSDJsWlJ1em1OX2dFbk5VSlVFN3pjcjM2ZkpuLVZTUk04anlGUVFucWNSMFA1S0M4QmpYVV92Sm51aHBMNmdCZGhVdw?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "四季報オンライン"
         },
         {
             "company_id": "sekisui_house",
@@ -3572,13 +3579,6 @@
             "source": "サードニュース"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "打合せプラットフォーム「MYHOME WORKS」全支店で運用開始 住友林業株式会社 - 新潟日報",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54WUpNSlRta1RoUzgtb1pFU0JoQkEteVd5cTZrUHBLOG5FdzRMNF9NSldBcUItSXFva190ZjhBaEJvS0ozVGFqMHlZRHdxQnNQUFFMaWNSY01fRmdGOXc?oc=5",
-            "published": "2025-12-12T10:06:00+09:00",
-            "source": "新潟日報"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業株式会社(積水化学工業株式会社（TSE:4204）は、51％を所有する機関投資家株主によって大きく支配されている。 - simplywall.st",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3lOWFNwWVloT1ZTUlRhd0VlZ2Nrd05JeXBTd29UWHVkcW9IZmY5YnJYMWFOSmVkbjNRMUd2cU56WVhWb0JxWkhFRFM1WWVrc2V1MWJORy1wVXFkbFBUT0wwWWVQb0h6QUprbzlsaW1CUFFadVFKX19mZW1VQ29scmRFWTVMQXFES2xyd1BMY3lmcjRwQ1Z6UEZWVjZQcllFNmlEQTIzZFhteUXSAasBQVVfeXFMUF95TlhTcFlZaE9WU1JUYXdFZWdja3dOSXlwU3dvVFh1ZHFvSGZmOWJyWDFhTkplZG4zUTFHdnFOellYVm9CcVpIRURTNVlla3NldTFiTkctcFVxZGxQVE9MMFllUG9IekFKa285bGltQlBRWnVRSl9fZmVtVUNvbHJkRVk1TEFxREtscndQTGN5ZnI0cENWelBGVlY2UHJZRTZpREEyM2RYbXlF?oc=5",
@@ -5407,13 +5407,6 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
-            "published": "2025-09-05T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "旭化成グループのALC商品由来の再生土壌を活用 世田谷区で「雨庭×都市緑化」実証実験開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remlRQ2dGV2JmVjJUMWdrNHNvVlo3c2UwcXdURzFqbC1NaGJUSWFzN3hqRGdWczFiTmk2RGthckJ1V2pWZmNya3I2U0lMNVR4MEFfNHZzd0psVFlnQ0JRU050elloS1FNeUE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
@@ -5423,6 +5416,13 @@
             "company_id": "hebel_haus",
             "title": "建築現場の脱炭素化に向けた取り組み 再エネ電力×電動駆動のクローラクレーン - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2tSUnlFc3BKVldsa2NEQ25adVFYT2syempNM0Q0V0pETFFJWnBKMm00a3VDY1JPNnN1X0pGN2g4RHhtM2ZwMkZfZ1c1TGtwaGVPYW5hR29RLVE0ZmZJT3k3ZU9uRWNYRGc?oc=5",
+            "published": "2025-09-05T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
         },
