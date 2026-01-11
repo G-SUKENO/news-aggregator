@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-12T02:37:25.488338+09:00",
+    "generated_at": "2026-01-12T03:54:05.992431+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -14,6 +14,13 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Bd2RTVUVNWkNZczc1VndpNVZlNUV2MWU0M2JkZlZlRWEtekg3VXN2NERHX1U1TUJjQXhPTENjc3FTbHgyR3E3ZEF3UFFJT0ZnQ0I4?oc=5",
             "published": "2026-01-11T14:00:22+09:00",
             "source": "ダイヤモンド・オンライン"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【海外】米ロングビーチに賃貸住宅、東京建物と住友林業 - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NMnUzMjZXM01Za0FFbmNtT2JvZHBQTmp4YWQ2cVlPODdEVVFWQzM4VEFwYzhJbXhxczlSeWxkU2JVZ2toZTNPTnFPeXhtdl9oSHpJc25fSTE0TzJtS2c0ZTFn?oc=5",
+            "published": "2026-01-11T03:22:43+09:00",
+            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "sekisui_house",
@@ -112,13 +119,6 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mbnNlQkJFdjkzeW1WM3dERE9PTnVCUTJRQ2ZVSUJuWDlTSHlfdW54WWFMWUpZMTBoRGtZMkxRMDlyOTFPQnFlR0dVdl9CMTZzU0xF?oc=5",
             "published": "2026-01-09T08:04:22+09:00",
             "source": "日刊建産速報"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【海外】米ロングビーチに賃貸住宅、東京建物と住友林業 - 日経不動産マーケット情報",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NMnUzMjZXM01Za0FFbmNtT2JvZHBQTmp4YWQ2cVlPODdEVVFWQzM4VEFwYzhJbXhxczlSeWxkU2JVZ2toZTNPTnFPeXhtdl9oSHpJc25fSTE0TzJtS2c0ZTFn?oc=5",
-            "published": "2026-01-09T05:42:00+09:00",
-            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -479,15 +479,15 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（2ページ目） - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QllrWWtNWFFsOUxxS0tqenN0cjBHWW5vZGlRRHRHTWlrNmtBZWtmTXZNQkxFZUV3bGtvVGhuMDB3SGRyX0tYNlF0QzRRcWE3MzR6T0xTb1htNlRlaVRsTlFOOTRET29SR3hDWlQ3dXg0UQ?oc=5",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
             "published": "2026-01-08T05:00:00+09:00",
             "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（2ページ目） - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QllrWWtNWFFsOUxxS0tqenN0cjBHWW5vZGlRRHRHTWlrNmtBZWtmTXZNQkxFZUV3bGtvVGhuMDB3SGRyX0tYNlF0QzRRcWE3MzR6T0xTb1htNlRlaVRsTlFOOTRET29SR3hDWlQ3dXg0UQ?oc=5",
             "published": "2026-01-08T05:00:00+09:00",
             "source": "日経クロステック"
         },
@@ -602,6 +602,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcndReVBnbGszWC02VDlaeEFST2RyMzRITU44TDhIb0FBS2VFWlRGTnFSaFd4TWZoS01hWWpwNWdaV2t6ZGJrWXVQRzB4MUhZbnFtMWFpUnByamtVRV8wREFwTGN3c04zcGFORA?oc=5",
             "published": "2026-01-06T17:10:33+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "データセンターショールーム「Module DPDC Fukushima」着工(ニュースレター) - ASCII.jp",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZm1UOXN0QWlZLTdJMnY4b1Q4Y0ladVZPdlQzSmNiVmlKOWR5eTZ0U1lsWS1qUENPWTJ6MlFqVWhNdTJFVzhFYnNkTHhlZWpxOFBmMA?oc=5",
+            "published": "2026-01-06T15:57:05+09:00",
+            "source": "ASCII.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -1794,13 +1801,6 @@
             "source": "ITmedia"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業[1925]：従業員持株会を通じた株式付与としての自己株式の処分の払込完了及び一部失権に関するお知らせ 2025年12月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IdlQtV2E1dEtKRXFKUUc2RnI4emZkQWlKeUhnZVRydXh3Y0pMNndNekZKME51T0NBOFRkWm9LdGNnMkRCUm5WQnhTYkM2eW5sSFBzTE01NG9IRjFXRUl3MnVEcHpyOGtzLVE?oc=5",
-            "published": "2025-12-24T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "第77回 全国カレンダー展 金賞と特別賞を受賞 2026年オリジナルカレンダー「住友林業の森」 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQUpEV2tDM20zZzZmVXpSbEwzZzQ0NTlOcVc4Q0lxTTdEQXpwTVQ4RnBzYUpWOHNaQWFRbkl4anVjNjFXWjlRdUhzV0JRSEcwRE5hbVdiZEd1cGs?oc=5",
@@ -1827,6 +1827,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mR2lnQUVHekxWZWtDUVdOeFI1UUJOR0c5MzVFQXNzSnpHYThRakI2WXVpOC1wR3JDeHRxWEI4WVNzQTJseGhGR2IxVkVRUGw5VmFoU2VQcXhJLU9ndVluZnVKbmxnV3Qxb0E?oc=5",
             "published": "2025-12-24T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業[1925]：従業員持株会を通じた株式付与としての自己株式の処分の払込完了及び一部失権に関するお知らせ 2025年12月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IdlQtV2E1dEtKRXFKUUc2RnI4emZkQWlKeUhnZVRydXh3Y0pMNndNekZKME51T0NBOFRkWm9LdGNnMkRCUm5WQnhTYkM2eW5sSFBzTE01NG9IRjFXRUl3MnVEcHpyOGtzLVE?oc=5",
+            "published": "2025-12-24T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "misawa_home",
@@ -2193,27 +2200,6 @@
             "source": "沖縄タイムス社"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN3g0b2lhUGZzVFBaVlcybDhSRlN1OGtwM29ycElJbGxnWXhkd3BhRjhIbVlydm80WC1Zcmt6Q0RlR0Zab25zcUxPSkdfNFR3dVlkYkhFMEVFbDhwX3VHWXBFcVF0X2tBZHc?oc=5",
-            "published": "2025-12-22T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "てぃ先生が見つけた！ 家族が笑顔で自然と集まる“大和ハウスの家” - マイナビ子育て",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BQXdIZnZoRGtobnFpTnRyTU5SOC12THpjeVVpQ2UzT2lnZWgwNjVEdXJid0xscDJnU0ktZWhmRWxPekttSjAwZ0JVVUd4eW1oSndJ?oc=5",
-            "published": "2025-12-22T17:00:00+09:00",
-            "source": "マイナビ子育て"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "最新調査で判明！断熱性が暮らしの満足度を劇的に変える―ZEHの新常識 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ock9DUUNEbUR0RVpfTVZUdFNpRDYzMWdackNDbkFUWWVhdXctTXdHb2RoRnZodDJxVFNxRUQwQ1FMa01rM0lGQ3RQbEdqVXQ5cEFHdVNhQjF4N3pNbzJ2NHJSVEFieExSNUE?oc=5",
-            "published": "2025-12-22T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、注文住宅の打ち合わせプラットフォームを全支店に導入 営業／設計プロセス効率化：製品動向 - ITmedia",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RHJVXzVfYWQyU3lEdGtYRTZoNFhCbHJiX1AtTXBXcTRRS3U3QWZWV3lISFQ4Vl81S1VRcTZ4SDhxanNvTHJuT1JJYmozRlpSVkJTVG5IWGp6MGtUTDhfZWpCSWJzVk5jUm5sWg?oc=5",
@@ -2233,6 +2219,27 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VG5hTDQyZVI0WjJQU2t6S2pDa1B6bTZmZUZKNUdGaGJWTnpfZmJEby1sWkZJV29OSnNzSUtnTi1HWHpfdmI2V0I4OVAwN0tvNnJoNk1MT1VwTHgzOUR6NFNHcnJFcWU3X1lZNA?oc=5",
             "published": "2025-12-22T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "2026年版パナソニック ホームズカレンダー 『Floriography/アリー・ファン・トリート作品集』第77回全国カレンダー展の最高賞『経済産業大臣賞』を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoN3g0b2lhUGZzVFBaVlcybDhSRlN1OGtwM29ycElJbGxnWXhkd3BhRjhIbVlydm80WC1Zcmt6Q0RlR0Zab25zcUxPSkdfNFR3dVlkYkhFMEVFbDhwX3VHWXBFcVF0X2tBZHc?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "てぃ先生が見つけた！ 家族が笑顔で自然と集まる“大和ハウスの家” - マイナビ子育て",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BQXdIZnZoRGtobnFpTnRyTU5SOC12THpjeVVpQ2UzT2lnZWgwNjVEdXJid0xscDJnU0ktZWhmRWxPekttSjAwZ0JVVUd4eW1oSndJ?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "マイナビ子育て"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "最新調査で判明！断熱性が暮らしの満足度を劇的に変える―ZEHの新常識 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ock9DUUNEbUR0RVpfTVZUdFNpRDYzMWdackNDbkFUWWVhdXctTXdHb2RoRnZodDJxVFNxRUQwQ1FMa01rM0lGQ3RQbEdqVXQ5cEFHdVNhQjF4N3pNbzJ2NHJSVEFieExSNUE?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
@@ -2690,20 +2697,6 @@
             "source": "sannichi.co.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "11月受注速報、増加7社 大和ハウス、ヤマダなど好調 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUnVSelJmUEV4cUp3aGxYakRmZGFLWFNuVUhKUzRwcTZfTzU0RmdtRWJncVVHN2I0Snp6Vml6MkxjY2dmMVNWVXpYNXRFaExOTUE?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業、モジュール型データセンター商品発売=急増する建設需要に対応 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDM2t6M0xxMUdOTkpyVzFpT01GNW5VUEoxRWswQlNJM3hFbjBJOFZqRkdMVVhmeDA1aHgzbVlfdEtvbWlvOTgyTlV3bkLSAUxBVV95cUxQQzNrejNMcTFHTk5KclcxaU9NRjVuVVBKMUVrMEJTSTN4RW4wSThWakZHTFVYZngwNWh4M21ZX3RLb21pbzk4Mk5Vd25C?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "10年連続「気候変動Aリスト」、新たに「フォレストAリスト」にも選定 CDP2025で最高評価 | 住友林業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SbGh5LUN4eV91Z2NIbkJYelNTSDVRaWxSTS1RbWRBMjQ4UTliUnJMQUlLZ1E5T0taWFJiWllyeXd1WEFRTFNWc1pkMWlEZkpFc2xtdjFHa05wdHJTUzhnd1Zpa0lLcEd2MkE?oc=5",
@@ -2723,6 +2716,20 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdDItbGotcDJMMXVvbWM5aXZjQlZkMW94VmF1amJFODZJNXRSSjlad1pWYVNMdDNRdVpaRFRjQVNnRDUzNGFzak5uaGt2dGFoWDZCUTNmSldWb28?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "11月受注速報、増加7社 大和ハウス、ヤマダなど好調 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUnVSelJmUEV4cUp3aGxYakRmZGFLWFNuVUhKUzRwcTZfTzU0RmdtRWJncVVHN2I0Snp6Vml6MkxjY2dmMVNWVXpYNXRFaExOTUE?oc=5",
+            "published": "2025-12-19T17:00:00+09:00",
+            "source": "新建ハウジング"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業、モジュール型データセンター商品発売=急増する建設需要に対応 - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDM2t6M0xxMUdOTkpyVzFpT01GNW5VUEoxRWswQlNJM3hFbjBJOFZqRkdMVVhmeDA1aHgzbVlfdEtvbWlvOTgyTlV3bkLSAUxBVV95cUxQQzNrejNMcTFHTk5KclcxaU9NRjVuVVBKMUVrMEJTSTN4RW4wSThWakZHTFVYZngwNWh4M21ZX3RLb21pbzk4Mk5Vd25C?oc=5",
+            "published": "2025-12-19T17:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -2942,13 +2949,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "モジュールＤＣ発売 短納期、効率化を追求 大和ハウス - kankyo-news.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90SFozczdrTXBvMUFWUGh4YXp4dWZIY3A1UlJVb21CQWJyMXBCX0JpWEhUMnVUSC11M1pXeVZpcVZOcmo3SDY4ZlE5b1U1TGRzTk16MGNtdVFWMGVFb2ZvVE83cTlGT2ZLMDA2RzdtUmt5RkJWcFhma2pudw?oc=5",
-            "published": "2025-12-18T18:15:00+09:00",
-            "source": "kankyo-news.co.jp"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ、断熱等級7標準賃貸の実証実験 | チバテレ＋プラス - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoUWRVQU8tZDlVa1AzMTZEYnhkYjBzdzFtVGtiMXgwSkZORU9pd01qQXJOVmpaTzc3b0V5SVMtcEhtU1pMdFR6RC16dHZ0WUs1ZG9aOFAyMEk4X1hpTTJv0gFkQVVfeXFMT2syRXVQZjJFdXJyZ1VTbGdQZHJHd0hJU05UTkd5a0Rxc1hSTXIxcm9TM3hMano2bjE5bVpVU094SUVSZkxCc2ZWZHkxX1BKQWVTRlNkeXZsLV9IYUlqWHRWdXU4cw?oc=5",
@@ -3033,18 +3033,18 @@
             "source": "中日新聞Web"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店千葉東展示場】茂原大芝宿泊棟NEW OPEN！ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUFlPTzRNOVZtMktnY3ZxbVFwZkVjdTBOS1VJQ29YemxFM2VIRERSUjVmVHlLV3RONjFNUmhHc1RNdkc1ZW81QUU5eW5aQW04T3Q3TlNtbUFpaTF3?oc=5",
-            "published": "2025-12-17T17:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "【令和7年度経営者賞 受賞・喜びの声】住友林業会長 市川 晃さん - 財界オンライン",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NdGdWaGpFd0had1JiWmdrMHdxbXNtZDhTS01KbjN0dVJvYUxLTmNLQmQwbkotclNTX2NCenA5alRaUEJXVV9hYlhFMDdsS0FqaXh0Zw?oc=5",
             "published": "2025-12-17T17:00:00+09:00",
             "source": "財界オンライン"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店千葉東展示場】茂原大芝宿泊棟NEW OPEN！ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUFlPTzRNOVZtMktnY3ZxbVFwZkVjdTBOS1VJQ29YemxFM2VIRERSUjVmVHlLV3RONjFNUmhHc1RNdkc1ZW81QUU5eW5aQW04T3Q3TlNtbUFpaTF3?oc=5",
+            "published": "2025-12-17T17:00:00+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -3278,20 +3278,6 @@
             "source": "朝日新聞"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "地域密着の家づくり、滋賀・草津に第1弾を完成 パナソニックホームズ - 電波新聞デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odnA2aGlFTWlDalJQbl9LRzA5ZkJOUlQ1eUZIdk9neVZwUXNZbDhIbzJRZk5ONGYxbVF5WnZzSlFZd3VfOHNtd2RnTGpVNF94VVE?oc=5",
-            "published": "2025-12-15T17:00:00+09:00",
-            "source": "電波新聞デジタル"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店】来場予約キャンペーン開催中 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOWlVMENybXdBbmMtVV9wT0ltZThSYmN2aFhlS24xWE1zVlh2UTdaX0YyanZYVXEteUpHRVdCenhONWV4a0Nab25PZXo4MzREUGVwQXlKSlQwemxFR05oUXZ5X2JBOVlGUmNpRw?oc=5",
-            "published": "2025-12-15T17:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業が開発した1時間耐火の木で覆う鉄骨部材 初のライセンス契約：新建材 - ITmedia",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZMUVLUnRKQ01TZ3VPYm0zUk5VUmlYZHNmbC1pb1pWSTZNNllweFMtd1l2WEgtQUZOb1h4NWlqcVBSUV80cm1UTFlsUHNET2JodlUxTGtJUGNNTmJnX0NJcUs5ZVRxZEZCWmtlRg?oc=5",
@@ -3318,6 +3304,20 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OeHUtT3ZERlRsTzE4MVNKWVIzYU1nay1fS0p1QXBaNVhiZXRXSzdfRmlReEJ4NTY0cVpVYkxMaF9yNWtWaGpLelQwSmVxVE9zYVYwOWctY1BOTDVoTGcxMUNrZzllV2V6blE?oc=5",
             "published": "2025-12-15T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "地域密着の家づくり、滋賀・草津に第1弾を完成 パナソニックホームズ - 電波新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odnA2aGlFTWlDalJQbl9LRzA5ZkJOUlQ1eUZIdk9neVZwUXNZbDhIbzJRZk5ONGYxbVF5WnZzSlFZd3VfOHNtd2RnTGpVNF94VVE?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "電波新聞デジタル"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店】来場予約キャンペーン開催中 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOWlVMENybXdBbmMtVV9wT0ltZThSYmN2aFhlS24xWE1zVlh2UTdaX0YyanZYVXEteUpHRVdCenhONWV4a0Nab25PZXo4MzREUGVwQXlKSlQwemxFR05oUXZ5X2JBOVlGUmNpRw?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "misawa_home",
@@ -3460,20 +3460,6 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ､滋賀の｢ご当地｣モデルハウス 鮒寿司の保管庫も - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYUpSQVNNMEt5el9zbnZkeG9heUR1cmlFQ1UyWDNxVHp3dW5LN3FzSFRiOHZZcHhhakh0WXBTbkRWT3lURm9YOXVTR29LV3ppZVMyak9JQ0VkNHNVMjVnMEs1WXJNaFNVTzBVcA?oc=5",
-            "published": "2025-12-12T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "日本経済新聞 印刷画面 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3BhZHNocDdfdVhxd1NFRlRWMFNHaHl6OHhBR19wbjhTNlFnY3ROM2gxdzdoWk1OZTBBZkxKU2Q5NG1RV0d2TS03VkRZUU9uaGVxRS1mWmh1NHhCV3ZQZ2QwZHBUeDg0eVh0SktDMnl6QWdEUmRUVzdQVjlDMjZaLXA5ZjZTS2g4eU1Fc0F5NWo?oc=5",
-            "published": "2025-12-12T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "打合せプラットフォーム「MYHOME WORKS」全支店で運用開始 | 住友林業のプレスリリース - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQUG9qekZPSEFtUHR1WWdIVE9zZThqMkxmWHNObWw1ZjVwVFFVeVF0NjJBTXd6NkxQLWM3dENtNEc5OWxwXzRvTFNid2JMYU5uT2tOaXlyY0t5Zm8?oc=5",
@@ -3484,6 +3470,20 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業、打合せプラットフォーム「MYHOME WORKS」を住宅全支店で運用開始 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jU3c0dVYzVWVFbW9JMHlVak1palVXcGdaa0UtV2s3SHhtTUdTVUJGR1NWbTdtZ0lsU1podVpWdnpTQUg5UzE0SnlrTDZGQ2JvcGJaUkRmN3NQVndfUG9ibTFqRUEzdmluNFZvYw?oc=5",
+            "published": "2025-12-12T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ､滋賀の｢ご当地｣モデルハウス 鮒寿司の保管庫も - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYUpSQVNNMEt5el9zbnZkeG9heUR1cmlFQ1UyWDNxVHp3dW5LN3FzSFRiOHZZcHhhakh0WXBTbkRWT3lURm9YOXVTR29LV3ppZVMyak9JQ0VkNHNVMjVnMEs1WXJNaFNVTzBVcA?oc=5",
+            "published": "2025-12-12T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "日本経済新聞 印刷画面 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3BhZHNocDdfdVhxd1NFRlRWMFNHaHl6OHhBR19wbjhTNlFnY3ROM2gxdzdoWk1OZTBBZkxKU2Q5NG1RV0d2TS03VkRZUU9uaGVxRS1mWmh1NHhCV3ZQZ2QwZHBUeDg0eVh0SktDMnl6QWdEUmRUVzdQVjlDMjZaLXA5ZjZTS2g4eU1Fc0F5NWo?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
             "source": "日本経済新聞"
         },
