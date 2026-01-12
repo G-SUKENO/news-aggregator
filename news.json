@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-12T21:39:58.026358+09:00",
+    "generated_at": "2026-01-12T22:39:42.728230+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -455,6 +455,13 @@
             "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HS1JERWRGTDRTdi1nMUlQRHdLcWZJaUFBQnMtd0pFc3h4Z09sVlAxTXRRNENERWtUVXo0RURMWWd0V3NXNmc?oc=5",
             "published": "2026-01-08T10:43:31+09:00",
             "source": "みんかぶ"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "ホットストック：住宅関連が軟調、トランプ氏の機関投資家の住宅購入禁止表明を材料視 - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRngwSGt2S1JlbkItd1ExVVVFTXVULWpzYjFYaFdCVWp4Vll6Y1lkNlplSFlNbWpxX1B3UEFnTjBGTnJJWlAtblRpSjFsYVVYUk96NVV2Y2Q2MEc5ODNOdHZtM1pNMUJGWndjejF1anNKQW5jNmFHWlEzRHk4ZVgwTg?oc=5",
+            "published": "2026-01-08T10:43:00+09:00",
+            "source": "Reuters"
         },
         {
             "company_id": "sekisui_house",
@@ -2747,7 +2754,7 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス仲井嘉浩社長、米国の戸建て住宅｢加速度的に成長｣ 年2万戸に自信 - 日本経済新聞",
+            "title": "積水ハウス仲井社長、米国の戸建て｢加速度的に成長｣ 年2万戸に自信 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Vi1VZ21QWWpjSkZqSjRxbDh2QVZScW96aThSUDA1cEFueTBiaDRvN3pNenZONEtaSm8tOHF6eUxBZFp6VE42NXdQMHlkb19nc1B2dVBncm9VMEE5Q0thLVo0cUpkTUwweGc5Zg?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -3493,13 +3500,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQUG9qekZPSEFtUHR1WWdIVE9zZThqMkxmWHNObWw1ZjVwVFFVeVF0NjJBTXd6NkxQLWM3dENtNEc5OWxwXzRvTFNid2JMYU5uT2tOaXlyY0t5Zm8?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
             "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、打合せプラットフォーム「MYHOME WORKS」を住宅全支店で運用開始 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jU3c0dVYzVWVFbW9JMHlVak1palVXcGdaa0UtV2s3SHhtTUdTVUJGR1NWbTdtZ0lsU1podVpWdnpTQUg5UzE0SnlrTDZGQ2JvcGJaUkRmN3NQVndfUG9ibTFqRUEzdmluNFZvYw?oc=5",
-            "published": "2025-12-12T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -5414,13 +5414,6 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
-            "published": "2025-09-05T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "旭化成グループのALC商品由来の再生土壌を活用 世田谷区で「雨庭×都市緑化」実証実験開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remlRQ2dGV2JmVjJUMWdrNHNvVlo3c2UwcXdURzFqbC1NaGJUSWFzN3hqRGdWczFiTmk2RGthckJ1V2pWZmNya3I2U0lMNVR4MEFfNHZzd0psVFlnQ0JRU050elloS1FNeUE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
@@ -5430,6 +5423,13 @@
             "company_id": "hebel_haus",
             "title": "建築現場の脱炭素化に向けた取り組み 再エネ電力×電動駆動のクローラクレーン - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2tSUnlFc3BKVldsa2NEQ25adVFYT2syempNM0Q0V0pETFFJWnBKMm00a3VDY1JPNnN1X0pGN2g4RHhtM2ZwMkZfZ1c1TGtwaGVPYW5hR29RLVE0ZmZJT3k3ZU9uRWNYRGc?oc=5",
+            "published": "2025-09-05T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "国際的な環境イニシアチブRE100 のアワード「RE100 Leadership Awards 2025」で2年連続最終選考企業に選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zWEtrdFZsMVVoajE5WGp6dktUa0RVeDM4dkpXX1ZWTk9va3BEMWlReUhXZUc4Nmo1d3I4OWwwUTh1UC1uVFBSZjgxYjdJdUxfNFVNczVWYzRzbWNmemstY3hhWjd6b2EtQVE?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "PR TIMES"
         },
