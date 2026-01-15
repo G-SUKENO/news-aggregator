@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-16T00:21:40.095212+09:00",
+    "generated_at": "2026-01-16T01:31:05.699726+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -581,6 +581,13 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTRaeldtZDZoQVFqMnV1SXp1UGJOSHYzSHBkRHE5RllVRm55elV1ZE5NbTVMWnc4TVkyWFAydlJhU1hsaEQyWGF3cURnR2NiVm1Cd2RBNkRwcHB4UHBGazBLTXl5d0QxMWJXZ3ZQTHRRZnRvdUtlOENPZmpRRTZpN2hKTVJNaDQ?oc=5",
             "published": "2026-01-09T09:01:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "（短信）熊谷組、今期純利益2倍 住友林業株売却で - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2Y4dUFNRkZ6RXRuamduZHBwUllnR25FT0stTGY5OTlQUE5maHZ2amZNY3ZOVC1DZDhZS3pGWnVyWUlUZ3ZOV1pxUmQwVXdvZXVZZnJ2c3VKQ1d4ckMwT2F3a29YajVqTGJSUzl4dHdITWxURlFQMk5nWVNoQVZDZkxWZlpRSGJmSXZ4ZWFKejQ2RkNtWXJ3MFBZTDZQWG9EdXBqb19sU2o?oc=5",
+            "published": "2026-01-09T08:45:44+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -3250,13 +3257,6 @@
             "source": "サードニュース"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "10年連続「気候変動Aリスト」、新たに「フォレストAリスト」にも選定 CDP2025で最高評価 住友林業株式会社 - 新潟日報",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lT09objRzLUZwcGgwS19FUjVkbmVuNGh4eEl4OUktbjc5SjRWY2kxdFVXS3RFVlJoVkdEdlRuSW1iVVVzWWlDWkV6OGMwVDZjLWVuOS01Mzg3Ukg5UlE?oc=5",
-            "published": "2025-12-19T10:00:00+09:00",
-            "source": "新潟日報"
-        },
-        {
             "company_id": "misawa_home",
             "title": "【逗子市】逗子リトルシニアがミサワホーム杯で３年ぶり２度目の優勝〈逗子市・葉山町〉 - ｄメニューニュース",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxdUY2TlRWZGhNYzNPeE1IWXRNUzlvZzAyZkVHRlBVTDdWQURETXY1SmVjQUJCeHlmZkhyWnJrR1UwNkxvX3VJZG00ZkdCSW04a3F1RnRBYmQ3QVVqLTJCSUEteGpDRU1xMEhmdlVIN1hfbDNmWmdKWGNwUQ?oc=5",
@@ -5491,17 +5491,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "建築現場の脱炭素化に向けた取り組み 再エネ電力×電動駆動のクローラクレーン - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2tSUnlFc3BKVldsa2NEQ25adVFYT2syempNM0Q0V0pETFFJWnBKMm00a3VDY1JPNnN1X0pGN2g4RHhtM2ZwMkZfZ1c1TGtwaGVPYW5hR29RLVE0ZmZJT3k3ZU9uRWNYRGc?oc=5",
-            "published": "2025-09-05T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "旭化成ホームズ、再エネ電力で動くクレーンを実証実験 都内で - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYk1uNGhWMVhRRjBxNV9BUWlqTnZnQW1YSXRYNzRldHY3dmx0alBTVFoyT1c1NllNbF9BRVpSQ3hEejR3ZHFFcm1lSHFuenRVWHN1QnlCelM1ZmVUbE9uUV95YjE1dG9HNTYyMQ?oc=5",
             "published": "2025-09-05T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "建築現場の脱炭素化に向けた取り組み 再エネ電力×電動駆動のクローラクレーン - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2tSUnlFc3BKVldsa2NEQ25adVFYT2syempNM0Q0V0pETFFJWnBKMm00a3VDY1JPNnN1X0pGN2g4RHhtM2ZwMkZfZ1c1TGtwaGVPYW5hR29RLVE0ZmZJT3k3ZU9uRWNYRGc?oc=5",
+            "published": "2025-09-05T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
