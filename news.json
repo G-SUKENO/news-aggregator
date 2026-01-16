@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-17T06:18:01.240007+09:00",
+    "generated_at": "2026-01-17T07:17:56.831805+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -954,6 +954,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：住友林業株式会社と株式会社熊谷組の株式持分比率の変更について 2026年1月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oc0VwTl9UNFU4OWxsQ09ONG1uMi0yTXdsMkphZzhfLXp1c1c5TEZ4YXNPNFphdTdWOHR1djlvME0tWEQyR1ZXQXR1b1RYWFRxb1JucS1QNWZyLTc3WktJWWxZRlNxZVowcVE?oc=5",
@@ -1218,13 +1225,6 @@
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oU2plZEJXMEZPcDhlV3FGaDdhRk40T2hlMWJRUkQ4a0JxY0Q1UXlMOUt6U3NrTDJWZlM0ZVNIbGZOMkhoaWhxbGp1LXQ5eXBrOU1iRkthZVA0MWZ5QWlpc2MzNXZjRW5WaVFqWVNMM1BQdFhK?oc=5",
             "published": "2026-01-08T05:00:00+09:00",
             "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
-            "published": "2026-01-08T05:00:00+09:00",
-            "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
@@ -2432,13 +2432,6 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTTE4STA0UXJrTF9tazJuT0lYWGZoM1lnNlJkalR5M3ZNVjlJV0lPZHlvbHcxLTBOdE1jZ3ZobE5IcXhIbmN0MmVKV0VnZktBbW9ULUVBdFVCeGtodGFuRHVKS0hMRUtsaXc?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU5Kb28yUl9QQV9KUkF0WmNOSjN2ZDladUdrVW84YnAtTExOaEgwRl9Gd1ZycE05a3R4SGdUcnJDOEJOcm9hWXpVVGlBTGZyV042NnVKVEdwV28?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
@@ -2450,6 +2443,13 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nc0NDazRxRHg5UGNkZGhPR0xZNW9ieDdVTEt3QldJemRqU1lpV1UxT0hoVW9wd1BjbFpxanZEYmp0VzdMMEVKMmdZeVd0X1VybElISDVsenNMSDdwNUVjTFRPYWpOY2xrUTYxUC0wQVYwNWVUX0E?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "ニコニコニュース"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTTE4STA0UXJrTF9tazJuT0lYWGZoM1lnNlJkalR5M3ZNVjlJV0lPZHlvbHcxLTBOdE1jZ3ZobE5IcXhIbmN0MmVKV0VnZktBbW9ULUVBdFVCeGtodGFuRHVKS0hMRUtsaXc?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -4385,17 +4385,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） - tv-tokyo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKelhwcWs4UmxZSlZ0c3FnWUs2anBtemhkRVpZbUctWTY1TlZuSXlnYkdSQ2YzM0FLd3Ztdy12WDV6LTlfNXJMcUlmeTdad1ZEd0dacEFrTnR2OU82Ym1TbnlXTGRMaGZ5bGtBbQ?oc=5",
-            "published": "2025-11-27T17:00:00+09:00",
-            "source": "tv-tokyo.co.jp"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "東京ガス、三井ホームの埼玉工場に薄型太陽光パネル納入 CO2を44%減 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05WnBUQktpWlg4M182a1BqNV9tWV9BakxDVF9SdGJCUWdDVUEta3pjdUZHLTJ1YmppOVo2RjBjbVo0bUZtN0dyaXlhNzZzQXRzZGIxM29sVjFUazRrSlMxSHZfdHE1M05jdlJsRQ?oc=5",
             "published": "2025-11-27T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "国内初！薄型軽量太陽光パネルを活用したオンサイト＆バーチャルPPA（電力購入契約） - tv-tokyo.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKelhwcWs4UmxZSlZ0c3FnWUs2anBtemhkRVpZbUctWTY1TlZuSXlnYkdSQ2YzM0FLd3Ztdy12WDV6LTlfNXJMcUlmeTdad1ZEd0dacEFrTnR2OU82Ym1TbnlXTGRMaGZ5bGtBbQ?oc=5",
+            "published": "2025-11-27T17:00:00+09:00",
+            "source": "tv-tokyo.co.jp"
         },
         {
             "company_id": "mitsui_home",
