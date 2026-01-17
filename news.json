@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-17T14:17:49.492936+09:00",
+    "generated_at": "2026-01-17T15:26:17.525943+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -1361,17 +1361,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業、RUTILEA、タイズAIの3社、福島県大熊町にデータセンターショールーム「Module DPDC Fukushima」を建設 - クラウド Watch",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VTWI1VGcwNjNLT2NKVEhuNFVBbGxMejdtdUxlU3FvcFkweDlqYlFMLXBjaGhwMC1rV1BvLUtXT2tpR2dRMGVmUmwxVUgwUVgzQ3VpSXdoZTl0SjgtS1I4b3BvYXhPc28?oc=5",
-            "published": "2026-01-07T06:00:00+09:00",
-            "source": "クラウド Watch"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大和ハウス工業、RUTILEA、タイズAIの3社、福島県大熊町にデータセンターショールーム「Module DPDC Fukushima」を建設 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ma0V2YnpuZFdpa1JibFIzb2M0ZkUwbHE2eUlYT3lkWGRWUzc1d1dZNXp4eWdiVjE3RDRodlI0UENhOUtpZzFiajY1T0lkZEZkT3FDYm0wZEs4ZWVYT2E3UlVOMHNMT2NHOGxjcTJSbGxydXRQZlFrTW40Q1ZqZFk?oc=5",
             "published": "2026-01-07T06:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業、RUTILEA、タイズAIの3社、福島県大熊町にデータセンターショールーム「Module DPDC Fukushima」を建設 - クラウド Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VTWI1VGcwNjNLT2NKVEhuNFVBbGxMejdtdUxlU3FvcFkweDlqYlFMLXBjaGhwMC1rV1BvLUtXT2tpR2dRMGVmUmwxVUgwUVgzQ3VpSXdoZTl0SjgtS1I4b3BvYXhPc28?oc=5",
+            "published": "2026-01-07T06:00:00+09:00",
+            "source": "クラウド Watch"
         },
         {
             "company_id": "daiwa_house",
@@ -2446,13 +2446,6 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTTE4STA0UXJrTF9tazJuT0lYWGZoM1lnNlJkalR5M3ZNVjlJV0lPZHlvbHcxLTBOdE1jZ3ZobE5IcXhIbmN0MmVKV0VnZktBbW9ULUVBdFVCeGtodGFuRHVKS0hMRUtsaXc?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU5Kb28yUl9QQV9KUkF0WmNOSjN2ZDladUdrVW84YnAtTExOaEgwRl9Gd1ZycE05a3R4SGdUcnJDOEJOcm9hWXpVVGlBTGZyV042NnVKVEdwV28?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
@@ -2460,17 +2453,24 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 内部部材積算業務をAIで効率化 - AMP[アンプ]",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4aHRSYkE0NG9DdnNNYjFPNk1oS3RyUUhRb2Q3ZU9sT3Z1Z2NwbjhDMDVzNGRaS3NCblZoYlBLTjc4XzBwY0tJVlFkOXZWNlczMHU2WGducWtFVmk2RGJLY2l4ZGp5NU0?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "AMP[アンプ]"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - ニコニコニュース",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nc0NDazRxRHg5UGNkZGhPR0xZNW9ieDdVTEt3QldJemRqU1lpV1UxT0hoVW9wd1BjbFpxanZEYmp0VzdMMEVKMmdZeVd0X1VybElISDVsenNMSDdwNUVjTFRPYWpOY2xrUTYxUC0wQVYwNWVUX0E?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "ニコニコニュース"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTTE4STA0UXJrTF9tazJuT0lYWGZoM1lnNlJkalR5M3ZNVjlJV0lPZHlvbHcxLTBOdE1jZ3ZobE5IcXhIbmN0MmVKV0VnZktBbW9ULUVBdFVCeGtodGFuRHVKS0hMRUtsaXc?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 内部部材積算業務をAIで効率化 - AMP[アンプ]",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4aHRSYkE0NG9DdnNNYjFPNk1oS3RyUUhRb2Q3ZU9sT3Z1Z2NwbjhDMDVzNGRaS3NCblZoYlBLTjc4XzBwY0tJVlFkOXZWNlczMHU2WGducWtFVmk2RGJLY2l4ZGp5NU0?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "AMP[アンプ]"
         },
         {
             "company_id": "sekisui_house",
