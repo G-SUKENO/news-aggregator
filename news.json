@@ -1,6 +1,27 @@
 {
-    "generated_at": "2026-01-19T16:26:31.898725+09:00",
+    "generated_at": "2026-01-19T17:28:31.134014+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスシャーメゾンPM中部社長に桜井直樹氏 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12TVJUVktNbjI3WFBRbHJPakdmenphRHhPMFBJS0ZaSWV5VVotRS1qc3dfSFFiLW9qVVlFbVkxVmZtak1ESTR1UjAtaGdVeXYyWTNBV2w2UmtfVTdHWmxoUjh4NXdJU3RyTGFhUQ?oc=5",
+            "published": "2026-01-19T16:30:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスシャーメゾンPM東北社長に石井真樹氏 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGRlZLbnJYR29yT2V4bjdLRFA4M0IydGlHaHRCRF8xZzBIUUd2RTREWkNNNVpqd1JpT29UanhBWDhDVnZZSkJCZi1iblhnME9XeUtUUGViMjJhZUUwMHFqcHFCcVVKUXBnV0h6bw?oc=5",
+            "published": "2026-01-19T16:30:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "シベリア抑留乗り越え、大和ハウス工業を創業 大阪企業家ミュージアムで石橋信夫氏特別展（産経新聞） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MLXVrSThaRzI0b0dtYklIUDdmeFA4MUJrbjJ2Y19BNEg0YXdacmVMcWRBcE9XOHRjS2xVX05KWnVBSHN4S0IwVURVZmI4R1FJOTNORFA3QVdaWnplaHozbkZlN3VaNklTMUVwbUtBSWY4TnlBRy1iWXBBcGJsR1U?oc=5",
+            "published": "2026-01-19T16:18:19+09:00",
+            "source": "Yahoo!ニュース"
+        },
         {
             "company_id": "daiwa_house",
             "title": "シベリア抑留乗り越え、大和ハウス工業を創業 大阪企業家ミュージアムで石橋信夫氏特別展 - 産経ニュース",
@@ -1157,18 +1178,18 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【５％】 積水ハウスについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.45] - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRnA3RFVYeWx6b01uVm9UX2gzaDJuZWtFVmtjaVBHZmhwLURkVnRKazdJM2ZsTDRCQ05RRnVENWhwcGxiaUpRcV9GQ1I3b1R1eTNnbjY1emJUWkFheWtlUmhB?oc=5",
             "published": "2026-01-08T17:00:00+09:00",
             "source": "かぶたん"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1423,6 +1444,13 @@
             "source": "日刊工業新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oU2plZEJXMEZPcDhlV3FGaDdhRk40T2hlMWJRUkQ4a0JxY0Q1UXlMOUt6U3NrTDJWZlM0ZVNIbGZOMkhoaWhxbGp1LXQ5eXBrOU1iRkthZVA0MWZ5QWlpc2MzNXZjRW5WaVFqWVNMM1BQdFhK?oc=5",
+            "published": "2026-01-08T05:00:00+09:00",
+            "source": "日刊工業新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（3ページ目） - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMnVCX1V2LTgzRVZjV0FUVnRpUFU1b3BQdjVrVDFtTE1LRUtBNnFWVFNZRUE5NmJ3d0N3RFJPWHh4cmsyWkhUX1RRcFZuMjBBeWt1Z2pmZGpndHhSS3VhSHQxSHN1ZllFRFY0aHF4d2RVdw?oc=5",
@@ -1435,13 +1463,6 @@
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QllrWWtNWFFsOUxxS0tqenN0cjBHWW5vZGlRRHRHTWlrNmtBZWtmTXZNQkxFZUV3bGtvVGhuMDB3SGRyX0tYNlF0QzRRcWE3MzR6T0xTb1htNlRlaVRsTlFOOTRET29SR3hDWlQ3dXg0UQ?oc=5",
             "published": "2026-01-08T05:00:00+09:00",
             "source": "日経クロステック"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oU2plZEJXMEZPcDhlV3FGaDdhRk40T2hlMWJRUkQ4a0JxY0Q1UXlMOUt6U3NrTDJWZlM0ZVNIbGZOMkhoaWhxbGp1LXQ5eXBrOU1iRkthZVA0MWZ5QWlpc2MzNXZjRW5WaVFqWVNMM1BQdFhK?oc=5",
-            "published": "2026-01-08T05:00:00+09:00",
-            "source": "日刊工業新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1598,6 +1619,20 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス・遠州鉄道、東海地方で初のSI事業提携 法人向け共同建築事業の開始を決定 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIRFZObzlNWTBEZjV3czdxYlFKV1o3NnBRQmREMTVSdjUxcXFqVmpSdl9NWnMySzJEYkNSZ0RQbU1ZUmRHajJwY2FpZ29FTTdWVWc?oc=5",
+            "published": "2026-01-06T17:00:00+09:00",
+            "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス・リート投資法人[3309]：第8回投資主総会招集ご通知 2026年1月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3aGlHcWNQYkRqY3d0Z0l2dUQ3cjhvSzA3cjMyWF92VWotRzR3RUNBZ3VjYWdGZURBTk44MjdOMnpDZnJrSGFXb1B1enRIYnJON0F2UjZyLVB6czJjSHVXd1JJTEpPTTdIdXc?oc=5",
+            "published": "2026-01-06T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "〈大成建設も食指〉ゼネコンが熱視線注ぐ｢サブコン｣に再編の兆し／大和ハウスの住友電設買収は序章か - 東洋経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CUjVCOTdFUVNnWDZ4ajFDNm1kaEwxa0dLcFBRa2x1U3JyemlBNmg2bkdiV3JkTXlyckUzNXpuUXd6cGhuQzJSaXFqN2J6MkRHTFE?oc=5",
@@ -1622,20 +1657,6 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス・RUTILEA・タイズAI、データセンターショールーム「Module DPDC Fukushima」を着工 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDA0b1JFNGZsWTBoU2podVc5QWFYY3E1RjRKWFFzZWhHNmZpNlpEQW5Ca2tSSUhYNWF0V2N2Z2c0UkVoOV9JQXFMNVotd0RaZUhFMTl2ZlJqSFQzYmVtZTFpNHdidjhXekRpdXluUUJuVEdlRXdGM005dFR1cTdnb1hpcmdCdjVic2J3RUtkUTdyMHp5Z2g5NTJ3Z2YycFE0WE44?oc=5",
-            "published": "2026-01-06T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス・遠州鉄道、東海地方で初のSI事業提携 法人向け共同建築事業の開始を決定 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIRFZObzlNWTBEZjV3czdxYlFKV1o3NnBRQmREMTVSdjUxcXFqVmpSdl9NWnMySzJEYkNSZ0RQbU1ZUmRHajJwY2FpZ29FTTdWVWc?oc=5",
-            "published": "2026-01-06T17:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス・リート投資法人[3309]：第8回投資主総会招集ご通知 2026年1月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3aGlHcWNQYkRqY3d0Z0l2dUQ3cjhvSzA3cjMyWF92VWotRzR3RUNBZ3VjYWdGZURBTk44MjdOMnpDZnJrSGFXb1B1enRIYnJON0F2UjZyLVB6czJjSHVXd1JJTEpPTTdIdXc?oc=5",
             "published": "2026-01-06T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -1808,13 +1829,6 @@
             "source": "ｄメニューニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業、モジュール型データセンター商品を2026年1月より提供 JDCCの最高レベルに準拠 - EnterpriseZine",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FMkY4WkxNY1FsZjRsNjZLZ3oxR3owdzh3bHlQSFdUYlk4WjZ6aU9OWk10Z21XdjlBN2pnaTRxVng4XzRZMnNYY2JwRFpvanI0MkZVR0JB?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "EnterpriseZine"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "〔年頭所感〕仲井積水ハウス社長：より高度なサービスとソリューションを提供(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXRNM1hMUkZac0E5ZXVSc3ZtdUM4ZDNmYnUxczV6UEFOTzdHVDZjMzltY29oX2syTGJEV29sbF9vT1NydDhJY0FnVmQ0cEF1ZXMyWWljOGRpaEFNcml6am1WYzZ1SVVUWUt4STh6VzNKaGJiRUg0UFFpTjNSemZsYnByMmRvRmM?oc=5",
@@ -1827,6 +1841,13 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMlZ0SUhybjRTTGtGMjNKQ0F1V3NvTUpKb0xaVENJZkJ4NjZsQVBhRUZmU1VEMFBPbWRZQ3lHdXdackpZVWNsX0FJR2M0MllUMnFWZ19CT05nOE9oM2NpU1JKMmdNcXc?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "健美家"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業、モジュール型データセンター商品を2026年1月より提供 JDCCの最高レベルに準拠 - EnterpriseZine",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FMkY4WkxNY1FsZjRsNjZLZ3oxR3owdzh3bHlQSFdUYlk4WjZ6aU9OWk10Z21XdjlBN2pnaTRxVng4XzRZMnNYY2JwRFpvanI0MkZVR0JB?oc=5",
+            "published": "2026-01-05T17:00:00+09:00",
+            "source": "EnterpriseZine"
         },
         {
             "company_id": "sekisui_heim",
@@ -1927,18 +1948,18 @@
             "source": "熊本日日新聞社"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業 大島茂氏「生成AI時代に問われるのは、使う人間の力」 - digiday.jp",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZOGtFSHNPZ2t4UkRMVjFySFBhOHdmRUxKTDFaamlkUWdWTEtBZzlPRVdlSnVHM2k1MFFZano1THFuaW5kMVpkLUN1VlNQOFRfVUtQSXkxcmdOZDRaaUhYa3hBSFM?oc=5",
-            "published": "2026-01-04T17:00:00+09:00",
-            "source": "digiday.jp"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【NISAで一生モノ】株主優待と配当金も！ひと粒で2度おいしい2026年1月の欲張り銘柄3選 - マネーフォワード",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uYnBXQmJuSmtxNDAyd2RtOW90VmthcFFjcjFGNnZBd1NaS2FON1FIRXVSTERZaHZIRmdPS2huY1gwaW5BZzhrMjY3WjVWX2pZbVNVMTB6NFU4bFZzb3d0WnhR?oc=5",
             "published": "2026-01-04T17:00:00+09:00",
             "source": "マネーフォワード"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業 大島茂氏「生成AI時代に問われるのは、使う人間の力」 - digiday.jp",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZOGtFSHNPZ2t4UkRMVjFySFBhOHdmRUxKTDFaamlkUWdWTEtBZzlPRVdlSnVHM2k1MFFZano1THFuaW5kMVpkLUN1VlNQOFRfVUtQSXkxcmdOZDRaaUhYa3hBSFM?oc=5",
+            "published": "2026-01-04T17:00:00+09:00",
+            "source": "digiday.jp"
         },
         {
             "company_id": "ichijo_komuten",
@@ -1997,6 +2018,13 @@
             "source": "SUUMO"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "大阪万博日本館の解体材を再利用 積水ハウス「旅するCLT」発表 | 産業別動向記事 | プレミアム - nikkinonline.com",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUFdHbVJEWS1iMmxIaVVRRWR2V3MzLXN0Q19iQVhnRE45eENSd2haQWQwQTVnVl9UNERHLTFPY3JCTXU1em1qc3ZrYk9kNWVUd3RNYXR2OU41eXRDNEpqOS0td2k?oc=5",
+            "published": "2026-01-02T17:00:00+09:00",
+            "source": "nikkinonline.com"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスの「次なる買収ターゲット」はどこなのか？芳井会長が語る、住友電設をTOBした真の狙いと“その先” - ダイヤモンド・オンライン",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9saDVmYm5xTUVNVExFZklWa2ZleURmNkxPbUlhOXZBekcxem1YSUM5NnBxSUloNFozVktrU0dqZDZ6bThSQlVVd0Q2REPSAU9BVV95cUxNQkxpdGhxRFBSQXJDQk9IalMwdktlMzFud0NmUVZUejdvejJzZ0FrUVNabmNiZkd5bWJTQXl6bHFhRXZJYWJBbDVqdkVMQmYw?oc=5",
@@ -2016,13 +2044,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbWxHTzBfNUlsc0xxU0YyZGlmY3NfUVhycllvbE9kNlh2cWtGNlUtMjFsUkZrOER1RFB6ZTliR04xR3JtU3NmQTFPZldHalpRV1BvM3p0ekdOcngzRUdlNlhJUU1VU3lkb3c?oc=5",
             "published": "2026-01-02T17:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "大阪万博日本館の解体材を再利用 積水ハウス「旅するCLT」発表 | 産業別動向記事 | プレミアム - nikkinonline.com",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUFdHbVJEWS1iMmxIaVVRRWR2V3MzLXN0Q19iQVhnRE45eENSd2haQWQwQTVnVl9UNERHLTFPY3JCTXU1em1qc3ZrYk9kNWVUd3RNYXR2OU41eXRDNEpqOS0td2k?oc=5",
-            "published": "2026-01-02T17:00:00+09:00",
-            "source": "nikkinonline.com"
         },
         {
             "company_id": "daiwa_house",
@@ -2354,6 +2375,20 @@
             "source": "AdverTimes.（アドタイ） by 宣伝会議"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスが万博日本館のCLT再利用、KUMA LAB・東大と建築物に - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSlVXUnJGTkZlY2Fqd3htZ1AzSzNxWHZQMW11S3lkTG1hZEhycHpxSUZKeFlGWVBHZWp2bGZaVDdWRzItMGVnTXJ1S1ZLMzhfMjlwZ1lUMjYxTHptMFBNeGQwMTlFZU0?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "万博日本政府館/解体材を再利用/積水ハウス - 建設通信新聞",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iS3EyNFdkYWxMUFhHOXpnVHVoa1N5c3AxOUlIRFJwS21UZ3lxNm5valZRTU9COURyWG1HckdQNWRjVEtkZ21QUzVBeElXQlBKUnNUQ1JCYmo?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "建設通信新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス「春の住宅フェア」を開催！ - PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
@@ -2373,20 +2408,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Q0FZZ1BoS3U1c2ZkWDhiWXA0NEE0aXZVRExHTGFiWTRPcHA4LXpuZjVkeGlLTHVGSk5HZXIta1dudUxDUXJJRkc5Y1FJR1djbGo2QVdjUFdLTjdLLWc?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "新潟日報"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスが万博日本館のCLT再利用、KUMA LAB・東大と建築物に - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSlVXUnJGTkZlY2Fqd3htZ1AzSzNxWHZQMW11S3lkTG1hZEhycHpxSUZKeFlGWVBHZWp2bGZaVDdWRzItMGVnTXJ1S1ZLMzhfMjlwZ1lUMjYxTHptMFBNeGQwMTlFZU0?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "万博日本政府館/解体材を再利用/積水ハウス - 建設通信新聞",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iS3EyNFdkYWxMUFhHOXpnVHVoa1N5c3AxOUlIRFJwS21UZ3lxNm5valZRTU9COURyWG1HckdQNWRjVEtkZ21QUzVBeElXQlBKUnNUQ1JCYmo?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "建設通信新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2550,27 +2571,6 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "沖縄那覇・国際通りの旧三越ビル、大和ハウスが取得 再開発へ - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWRDJ5TjFESXAtaDc3S0lfeExBd3c1SVdtcGJzR0VIeU5tVEtoWlhxSzh4YVN3YWRRbVk0S3FqcmFCY3ZDTThkNGttNGdJc2F0TnQ3ZkF2RGdxMGpUSU90TVJadVZqRng5dFByVg?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "子どもが生まれた正社員に最大１００万円を支給する制度を開始(ニュースレター) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MM1FmOUNnZmRNbmcyczVYTmcwWmFTS3ZsOGJjWm1MNENiUGE5TjlEVW16cFZPRkVha240UThHakptNTlZSW1oRjd6bkhXUEg2NnFJaFgtb29ZQ0I5Zkh5Ry1NU1dJaEp6M2c?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "【特報】 寄前【成行注文】買い越しランキング 大和ハウス、ＭＳ＆ＡＤ、ＫＤＤＩ [08:36] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVVFPUnBmN0M4M3pqalFrWkw0SW1FQzJzSUQ2b2VYbVB0YnNockRHOW1hS2t2RGZxVWtReGdUTGs0cE9BNUJ1YTNXaGl6dkhDVXNKNUJoNTZ2SHM1WmpLSQ?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "かぶたん"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス投資法人（3309）｢稼働率の推移｣を更新しました。 - 四季報オンライン",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZ3FuRnQ4SHFMcFYtSDJsWlJ1em1OX2dFbk5VSlVFN3pjcjM2ZkpuLVZTUk04anlGUVFucWNSMFA1S0M4QmpYVV92Sm51aHBMNmdCZGhVdw?oc=5",
@@ -2590,6 +2590,27 @@
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzZzV012dktDd3Q5c2UzMEYzcnNLXzRLenc2dnNTTERjM21BZzFORVFtOEV0N3FaOS16WmQyZ2Q5SFg3WXRWTHBpcDBzaFpLZzk1MEtMdFg3LWQ3a01uTDBHRWRubktGN0xscGN6UFhHMmotUGxOblVZUzVfME16N3p2eXEwblp4UFpMZEZrV2ZiOE1wQlJXZ001V1VQbXpVY2ZaYWE0UC1MQQ?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "沖縄那覇・国際通りの旧三越ビル、大和ハウスが取得 再開発へ - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWRDJ5TjFESXAtaDc3S0lfeExBd3c1SVdtcGJzR0VIeU5tVEtoWlhxSzh4YVN3YWRRbVk0S3FqcmFCY3ZDTThkNGttNGdJc2F0TnQ3ZkF2RGdxMGpUSU90TVJadVZqRng5dFByVg?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "子どもが生まれた正社員に最大１００万円を支給する制度を開始(ニュースレター) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MM1FmOUNnZmRNbmcyczVYTmcwWmFTS3ZsOGJjWm1MNENiUGE5TjlEVW16cFZPRkVha240UThHakptNTlZSW1oRjd6bkhXUEg2NnFJaFgtb29ZQ0I5Zkh5Ry1NU1dJaEp6M2c?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "【特報】 寄前【成行注文】買い越しランキング 大和ハウス、ＭＳ＆ＡＤ、ＫＤＤＩ [08:36] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVVFPUnBmN0M4M3pqalFrWkw0SW1FQzJzSUQ2b2VYbVB0YnNockRHOW1hS2t2RGZxVWtReGdUTGs0cE9BNUJ1YTNXaGl6dkhDVXNKNUJoNTZ2SHM1WmpLSQ?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_heim",
@@ -2779,13 +2800,6 @@
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Id0VCOXVhSjA1REo4VlZ5SmltZmdjNEhYYzdyVjBCa1pnSmIxTERlV1JtV0xYQ2hsa09UYmFnQXZCUFIyRENQYVVfcFMzTEdSRU5FOW90RW55REVFeVpjRF82cVZGMXQy?oc=5",
             "published": "2025-12-24T23:00:00+09:00",
             "source": "琉球新報デジタル"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "国際通りの旧沖縄三越ビル 2026年春から再開発へ 大和ハウス工業が土地95%取得 ホテル・商業施設を建設へ - 沖縄タイムス社",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OZndaNGFFTUZiRU9CeVF6Z1Jhb0Z0UHF1UzE0TTlhOTJsTko5T09jNjlzZmNYLXdadGtiUlVHbW5nOFZFVVVOeGNzaUR1cGtEZnRUbTd2bmNKLWxDbUE?oc=5",
-            "published": "2025-12-24T22:00:00+09:00",
-            "source": "沖縄タイムス社"
         },
         {
             "company_id": "misawa_home",
@@ -3250,25 +3264,11 @@
             "source": "Green Card ニュース"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "【売買】総額552億円の資産入れ替え取引、積水ハウス・リート - 日経不動産マーケット情報",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTbmRDWUZxeU5FZ2d1WHFVSjk0WmYyVzdTakhqWXNaWFVzU3F3UkhUbE13U3hYcFVyMzM3eHBlRFo0anoxZDZoVkhVZVl6RUhYQlhNSTlGczhPUUFlOFNUcUdn?oc=5",
-            "published": "2025-12-21T18:51:42+09:00",
-            "source": "日経不動産マーケット情報"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "［チェックＣＭ］積水化学工業 あったかハイム「二人のウクレレ」編…暖かい家なら、優しくなれる？ - 読売新聞オンライン",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16MEJRczQ4cXF3aTR5X3NQMWE5dDVMeWpoVjNGUnBaZG1jWjhzZFNfQnQxQkFNR3N5OFBBd3NMeXJ5Z245Q0pmNWQ1V283Z0ZtbW5MV1NLU1FISGZMZGp0ZDJMUVF4aEJZ?oc=5",
             "published": "2025-12-21T17:00:00+09:00",
             "source": "読売新聞オンライン"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "高騰するマンション価格 郊外は「要注意の時代」積水ハウス社長 - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14eWMtN2xCUXdBbE9tSGV1UlMzcm5CY0ZTbDlvdnJXUDJVWU1ndTYwVGZGTTNqTHZraGdGVEFTcEwyVUhvYzVJQ2c2WEV4cUZfb3Z3cU1manZtM3RHQTJqTW93Q3FteUU?oc=5",
-            "published": "2025-12-20T17:00:00+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "sekisui_heim",
