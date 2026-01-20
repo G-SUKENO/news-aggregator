@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-20T14:26:11.238749+09:00",
+    "generated_at": "2026-01-20T15:31:02.269759+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -14,6 +14,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94SmtPQm5sRlM0RkRRczJGei1iNGprRmhvSUg0UGZRODJsSE1UVVpBclQtZkVqQVR3VkhDdGVtUWsyRkVvejdOaC1jVTNjcDlUbW05QUpYVjRNeFFsLXJjb0lXOUdCZDZLaHc?oc=5",
             "published": "2026-01-20T14:00:01+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "（プレスリリース）三井ホームグループ初の木造交番建設に着手 - ニフティニュース",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQXEtQkw3Mk5aM3JNOXVTa0g0UHU2Yk5kMEl2MFdhWDNaMmxkQk1WWUtTRW9BeDVLS2p6U19XelRCNnVjYkJmeVByVUFZZ3JONDRRendkZF9jdVUtYU5rdTlRa3lYTjBIOXFkLVE4SQ?oc=5",
+            "published": "2026-01-20T14:00:00+09:00",
+            "source": "ニフティニュース"
         },
         {
             "company_id": "sekisui_heim",
@@ -500,10 +507,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "地震に強い木造住宅普及へ、耐震性高めたモデルハウス公開 積水ハウスと関西住宅販売|経済ニュース - 神戸新聞NEXT",
+            "title": "地震に強い木造住宅普及へ、耐震性高めたモデルハウス公開 積水ハウスと関西住宅販売|経済ニュース - 神戸新聞",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JTnAySVRXT1c2WmhvYmdxcC1FdlNmbTdoazRmeTIxMjBtTkpnU3NFNzFYQy1HdDNsOVR6SXozelNMLW9wRzBhUGRPOFN5bldiOXBBQ3ZkclNCVkZ4UWtjQnF4SlNpTUp6NERmVTBacGZyQlF2WEd3?oc=5",
             "published": "2026-01-15T17:40:52+09:00",
-            "source": "神戸新聞NEXT"
+            "source": "神戸新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -1907,10 +1914,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、木造住宅会社「アーキテックプランニング」の全株式取得 - 千葉テレビ放送株式会社",
+            "title": "積水化学工業、木造住宅会社「アーキテックプランニング」の全株式取得 - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jUENmMWVxMHJ1Tk0zc3h0SXMxUG9feWNvU0lqeUQ5SnJpZnB6a1ljaEstaFBYZVc3SVhZQ2xaOVVxYzBkeVZLLWJqbThHdDVuU2NyTzhSZ29MblQyTUVj?oc=5",
             "published": "2026-01-06T11:46:18+09:00",
-            "source": "千葉テレビ放送株式会社"
+            "source": "千葉テレビ放送"
         },
         {
             "company_id": "misawa_home",
@@ -2831,6 +2838,13 @@
         },
         {
             "company_id": "panasonic_homes",
+            "title": "プレスリリース：AItegrity、パナソニックホームズに建築向けAIサービスを提供（PR TIMES） - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xWHFpWlVlR2JabXZFT211QkZXcFpTWG5BTnNTTVJrQy1xUHZXdTNkdS1FQnRmZGNlMUZLS3VGR2d0Ul9FUTlaX3hFSWRKR0ZjOXlZUzM0MHVGS3hMOVNmS2E1VWJHWHQ4?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "毎日新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - ニコニコニュース",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weHB1aXhXM2lGRUo3c2kwNk96ZXJVbXY1UnNUNGlyTENrQ0U0V3ZUVUE0S003WFdHb3JReUVRRTVXTFFJQkkyenNzVFJDcHlCVHdWWQ?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
@@ -2891,13 +2905,6 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tbkI3eHhqRU9WUWx4RTB5UThkdjE2YVBEV2FOUS1zSVF1ZC1ZTGt0aTlibUZaY0JtT2tsTVJVWGNvclY1aV9kQWRDSFFUYzZYOC1aVjgyUlJjR015WGkwcHNpYjNxS3I4ZE84?oc=5",
             "published": "2025-12-25T12:16:00+09:00",
             "source": "時事ドットコム"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "プレスリリース：AItegrity、パナソニックホームズに建築向けAIサービスを提供（PR TIMES） - 毎日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xWHFpWlVlR2JabXZFT211QkZXcFpTWG5BTnNTTVJrQy1xUHZXdTNkdS1FQnRmZGNlMUZLS3VGR2d0Ul9FUTlaX3hFSWRKR0ZjOXlZUzM0MHVGS3hMOVNmS2E1VWJHWHQ4?oc=5",
-            "published": "2025-12-25T11:51:45+09:00",
-            "source": "毎日新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2978,17 +2985,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "第77回 全国カレンダー展 金賞と特別賞を受賞2026年 オリジナルカレンダー「住友林業の森」 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUVJ0Uk9EU1IzZEpKeWZuRjVrQW5XTW5ORXFkdEduWHR2RXNPdnpnbHFjUG5xZGFmczNRSE5vNlZCSnAyZlBKeEp3YnYzTGRfcVJjelJwMnJWRWxBVDlYQlNzVGVMSlcwaVE?oc=5",
-            "published": "2025-12-24T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "第77回 全国カレンダー展 金賞と特別賞を受賞 2026年オリジナルカレンダー「住友林業の森」 - PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQUpEV2tDM20zZzZmVXpSbEwzZzQ0NTlOcVc4Q0lxTTdEQXpwTVQ4RnBzYUpWOHNaQWFRbkl4anVjNjFXWjlRdUhzV0JRSEcwRE5hbVdiZEd1cGs?oc=5",
             "published": "2025-12-24T17:00:00+09:00",
             "source": "PRワイヤー"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "第77回 全国カレンダー展 金賞と特別賞を受賞2026年 オリジナルカレンダー「住友林業の森」 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUVJ0Uk9EU1IzZEpKeWZuRjVrQW5XTW5ORXFkdEduWHR2RXNPdnpnbHFjUG5xZGFmczNRSE5vNlZCSnAyZlBKeEp3YnYzTGRfcVJjelJwMnJWRWxBVDlYQlNzVGVMSlcwaVE?oc=5",
+            "published": "2025-12-24T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -6293,13 +6300,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01cjVkRXh6V3ZGd2N4REJuU1pJaEVTRjdvRnB4eWwydmh1V3JUaUIzVEp2U2FsQUpFUXBOcmVsSnlIb0JUOEhTX3FtZzPSAUxBVV95cUxNNXI1ZEV4eld2RndjeERCblNaSWhFU0Y3b0ZweHlsMnZodVdyVGlCM1RKdlNhbEFKRVFwTnJlbEp5SG9CVDhIU19xbWcz?oc=5",
             "published": "2025-05-06T16:00:00+09:00",
             "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "三井不動産 木造ビルの開発を加速 木造建築ブランド「&forest」設立 - 週刊不動産経営",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMDhGVV9ZWG1ORTN2YU45bkwyT0ZKR3R6OFU4ZWdPZDNSQ3VDNHZBWWlVbmxOcXhJbk8ydm1MemtfWXpGMWNhc1NMN3hzczNVTHFOLXg4dnplWVB0Tjkw?oc=5",
-            "published": "2025-04-28T16:00:00",
-            "source": "週刊不動産経営"
         }
     ]
 }
