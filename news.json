@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-20T23:27:31.124298+09:00",
+    "generated_at": "2026-01-21T00:27:46.956540+09:00",
     "articles": [
+        {
+            "company_id": "mitsui_home",
+            "title": "北海道に木造の交番 CLT製箱形ユニットで工期短縮 - Excite エキサイト",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BU2U5MHFIMlF2SUh5Z0VlbUVZeVF0LXNIMy1TcWdIRXZ3TlBFbG9ubUNUOW9DRThtYjZwXzlsRnVDeGNMMGtCSXJpcm55MnJyN0phMHBJMjFvcW0zTmkySFllMVU2VVRmWEt3MmFtN1I1RGlUbEQwbHJ1cGw?oc=5",
+            "published": "2026-01-20T17:56:36+09:00",
+            "source": "Excite エキサイト"
+        },
         {
             "company_id": "mitsui_home",
             "title": "北海道に木造の交番 CLT製箱形ユニットで工期短縮 - Impress Watch",
@@ -243,6 +250,13 @@
             "company_id": "daiwa_house",
             "title": "大和ハウスの常務執行役員｢新人に期待しすぎず｣ 失敗恐れず挑戦を - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tclhpZWpadjhlNG1KLUhrNVZ1MW9sTGJ3QzVOdi0wMFQydDE3ZWoyczhNSnpIeU54ZVlBa2xrQ3pzbnZrU0VVUU5xZm1wa3NwQ1QzcXJDMDlOWmlJVHdFNk1hV1JydFcwc1F6SQ?oc=5",
+            "published": "2026-01-19T05:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの常務執行役員｢新人に期待しすぎず｣ 失敗恐れず挑戦を - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXVDaF9GOGdZcktacHJNUExfUGN2WmF2R0VfSXh5R1dVdDFLM1RoMWpyQTBhdjU5SGVYZ1VYZ0hmTHM0RDFlZm9xMGtXU0J1UWJCZzZqZFVfekpHMVF4UFBDczdiSDlQVFNsWURDRUZBYkFwOVJvV1pVWVkweDY2MHU5QzRveGlENk9XTjczdlBUakMwTHZBU2l1dFVrYXUzN0E?oc=5",
             "published": "2026-01-19T05:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -2117,17 +2131,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウスが手がける、モデルルームのようなアパートメント型民泊「SOULEIADO新大阪」。MUJI room essentials導入 - 健美家",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMlZ0SUhybjRTTGtGMjNKQ0F1V3NvTUpKb0xaVENJZkJ4NjZsQVBhRUZmU1VEMFBPbWRZQ3lHdXdackpZVWNsX0FJR2M0MllUMnFWZ19CT05nOE9oM2NpU1JKMmdNcXc?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "健美家"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "〔年頭所感〕仲井積水ハウス社長：より高度なサービスとソリューションを提供(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXRNM1hMUkZac0E5ZXVSc3ZtdUM4ZDNmYnUxczV6UEFOTzdHVDZjMzltY29oX2syTGJEV29sbF9vT1NydDhJY0FnVmQ0cEF1ZXMyWWljOGRpaEFNcml6am1WYzZ1SVVUWUt4STh6VzNKaGJiRUg0UFFpTjNSemZsYnByMmRvRmM?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスが手がける、モデルルームのようなアパートメント型民泊「SOULEIADO新大阪」。MUJI room essentials導入 - 健美家",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMlZ0SUhybjRTTGtGMjNKQ0F1V3NvTUpKb0xaVENJZkJ4NjZsQVBhRUZmU1VEMFBPbWRZQ3lHdXdackpZVWNsX0FJR2M0MllUMnFWZ19CT05nOE9oM2NpU1JKMmdNcXc?oc=5",
+            "published": "2026-01-05T17:00:00+09:00",
+            "source": "健美家"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2774,13 +2788,6 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業、JR船橋駅直結高層分譲マンション開発計画 事業概要を発表 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UU3BwXzFVTU9Td2w5OGtXTTNkMGhyM1RBbVhMcWZlY1NELTJUN1NWSDNyWEtMRDAzdFlFcXhSZG9SeU84d1ljclF2azc5Q3cwS1E?oc=5",
-            "published": "2025-12-26T09:14:04+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "【サランラップ半年分プレゼント】 HEBEL HAUS 新商品発表！歳末キャンペーン - SBSマイホームセンター",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UaUxhQi13RlQ1T0l5dU5BXy1VM28xSDdRQlozRmpaU1BGUm90dG4wSG9KQ1V3bmZ4ZmJCczFKamVjRWwtRXFHMHdfelF3OXFjMXc?oc=5",
@@ -3020,17 +3027,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "第77回 全国カレンダー展 金賞と特別賞を受賞 2026年オリジナルカレンダー「住友林業の森」 - PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQUpEV2tDM20zZzZmVXpSbEwzZzQ0NTlOcVc4Q0lxTTdEQXpwTVQ4RnBzYUpWOHNaQWFRbkl4anVjNjFXWjlRdUhzV0JRSEcwRE5hbVdiZEd1cGs?oc=5",
-            "published": "2025-12-24T17:00:00+09:00",
-            "source": "PRワイヤー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "第77回 全国カレンダー展 金賞と特別賞を受賞2026年 オリジナルカレンダー「住友林業の森」 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUVJ0Uk9EU1IzZEpKeWZuRjVrQW5XTW5ORXFkdEduWHR2RXNPdnpnbHFjUG5xZGFmczNRSE5vNlZCSnAyZlBKeEp3YnYzTGRfcVJjelJwMnJWRWxBVDlYQlNzVGVMSlcwaVE?oc=5",
             "published": "2025-12-24T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "第77回 全国カレンダー展 金賞と特別賞を受賞 2026年オリジナルカレンダー「住友林業の森」 - PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQUpEV2tDM20zZzZmVXpSbEwzZzQ0NTlOcVc4Q0lxTTdEQXpwTVQ4RnBzYUpWOHNaQWFRbkl4anVjNjFXWjlRdUhzV0JRSEcwRE5hbVdiZEd1cGs?oc=5",
+            "published": "2025-12-24T17:00:00+09:00",
+            "source": "PRワイヤー"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -6293,13 +6300,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kcmtna0oyeDZxTEZGR3A2V1plQ2V5LTVib3V5eHNGYk5HQjZxdTFuUEJlTWdSQzJHaXVRZDJOcXFscEdXdExuSm1WZVdScjhHaHJHX0d5QzJxSHk1YmdDUjJJR182SXVoWWc?oc=5",
             "published": "2025-05-21T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "木造建築でナンバーワンへ 三井ホームの野島秀敏社長 - 時事ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ielZkWnc1UlN0cDNlWFh5MmVDSUN4eXlJbkp6SHJFUE11MFRHZ0lzelVrMzVlQVpFaGlkZ0NhTWNFa25MamFDRnUtOWZ6aWc4Y3lQT201ZjVkeDNfRUZLdjg2aHA1MWZz?oc=5",
-            "published": "2025-05-19T16:00:00",
-            "source": "時事ドットコム"
         }
     ]
 }
