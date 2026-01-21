@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-22T03:38:03.114911+09:00",
+    "generated_at": "2026-01-22T04:24:17.395244+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -1402,6 +1402,13 @@
             "source": "四季報オンライン"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "遺伝子情報を活用した新サービス『オーダーフィット』導入(ニュースリリース) - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNklaS0huUmlyaFMweXBUY2RvczFzQ29tcjVNMmRoSVZVcDJUNS1JRkJmRVJFS0Y3LTQyV0xUel9uajhaNzZDcnJsS3NGZlpqdDRsN19MNFdVSTJrVGlyLUtzc09YUnVTb2c?oc=5",
+            "published": "2026-01-09T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "IRサイトが３つの主要な評価機関で高評価を獲得～「最優秀サイト」「優秀賞」「銅賞」に選出～ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BbE44VVZjYmVaUDdpUTZnNkxNY0gtLWlYMFUxczlkRUctM2FvdkliTExjMGk2akhOclpuSFNzMTFSXzk3VDNNTkdZd1FZNDBFbk9wSV9iaWF2U3g4WjBVdlJ4Qk5rTzJMUkE?oc=5",
@@ -1428,13 +1435,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYYjBTNXNReE9wNDRqdjM2X1Y4SU8tZzdoVlVXS0tRQi1pNXd4a1Iza2JtQXVJbnRmZGFWRHNFdmNIYUtzTXZtd1JqWVdkTjZ2QlU1NDlvRTRZZDdGZ2V0b2dlN0RxMEJGc2hKag?oc=5",
             "published": "2026-01-09T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "遺伝子情報を活用した新サービス『オーダーフィット』導入(ニュースリリース) - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNklaS0huUmlyaFMweXBUY2RvczFzQ29tcjVNMmRoSVZVcDJUNS1JRkJmRVJFS0Y3LTQyV0xUel9uajhaNzZDcnJsS3NGZlpqdDRsN19MNFdVSTJrVGlyLUtzc09YUnVTb2c?oc=5",
-            "published": "2026-01-09T14:02:22+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -2103,17 +2103,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "データセンターショールーム「Module DPDC Fukushima」着工 大和ハウス工業株式会社 - niigata-nippo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wQTNENVRuSVF0bjlzZDFiR3Y3RVo0VURnVlZ4SGNDbEt1c3NxRzdmelBKd0lJazNWSjhaMnZCSEY3NjBwVFFKaUdEZDdlaVJSTjZ6WW1BRFpZVHhNX1E?oc=5",
-            "published": "2026-01-06T17:00:00+09:00",
-            "source": "niigata-nippo.co.jp"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "伊藤忠32万円、大和ハウス35万円、ファストリ37万円…「初任給引き上げラッシュ」を手放しで称賛できないワケ - ダイヤモンド・オンライン",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQUNfTi13b2p4Vl92U2V3WE9uRGpKaHM5T1Buei03YTFhZHRBVGJoeU1way1qaFVrcV9sbm1uME1TQlIzLVVDcUhwb1nSAU9BVV95cUxOX1FDRU1kSWI3a3NkeHNQVmowcWNZSFJCZDVTTmphZDh4QXdReU5RTV84bXRxNUYtT3F3M2FRVUxsNDM0OFlsSGdqbWMzdFY0?oc=5",
             "published": "2026-01-06T17:00:00+09:00",
             "source": "ダイヤモンド・オンライン"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "データセンターショールーム「Module DPDC Fukushima」着工 大和ハウス工業株式会社 - niigata-nippo.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wQTNENVRuSVF0bjlzZDFiR3Y3RVo0VURnVlZ4SGNDbEt1c3NxRzdmelBKd0lJazNWSjhaMnZCSEY3NjBwVFFKaUdEZDdlaVJSTjZ6WW1BRFpZVHhNX1E?oc=5",
+            "published": "2026-01-06T17:00:00+09:00",
+            "source": "niigata-nippo.co.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -4490,7 +4490,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "2025年「オリコン顧客満足度®調査」マンションリフォームで5年連続総合第1位 - PR TIMES",
+            "title": "2025年「オリコン顧客満足度®調査」マンションリフォームで5年連続総合第1位 | パナソニック ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kUm43TmVjS0hMNElYZkl0VnpTUlpFM2hPODMwbE1VM3Vock93eVQ0cnc4TEdfSk9wc0VTYzJkXzYzRk1tejA4dFdJWHdwNFA2dXFDWnhkR3lIRE5zeTBfcjJmX3ZyQnNSWFE?oc=5",
             "published": "2025-12-01T17:00:00+09:00",
             "source": "PR TIMES"
