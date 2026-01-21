@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-21T20:21:34.425278+09:00",
+    "generated_at": "2026-01-21T21:42:01.696497+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -7,6 +7,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWTJVZXJyTlprOWN5WG45SE9RcFk3bTBVb0NVY3U2WlN5OFZCdHBuWTRVT2hfMlhQZDFHRjhqMkxNbTdhODgzUTJzZWtpbmoxQ1NOa25KSEJSc1d1NHVsQ1dwV2ZKZERpVXVrXw?oc=5",
             "published": "2026-01-21T20:00:27+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "北海道にCLT利用した木造交番／三井ホーム - re-port.net",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1maHJ5bDZYbjh5U0hDUzZhSHBCQXBMQmtaek9ZTlRxVERtWVlac2lYY25Ca3hEbnhhUngxZzl0eS1jeUo2U0FXdFRObTgtSnQ3aFliVElHb1hCOVl0aGJtdXpn0gFiQVVfeXFMTWZocnlsNlhuOHlTSENTNmFIcEJBcExCa1p6T1lOVHFURG1ZWVpzaVhjbkJreERueGFSeDFnOXR5LWN5SjZTQVd0VE5tOC1KdDdoWWJUSUdvWEI5WXRoYm11emc?oc=5",
+            "published": "2026-01-21T18:21:10+09:00",
+            "source": "re-port.net"
         },
         {
             "company_id": "sekisui_house",
@@ -52,10 +59,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "環境省「エコ・ファースト企業」に認定 ミサワホーム - jutaku-s.com",
+            "title": "環境省「エコ・ファースト企業」に認定 ミサワホーム - 住宅新報Web",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USndSRVZrMjNCZWFmTWJzNUY4SFZCUFZKczdsOURlMzhXUWNZTzZqbnY1RzE3UmpZZ2JDNzJMN29Zc0NGd2hwUV9heUNwNkZ6WTF3S0RB?oc=5",
             "published": "2026-01-21T06:00:00+09:00",
-            "source": "jutaku-s.com"
+            "source": "住宅新報Web"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -161,6 +168,13 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94WXY1QTVNRGhfRnFOZnp5S0lMOTNFbE9KVWpabkROM3U0LVMwNDRDMjF3UVJwUm51ak92S3h6TFlJU1VSTTdDSUV2NXRKMEs5Z084NEV4ZmRwdzNOU1JDSUp4VjItMFpLV2dOZU1HOHVBWmJXc0E?oc=5",
             "published": "2026-01-20T13:30:48+09:00",
             "source": "ニコニコニュース"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xRUNoMGtVU0FkLU1zbGNzV3hhYWVDLVRHNFNmVG0yekg1T0tYajY0dUNkQlNCVmpuVDhrY1hJUTF6XzVha3BVNmpXbmc3OG1ZUE5qTXVrbW5saVh5TTFYSldnM1NJSmNqVkw0?oc=5",
+            "published": "2026-01-20T11:16:00+09:00",
+            "source": "時事ドットコム"
         },
         {
             "company_id": "sekisui_heim",
@@ -5651,13 +5665,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "hebel_haus",
-            "title": "旭化成ホームズグループ DE＆I方針策定のお知らせ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95a2ZtTlRjUXlfRVBEaUxqZGRSZ2NUR2QwTDVFT3BhbkNDU2J1Y3VqaDRCTXJmUWJOYlNPd256X1lEMzU3UkwwWUh1TE92NzY2X2h0VVFDQVVCMk5idmI2cjZMcWhHcnhPSXc?oc=5",
-            "published": "2025-09-05T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "panasonic_homes",
             "title": "パナソニック ホームズが地震被災リスク推定システム「P-HERES」2025年版の試験運用を開始。エリア単位表示で支援迅速化 - digital-construction.jp",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOEY0TXpHNmFFRFZtcU94Q2pHcFI1Q1I5VEFydGVlZlkzTGpMaVg2UjVGcGRZU05vVy1oOHp1X0tzRXVqOVpQWmZaVUt1ZVdTY3ZZ?oc=5",
@@ -6293,13 +6300,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93WUdJOWVXUXk4OWNmU1ZuLXo1Zk5LcThWWXFMNWFpRjVOTVR5QlFfMDhWV2F2NUdjSG85NlFPVmE4NWIyTWY2NENXcE0yb3ZRQVNRNW5Oa2E0bXM4MzdITDk0ZmU0LXdJT0E?oc=5",
             "published": "2025-06-09T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "バレッグス、大手管理会社とシステム連携 - 全国賃貸住宅新聞",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lRVNsN2FWenczdkgzUTBwcUU0bVdSODZrWGFBdHVlOEdQNXB0aHdDSWF6RWkzRTF1WGFqVnAzU28xM3A2cFRXNDNXZTQtM2I5YmM1bEFQR0U?oc=5",
-            "published": "2025-05-23T16:00:00+09:00",
-            "source": "全国賃貸住宅新聞"
         }
     ]
 }
