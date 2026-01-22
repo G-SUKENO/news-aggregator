@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-22T14:25:28.971476+09:00",
+    "generated_at": "2026-01-22T15:29:54.326255+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -14,6 +14,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VYk80LTBqRlVNakpIMWhCTlVlUExFVWR5STFreVJZbG5UU0psSWRGUUpvZHlIMF95OVNyMVNRSmdJZXJMSGRlVVZYTUJuWTlmLUFlU0RFUHlZVGQyT2xPZmtqYTFoZU5vUXc?oc=5",
             "published": "2026-01-22T14:00:01+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店】完成現場見学会開催！暮らしやすさにこだわった回遊家事動線！ - sbs-mhc.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UWGZCMm5ScXczTTdieDBCbGo4QzVzdVJBUDlWcHhKY0ZjQ0VfYzNXdFltdldmREV2RkZCcnBOZ1R1TXV4UTJleE0tekZVNmtD?oc=5",
+            "published": "2026-01-22T11:52:54+09:00",
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "hebel_haus",
@@ -1437,18 +1444,18 @@
             "source": "sannichi.co.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "森林保全、林業活性化で協力 西粟倉村と大和ハウスが協定 - 山陽新聞",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeV9sVmNNanBYeDBuc3J1Tm0xUmo0bTVvMUtJdS1QZDRTTVB5WG1tVnRuUldBczJWdkgtb1NKZnVmR01QZUNyS0g3cldZT0pVYVE?oc=5",
-            "published": "2026-01-10T17:00:00+09:00",
-            "source": "山陽新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "【PR】県内初「ブラックレーベルキッチン」平屋住宅 上越市で1月17・18日完成見学会 一条工務店 - joetsutj.com",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWFlocjRCWUdQT0NxblhhWURFX0w3RThhUmc3ai1oQkp6RW1aX0lESXZ6R3RsRGN1TmJURUR2OFN6ajB0SWVUMVZPTGp1WUtlcWY1Rw?oc=5",
             "published": "2026-01-10T17:00:00+09:00",
             "source": "joetsutj.com"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "森林保全、林業活性化で協力 西粟倉村と大和ハウスが協定 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeV9sVmNNanBYeDBuc3J1Tm0xUmo0bTVvMUtJdS1QZDRTTVB5WG1tVnRuUldBczJWdkgtb1NKZnVmR01QZUNyS0g3cldZT0pVYVE?oc=5",
+            "published": "2026-01-10T17:00:00+09:00",
+            "source": "山陽新聞"
         },
         {
             "company_id": "mitsui_home",
@@ -2046,6 +2053,13 @@
             "source": "SUUMO"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店はやばい？リアルな評判・口コミと住宅性能を徹底解説 - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XNldxdmFvSnIzNTA2VnBjSUJtUmxuWDdzcE04dW9meDlCYmo3OTBMZ09qcURsOW04WW53cW5YR2l1elpRMm93Ny1QN3BLUVZCUjRxcVJhczNocEhNU3Z3RQ?oc=5",
+            "published": "2026-01-07T17:00:00+09:00",
+            "source": "マイナビニュース"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業、RUTILEA、タイズAIの3社、福島県大熊町にデータセンターショールーム「Module DPDC Fukushima」を建設 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ma0V2YnpuZFdpa1JibFIzb2M0ZkUwbHE2eUlYT3lkWGRWUzc1d1dZNXp4eWdiVjE3RDRodlI0UENhOUtpZzFiajY1T0lkZEZkT3FDYm0wZEs4ZWVYT2E3UlVOMHNMT2NHOGxjcTJSbGxydXRQZlFrTW40Q1ZqZFk?oc=5",
@@ -2063,13 +2077,6 @@
             "company_id": "panasonic_homes",
             "title": "パナソニックホームズの坪単価は平均92万円｜実際に建てた方の口コミ・ポイントを紹介 - マイナビニュース",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SeW9ZVmM3N01WaW44Q19aSzlMOHRDV2NQOTgyTjVjVHgzdFBDN1lZVUUtSFZzbW5QZktCamNMLS1OeGt2ZjIxbG5PNmt5N0RzVnpYMHp2aURYN3lfcWFaeQ?oc=5",
-            "published": "2026-01-07T17:00:00+09:00",
-            "source": "マイナビニュース"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店はやばい？リアルな評判・口コミと住宅性能を徹底解説 - マイナビニュース",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XNldxdmFvSnIzNTA2VnBjSUJtUmxuWDdzcE04dW9meDlCYmo3OTBMZ09qcURsOW04WW53cW5YR2l1elpRMm93Ny1QN3BLUVZCUjRxcVJhczNocEhNU3Z3RQ?oc=5",
             "published": "2026-01-07T17:00:00+09:00",
             "source": "マイナビニュース"
         },
@@ -2158,6 +2165,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店、全棟「断熱等級6」を全国標準化 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iU3ZQZ2ZEeXV2b1prSHdJVUNlSWpTTVlRYnBadm9OQ25sRkJ2ZVgzdUI2QnBxUkFpOVJOQWt0UzZ5NmNrWDc1RVpuLW96Y3ZIYTAyQmh3?oc=5",
+            "published": "2026-01-06T17:00:00+09:00",
+            "source": "Housing Tribune Online"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "〈大成建設も食指〉ゼネコンが熱視線注ぐ｢サブコン｣に再編の兆し／大和ハウスの住友電設買収は序章か - 東洋経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CUjVCOTdFUVNnWDZ4ajFDNm1kaEwxa0dLcFBRa2x1U3JyemlBNmg2bkdiV3JkTXlyckUzNXpuUXd6cGhuQzJSaXFqN2J6MkRHTFE?oc=5",
@@ -2219,13 +2233,6 @@
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1WGQ0T3l6cmt4eU50ZHBqWldfVTJuTzdjenY2MjhfVXBJOHNqYTdReTZraUxyZ3A5SzBHWWFEREt3ZTEzY1FidlIxVHY4SjJ5akYtcVU5UF9vWmExMi1ZVlFUSXVtRTRHWGtfRDkzX19Edw?oc=5",
             "published": "2026-01-06T17:00:00+09:00",
             "source": "日経クロステック"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店、全棟「断熱等級6」を全国標準化 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iU3ZQZ2ZEeXV2b1prSHdJVUNlSWpTTVlRYnBadm9OQ25sRkJ2ZVgzdUI2QnBxUkFpOVJOQWt0UzZ5NmNrWDc1RVpuLW96Y3ZIYTAyQmh3?oc=5",
-            "published": "2026-01-06T17:00:00+09:00",
-            "source": "Housing Tribune Online"
         },
         {
             "company_id": "daiwa_house",
@@ -2494,6 +2501,13 @@
             "source": "熊本日日新聞社"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51T3pMNExCS3hJZm1zc0FDNWtrNXNybWRsM1lobkJhVGpBdzJ3cHhOSkR2YjJ1eUtVZU1vcDVpekNyamM0TEItaEs4OXRjd3otWUF3MW5rTTZhTmFkZW14ZnloMk5tM2NoRzhkemtn?oc=5",
+            "published": "2026-01-04T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業 大島茂氏「生成AI時代に問われるのは、使う人間の力」 - digiday.jp",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZOGtFSHNPZ2t4UkRMVjFySFBhOHdmRUxKTDFaamlkUWdWTEtBZzlPRVdlSnVHM2k1MFFZano1THFuaW5kMVpkLUN1VlNQOFRfVUtQSXkxcmdOZDRaaUhYa3hBSFM?oc=5",
@@ -2506,13 +2520,6 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uYnBXQmJuSmtxNDAyd2RtOW90VmthcFFjcjFGNnZBd1NaS2FON1FIRXVSTERZaHZIRmdPS2huY1gwaW5BZzhrMjY3WjVWX2pZbVNVMTB6NFU4bFZzb3d0WnhR?oc=5",
             "published": "2026-01-04T17:00:00+09:00",
             "source": "マネーフォワード"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51T3pMNExCS3hJZm1zc0FDNWtrNXNybWRsM1lobkJhVGpBdzJ3cHhOSkR2YjJ1eUtVZU1vcDVpekNyamM0TEItaEs4OXRjd3otWUF3MW5rTTZhTmFkZW14ZnloMk5tM2NoRzhkemtn?oc=5",
-            "published": "2026-01-04T17:00:00+09:00",
-            "source": "家サイト"
         },
         {
             "company_id": "ichijo_komuten",
@@ -2634,6 +2641,13 @@
             "source": "イザ！"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "ハウスメーカー 注文住宅ランキング - オリコン顧客満足度ランキング",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCLTUwRXp6RDJWeUZqbnp1Z3BJajJ0TTVqYUJlcDd6Yl8zSEV0XzB0aGZWWWkwYVFuV1VkMmVTVk5mSjhJZUU2WUxrYW5Wd3lBU1lRakJB?oc=5",
+            "published": "2026-01-01T17:00:00+09:00",
+            "source": "オリコン顧客満足度ランキング"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ 新春トップインタビュー２０２６ - kanaloco.jp",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XUy1Bc01EMGlCR003T2EwbVJ6dEduOXlOUHFSNU56VG9hekM0NFpFbS04NkpLcFZCV0hfdDk2SUhGTmIwYWFVMzlrZDZRZTZzTDJodm43QzFyZw?oc=5",
@@ -2660,13 +2674,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hc2N6bWVQb2pnaWh6SkQtTUpMVWQtUzJ4NXJDMmFVQ295UGxhSHZsQWYtVkllRzMyTkZIUHlXdG42aUVCYzFVREk0US1ZMHNxZERhY0c3T1d0UQ?oc=5",
             "published": "2026-01-01T17:00:00+09:00",
             "source": "kanaloco.jp"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "ハウスメーカー 注文住宅ランキング - オリコン顧客満足度ランキング",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCLTUwRXp6RDJWeUZqbnp1Z3BJajJ0TTVqYUJlcDd6Yl8zSEV0XzB0aGZWWWkwYVFuV1VkMmVTVk5mSjhJZUU2WUxrYW5Wd3lBU1lRakJB?oc=5",
-            "published": "2026-01-01T17:00:00+09:00",
-            "source": "オリコン顧客満足度ランキング"
         },
         {
             "company_id": "sekisui_house",
@@ -2942,6 +2949,13 @@
             "source": "家サイト"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "ＣＲＴハウジング那須塩原総合住宅展示場 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUelduRWVBQ0gzQ2syVDNnZy1meGlUV2ZGeTZxT3ZoX1RYUWozemoxOGlleWRhT3YtT1FjbVZCM0FPZm1DMmhvRlI0X2pCbHoya0tIbENESWx3RGdXbGVlcWxKSWpYMmt2dzBPUzZB?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス「春の住宅フェア」を開催！ - PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DaERSZmpEVXNvQzk4dVRIb2xYY2ZsYmt3WWdQSGNwVUJfak1CVmZMNldHb0c1OExVWUo3R3FUb2N5UUdmN0xVZ1NuR2tfeThvSDBUZUh5U3cxQkE?oc=5",
@@ -2989,13 +3003,6 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45WmhqN1BtVTByZUhZRTVHbEc4WXl1ZmxzMWpaclhOc2NNemdRQlJQcTc0V0x0Q2lNXzlqemtTWEphMDBZZW9IbW42YUctckQ0VFIw?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "CLUB-Abo"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "ＣＲＴハウジング那須塩原総合住宅展示場 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUelduRWVBQ0gzQ2syVDNnZy1meGlUV2ZGeTZxT3ZoX1RYUWozemoxOGlleWRhT3YtT1FjbVZCM0FPZm1DMmhvRlI0X2pCbHoya0tIbENESWx3RGdXbGVlcWxKSWpYMmt2dzBPUzZB?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "家サイト"
         },
         {
             "company_id": "daiwa_house",
@@ -3066,6 +3073,13 @@
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hbVE4T3E4NDJlWnVEQ1FHM1JjRmRMVlFOd3dKRTFlZ25EMjdKZkhZallvUGdpV0hqNTYwTG9PalowRllDUnlyZ3FfYmFGQ04zdWVvZ0lOTkM5NXFKQnRKRXVoSno5aHB4SnZuWWRhaWtGWjRJUmtXZllwYW5yQQ?oc=5",
             "published": "2025-12-25T18:21:37+09:00",
             "source": "SUUMO"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "『一条工務店』『住友林業』を抑えた！【マイホームを建てたいハウスメーカー】堂々の1位に「作りがしっかりとしている」「長期にわたって安心して住める品質」 - TRILL",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "TRILL"
         },
         {
             "company_id": "panasonic_homes",
@@ -3164,13 +3178,6 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSUdMUGNIZFNzeVExd1Vpb0xsVktHOGVVNXhlUmlUQ0dfbldJcjVOSjQxaUFrbzR2Ml8wNHM3SHQ4WEoxOXUxcmhXdzQ5ZlplUGhSa2c5eGZYSWdUZW0wbVpDRWM1Mk1fNWZN?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "『一条工務店』『住友林業』を抑えた！【マイホームを建てたいハウスメーカー】堂々の1位に「作りがしっかりとしている」「長期にわたって安心して住める品質」 - TRILL",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZjVVU0ZadzAxd05FcGNWalhSUGlTSEp3NkpZbng3dlZSSU91NHNTUW1KX3lhXzJGNVd6YTY2MXZzV0N5Z1k5dG5Ec0xYM0k?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "TRILL"
         },
         {
             "company_id": "sekisui_house",
@@ -3768,6 +3775,13 @@
             "source": "Housing Tribune Online"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店千葉東展示場】茂原大芝宿泊棟NEW OPEN！ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUFlPTzRNOVZtMktnY3ZxbVFwZkVjdTBOS1VJQ29YemxFM2VIRERSUjVmVHlLV3RONjFNUmhHc1RNdkc1ZW81QUU5eW5aQW04T3Q3TlNtbUFpaTF3?oc=5",
+            "published": "2025-12-17T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "高断熱・高気密住宅ブランド「Asu-haus」横浜市青葉区で賃貸住宅実証実験を開始 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DanVta20wMTFmY2d5YzhseC1FemN2YUQ2T3ZCTzZFLU05bTZUOUNHcXYzMFROLTMyeHB5UnA1X2lxdGJmS2FWOUVIRF82U3pfYjd5ZEYza3hqem9EUjhwbDVaRlBESEJFNXc?oc=5",
@@ -3787,13 +3801,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NVMwdk4xazlDLUhJdkw4YjlNSFI5SEttM0dITGFWeGJlNG92eW5ETWNLeUhmU3lCazRTa2xLaHBmTU5nZnIyY0Vvcjd1LVBoa2hvUg?oc=5",
             "published": "2025-12-17T17:00:00+09:00",
             "source": "中日新聞Web"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店千葉東展示場】茂原大芝宿泊棟NEW OPEN！ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUFlPTzRNOVZtMktnY3ZxbVFwZkVjdTBOS1VJQ29YemxFM2VIRERSUjVmVHlLV3RONjFNUmhHc1RNdkc1ZW81QUU5eW5aQW04T3Q3TlNtbUFpaTF3?oc=5",
-            "published": "2025-12-17T17:00:00+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "misawa_home",
@@ -3950,6 +3957,13 @@
             "source": "リフォーム産業新聞"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店】来場予約キャンペーン開催中 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOWlVMENybXdBbmMtVV9wT0ltZThSYmN2aFhlS24xWE1zVlh2UTdaX0YyanZYVXEteUpHRVdCenhONWV4a0Nab25PZXo4MzREUGVwQXlKSlQwemxFR05oUXZ5X2JBOVlGUmNpRw?oc=5",
+            "published": "2025-12-15T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "地域密着の家づくり、滋賀・草津に第1弾を完成 パナソニックホームズ - 電波新聞デジタル",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odnA2aGlFTWlDalJQbl9LRzA5ZkJOUlQ1eUZIdk9neVZwUXNZbDhIbzJRZk5ONGYxbVF5WnZzSlFZd3VfOHNtd2RnTGpVNF94VVE?oc=5",
@@ -3962,13 +3976,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tME54aUx5dnp4MnRTS0VUYjNqZUdBQXhqc0thOEJNc19YYjRvdnF5OGhuOUZnbktUcjFMblI1UGRJOERoTUhlZlJScTk0T2ZFZWR6dGhWRGpoLWFT?oc=5",
             "published": "2025-12-15T17:00:00+09:00",
             "source": "朝日新聞"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店】来場予約キャンペーン開催中 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOWlVMENybXdBbmMtVV9wT0ltZThSYmN2aFhlS24xWE1zVlh2UTdaX0YyanZYVXEteUpHRVdCenhONWV4a0Nab25PZXo4MzREUGVwQXlKSlQwemxFR05oUXZ5X2JBOVlGUmNpRw?oc=5",
-            "published": "2025-12-15T17:00:00+09:00",
-            "source": "家サイト"
         },
         {
             "company_id": "sekisui_heim",
@@ -4244,20 +4251,6 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "hebel_haus",
-            "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "約9割が重視する断熱。健康リスクと睡眠の質低下を招く自宅の寒暖差対策にリフォーム、2026年に展開される新しい補助金制度とは（SUUMOジャーナル） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSVg4TE5TOHVXMnc3UHc0ak1TYnYwNGhJT0NoUjBGV2pSd2FPaUtGOEFzUTNRajFpSGEtdzhQZG43SVM4TU5MWl8yajQtQmE1eFdaOE1fQlIxVjF2cFk5Nl9hal9yNWZWS2NYY0RoUHpLQ0FnUEZ1OWJiS0hWUDQ?oc=5",
@@ -4277,6 +4270,20 @@
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUERtNEFOWHphRXRSeW5VTS1rcm04ZGJDb09UbDcyLTctLUg5YWlwekZHakVqSXZRMEhoZDhpd2Y2ZUIwVnJEODBucFNQUXQ4c1F4dHRzWmRrSlJ5Y09sRFNuNU5UQWZsTUJ5ejdZZzdrUWJQS1hycWRGN0Myd1o5bWlMRlZHTGR6NVlJTHVR?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -4307,13 +4314,6 @@
             "source": "jutaku-s.com"
         },
         {
-            "company_id": "hebel_haus",
-            "title": "保護犬・保護猫団体へ総額160万円を寄付 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWkJBSWtHS0xZbzhpM2U3LTRfeEZHdkVHUW5nSE92Z0N2WElfRkFrSTcwcjBxNkNWNk9kOEIxV1UwZl8yemctSjJrOW9VTXUtR3V1Vk1wTHdyUTZmRm5uVDhxVE90V2lDNGc?oc=5",
-            "published": "2025-12-08T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "令和 7年度「東京エコビルダーズアワード」にて 最高位含む計 5賞受賞 | 株式会社一条工務店のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZVpWdjBBblRxLTY1VWJRMVFtTnVjTXcwazhmX2lXOVJfWnV0ZlVvLTlWcE5kbXlPaXJJdHA0NmxFM2RWc0w4YTNjMWtaNXUtQlppRXBjWV8zOVJWMkgyQ2lIRmJTWHNzbnc?oc=5",
@@ -4326,6 +4326,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6U3hwQnFEQmlseGZzNmlGOHpKQnAtbVhTeHlvVS1UcXphdmRSWjlXbXhtNm42Rl9kQnJZMXhWZUtwWUlKMC1GNmFnLW1PS3hIRzR3T2xXVUxtU0g2YURIcnctNmYtWUd2Qk1pcA?oc=5",
             "published": "2025-12-08T17:00:00+09:00",
             "source": "tv-tokyo.co.jp"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "保護犬・保護猫団体へ総額160万円を寄付 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWkJBSWtHS0xZbzhpM2U3LTRfeEZHdkVHUW5nSE92Z0N2WElfRkFrSTcwcjBxNkNWNk9kOEIxV1UwZl8yemctSjJrOW9VTXUtR3V1Vk1wTHdyUTZmRm5uVDhxVE90V2lDNGc?oc=5",
+            "published": "2025-12-08T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4384,6 +4391,13 @@
             "source": "PR TIMES"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "寒さを感じやすい場所「特にない」3.4％にとどまる 一条工務店調査 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHQVgzZnhpb3pKdU5WeEdyS0d5MjcyVjE3MkhKY05JNHNzME14ZXR3bzZKcXBkcGI3U1VTdDJDV3VrcllaZlA0RnpEVVFfQWk3SGc?oc=5",
+            "published": "2025-12-04T17:00:00+09:00",
+            "source": "新建ハウジング"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "温度を大切にする“温度人”のためのマガジン「ondozine（オンドジン）」を創刊 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wU2lKLXlERmN0Sk0tUFYyVFA1azBJdHB5eG5femsyQU5FUlVkcXM3QjF0T185SF9VMmJ1cjVsQU1pZ2R5WU9ySjJBSFVtMDVaczZ6YkFHTEpFdVM3MW9pVXlUN0JpLS1DTEE?oc=5",
@@ -4396,13 +4410,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zZmxGYUk5YTJOT0Vtcld6bzVZV2lwNm0wUFJ0ZXlHVWtfU0ZwcVRNeUhlX3pBZGxLOTFIbVpZNWR1ZGNKYnBGU0FtY2hmZFl3U3pnREszbjNZTnpQbGZ4bnRVaUhfM0k?oc=5",
             "published": "2025-12-04T17:00:00+09:00",
             "source": "朝日新聞"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "寒さを感じやすい場所「特にない」3.4％にとどまる 一条工務店調査 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHQVgzZnhpb3pKdU5WeEdyS0d5MjcyVjE3MkhKY05JNHNzME14ZXR3bzZKcXBkcGI3U1VTdDJDV3VrcllaZlA0RnpEVVFfQWk3SGc?oc=5",
-            "published": "2025-12-04T17:00:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -4503,6 +4510,13 @@
             "source": "PR TIMES"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "「冬の自宅内の寒さ・乾燥対策に関する意識調査 2025」結果発表 冬の寒さが原因で、睡眠の質が下がると感じる人は7割以上。9割以上の人は、住宅を購入・リフォームするなら断熱性や気密性を重視したい。 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZzJDTV8zQnhaWTVxZDFsV0NDcF9PbFdCOU9UQzNtaWl1WWFFNkRDNnh2QXQ1TTkwUWhBRE5va0pRZTkwOXl4ZTRfOHY3dFgycUJlVjlOWEc4M19hcU9aUUFpWEtWaTg0Rmc?oc=5",
+            "published": "2025-12-01T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "犬猫保護団体へのタオル寄付活動を実施 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeDFqWGpRUXN2cVhEM3RvcVFfNDZnVHk4VGdFanJXYXJCZjNFdzlpWEgyLUhSaDNJZEo0NGl2akM0OXBaOHh6bE5oQmx0ZXdSYTJlNUZyejYyVGFDZ0xvMFo3am9UMUM2ZWc?oc=5",
@@ -4529,13 +4543,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nLTRGNmI0YV9kUF9mYWVDaWdSRm1kdmtkVkpIUUNjRmFRcEFEdTVfUDNWRldXU2x5SHV2VVJBX2FBN2NreFYwbnF3TXAzNEVUVnV1Q0lCYnFKaFZYZDNwMlF4amw?oc=5",
             "published": "2025-12-01T17:00:00+09:00",
             "source": "朝日新聞"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "「冬の自宅内の寒さ・乾燥対策に関する意識調査 2025」結果発表 冬の寒さが原因で、睡眠の質が下がると感じる人は7割以上。9割以上の人は、住宅を購入・リフォームするなら断熱性や気密性を重視したい。 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZzJDTV8zQnhaWTVxZDFsV0NDcF9PbFdCOU9UQzNtaWl1WWFFNkRDNnh2QXQ1TTkwUWhBRE5va0pRZTkwOXl4ZTRfOHY3dFgycUJlVjlOWEc4M19hcU9aUUFpWEtWaTg0Rmc?oc=5",
-            "published": "2025-12-01T17:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
@@ -4706,6 +4713,27 @@
             "source": "家サイト"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店】ハグミーの総額はいくら？費用目安やオプション価格、評判・口コミも紹介！ - 新日本保険新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iZmd2X3k0cXJ5VUlWbkdlT3JqOTNDQ3UwY0VBYkhnRF83eXhKcmdLaHpaT0plUWpyV0ZfMml5WXBBeW5aVWJwcG5qUzJUd2xoenZXRTZoUDFpNFk0SVZ5a21LbE9nQQ?oc=5",
+            "published": "2025-11-21T17:00:00+09:00",
+            "source": "新日本保険新聞社"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "大人気ステージ待望の新作『一条工務店 presents恐竜ラボ！ギガ・ミッション from DINO-A-LIVE』の初日公演が、11月8日(土)に富山にて開幕！ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iZ3FfQlBDS053U0ZFMTcwcnRONzZ3OVBselo5UTVvZ3pSM0hPaExWVEN2cHR0aVpmUzdialV6RFU1am1VSmJiTWtfMkRGRUxPcG1ySHpmRDZsRzNrX3k3Q2hhZE5hNXZOd1E?oc=5",
+            "published": "2025-11-21T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55dHc5dm5sRUlzWEdBNjY4cW14TFRYWGlrUUUwTEtzckNkLTd4UHgyVl9pS3VvNlNqakJJMzBDenRlU0VWS2JBcVhBY055RHd2b2Rndk9WT3VPV18tY1YyTlEyM3RuYS1BNE5jRl93?oc=5",
+            "published": "2025-11-21T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "【締切迫る】再エネ転換で事業成長へ 11月26日開催ウェビナー「成長戦略として捉える企業の再エネ」 環境省、「無印良品」の良品計画、旭化成ホームズら登壇 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcDJ0VE4zY2hLSlBqY1JDbEQyZHVEam1vUDlxaGRycXA0Wm1Hb1Vxb2JyRkhhd3J2VVUwRDZFcjE4Tlg1ZUs0d01XejB1NU10cS02cWJGZVN2enhUTXNuenhrQWM3OW1uMGc?oc=5",
@@ -4742,24 +4770,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "【一条工務店】ハグミーの総額はいくら？費用目安やオプション価格、評判・口コミも紹介！ - 新日本保険新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iZmd2X3k0cXJ5VUlWbkdlT3JqOTNDQ3UwY0VBYkhnRF83eXhKcmdLaHpaT0plUWpyV0ZfMml5WXBBeW5aVWJwcG5qUzJUd2xoenZXRTZoUDFpNFk0SVZ5a21LbE9nQQ?oc=5",
-            "published": "2025-11-21T17:00:00+09:00",
-            "source": "新日本保険新聞社"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "大人気ステージ待望の新作『一条工務店 presents恐竜ラボ！ギガ・ミッション from DINO-A-LIVE』の初日公演が、11月8日(土)に富山にて開幕！ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iZ3FfQlBDS053U0ZFMTcwcnRONzZ3OVBselo5UTVvZ3pSM0hPaExWVEN2cHR0aVpmUzdialV6RFU1am1VSmJiTWtfMkRGRUxPcG1ySHpmRDZsRzNrX3k3Q2hhZE5hNXZOd1E?oc=5",
-            "published": "2025-11-21T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55dHc5dm5sRUlzWEdBNjY4cW14TFRYWGlrUUUwTEtzckNkLTd4UHgyVl9pS3VvNlNqakJJMzBDenRlU0VWS2JBcVhBY055RHd2b2Rndk9WT3VPV18tY1YyTlEyM3RuYS1BNE5jRl93?oc=5",
-            "published": "2025-11-21T17:00:00+09:00",
-            "source": "家サイト"
+            "title": "大人気ステージ待望の新作『一条工務店 presents恐竜ラボ！ギガ・ミッション from DINO-A-LIVE』の初日公演が、11月8日(土)に富山にて開幕！ - 福島民報社",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMUI1bzlJUDY1NW1SbUp6bUpVdUxBMlV3YnJpcThGa0JxajdhYXJLY0RFTnc5cEpIQW9VTzJnWVcxQXZkcGN6WEMxcE1vOUpwdTBuaXhIUTk?oc=5",
+            "published": "2025-11-21T17:00:00",
+            "source": "福島民報社"
         },
         {
             "company_id": "panasonic_homes",
@@ -4767,13 +4781,6 @@
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTlNHQ3REV2FoTkRNdzR5cDFaQ1BqVkZhM2ZCcHNEcFo3eFRNQ0ZKX0FRc1dURDVqWHl1UEZrT0U1Qkg1RWtVTVFnRkl1VDUyZGRNREYxbVUyTzA1bElXTW10a3J3YzNDalo3TnkxYXlZd2ZPMzJnczFB?oc=5",
             "published": "2025-11-21T17:00:00",
             "source": "サードニュース"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "大人気ステージ待望の新作『一条工務店 presents恐竜ラボ！ギガ・ミッション from DINO-A-LIVE』の初日公演が、11月8日(土)に富山にて開幕！ - 福島民報社",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMUI1bzlJUDY1NW1SbUp6bUpVdUxBMlV3YnJpcThGa0JxajdhYXJLY0RFTnc5cEpIQW9VTzJnWVcxQXZkcGN6WEMxcE1vOUpwdTBuaXhIUTk?oc=5",
-            "published": "2025-11-21T17:00:00",
-            "source": "福島民報社"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4804,6 +4811,13 @@
             "source": "住宅産業新聞"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店 - iga-younet.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTWg5dEZLSUZCYmp3YUV0MmhBQ3BLdnVKaEt4clRxUk80Q2lEbTRaeDBDSFY5QzZQdzIyYlptRkdtRVFSX3JuSXl5M0pXMTcyQVZuMFd1RjNUVU0?oc=5",
+            "published": "2025-11-19T17:00:00+09:00",
+            "source": "iga-younet.co.jp"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "加賀レジデンス・アトラス加賀・シティテラス加賀【第三回】3マンション合同ハロウィンイベントを開催 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YN3lkVUkzWmk5S0R3WUlOc21QV3ZyamdaeTNPNl9PX2NBOXNTU3dibjFmdHhWdkdDRmNLeDZ3UHUxTjNaVDVzT3hJdEFCUFg2dVNlMlpDZlV5TDdkT1lwUmRaUFFoaWg3RkE?oc=5",
@@ -4819,10 +4833,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "一条工務店 - iga-younet.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTWg5dEZLSUZCYmp3YUV0MmhBQ3BLdnVKaEt4clRxUk80Q2lEbTRaeDBDSFY5QzZQdzIyYlptRkdtRVFSX3JuSXl5M0pXMTcyQVZuMFd1RjNUVU0?oc=5",
-            "published": "2025-11-19T17:00:00+09:00",
-            "source": "iga-younet.co.jp"
+            "title": "【PR】「名張住宅展示場」としてリニューアル 旧ABCハウジング - 伊賀タウン情報 YOU",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOVp5dmVBak1EMHF6b01VT1A5UmIweEpoM3BtUU9xakx3dGNGemszZzdEZGlQMl9fN2IzS3Y2M1Jwa002aTg0YkFmdzcxbHU4Zm9ETXNGTjM1OHc?oc=5",
+            "published": "2025-11-18T17:00:00+09:00",
+            "source": "伊賀タウン情報 YOU"
         },
         {
             "company_id": "hebel_haus",
@@ -4844,13 +4858,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zVnlpTXVRVm9YUVY5Ym1CZUd3TXRyNHJ3MUFYOU5PdmZqQUNXUVpqenIya2YzaW5vQWFwdTVqbkd2SmxoM1VEREU2ZVDSAUxBVV95cUxNM1Z5aU11UVZvWFFWOWJtQmVHd010cjRydzFBWDlOT3ZmakFDV1FaanpyMmtmM2lub0FhcHU1am5HdkpsaDNVRERFNmVQ?oc=5",
             "published": "2025-11-18T17:00:00+09:00",
             "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【PR】「名張住宅展示場」としてリニューアル 旧ABCハウジング - 伊賀タウン情報 YOU",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOVp5dmVBak1EMHF6b01VT1A5UmIweEpoM3BtUU9xakx3dGNGemszZzdEZGlQMl9fN2IzS3Y2M1Jwa002aTg0YkFmdzcxbHU4Zm9ETXNGTjM1OHc?oc=5",
-            "published": "2025-11-18T17:00:00+09:00",
-            "source": "伊賀タウン情報 YOU"
         },
         {
             "company_id": "hebel_haus",
@@ -4888,6 +4895,13 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "価格競争と高級路線の二極化で激変するハウスメーカー業界の今と未来！ 元大手住宅営業No.1が徹底解説 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVViLVIwSTF5dU4xTzI5SDFKejM3Y1dRcW03MC1yVHpRNmFMWXdhS3ZvYXM5UlJzZWxhUTdJNktoV28td2Z2dnpfMHNUa2hMZVBPOHEwVnN1SnI5TEtrTVVueXpCNUlNU2xUMlNXamkwSFVWb1pfSUt6SW4zRUtFZzMxbzlpdG92?oc=5",
+            "published": "2025-11-14T17:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
             "company_id": "mitsui_home",
             "title": "「ウッドデザイン賞2025」において「オートバックス四国中央店」が優秀賞（林野庁長官賞）を受賞 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USHJDN0lEUFMwaWttOE1oazVidERrQmExbzRQdWx3NEZtZ3ZRWFk1UEstckl5bXVxbVJOOVJDTm41YXVqcWUxX1JvdHJrd3VvMnZPbjlVbXpfcHUtQVR2dnE5N0VtZndmTWc?oc=5",
@@ -4900,13 +4914,6 @@
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY0xTRk1zWTRaMVpScnRTZ21hMWJLUEkxWjdnNkVYdEMyM2RyTUl3a19DWjl3RDJNYlBtV1JwUW8tdUtmUktyUk9GNS02TE5tS3djNHp5YU03V3lNZ21Tazg3dm80cXJM?oc=5",
             "published": "2025-11-14T17:00:00+09:00",
             "source": "autobacs.co.jp"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "価格競争と高級路線の二極化で激変するハウスメーカー業界の今と未来！ 元大手住宅営業No.1が徹底解説 - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVViLVIwSTF5dU4xTzI5SDFKejM3Y1dRcW03MC1yVHpRNmFMWXdhS3ZvYXM5UlJzZWxhUTdJNktoV28td2Z2dnpfMHNUa2hMZVBPOHEwVnN1SnI5TEtrTVVueXpCNUlNU2xUMlNXamkwSFVWb1pfSUt6SW4zRUtFZzMxbzlpdG92?oc=5",
-            "published": "2025-11-14T17:00:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "hebel_haus",
@@ -4986,6 +4993,13 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "「犬・猫との暮らしに関する意識調査2025」結果を発表 犬や猫を飼う上で、費用をかけることをためらわない項目1位は「室温」。 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SGg0bU4zYnlkVXNOc3d0YmJ5aVRxZkJuRUUtdzl6S2xPVTcwTUNQcnZlcXNIX1lUemRiTnp4VmRqTks0Q295X0t5NjVyeEl5YUlrcXl4RmRMYmRzNGlwdUdLLWJDbzhwVWc?oc=5",
+            "published": "2025-11-10T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "【架橋ポリエチレン管】旭化成、旭化成ホームズ、積水化学工業、積水ハウスおよびCFPの5社、給水給湯管の施工端材を活用した資源循環スキームを構築 | 株式会社加工技術研究会 -CTIWEB JPN- - 株式会社加工技術研究会",
             "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQRkctQnBGekN1N0tHdHhzNVRWVEd5WmdkZm9OTVBaT2JPUjFnMThObWJpWGlFeWpWUHJ2eDRsaHhKT1ZYczNmNld2MzNMM0kwZ1dCYTJybkRoUHVaWjBXZ2VhdDlKYUNPWU05RkkzWkdhaHMwdnkzTE95bWNJSnI5ZjdiY3p3X3FCMFhpa3NEakZxN3E5VU9CVjBpTmtRRUlTeUNQaEF2d2p0VzFweXRuTVhuZS1NNFRXTWRRSGxJVm0wa05aaEVydlVXN3psekpfWXBJb1dDWTVuNElqRE1ZeF81dW1URC1wNTVJZTFBR0NHbHI3aDhqRTRhb1oyNjRVN3YzalplNUNESVoxc0tiUWhfQ1QwbjNSNllxWFMtVy1ONWVEMUZNZUx5Q1huX3VnR3pxRE04NzBrdEhLQlc4MkVFSnd3OU0?oc=5",
@@ -4998,13 +5012,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ob29WMl9hbTBSSHEwNEhnekpFd2x4X1lIYmNnWTNwNzA4VzRjQXJ3M010RGZEWWdBOVp0aEx0ZFB0X3dlVjdFT002eDNKY3lLLXc2VVNB?oc=5",
             "published": "2025-11-10T17:00:00+09:00",
             "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "「犬・猫との暮らしに関する意識調査2025」結果を発表 犬や猫を飼う上で、費用をかけることをためらわない項目1位は「室温」。 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SGg0bU4zYnlkVXNOc3d0YmJ5aVRxZkJuRUUtdzl6S2xPVTcwTUNQcnZlcXNIX1lUemRiTnp4VmRqTks0Q295X0t5NjVyeEl5YUlrcXl4RmRMYmRzNGlwdUdLLWJDbzhwVWc?oc=5",
-            "published": "2025-11-10T17:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
@@ -5035,6 +5042,13 @@
             "source": "タウンニュース"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店千葉東展示場】ご入居宅訪問会開催‼ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCa1hjUVVlekpjeGpFazRDZkZSU1J5ZWhMNDNvQW1NVkV3RHg5RFZHYmNOeWttcm01MmlLaXpfOVE5OWhCT3pDQlh5TlM0d3NXSHlRdjByakQyMnc?oc=5",
+            "published": "2025-11-07T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "『パークナードテラス結の宙(ゆいのそら)』沖縄各地で本格展開を開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZmdDM0xfYnBTakhKMjhhbkZQLWVYbVpyUVdqQXZpWlNqN3plYnFLbGV4MFJNUjBrbnU3S3ZCWWlOMXZJSS1yMFFwZlNOSnIyb3NSQ1huTVotSGN2UEtRbDNINV9uQWpfRlE?oc=5",
@@ -5054,13 +5068,6 @@
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MRTM5UVpQRnI4NWl6RE1lbC1tY2xqY1pvM0hZeEkyYUVoZk5jSGk1MmNKal8yX2hHX0RBYUJTSlBZTno5MmF6elc0bHh1X21IclJLXy13Yk1IMnA1UnlySnBTNA?oc=5",
             "published": "2025-11-07T17:00:00+09:00",
             "source": "with class"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店千葉東展示場】ご入居宅訪問会開催‼ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCa1hjUVVlekpjeGpFazRDZkZSU1J5ZWhMNDNvQW1NVkV3RHg5RFZHYmNOeWttcm01MmlLaXpfOVE5OWhCT3pDQlh5TlM0d3NXSHlRdjByakQyMnc?oc=5",
-            "published": "2025-11-07T17:00:00+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "ichijo_komuten",
@@ -5168,13 +5175,6 @@
             "source": "現代ビジネス"
         },
         {
-            "company_id": "hebel_haus",
-            "title": "アトラスタワー白金レジデンシャル「港区景観街づくり賞奨励賞」を受賞 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tQUtaaU9DTlRLc2M3aWNVdkdyZGQ0aGxCZEZNbzkwMmF2S1Atdk02TUg2UFdtdkVDM3QyUDAwMFRDbkl4TVJ5WnBxNGdFRjhkbzc1MkdpOHY5Z3VMSVNFeGlHZTN3cWxkU1E?oc=5",
-            "published": "2025-10-31T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "【PR】上越・妙高で平屋住宅3棟見学会 間取りや床暖房の暖かさを体感 11月8日から一条工務店 - joetsutj.com",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQUk9GWnVTaHdJaXZIMmFBUkUwUjJnT2RDcHB4c3lqSXdlNHNMVWR2bm16MHBsdWdBLVotWTVReTh1RGs5U05EXzFfeVJKTDJGUUw5bA?oc=5",
@@ -5183,10 +5183,24 @@
         },
         {
             "company_id": "hebel_haus",
+            "title": "アトラスタワー白金レジデンシャル「港区景観街づくり賞奨励賞」を受賞 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tQUtaaU9DTlRLc2M3aWNVdkdyZGQ0aGxCZEZNbzkwMmF2S1Atdk02TUg2UFdtdkVDM3QyUDAwMFRDbkl4TVJ5WnBxNGdFRjhkbzc1MkdpOHY5Z3VMSVNFeGlHZTN3cWxkU1E?oc=5",
+            "published": "2025-10-31T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
             "title": "アトラスタワー五反田・西五反田本町会共助型防災イベント開催 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tU3B0b0tDQkFwc1pESUtweDhKenB3RkV5SkhUazRGTkhEcjRWQzlLMDFJS2k4SGZZRXJVVHJKMHRxMGlKSFR3ZVRRa0pPY2FmY1ZUUzdNRWtYT1JJSnhURlUxdFh4ODY5LUE?oc=5",
             "published": "2025-10-31T16:00:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店、最新型ショールーム開設 住宅性能を体感 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaGtMakIxYUlOVW5lRFo2eUhVMzc5dXRKSU9vNGJmQ2xxWTI1N216SXdvVk5QeTJrUXVDVmNhUkVBUE8teU14SU1aby1sOGo0amc?oc=5",
+            "published": "2025-10-30T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "hebel_haus",
@@ -5201,13 +5215,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wVUZQMnFVbUx2SzdDa3JkMlJDeXJGWkJlSllCY25TeHF1ZzYwcmwta2I4emdVdkY4bUI4WGFuSF9RZTRsQU4wWnhESlpSRnU2b0NPSFlHQkFOaE0zbGJsVGdiU2ZLVUxGdlE?oc=5",
             "published": "2025-10-30T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店、最新型ショールーム開設 住宅性能を体感 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaGtMakIxYUlOVW5lRFo2eUhVMzc5dXRKSU9vNGJmQ2xxWTI1N216SXdvVk5QeTJrUXVDVmNhUkVBUE8teU14SU1aby1sOGo0amc?oc=5",
-            "published": "2025-10-30T16:00:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "mitsui_home",
@@ -5343,6 +5350,13 @@
             "source": "PR TIMES"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "「家づくりタブレット」が2025年度 グッドデザイン賞を受賞 | 株式会社一条工務店のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VWFc0bG1GVzVRU1gzVkxsUjlCNkxQSkV3TXRJYUNjclR0VEpFNDE0RWE1LW0tU01wVk1SMnl6eTA0eGtFcGtxeDNSYXljWHRPZEJ3N3NKT2FFODFjeG9HbEFUWExna0lSWGc?oc=5",
+            "published": "2025-10-15T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "2025年度グッドデザイン賞受賞 旭化成ホームズがデザインした「HEBEL HAUS サランラップノベルティ」 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVDZqY0RBZmF2T1hGOU5OeHBsVjlLQkNfT09JRUxGdzhpaWFRNEJvY2Utc2hsa2FQaXJQSHZDeXZrNEEydTlQd3llelR1RDRsX3FNb0I0akVRckZReldORk1JUy1tMTRCTVE?oc=5",
@@ -5369,13 +5383,6 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ck5mbTk3eGRaMlhURVZEdTFJV0JFLWhmNmdvR3V6VlJIR3NPRFR3Z1ViRE9zbW1ldEdORWliRFRaZURrd3pCMl9KYm94QmI2LTl0QTdNZ2ItTXVuR0I4QQ?oc=5",
             "published": "2025-10-15T16:00:00+09:00",
             "source": "かぶたん"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "「家づくりタブレット」が2025年度 グッドデザイン賞を受賞 | 株式会社一条工務店のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VWFc0bG1GVzVRU1gzVkxsUjlCNkxQSkV3TXRJYUNjclR0VEpFNDE0RWE1LW0tU01wVk1SMnl6eTA0eGtFcGtxeDNSYXljWHRPZEJ3N3NKT2FFODFjeG9HbEFUWExna0lSWGc?oc=5",
-            "published": "2025-10-15T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
@@ -5420,18 +5427,18 @@
             "source": "Yahoo!ニュース"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "パナソニック ホームズの「日本の家」、滋賀県草津市に第一弾モデルハウス - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nQ2c3ck9pNDN3S1Y2b0xRdFVqN3QzQndpa0t5QlkzNDM1bnBpY2Z6UTdvU3phM3VzVWFkUUJ1bDd6ekh6a3VUS1k0dkw0U2pBZFBiN0ln?oc=5",
-            "published": "2025-10-10T16:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "見て、触れて、感じる。未来の暮らしを体験できる施設最新型ショールーム「ICHIJO-Lab 幕張」2025年10月10日（金）グランドオープン | 株式会社一条工務店のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DbkNta05WSHVXNzFXUlFhLVdzbGpqRW14OGhUdnppWkVueFJBVWtGV0tCVVJ3VXZsTU5pZmZyTGY1YXEtWG84N3JrS0xrQ29sLTV2dGZXM0J3TGN6eGNTNkszaWJpSnFuWGc?oc=5",
             "published": "2025-10-10T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニック ホームズの「日本の家」、滋賀県草津市に第一弾モデルハウス - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nQ2c3ck9pNDN3S1Y2b0xRdFVqN3QzQndpa0t5QlkzNDM1bnBpY2Z6UTdvU3phM3VzVWFkUUJ1bDd6ekh6a3VUS1k0dkw0U2pBZFBiN0ln?oc=5",
+            "published": "2025-10-10T16:00:00+09:00",
+            "source": "Housing Tribune Online"
         },
         {
             "company_id": "ichijo_komuten",
@@ -5469,20 +5476,6 @@
             "source": "家サイト"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "パナソニック ホームズ、ニュータウン再生で兵庫・宝塚市と協定 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQmliZ2tfTVptdDBIVjc2UjltZHB0Y25iNnhaWUt1aEFPX2NuLUNrT0QxdmRTSXowd3FzMy1FeVp1UXVUai0tWmdreEZuNm9HRExUU0RB?oc=5",
-            "published": "2025-10-03T16:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "2025年8月の受注詳報=三井ホームの専用住宅が24年10月ぶりにプラス - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RYXpXc3pWSmRyOElTcVlSX09TX0lMTEpqSjhsU1JaTzBHZGZJZEc5RVhuRkVZMklXWVlySVRJZ2hBWHFzbkFPMXNjQkbSAUxBVV95cUxPUWF6V3N6VkpkcjhJU3FZUl9PU19JTExKako4bFNSWk8wR2RmSWRHOUVYbkZFWTJJV1lZcklUSWdoQVhxc25BTzFzY0JG?oc=5",
-            "published": "2025-10-03T16:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "一条工務店が展開する新形態のショールーム「ICHIJO PLAZA」 「イオンモール日吉津」内に2025年10月4日(土)オープン - めざましmedia",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GNnlsU1hKRkp4OW9pZnRfc18zZ0pjNzhUOWpQYnpyN0ZOZGNfcld5dmxmUlBDY0lGUkw5c0ltMHhhUUtUcXc0RXBzRjFLS3lha3cw?oc=5",
@@ -5495,6 +5488,20 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KdnZuRjNEUmw4cHpaMHdVOGFtekZaZUlJMmI5ank5U3U0Mmx0NTE5SXJTMGF5TnRxRWUwVElScEVYSk1nM0NsemFsZ1RfbE45MmhHdE1CMnQ5SXBmU2pFeUVRNVROcVlaMnc?oc=5",
             "published": "2025-10-03T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニック ホームズ、ニュータウン再生で兵庫・宝塚市と協定 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQmliZ2tfTVptdDBIVjc2UjltZHB0Y25iNnhaWUt1aEFPX2NuLUNrT0QxdmRTSXowd3FzMy1FeVp1UXVUai0tWmdreEZuNm9HRExUU0RB?oc=5",
+            "published": "2025-10-03T16:00:00+09:00",
+            "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "2025年8月の受注詳報=三井ホームの専用住宅が24年10月ぶりにプラス - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RYXpXc3pWSmRyOElTcVlSX09TX0lMTEpqSjhsU1JaTzBHZGZJZEc5RVhuRkVZMklXWVlySVRJZ2hBWHFzbkFPMXNjQkbSAUxBVV95cUxPUWF6V3N6VkpkcjhJU3FZUl9PU19JTExKako4bFNSWk8wR2RmSWRHOUVYbkZFWTJJV1lZcklUSWdoQVhxc25BTzFzY0JG?oc=5",
+            "published": "2025-10-03T16:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "ichijo_komuten",
@@ -5728,18 +5735,18 @@
             "source": "TVO テレビ大阪"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ、地震被災リスク推定システム「P-HERES」（2025年版）の試験運用を開始 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWkpfRFAwdG5JTHFybDk2N2NwWjdsbVVRRUFlT2djcmZXRmpoNi1lX3hOMGlLWkJLMzQwaS1CeGlzOHR1SDNPTWZ3WjBtVWFZdjdLUXQ1Rkdnc1pyd3pqQXFYZy1jSzh0SUY4aA?oc=5",
-            "published": "2025-08-29T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "5年以内に大地震の可能性7割超が実感 一条工務店調べ - jutaku-s.com",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeXFwakgtSXZnNUVqQ1F2bFJsc1g0SDRJSlFneGxhek1qY29aOFVReVRFRmFYNTZuTkZVN3hFc1BTeS13OV9IYjZSSy1VM2FabklSYXlR?oc=5",
             "published": "2025-08-29T16:00:00+09:00",
             "source": "jutaku-s.com"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ、地震被災リスク推定システム「P-HERES」（2025年版）の試験運用を開始 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWkpfRFAwdG5JTHFybDk2N2NwWjdsbVVRRUFlT2djcmZXRmpoNi1lX3hOMGlLWkJLMzQwaS1CeGlzOHR1SDNPTWZ3WjBtVWFZdjdLUXQ1Rkdnc1pyd3pqQXFYZy1jSzh0SUY4aA?oc=5",
+            "published": "2025-08-29T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -5763,18 +5770,18 @@
             "source": "マイナビニュース"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "広島ドラゴンフライズのりそなグループ B.LEAGUE 2025-26シーズンのゴールドパートナーとして「三井ホーム株式会社」様が決定いたしましたので、お知らせいたします。 - hiroshimadragonflies.com",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jZ1pVanV5OUo1RkV1OGJURGxwdnRRUHJKclpZbVg0amRKeFdCaTVuRXJBQldidG5LMjIwQ09MUXhEdTdZSnM5Z09zU3ZYclNpQ0xyM3lGSXV6WGdjSVQ3cTlFMA?oc=5",
-            "published": "2025-08-26T16:00:00+09:00",
-            "source": "hiroshimadragonflies.com"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "「災害と住まいについての意識調査2025」結果を発表 阪神・淡路大震災から30年という節目、様々な報道を目にして、防災意識が変わったという人は約7割 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBRUJiYm5WRHNIV2JzZU16TXZqTVBNa0VIZjNRNndpTGRNMEFvMGhyUDJfXzY0M2RxS01sN0oxRTVVLTJJQVBXdTZRUmt0MVc4SnJpV0RDbU5SeUpUb3pVYVFCQzc3UDBiaFE?oc=5",
             "published": "2025-08-26T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "広島ドラゴンフライズのりそなグループ B.LEAGUE 2025-26シーズンのゴールドパートナーとして「三井ホーム株式会社」様が決定いたしましたので、お知らせいたします。 - hiroshimadragonflies.com",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jZ1pVanV5OUo1RkV1OGJURGxwdnRRUHJKclpZbVg0amRKeFdCaTVuRXJBQldidG5LMjIwQ09MUXhEdTdZSnM5Z09zU3ZYclNpQ0xyM3lGSXV6WGdjSVQ3cTlFMA?oc=5",
+            "published": "2025-08-26T16:00:00+09:00",
+            "source": "hiroshimadragonflies.com"
         },
         {
             "company_id": "mitsui_home",
@@ -5805,18 +5812,18 @@
             "source": "keikyu.co.jp"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "ハウスメーカー受注速報、受注増が7社 ヒノキヤグループ4割増 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VQ0FfX1RqMm9zeUl4d1NWdG1ZeUNqV1YyZ1FnTFZxMnBKZTZBX1hnU1VtMmhLLUhGTng4c3V2RXBjT1NkSG9xdkU4QUNnbzJZeVE?oc=5",
-            "published": "2025-08-20T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "子どもの健康と暮らしの安心を追求「モバイルーム」「あかちゃんごはん」が「第1９回キッズデザイン賞」を受賞～子どもの安全・安心への配慮や子育て世代への提案が評価されました～ | 株式会社一条工務店のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92XzhBNVVweWh1c05CNU5kLWJfTUx5Qnd0WnJXclU3UExIaFc0N3RRd0NWc2xvU2dOVDNUeHJZVFAyX2JhV210Q0h1SEpiQ3QyMFdiTTM3Y2xsX0VBbkFRZ3VyblZ2MWhwNFE?oc=5",
             "published": "2025-08-20T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "ハウスメーカー受注速報、受注増が7社 ヒノキヤグループ4割増 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VQ0FfX1RqMm9zeUl4d1NWdG1ZeUNqV1YyZ1FnTFZxMnBKZTZBX1hnU1VtMmhLLUhGTng4c3V2RXBjT1NkSG9xdkU4QUNnbzJZeVE?oc=5",
+            "published": "2025-08-20T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "mitsui_home",
@@ -5917,6 +5924,13 @@
             "source": "ctv.co.jp"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店のさらぽか夏の快適体感キャンペーン【泉佐野・和歌山】 - cozre[コズレ]",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiM1hXUnVIQ3AtQmV2LXNPdGtRZGZuUVNxU3RkaTI1ckhLUHNCTjZTYmpYQ3JSX3RKVGZKRzgwVEVpRG5a?oc=5",
+            "published": "2025-07-28T16:00:00+09:00",
+            "source": "cozre[コズレ]"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ、OB訪問にAIを活用 - リフォーム産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkdxWC1NZndaYzZzUzFrazFGVVlKenNTTkwyM2NDSXZWOFBLLUx4dHlDeUY3eHp6WWZUTWJkeWZaOXZKSTdpLW5aUFRPbnFjR2NpeENyV3RfSlRtQlJwd0tRRXllZG8?oc=5",
@@ -5929,13 +5943,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSUI4cEFUY05SVTZaay1qaERqQm84WDd6WVJkZVhMSTRzN0ZYcERuekJJMzZUbC04NUJDT1pOZUEyeWRHRG83b0FBWjlKT3VtTEE?oc=5",
             "published": "2025-07-28T16:00:00+09:00",
             "source": "エリマネこ"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店のさらぽか夏の快適体感キャンペーン【泉佐野・和歌山】 - cozre[コズレ]",
-            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiM1hXUnVIQ3AtQmV2LXNPdGtRZGZuUVNxU3RkaTI1ckhLUHNCTjZTYmpYQ3JSX3RKVGZKRzgwVEVpRG5a?oc=5",
-            "published": "2025-07-28T16:00:00+09:00",
-            "source": "cozre[コズレ]"
         },
         {
             "company_id": "panasonic_homes",
@@ -6050,13 +6057,6 @@
             "source": "jutaku-s.com"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ、24年度実績など発表=契約棟数・金額増を達成、地方の支社・販社の自活・黒字化を支援 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zSEJERXFNWmxlekNfQzJKVXhMOGRBdU1ZeHNfV1FRdW9JajBrU2VHTlBJSzRXUDFaMS0zbEhYRWpLWmk5b1RtM250NUfSAUxBVV95cUxOM0hCREVxTVpsZXpDX0MySlV4TDhkQXVNWXhzX1dRUXVvSWowa1NlR05QSUs0V1AxWjEtM2xIWEVqS1ppOW9UbTNudDVH?oc=5",
-            "published": "2025-07-15T16:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "一条工務店が展開する新形態のショールーム「ICHIJO PLAZA」 「ららぽーと沼津」内に2025年7月15日(火)オープン - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fQTlKSTVWcFZ4MGczMllfTGt4YkR5YXF1OXQtQlNYWGwtcldhdG00b2FnSXFLTjZYLTdhaTB2eEViQ0xKYVFkM1plX0NDRWVCckoxZ294SHlvWWx2R01ESFYxTG5INklrM3c?oc=5",
@@ -6071,10 +6071,10 @@
             "source": "at-s.com"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "三井ホームとNCNが販売提携=中大規模にSE構法活用、構造体の現し提案しやすく - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54OUFnOWI5cVQ4WGFzYTh4WU1EY0xXanVXYVVObkRYaEU5VVdneWtCOHI2bVVmZEVWLThsM0cyWEJIYlc5d3lZLWZWbF_SAUxBVV95cUxOeDlBZzliOXFUOFhhc2E4eFlNRGNMV2p1V2FVTm5EWGhFOVVXZ3lrQjhyNm1VZmRFVi04bDNHMlhCSGJXOXd5WS1mVmxf?oc=5",
-            "published": "2025-07-15T16:00:00",
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ、24年度実績など発表=契約棟数・金額増を達成、地方の支社・販社の自活・黒字化を支援 - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zSEJERXFNWmxlekNfQzJKVXhMOGRBdU1ZeHNfV1FRdW9JajBrU2VHTlBJSzRXUDFaMS0zbEhYRWpLWmk5b1RtM250NUfSAUxBVV95cUxOM0hCREVxTVpsZXpDX0MySlV4TDhkQXVNWXhzX1dRUXVvSWowa1NlR05QSUs0V1AxWjEtM2xIWEVqS1ppOW9UbTNudDVH?oc=5",
+            "published": "2025-07-15T16:00:00+09:00",
             "source": "住宅産業新聞"
         },
         {
@@ -6083,6 +6083,13 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ga0taTW1vbGprOHVESE1RZjNrMm5saDk2RHZqYkk5Vnc5OWJDajZwYVJiczlEQzdONFUyMVItR1kydm13SE50Yk01YTQ5MUk?oc=5",
             "published": "2025-07-15T16:00:00",
             "source": "TRILL"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "三井ホームとNCNが販売提携=中大規模にSE構法活用、構造体の現し提案しやすく - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54OUFnOWI5cVQ4WGFzYTh4WU1EY0xXanVXYVVObkRYaEU5VVdneWtCOHI2bVVmZEVWLThsM0cyWEJIYlc5d3lZLWZWbF_SAUxBVV95cUxOeDlBZzliOXFUOFhhc2E4eFlNRGNMV2p1V2FVTm5EWGhFOVVXZ3lrQjhyNm1VZmRFVi04bDNHMlhCSGJXOXd5WS1mVmxf?oc=5",
+            "published": "2025-07-15T16:00:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -6106,6 +6113,13 @@
             "source": "Digital PR Platform"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【PR】上越市春日野で「5LDKリアルサイズの家」公開 7月12、13日に見学会 一条工務店 - joetsutj.com",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZYTBBdWR0VEVkM2VDcTdrYVl4bC1mZW1pckJoZXJzbWIzMTJjNlNORE5CTFlnZTQtdWVXZ1lFWl92Zjl0eC12MXFmbmlJV21acVYydA?oc=5",
+            "published": "2025-07-07T16:00:00+09:00",
+            "source": "joetsutj.com"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "生成AIでアフターサービス高度化、パナソニック ホームズが訪問対応支援システム導入：AI - ITmedia",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ckVrYlhxUkpHazV2T2phemZYMU80dVdGZDBRdEx5WFFjU01ZNGJfWTJHQzJnSWU5b2FIMXhuUXpoSmozUnp0bTNGWTJ4Nk9WSk02THVGQ2RoemNONGhCRkVYTFdMMlNxN2cwYg?oc=5",
@@ -6118,13 +6132,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXaTVPZWtORGNCNklsMUxPWXdvS2xCbDdhdjhKZlVuMjlzOTY5TE5SaDlMT1JFcDFyUFhCNnVuZldFakxQczZuUldmTXBSYVQ3MHRDajVn?oc=5",
             "published": "2025-07-07T16:00:00+09:00",
             "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【PR】上越市春日野で「5LDKリアルサイズの家」公開 7月12、13日に見学会 一条工務店 - joetsutj.com",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZYTBBdWR0VEVkM2VDcTdrYVl4bC1mZW1pckJoZXJzbWIzMTJjNlNORE5CTFlnZTQtdWVXZ1lFWl92Zjl0eC12MXFmbmlJV21acVYydA?oc=5",
-            "published": "2025-07-07T16:00:00+09:00",
-            "source": "joetsutj.com"
         },
         {
             "company_id": "panasonic_homes",
@@ -6190,13 +6197,6 @@
             "source": "Housing Tribune Online"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "三井ホームとエヌ・シー・エヌが提携 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vb2phWHI1WC1kQ0xUZFkyOFRCRGo3N3E0b3ZHTjQyWTZLODJOMVVsbEE1cjRoRUhtbklTMXQtTldLNEl5ekFzcHdpZ3FWMjloWWlRRVVDcFhEYngza3NfTjdwRlZmOGhaR3c?oc=5",
-            "published": "2025-07-01T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "機能性と上質で重厚なデザインを追求したグレイスシリーズに新ラインアップ「BLACK LABEL（ブラックレーベル）」を新設 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13WFNEUHZoR1pZSExWVk1JbFVVZ1lOSllKcHBxdHZlVGZyWmxNRUVXR0pKVzR5UE5yVWpWYVZjWmlPWG5mRDZwd1ZIVVVzbWItUWh6M2kyRFg5TUVIRTBJaC16STUxQkoyR2c?oc=5",
@@ -6212,10 +6212,10 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "【2024年度】大手ハウスメーカー・ランキング、大和ハウス工業が総販売戸数トップ=戸建て首位、積水ハウス - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aaXpvUjA2SjB2WVlROGx6dUMxT1JVbEttZF9Bb3ZoelZUWWMxb3RIUWFMYkJGYVJmdS0zNmtfYW9fMDE2SDc3UUY5NzHSAUxBVV95cUxOWml6b1IwNkowdllZUThsenVDMU9SVWxLbWRfQW92aHpWVFljMW90SFFhTGJCRmFSZnUtMzZrX2FvXzAxNkg3N1FGOTcx?oc=5",
-            "published": "2025-07-01T16:00:00",
-            "source": "住宅産業新聞"
+            "title": "三井ホームとエヌ・シー・エヌが提携 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vb2phWHI1WC1kQ0xUZFkyOFRCRGo3N3E0b3ZHTjQyWTZLODJOMVVsbEE1cjRoRUhtbklTMXQtTldLNEl5ekFzcHdpZ3FWMjloWWlRRVVDcFhEYngza3NfTjdwRlZmOGhaR3c?oc=5",
+            "published": "2025-07-01T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -6223,6 +6223,13 @@
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTd5N0R2UENTNUFudUhZcWJPc0hCSkFwNDFtcGhoU2JjU19LanFJRXdLaEkzbVcyUEJvV2duTkZobVZWdks3azhQLWRtSHI5bjQ5TldFSDlKLWY1MjJmWFRWdHB1ZDhvZU05cnNmZVBsQUFYXzI1QWwwamN3WkR6aFBnUUQzb2thenROV0RLYw?oc=5",
             "published": "2025-07-01T16:00:00",
             "source": "SUUMO"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "【2024年度】大手ハウスメーカー・ランキング、大和ハウス工業が総販売戸数トップ=戸建て首位、積水ハウス - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aaXpvUjA2SjB2WVlROGx6dUMxT1JVbEttZF9Bb3ZoelZUWWMxb3RIUWFMYkJGYVJmdS0zNmtfYW9fMDE2SDc3UUY5NzHSAUxBVV95cUxOWml6b1IwNkowdllZUThsenVDMU9SVWxLbWRfQW92aHpWVFljMW90SFFhTGJCRmFSZnUtMzZrX2FvXzAxNkg3N1FGOTcx?oc=5",
+            "published": "2025-07-01T16:00:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "mitsui_home",
@@ -6258,13 +6265,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZ0JIaTYzaUJFZDZsSFFnc3pYMDZDbTRaTENLWFZKMnl5MkVrYlJuMU5oV0xmMFdQMFhScXFjMzA2VXN1RUwza0lMbGNUNWdUUGFfSU1kckNjclhKR3NfQzd5aVpkcHR5SFE?oc=5",
             "published": "2025-06-22T16:00:00+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【PR】上越市木田に「宿泊もできる最新モデルハウス」誕生 6月に完成見学会、7月に宿泊体験実施 一条工務店 - joetsutj.com",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNMU45c3ZXQXBhWlIwMGxiM2l4dlFJdjBwQmlqNlJRSlNiZEZ1YXAyZFJfWkpkbTJFTkFGQmZsRzNrd2FZdnFEUUtUUWpUOHJqV21Bdg?oc=5",
-            "published": "2025-06-20T16:00:00",
-            "source": "joetsutj.com"
         },
         {
             "company_id": "mitsui_home",
