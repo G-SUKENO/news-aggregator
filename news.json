@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-23T13:39:41.203724+09:00",
+    "generated_at": "2026-01-23T14:24:45.455362+09:00",
     "articles": [
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、JAXAの「Moon to Mars Innovation」に採択内定され 月面拠点の構築に資する空間連結技術の確立を目指す - drone.jp",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wVDZ1TmJjVFJrd1piNk5lTzBvb2x1QWtlSVNJR28zRGxvSXlTTV9Qc0dZVkR5VU0yTG1jMzkzVmFQS1JaMnJibnF0T09ZY0YtM1ZRc2ZxUER3SWM?oc=5",
+            "published": "2026-01-23T14:00:17+09:00",
+            "source": "drone.jp"
+        },
         {
             "company_id": "daiwa_house",
             "title": "未来\"移動\"体感『ジャパンモビリティショー2026』大和ハウスプレミストドームで開幕！約90台の最先端の車・バイクが展示＿「ポケモン」キャラクターの乗り物も道内初上陸〈北海道札幌市〉 - uhb.jp",
@@ -147,6 +154,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fR2FSZS1sWUlUUDBLYzJ0MU9zclRpYUVsNS1VSEhCRzh0RVpCVm4yS3ZqMFVIbkVyZTlxREJOV0tTa2hkYnMxbzUxZGtGYWFNWEE?oc=5",
             "published": "2026-01-22T09:11:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスの構造技術×アルネットの設計力 埼玉県初の協業住宅公開 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CWlhUdVBIcTVtdkREaE1SaGp6ckV5b2NTSE1pTlpXWDVYUEw2UVkxOF9QNGlkSkZDYndmb0oteFZZRXNqZ3ppOUxuR0VHbzRKeFE?oc=5",
+            "published": "2026-01-22T08:45:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -409,17 +423,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - イザ！",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VdFRXTXd2WFdVU3huSkI4MjNkTFFBa3FWTjRJdVpIVl80Umc0cENIZnM3WWVpbVVvMnNGWVNGSG5pa1Z3MTAwNm1VdFhLaG9mVEhLMnVTcGZramxGY0I5Sk5ROEw4SVJUcTBtVDVEdWZ5cVVMR1g0ZHdB?oc=5",
-            "published": "2026-01-20T10:00:00+09:00",
-            "source": "イザ！"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - 産経ニュース",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qZC1VNkhuX0xiTHNpUjV0QktyWndyV0pCMUM2M19iYnBzdHFIQUkzT3cwZHo0ZHJVR1BRNkJYMW52UGYyOVVNYTd0U0lUX1FZdUx4eTFvV01EZk04VkpNMHd1blFNYjRDbGZ6RzFVUzZVNmZacXBJdjN6MA?oc=5",
             "published": "2026-01-20T10:00:00+09:00",
             "source": "産経ニュース"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - イザ！",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VdFRXTXd2WFdVU3huSkI4MjNkTFFBa3FWTjRJdVpIVl80Umc0cENIZnM3WWVpbVVvMnNGWVNGSG5pa1Z3MTAwNm1VdFhLaG9mVEhLMnVTcGZramxGY0I5Sk5ROEw4SVJUcTBtVDVEdWZ5cVVMR1g0ZHdB?oc=5",
+            "published": "2026-01-20T10:00:00+09:00",
+            "source": "イザ！"
         },
         {
             "company_id": "hebel_haus",
@@ -3446,13 +3460,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス×note「#わたしの帰りたい場所」コンテスト受賞作品をアニメーション動画と朗読の形でお届け。 - MANTAN WEB",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fN1JSMzJiWVNCUHh0M20yd1BKRGlJNFFMZVFsSHFaMnMycm9SX0pPdlV1MkxGelQ4ak5Eb1lGVVNjczRiSldYSlptWWYtZEtYRTN3MElaQW1zMEFRTmNRNk9DX3lGaHFHZi1F?oc=5",
-            "published": "2025-12-23T12:46:54+09:00",
-            "source": "MANTAN WEB"
-        },
-        {
             "company_id": "misawa_home",
             "title": "ミサワホーム2026年版「偉人の生涯と筆跡カレンダー」第77回全国カレンダー展「経済産業省大臣官房商務・サービス審議官賞」受賞 - オリコンニュース",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VXMzRzY4Vk9kcXM3bUZ1VUJvZTR0VkZhSDNtTEdPQ1F6b1ZOZkg2X1FUX19PWU5rc3JwUEF4MnNkOFNuaW85aXVRNzBxQjJPT1dvWUktelBOZw?oc=5",
@@ -3629,10 +3636,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、久慈市のごみ資源化実証プラント撤収へ - 岩手日報",
+            "title": "積水化学工業、久慈市のごみ資源化実証プラント撤収へ - iwate-np.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pY01IZVJSTDhLM19abldCTkc4cGR5am9WcXNLOHhCbE01dXl2elktblNZWEluV1lxN0p0WWZHbENVbXBLVGdIaTZsUTJYZDdRMmF4Zjk5MmhRc0J6ZFdhUlJR?oc=5",
             "published": "2025-12-20T17:00:00+09:00",
-            "source": "岩手日報"
+            "source": "iwate-np.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -5215,13 +5222,6 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MZnIwMVplSXdnYkxzbkVSOFByWl9oZnNKYWExZVlSR0dVOGNOeFdQNENYVG41LWNacldmV19qZDBoWnFEZG96ZWhkZk9xVnpPb3JUdUMxeFNPUmxiOUdLV3JOUzlYYXJaX3NMRUg3VnFDZUZjZmc?oc=5",
             "published": "2025-11-05T14:04:49+09:00",
             "source": "SUUMO"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "家庭内事故の傾向と対策 ―階段編/リビング編― | ミサワホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rS1B0R09PQkR4aWZ5bFZRM1M3N3pIZkdqSFMyX3lUb3Bpd2N0bmoxZDM3YXdRdWtnMzV2Qm5BdGRqTERZdWU3MGNUd21Xb2NiQW1CZnB3OFlaTV9IME90M0tRX2pJSVRZYmc?oc=5",
-            "published": "2025-11-04T17:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
