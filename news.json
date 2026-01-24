@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-24T17:22:48.100765+09:00",
+    "generated_at": "2026-01-24T18:17:48.128936+09:00",
     "articles": [
         {
             "company_id": "misawa_home",
@@ -863,6 +863,13 @@
             "source": "家サイト"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "【高市相場】「財閥系・オーナー系企業」厳選16銘柄 - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IVWExZ2xVM2ttODdpOS1BODJoTmktSGJ1THFIOHlIWkhkYS1DZXA3WC1Rd1VJT1V2OGR2amU0eVhpNlppMl9KeFdjTTZQU3JsR2FHWC1tdm4?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "現代ビジネス"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスのDE&Iは成長戦略 「精神・発達障害人財」本社に[PR] - 日経BizGate",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMUk4XzJ4RmdEZEhKWktDckszY18xNDBvdndUR1ZNN1Fja2JGYTFwTFJ6RWpsTm5RNnlraHpzOXlzWE9tdDU0QWJUYURkWDJ2N3p3Q3M0SnNSUXlDS3h5d2ZOUC1PY054Mi01eThpZXQ?oc=5",
@@ -1029,13 +1036,6 @@
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fZ1p3aXhxWmVLWWxKQ0g2dXR5bG50NGJzUFRWOVNBcFhBMHUzenQxSG55TWNiWjZ5Y0RnTWNzZEtCZVotVm85eUUwSE1MbWpRMmd1SEFKcnlWMVBaQUVPRjlHMkVKbzZOMjhfM3c5RQ?oc=5",
             "published": "2026-01-16T08:40:00+09:00",
             "source": "ニフティニュース"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【高市相場】「財閥系・オーナー系企業」厳選16銘柄 - 現代ビジネス",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IVWExZ2xVM2ttODdpOS1BODJoTmktSGJ1THFIOHlIWkhkYS1DZXA3WC1Rd1VJT1V2OGR2amU0eVhpNlppMl9KeFdjTTZQU3JsR2FHWC1tdm4?oc=5",
-            "published": "2026-01-16T07:42:43+09:00",
-            "source": "現代ビジネス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2656,17 +2656,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "親分肌のアニキ 積水化学工業社長・加藤敬太 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbk1PZGE1d0JaUWNzRmNyUWtvamhiczBRUHh1TWl3Yi05NVl3ODc5dmxSbzBmV192NmJ6NTY1cVQzZUN1SU9vTW5zQlBjaHF2MnlkcENKNC12WWhWQ0VLeEhuTHVKY1RJdWNGNw?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業、雄渾キャピタル・パートナーズ投資先で木造注文住宅設計・施工のアーキテックプランニングを買収 - marr.jp",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mMlI2RnlZeXdrTjQ3eS1zbkhGRDRLMDNDUGM1T2VaRkh3VDg1X2dYM3AxeXE0MWJyNWVpLXY1eWx0WFdmX1FFay1mMGs?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "marr.jp"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "親分肌のアニキ 積水化学工業社長・加藤敬太 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbk1PZGE1d0JaUWNzRmNyUWtvamhiczBRUHh1TWl3Yi05NVl3ODc5dmxSbzBmV192NmJ6NTY1cVQzZUN1SU9vTW5zQlBjaHF2MnlkcENKNC12WWhWQ0VLeEhuTHVKY1RJdWNGNw?oc=5",
+            "published": "2026-01-05T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -6170,17 +6170,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "生成AIでアフターサービス高度化、パナソニック ホームズが訪問対応支援システム導入：AI - ITmedia",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ckVrYlhxUkpHazV2T2phemZYMU80dVdGZDBRdEx5WFFjU01ZNGJfWTJHQzJnSWU5b2FIMXhuUXpoSmozUnp0bTNGWTJ4Nk9WSk02THVGQ2RoemNONGhCRkVYTFdMMlNxN2cwYg?oc=5",
-            "published": "2025-07-07T16:00:00+09:00",
-            "source": "ITmedia"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ、オーナー訪問に生成AI 活用 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXaTVPZWtORGNCNklsMUxPWXdvS2xCbDdhdjhKZlVuMjlzOTY5TE5SaDlMT1JFcDFyUFhCNnVuZldFakxQczZuUldmTXBSYVQ3MHRDajVn?oc=5",
             "published": "2025-07-07T16:00:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "生成AIでアフターサービス高度化、パナソニック ホームズが訪問対応支援システム導入：AI - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ckVrYlhxUkpHazV2T2phemZYMU80dVdGZDBRdEx5WFFjU01ZNGJfWTJHQzJnSWU5b2FIMXhuUXpoSmozUnp0bTNGWTJ4Nk9WSk02THVGQ2RoemNONGhCRkVYTFdMMlNxN2cwYg?oc=5",
+            "published": "2025-07-07T16:00:00+09:00",
+            "source": "ITmedia"
         },
         {
             "company_id": "ichijo_komuten",
