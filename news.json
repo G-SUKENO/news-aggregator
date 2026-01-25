@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-26T07:17:29.389537+09:00",
+    "generated_at": "2026-01-26T08:17:32.066822+09:00",
     "articles": [
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業クレストへのサポート詐欺、個人情報が漏えいした可能性を完全に否定することができず - ScanNetSecurity",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkU0Jab0RpSXVTaDBPUXR0UkNYMnNpM0JUUlZXZWJ2M05qQVN3akUzcWJfaG5DX180dW0xZWo1a0JZMU12aUZBZnZxSUdFRHVvVTltbjF3QWtRRGltcDc0WTJzNVdNQk1VaGpZdg?oc=5",
+            "published": "2026-01-26T08:10:06+09:00",
+            "source": "ScanNetSecurity"
+        },
         {
             "company_id": "sekisui_house",
             "title": "積水ハウス施工品質の建売戸建てブランド「SEKISUI HOUSE noie」に「無人内見くん」を導入開始 - PR TIMES",
@@ -143,10 +150,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム、南極モジュール技術がJAXAの宇宙事業に採択 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+            "title": "ミサワホーム、南極モジュール技術がJAXAの宇宙事業に採択 | チバテレ＋プラス - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWDExNjJfTGNQcks0Rk9XLVMyb0lSVl9jRkZOZGxwbFljVDAtbFVES2FQYXpVZ04tZ1UwbjVYVE5LVDhIZ2dNcXpuTFNySXRvMWlTZVpyV19jNE9Yc01Z0gFkQVVfeXFMTko0aWRGRzRjdGpjRFVYNGNCUW9FX0MybnN4TFdaX0Fyd3o2RG1lMnFrV2I0dE42Nm1Qd3lSSzN5UV9iUDRNTW93dnZZeWxYdm94ODJ5eXNHbjB5X2dFVDZjbU1KZg?oc=5",
             "published": "2026-01-23T12:13:25+09:00",
-            "source": "千葉テレビ放送株式会社"
+            "source": "千葉テレビ放送"
         },
         {
             "company_id": "misawa_home",
@@ -1381,13 +1388,6 @@
             "source": "月刊ロジスティクス・ビジネス（LOGI-BIZ）"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "夢中の先に学びがある！積水ハウスがつくった子供の感性を育む体験型施設「JUNOPARK」 - こどもとIT",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZElSb0FIUm9YeDNLQ2k3UHJzc0gzWlBtVHcwU3psMjVTY0pheWY2TVpiRjNNMFJVWVd5ZXdtUFdZa2dqYXY3bXdmUXltSGVZY1dHRDlOWGFIa0lVRGo2OVJEVk9SUVU?oc=5",
-            "published": "2026-01-14T17:00:00+09:00",
-            "source": "こどもとIT"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業の株価続伸 みずほ証券が投資判断「買い」に上げ - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bDQtWnlWUm1qb0lpRW1idFBVU1dicVBTM3Fncl94UTJWU09Pb2RKTnJEaTNRQ0dlTW82d0ZNZTF5SlhHQlhiNW52QWlDam1La3lTSzhTTXlORkZmeUFjY050X0tGMDBhZ1N2RQ?oc=5",
@@ -1435,6 +1435,13 @@
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0F2TTJaLWZSZk9xNWNEWmF3SFktVkFYUWRtUVp6YTNleDIta0FPR2tvSUt0T0pMSVRFX08xakpselZBcnN2UmFjXzZVMU5NREN1QUxNaU0zREtUa2pRT0JhZG5pMXpWZW9WTlNnNU9BY1FnYVlzbE1rSFotN01iZ2RjdElIbHJocm9rcjd2Y1hJcEFNdmRBQkZtV21sS19DUElXRHRiZ29TZw?oc=5",
             "published": "2026-01-14T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "夢中の先に学びがある！積水ハウスがつくった子供の感性を育む体験型施設「JUNOPARK」 - こどもとIT",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZElSb0FIUm9YeDNLQ2k3UHJzc0gzWlBtVHcwU3psMjVTY0pheWY2TVpiRjNNMFJVWVd5ZXdtUFdZa2dqYXY3bXdmUXltSGVZY1dHRDlOWGFIa0lVRGo2OVJEVk9SUVU?oc=5",
+            "published": "2026-01-14T17:00:00+09:00",
+            "source": "こどもとIT"
         },
         {
             "company_id": "panasonic_homes",
@@ -2046,27 +2053,6 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "【５％】 積水ハウスについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.45] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRnA3RFVYeWx6b01uVm9UX2gzaDJuZWtFVmtjaVBHZmhwLURkVnRKazdJM2ZsTDRCQ05RRnVENWhwcGxiaUpRcV9GQ1I3b1R1eTNnbjY1emJUWkFheWtlUmhB?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "かぶたん"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jblZKeWRpRXQydU5wajVVaWdQUkVnbDRaajRDY1pPU1BJVW9ySEV4bWJwbXNhZjROZVU1VmpfVjRFRDhOYVZPRmQ0X2x5VVVmaTRfUjZlSFBDd1E?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスなどが木杭で地盤を補強 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wV3dHbEV6RTU4eHB3clJMcGxiRjBXRWUzaFliNkdUeUxrTE9RaHJsQXNvSkRfaGstSHpvZENxZVFXMkxxR0lISzN3VWdMSlZQNUR4Z1NGNDBzNXlVV3V2MnFyUThHUWJWRndTdg?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "【材料】 住友林業---大幅続落、トランプ大統領が機関投資家の戸建て購入禁止を推進へ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84LV9nTXdWcDNPWk5jTlg0cmF4a1Frc0ViSUltc3N6bmcyZHA0QmlETi1pUU1wMGxoUjdSUzliTHBuWC1VZEUzbEpPazlZYmliOE94VkY4eEl5aXhZeUwtcQ?oc=5",
@@ -2130,6 +2116,27 @@
             "source": "かぶたん"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "【５％】 積水ハウスについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.45] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRnA3RFVYeWx6b01uVm9UX2gzaDJuZWtFVmtjaVBHZmhwLURkVnRKazdJM2ZsTDRCQ05RRnVENWhwcGxiaUpRcV9GQ1I3b1R1eTNnbjY1emJUWkFheWtlUmhB?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "かぶたん"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jblZKeWRpRXQydU5wajVVaWdQUkVnbDRaajRDY1pPU1BJVW9ySEV4bWJwbXNhZjROZVU1VmpfVjRFRDhOYVZPRmQ0X2x5VVVmaTRfUjZlSFBDd1E?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスなどが木杭で地盤を補強 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wV3dHbEV6RTU4eHB3clJMcGxiRjBXRWUzaFliNkdUeUxrTE9RaHJsQXNvSkRfaGstSHpvZENxZVFXMkxxR0lISzN3VWdMSlZQNUR4Z1NGNDBzNXlVV3V2MnFyUThHUWJWRndTdg?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
@@ -2138,15 +2145,15 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（3ページ目） - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMnVCX1V2LTgzRVZjV0FUVnRpUFU1b3BQdjVrVDFtTE1LRUtBNnFWVFNZRUE5NmJ3d0N3RFJPWHh4cmsyWkhUX1RRcFZuMjBBeWt1Z2pmZGpndHhSS3VhSHQxSHN1ZllFRFY0aHF4d2RVdw?oc=5",
+            "title": "供給力こそが最大の武器、大和ハウスのサブコン買収劇 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAySnVfZ3dzVDdEQVh3UnRFaUlMRVZiMjlwS1hBUVBfbkhwRzQzaHlZVjY1a01IbVZiQlBqNFpBcjZkQTduLVdodXVFMmVaVmtpTTRwbEZxdHFQQnlUaGxQSFhlNVYzRnQ2alRZMw?oc=5",
             "published": "2026-01-08T17:00:00+09:00",
             "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
-            "title": "供給力こそが最大の武器、大和ハウスのサブコン買収劇 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAySnVfZ3dzVDdEQVh3UnRFaUlMRVZiMjlwS1hBUVBfbkhwRzQzaHlZVjY1a01IbVZiQlBqNFpBcjZkQTduLVdodXVFMmVaVmtpTTRwbEZxdHFQQnlUaGxQSFhlNVYzRnQ2alRZMw?oc=5",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（3ページ目） - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMnVCX1V2LTgzRVZjV0FUVnRpUFU1b3BQdjVrVDFtTE1LRUtBNnFWVFNZRUE5NmJ3d0N3RFJPWHh4cmsyWkhUX1RRcFZuMjBBeWt1Z2pmZGpndHhSS3VhSHQxSHN1ZllFRFY0aHF4d2RVdw?oc=5",
             "published": "2026-01-08T17:00:00+09:00",
             "source": "日経クロステック"
         },
@@ -2725,6 +2732,13 @@
             "source": "ｄメニューニュース"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "【住友林業】邸宅設計・平屋 ご相談ください - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MmE0V1lzX0V5bFRnQzlnZEdZYVE4T3AyTEgwYWVoalJ3bFEyNXFTMFFHY2EwLWVRa2pBdC12UTlWWl82YnNlTU1wTkc5RFpDRS16c2tLWUJ4cDhBQnh6bUNLOS0?oc=5",
+            "published": "2026-01-05T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "〔年頭所感〕仲井積水ハウス社長：より高度なサービスとソリューションを提供(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXRNM1hMUkZac0E5ZXVSc3ZtdUM4ZDNmYnUxczV6UEFOTzdHVDZjMzltY29oX2syTGJEV29sbF9vT1NydDhJY0FnVmQ0cEF1ZXMyWWljOGRpaEFNcml6am1WYzZ1SVVUWUt4STh6VzNKaGJiRUg0UFFpTjNSemZsYnByMmRvRmM?oc=5",
@@ -2772,13 +2786,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbk1PZGE1d0JaUWNzRmNyUWtvamhiczBRUHh1TWl3Yi05NVl3ODc5dmxSbzBmV192NmJ6NTY1cVQzZUN1SU9vTW5zQlBjaHF2MnlkcENKNC12WWhWQ0VLeEhuTHVKY1RJdWNGNw?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【住友林業】邸宅設計・平屋 ご相談ください - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MmE0V1lzX0V5bFRnQzlnZEdZYVE4T3AyTEgwYWVoalJ3bFEyNXFTMFFHY2EwLWVRa2pBdC12UTlWWl82YnNlTU1wTkc5RFpDRS16c2tLWUJ4cDhBQnh6bUNLOS0?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -3201,6 +3208,13 @@
             "source": "nikkinonline.com"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業クレスト、サポート詐欺を起点の不正アクセスで個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzNmWWZ0SWN4SUZfT1ZnNFdoUUw3aWNyU2dVTC1MbmR4eFhVaDN6MTZMOHQ5ZHZQVTJpUEx4b2JLZnp4aEtNTlJTT2ZUcVZmd2JIenhVVkZNczF4SUdlY2hnQUl5eVFaSUZ3dzRmc0t6M0QtQ3ZSYXhnTERzQ3ZzcXVJbEFOSml0dS0xUnpkS0ZzTHVjMF81SFI4R1BSZw?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "合同会社ロケットボーイズ"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウスが万博日本館のCLT再利用、KUMA LAB・東大と建築物に - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSlVXUnJGTkZlY2Fqd3htZ1AzSzNxWHZQMW11S3lkTG1hZEhycHpxSUZKeFlGWVBHZWp2bGZaVDdWRzItMGVnTXJ1S1ZLMzhfMjlwZ1lUMjYxTHptMFBNeGQwMTlFZU0?oc=5",
@@ -3222,13 +3236,6 @@
             "source": "CLUB-Abo"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業クレスト、サポート詐欺を起点の不正アクセスで個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzNmWWZ0SWN4SUZfT1ZnNFdoUUw3aWNyU2dVTC1MbmR4eFhVaDN6MTZMOHQ5ZHZQVTJpUEx4b2JLZnp4aEtNTlJTT2ZUcVZmd2JIenhVVkZNczF4SUdlY2hnQUl5eVFaSUZ3dzRmc0t6M0QtQ3ZSYXhnTERzQ3ZzcXVJbEFOSml0dS0xUnpkS0ZzTHVjMF81SFI4R1BSZw?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "合同会社ロケットボーイズ"
-        },
-        {
             "company_id": "misawa_home",
             "title": "人事、ミサワホーム - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdzdpU0l3U3pOYTM5MHgxdWRXdGdWTHBFNGZ6TmpWaEt0dldMSTlnLWZOXzV1NkNYMGpfUUV5enljNTFmR0N2ZGRtRFBEbUVRelYzdkY0MXVpZ2ZNaFlDNVJJTC04MEI2bFhIZA?oc=5",
@@ -3248,13 +3255,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBva1VtV3lMRGZkUnhRYUQydUN0Y0NUZ0lnSklpZVlJdWREaXhrdXBDUGlaaThyeFZiU2hXMm54MXlhQWdTbURxamlnclVqYzRpbVBic1dpOEk1bURWb2c?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "Plus Web3"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "カーボンクレジットは「中身」で選ばれる時代へ。住友林業×Green Carbonが問い直す、自然由来クレジットの価値 - ビジネスジャーナル",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CRE5sUDVub2E5bjFoYXRGZUVUSHRCbFNxa2p5b3VSSUZJQ3BoMEluVTBiSHlnd1VoV0NEVkxEb0Vob2dRVWJzd21lZy12RFlyNzdqa08xUVZFWDhxQ0tR?oc=5",
-            "published": "2025-12-26T12:07:52+09:00",
-            "source": "ビジネスジャーナル"
         },
         {
             "company_id": "misawa_home",
@@ -4686,10 +4686,10 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホーム埼玉工場にメガソーラー、軽量パネルを採用 - ニュース - メガソーラービジネス plus - 日経BP",
+            "title": "三井ホーム埼玉工場にメガソーラー、軽量パネルを採用 - ニュース - メガソーラービジネス plus - project.nikkeibp.co.jp",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nNnVPTWZSOUpjNHU0M21uNjZDdHlzNHctNFdDc3NCXzZqRC1kclBNODJwYmt1TjhabjQtOFdkR1pRLVlMcW4yT00tZzBaUnQwODQ2dzVWRHVoTDkzSXo5eHFQb3VJeTFLZVdxb2Y1V0I5SEJM?oc=5",
             "published": "2025-12-01T17:00:00+09:00",
-            "source": "日経BP"
+            "source": "project.nikkeibp.co.jp"
         },
         {
             "company_id": "mitsui_home",
