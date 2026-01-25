@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-25T21:36:14.823577+09:00",
+    "generated_at": "2026-01-25T22:30:08.616634+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -21,6 +21,13 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNmdtVFk0UmtWVlNkZVY1QlVHZldYbnd3NlNPQmxQeUZyZDFoMEdYWHdwUDZBajZyVENhTmxUS21SblBrNE0xZ09VeVRGaV94YXJldVluU1Ffd3N5bjN6S3pVLU5pdEE?oc=5",
             "published": "2026-01-24T23:28:17+09:00",
             "source": "BS朝日"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【海外】米ノースカロライナに物流施設、住友林業と中央日土地 - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZGlKeEluLUYwOWFFU2w2WGRfQ3VMSUtRQjdHcktudTctNnl5NEE3UG1yVjdONmFEN2pRWnhzMDJaWUM1aUlpd2ZSZW5kMGdrOWw0Tk5vaVJnZUhuVkZvNmZ3?oc=5",
+            "published": "2026-01-24T21:33:40+09:00",
+            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "misawa_home",
@@ -147,6 +154,13 @@
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wM25uVUNyVUxhQ2NOWmh3OXZHbHB0OXNOTGNhWjZMTkNGcUUyd21CdURQY2xsNXB5Z0pHUnVRek91QjlxTndfQlV4Z3BUdzVpWTdkVHhIdWwtTFVEeXI1eklRZW94Qm9MWk1XWmVuWE5UOVZ0U21IYXp5Wmc?oc=5",
             "published": "2026-01-23T10:33:09+09:00",
             "source": "ニコニコニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "もうすぐそこ？ 〝空飛ぶ車〟の時代 ＜菅井貴子のお天気コラム＞ - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CNk9FWHBRMU1sUHdhRHN2bUlMM3piTHoweFFHVFlXSjRWZUZRd01YZDRWOXdINDJTV0FqQnMzUzMzcTh3SU1EaWlZSQ?oc=5",
+            "published": "2026-01-23T09:30:00+09:00",
+            "source": "47NEWS"
         },
         {
             "company_id": "mitsui_home",
@@ -413,13 +427,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05MWRWaUs1UHY0Mk50cno4YXJCT3ZFbTVSc3N6UWNhSEpSN0ptRUR2dnNGRnBZWnVtcmlLRHdiM19XeDI5VWJqazBYN0dYREk?oc=5",
             "published": "2026-01-21T06:00:00+09:00",
             "source": "住宅新報web"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【海外】米ノースカロライナに物流施設、住友林業と中央日土地 - 日経不動産マーケット情報",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZGlKeEluLUYwOWFFU2w2WGRfQ3VMSUtRQjdHcktudTctNnl5NEE3UG1yVjdONmFEN2pRWnhzMDJaWUM1aUlpd2ZSZW5kMGdrOWw0Tk5vaVJnZUhuVkZvNmZ3?oc=5",
-            "published": "2026-01-21T05:44:00+09:00",
-            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -954,6 +961,27 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "【住友林業】 1月限定！新春ご来場キャンペーン！ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hOUNlcXRUUkY5enlnN2UwR2dqZnV5NmtnbVR2S21WRU83Um9HSF84M1lDY2pqbk8zMzhBUzg0MzhFOXdsQUxYd1RzdWhmcFZVb0Z0ZWlCTXRINmM?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「JUCORE(ジュコア) 見積」、プレカットCADとデータ連携へ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zakI2QjlJZkV3ajRTUjVzbXAtclNsR2diWFFHY09DUTJBVEFSc2xWTHVGSllBVlliMDU3S2djTW42aERDVmZhZFFrdTIwcVZoSXNrd2MxejZ1RGZNVXMzcWdMWFdBVmhOSmc?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【高市相場】「財閥系・オーナー系企業」厳選16銘柄 - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IVWExZ2xVM2ttODdpOS1BODJoTmktSGJ1THFIOHlIWkhkYS1DZXA3WC1Rd1VJT1V2OGR2amU0eVhpNlppMl9KeFdjTTZQU3JsR2FHWC1tdm4?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "現代ビジネス"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスのDE&Iは成長戦略 「精神・発達障害人財」本社に[PR] - 日経BizGate",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMUk4XzJ4RmdEZEhKWktDckszY18xNDBvdndUR1ZNN1Fja2JGYTFwTFJ6RWpsTm5RNnlraHpzOXlzWE9tdDU0QWJUYURkWDJ2N3p3Q3M0SnNSUXlDS3h5d2ZOUC1PY054Mi01eThpZXQ?oc=5",
@@ -973,20 +1001,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yLWtmcWR6TjRYTVBiME8tUkF6T1FrdndSbHg4enVzOHJPVjA5dkVYY1kxOWYzYTRGekVJMGhSWHRIay1FcjRBTi12bmVWVEtkTUZUdTBRTjNEekxzNWdraHZacVNuUTdxMWc?oc=5",
             "published": "2026-01-16T17:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【住友林業】 1月限定！新春ご来場キャンペーン！ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hOUNlcXRUUkY5enlnN2UwR2dqZnV5NmtnbVR2S21WRU83Um9HSF84M1lDY2pqbk8zMzhBUzg0MzhFOXdsQUxYd1RzdWhmcFZVb0Z0ZWlCTXRINmM?oc=5",
-            "published": "2026-01-16T17:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【高市相場】「財閥系・オーナー系企業」厳選16銘柄 - 現代ビジネス",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IVWExZ2xVM2ttODdpOS1BODJoTmktSGJ1THFIOHlIWkhkYS1DZXA3WC1Rd1VJT1V2OGR2amU0eVhpNlppMl9KeFdjTTZQU3JsR2FHWC1tdm4?oc=5",
-            "published": "2026-01-16T17:00:00+09:00",
-            "source": "現代ビジネス"
         },
         {
             "company_id": "sekisui_house",
@@ -1057,13 +1071,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4OTB1U0hFU1JFRWtaY3RCRlJLWmJrdDRYOHJXVnMtLTNUN2hWMVM2bDZ6MnJjbUZqcnRaYktRT0VRZVJLVkd0WUJ4NFBaU0lpUlFaaUVISzNDdUE?oc=5",
             "published": "2026-01-16T14:00:00+09:00",
             "source": "下野新聞社"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「JUCORE(ジュコア) 見積」、プレカットCADとデータ連携へ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zakI2QjlJZkV3ajRTUjVzbXAtclNsR2diWFFHY09DUTJBVEFSc2xWTHVGSllBVlliMDU3S2djTW42aERDVmZhZFFrdTIwcVZoSXNrd2MxejZ1RGZNVXMzcWdMWFdBVmhOSmc?oc=5",
-            "published": "2026-01-16T13:00:02+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -1297,16 +1304,16 @@
             "source": "毎日新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "働く人の安全・健康・ウェルビーイング／大和ハウス、未来安全への挑戦 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qaXBTWGlCejl3blUwLUs3QnU2RE5nem5lM0U4anFwVGZCTklHWXJNcG1JTWJkODY2X2RCaE5TUGtGaUpzMTA1SjhLcWZSOVBnQ0pueldiczM1aGM?oc=5",
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業と中央日土地、米に複合物流施設 来年4月完工 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbm9TOGwyWnpla0lUOGpZSEVvVnhFZjJzYVZDSjNKRGE5RTNqV2RJZlhTVVY4eU1VdzYyUy04RlRIc0hFaVF6MHNWM1h0eW9wTm1nRlNXR0lBRzA?oc=5",
             "published": "2026-01-15T05:01:49+09:00",
             "source": "日刊工業新聞"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業と中央日土地、米に複合物流施設 来年4月完工 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbm9TOGwyWnpla0lUOGpZSEVvVnhFZjJzYVZDSjNKRGE5RTNqV2RJZlhTVVY4eU1VdzYyUy04RlRIc0hFaVF6MHNWM1h0eW9wTm1nRlNXR0lBRzA?oc=5",
+            "company_id": "daiwa_house",
+            "title": "働く人の安全・健康・ウェルビーイング／大和ハウス、未来安全への挑戦 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qaXBTWGlCejl3blUwLUs3QnU2RE5nem5lM0U4anFwVGZCTklHWXJNcG1JTWJkODY2X2RCaE5TUGtGaUpzMTA1SjhLcWZSOVBnQ0pueldiczM1aGM?oc=5",
             "published": "2026-01-15T05:01:49+09:00",
             "source": "日刊工業新聞"
         },
@@ -1360,23 +1367,16 @@
             "source": "月刊ロジスティクス・ビジネス（LOGI-BIZ）"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "夢中の先に学びがある！積水ハウスがつくった子供の感性を育む体験型施設「JUNOPARK」 - こどもとIT",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZElSb0FIUm9YeDNLQ2k3UHJzc0gzWlBtVHcwU3psMjVTY0pheWY2TVpiRjNNMFJVWVd5ZXdtUFdZa2dqYXY3bXdmUXltSGVZY1dHRDlOWGFIa0lVRGo2OVJEVk9SUVU?oc=5",
-            "published": "2026-01-14T17:00:00+09:00",
-            "source": "こどもとIT"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "冬本番 寒さと花粉のWシーズン到来 『住まいの温度と空気に関する意識調査』を実施 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OQ201Vzg5SjRiWHJ2bWF0T0lXRTRFa3ZfYVhZUFcxaTYza1A1SUl6UzB0LUkwaUNqZzZBcDZOOGlyNXVrTDUtcHdic1ctNHQtZkdzSXQ1SjQ5RDhVdVZIQjZwaTZLYnRnY3c?oc=5",
-            "published": "2026-01-14T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業の株価続伸 みずほ証券が投資判断「買い」に上げ - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bDQtWnlWUm1qb0lpRW1idFBVU1dicVBTM3Fncl94UTJWU09Pb2RKTnJEaTNRQ0dlTW82d0ZNZTF5SlhHQlhiNW52QWlDam1La3lTSzhTTXlORkZmeUFjY050X0tGMDBhZ1N2RQ?oc=5",
+            "published": "2026-01-14T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業が5%高、米国の住宅ローン金利低下に期待（14日の株式市場） - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcHJPN195N01LaUlqald4Q25mUC1Ed2xKcjFFMGZTMGFDZTBrT1UxckdjRHpHSnJSSk1Ta3FwdUJGZVRFZGRUNlQ1UlJiczBtb3NVeGxkal90SVJKRTVpZ01oSUQ1MFo4ZFVFOA?oc=5",
             "published": "2026-01-14T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -1391,13 +1391,6 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業が5%高、米国の住宅ローン金利低下に期待（14日の株式市場） - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc21EU1UtZ1NWWUFIWlg1aTVnTVh4V285ZWtfUS1DbE1wU0o4djcwVVVUVE5qVWstbjNka2RxNEdQWENpLWtzblloenNTSEdDLUt6NkFwNEVjSm5GSzVPWDhqUGZXZUp6VFVOLU14b1FlOFZMNXNySUh5MzVFWDlVUnMxN2ltZUNBaEFhYy1nUS1SRmxqa0pYbjhoUXNZLUpUQ2c?oc=5",
-            "published": "2026-01-14T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業が5%高、米国の住宅ローン金利低下に期待（14日の株式市場） - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcHJPN195N01LaUlqald4Q25mUC1Ed2xKcjFFMGZTMGFDZTBrT1UxckdjRHpHSnJSSk1Ta3FwdUJGZVRFZGRUNlQ1UlJiczBtb3NVeGxkal90SVJKRTVpZ01oSUQ1MFo4ZFVFOA?oc=5",
             "published": "2026-01-14T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -1421,6 +1414,20 @@
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0F2TTJaLWZSZk9xNWNEWmF3SFktVkFYUWRtUVp6YTNleDIta0FPR2tvSUt0T0pMSVRFX08xakpselZBcnN2UmFjXzZVMU5NREN1QUxNaU0zREtUa2pRT0JhZG5pMXpWZW9WTlNnNU9BY1FnYVlzbE1rSFotN01iZ2RjdElIbHJocm9rcjd2Y1hJcEFNdmRBQkZtV21sS19DUElXRHRiZ29TZw?oc=5",
             "published": "2026-01-14T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "夢中の先に学びがある！積水ハウスがつくった子供の感性を育む体験型施設「JUNOPARK」 - こどもとIT",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZElSb0FIUm9YeDNLQ2k3UHJzc0gzWlBtVHcwU3psMjVTY0pheWY2TVpiRjNNMFJVWVd5ZXdtUFdZa2dqYXY3bXdmUXltSGVZY1dHRDlOWGFIa0lVRGo2OVJEVk9SUVU?oc=5",
+            "published": "2026-01-14T17:00:00+09:00",
+            "source": "こどもとIT"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "冬本番 寒さと花粉のWシーズン到来 『住まいの温度と空気に関する意識調査』を実施 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OQ201Vzg5SjRiWHJ2bWF0T0lXRTRFa3ZfYVhZUFcxaTYza1A1SUl6UzB0LUkwaUNqZzZBcDZOOGlyNXVrTDUtcHdic1ctNHQtZkdzSXQ1SjQ5RDhVdVZIQjZwaTZLYnRnY3c?oc=5",
+            "published": "2026-01-14T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1801,13 +1808,6 @@
             "source": "四季報オンライン"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "遺伝子情報を活用した新サービス『オーダーフィット』導入(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNklaS0huUmlyaFMweXBUY2RvczFzQ29tcjVNMmRoSVZVcDJUNS1JRkJmRVJFS0Y3LTQyV0xUel9uajhaNzZDcnJsS3NGZlpqdDRsN19MNFdVSTJrVGlyLUtzc09YUnVTb2c?oc=5",
-            "published": "2026-01-09T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "（短信）熊谷組、今期純利益2倍 住友林業株売却で - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYYjBTNXNReE9wNDRqdjM2X1Y4SU8tZzdoVlVXS0tRQi1pNXd4a1Iza2JtQXVJbnRmZGFWRHNFdmNIYUtzTXZtd1JqWVdkTjZ2QlU1NDlvRTRZZDdGZ2V0b2dlN0RxMEJGc2hKag?oc=5",
@@ -1834,6 +1834,13 @@
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa29MV3NQX055SHc1amFiQ01zbmlLZFlQa1FnVkRGZDE2Q0JpNWNoX1NvbFEyb1ZDeVV2OWNDWTRSdzdwdTJ6MHlKSjNfWVBKUFpHS2dva2Jpc1ZVNWVRbHJBbVZob2tYQW44UmVIVXhxSTFJUU44blhybDFBYWR2bFFjUzVrWnNldHVWMTNkNWpLZU9lY0lneGlOZ1lFSmg1ZEE?oc=5",
             "published": "2026-01-09T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "遺伝子情報を活用した新サービス『オーダーフィット』導入(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNklaS0huUmlyaFMweXBUY2RvczFzQ29tcjVNMmRoSVZVcDJUNS1JRkJmRVJFS0Y3LTQyV0xUel9uajhaNzZDcnJsS3NGZlpqdDRsN19MNFdVSTJrVGlyLUtzc09YUnVTb2c?oc=5",
+            "published": "2026-01-09T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -2025,48 +2032,6 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "【５％】 積水ハウスについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.45] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRnA3RFVYeWx6b01uVm9UX2gzaDJuZWtFVmtjaVBHZmhwLURkVnRKazdJM2ZsTDRCQ05RRnVENWhwcGxiaUpRcV9GQ1I3b1R1eTNnbjY1emJUWkFheWtlUmhB?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "かぶたん"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jblZKeWRpRXQydU5wajVVaWdQUkVnbDRaajRDY1pPU1BJVW9ySEV4bWJwbXNhZjROZVU1VmpfVjRFRDhOYVZPRmQ0X2x5VVVmaTRfUjZlSFBDd1E?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスなどが木杭で地盤を補強 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wV3dHbEV6RTU4eHB3clJMcGxiRjBXRWUzaFliNkdUeUxrTE9RaHJsQXNvSkRfaGstSHpvZENxZVFXMkxxR0lISzN3VWdMSlZQNUR4Z1NGNDBzNXlVV3V2MnFyUThHUWJWRndTdg?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（3ページ目） - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMnVCX1V2LTgzRVZjV0FUVnRpUFU1b3BQdjVrVDFtTE1LRUtBNnFWVFNZRUE5NmJ3d0N3RFJPWHh4cmsyWkhUX1RRcFZuMjBBeWt1Z2pmZGpndHhSS3VhSHQxSHN1ZllFRFY0aHF4d2RVdw?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "供給力こそが最大の武器、大和ハウスのサブコン買収劇 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAySnVfZ3dzVDdEQVh3UnRFaUlMRVZiMjlwS1hBUVBfbkhwRzQzaHlZVjY1a01IbVZiQlBqNFpBcjZkQTduLVdodXVFMmVaVmtpTTRwbEZxdHFQQnlUaGxQSFhlNVYzRnQ2alRZMw?oc=5",
-            "published": "2026-01-08T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "【材料】 住友林業---大幅続落、トランプ大統領が機関投資家の戸建て購入禁止を推進へ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84LV9nTXdWcDNPWk5jTlg0cmF4a1Frc0ViSUltc3N6bmcyZHA0QmlETi1pUU1wMGxoUjdSUzliTHBuWC1VZEUzbEpPazlZYmliOE94VkY4eEl5aXhZeUwtcQ?oc=5",
@@ -2128,6 +2093,48 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KV1c4dEYybnBDTk5RanM3NVBrb1JfMVVXdTdDTUhKTkxEeERLQmtjaF9MbV8zSHlLZ0d0TzFULW5NT3dYdmNsdW9PX2Nldmlqc1JLaXd2MkpSYWhCR0FlSw?oc=5",
             "published": "2026-01-08T17:00:00+09:00",
             "source": "かぶたん"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "【５％】 積水ハウスについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.45] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRnA3RFVYeWx6b01uVm9UX2gzaDJuZWtFVmtjaVBHZmhwLURkVnRKazdJM2ZsTDRCQ05RRnVENWhwcGxiaUpRcV9GQ1I3b1R1eTNnbjY1emJUWkFheWtlUmhB?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "かぶたん"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jblZKeWRpRXQydU5wajVVaWdQUkVnbDRaajRDY1pPU1BJVW9ySEV4bWJwbXNhZjROZVU1VmpfVjRFRDhOYVZPRmQ0X2x5VVVmaTRfUjZlSFBDd1E?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスなどが木杭で地盤を補強 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wV3dHbEV6RTU4eHB3clJMcGxiRjBXRWUzaFliNkdUeUxrTE9RaHJsQXNvSkRfaGstSHpvZENxZVFXMkxxR0lISzN3VWdMSlZQNUR4Z1NGNDBzNXlVV3V2MnFyUThHUWJWRndTdg?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SmxIaUg3REFCTWVlMHQ5cGhmRW1qMEVxdmdNcnVQSlRwQVRHdWlNZ0FiMThqaUN5cWZkaGs1Q3lpMmZ1RktuV3QtX0pmbC14YXIwcVRHeUxkZ0JUZDZjMWx2UmtaeGJkZGh1SA?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスの住友電設買収に業界騒然、「どうやって話をまとめたんだ」（3ページ目） - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMnVCX1V2LTgzRVZjV0FUVnRpUFU1b3BQdjVrVDFtTE1LRUtBNnFWVFNZRUE5NmJ3d0N3RFJPWHh4cmsyWkhUX1RRcFZuMjBBeWt1Z2pmZGpndHhSS3VhSHQxSHN1ZllFRFY0aHF4d2RVdw?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "供給力こそが最大の武器、大和ハウスのサブコン買収劇 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAySnVfZ3dzVDdEQVh3UnRFaUlMRVZiMjlwS1hBUVBfbkhwRzQzaHlZVjY1a01IbVZiQlBqNFpBcjZkQTduLVdodXVFMmVaVmtpTTRwbEZxdHFQQnlUaGxQSFhlNVYzRnQ2alRZMw?oc=5",
+            "published": "2026-01-08T17:00:00+09:00",
+            "source": "日経クロステック"
         },
         {
             "company_id": "sekisui_house",
@@ -2739,6 +2746,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "【住友林業】邸宅設計・平屋 ご相談ください - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MmE0V1lzX0V5bFRnQzlnZEdZYVE4T3AyTEgwYWVoalJ3bFEyNXFTMFFHY2EwLWVRa2pBdC12UTlWWl82YnNlTU1wTkc5RFpDRS16c2tLWUJ4cDhBQnh6bUNLOS0?oc=5",
+            "published": "2026-01-05T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "〔年頭所感〕仲井積水ハウス社長：より高度なサービスとソリューションを提供(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXRNM1hMUkZac0E5ZXVSc3ZtdUM4ZDNmYnUxczV6UEFOTzdHVDZjMzltY29oX2syTGJEV29sbF9vT1NydDhJY0FnVmQ0cEF1ZXMyWWljOGRpaEFNcml6am1WYzZ1SVVUWUt4STh6VzNKaGJiRUg0UFFpTjNSemZsYnByMmRvRmM?oc=5",
@@ -2763,13 +2777,6 @@
             "company_id": "panasonic_homes",
             "title": "【パナソニックホームズ】ＷＥＢイベント開催！自宅で楽しく視聴 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wbHdTS1FMeWNqcU5RZ00xV0VhTTdYaVZqUU5iX3F1QWxNczVfOHU0aFNrNFA3LTF4UkwzRUE0Rk14eXVDanJ2S1pFVE0zbFQ3cm9LSWFPazZYY28?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【住友林業】邸宅設計・平屋 ご相談ください - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MmE0V1lzX0V5bFRnQzlnZEdZYVE4T3AyTEgwYWVoalJ3bFEyNXFTMFFHY2EwLWVRa2pBdC12UTlWWl82YnNlTU1wTkc5RFpDRS16c2tLWUJ4cDhBQnh6bUNLOS0?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "朝日新聞"
         },
@@ -2946,13 +2953,6 @@
             "title": "大和ハウスが新CMシリーズ「中身が大事」を発表、吉高由里子と池松壮亮が再登場 - サードニュース",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NR0haQ2VYQlVjNDEtV1lyM0Y5TzZRM3BUd2hnb2hsb0NuNjJ2TTJzS2kxakNTekE5UV9QaFY1WHpvNkhmVEkxM1lMMWpULWlodmZkLUgyczZleGlyNEN3LWdPelZkUVprM19waEhFOW1vaDUxd0k1NDh3?oc=5",
             "published": "2026-01-02T12:22:21+09:00",
-            "source": "サードニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの新CM「そして、世界へ。」アメリカ篇が放送開始 - サードニュース",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zQzhTbWpEcEgwZHpBV25OcEZZRU9seG10VlRfZ3JRdEZEYkF1Y2VIYUN2NDVoZmVFczhTNS1OZHBxMmZBdi1CNF9kVEk4NUxCSkp2UElpRlBDUlB4UWx0Z0NpTldDZ2Y0MlJVbV9UQXpwaGgtWTJ3Y293?oc=5",
-            "published": "2026-01-02T12:21:24+09:00",
             "source": "サードニュース"
         },
         {
@@ -3194,6 +3194,13 @@
             "source": "CLUB-Abo"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業クレスト、サポート詐欺を起点の不正アクセスで個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzNmWWZ0SWN4SUZfT1ZnNFdoUUw3aWNyU2dVTC1MbmR4eFhVaDN6MTZMOHQ5ZHZQVTJpUEx4b2JLZnp4aEtNTlJTT2ZUcVZmd2JIenhVVkZNczF4SUdlY2hnQUl5eVFaSUZ3dzRmc0t6M0QtQ3ZSYXhnTERzQ3ZzcXVJbEFOSml0dS0xUnpkS0ZzTHVjMF81SFI4R1BSZw?oc=5",
+            "published": "2025-12-26T17:00:00+09:00",
+            "source": "合同会社ロケットボーイズ"
+        },
+        {
             "company_id": "misawa_home",
             "title": "人事、ミサワホーム - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdzdpU0l3U3pOYTM5MHgxdWRXdGdWTHBFNGZ6TmpWaEt0dldMSTlnLWZOXzV1NkNYMGpfUUV5enljNTFmR0N2ZGRtRFBEbUVRelYzdkY0MXVpZ2ZNaFlDNVJJTC04MEI2bFhIZA?oc=5",
@@ -3227,13 +3234,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBva1VtV3lMRGZkUnhRYUQydUN0Y0NUZ0lnSklpZVlJdWREaXhrdXBDUGlaaThyeFZiU2hXMm54MXlhQWdTbURxamlnclVqYzRpbVBic1dpOEk1bURWb2c?oc=5",
             "published": "2025-12-26T17:00:00+09:00",
             "source": "Plus Web3"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業クレスト、サポート詐欺を起点の不正アクセスで個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzNmWWZ0SWN4SUZfT1ZnNFdoUUw3aWNyU2dVTC1MbmR4eFhVaDN6MTZMOHQ5ZHZQVTJpUEx4b2JLZnp4aEtNTlJTT2ZUcVZmd2JIenhVVkZNczF4SUdlY2hnQUl5eVFaSUZ3dzRmc0t6M0QtQ3ZSYXhnTERzQ3ZzcXVJbEFOSml0dS0xUnpkS0ZzTHVjMF81SFI4R1BSZw?oc=5",
-            "published": "2025-12-26T17:00:00+09:00",
-            "source": "合同会社ロケットボーイズ"
         },
         {
             "company_id": "sumitomo_forestry",
