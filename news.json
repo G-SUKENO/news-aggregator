@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-26T18:31:12.847579+09:00",
+    "generated_at": "2026-01-26T19:22:52.559322+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -45,17 +45,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "コスモスイニシア・大和ハウス工業・共立エステート、3 社共同 新築分譲マンション『イニシア武蔵小杉御殿町』第1期1次販売開始 - マピオン",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SVlwOTExX2JlbDVnVGtsSW5NaDEtbmViSVlWVWNYQllvaVFGRjk2TzVUSVNqX2NtNEdHLVIycHQydUR1by1xUFFfbHIwTG4waHdnZ2dpYktwN19rbHc?oc=5",
-            "published": "2026-01-26T11:30:00+09:00",
-            "source": "マピオン"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "コスモスイニシア・大和ハウス工業・共立エステート、3 社共同 新築分譲マンション『イニシア武蔵小杉御殿町』第1期1次販売開始 - ライブドアニュース",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBNVl4N0RLT3RQZEtqTnN1YVllczI5WmtNcW93UlBla21TdzFKcmhqMDdIUmpGOWpFS0tKZmRHcmdOZVRkdHl5MEpBUlBIc0kyZ28weXVROC1leXk4LWFsWkhR?oc=5",
             "published": "2026-01-26T11:30:00+09:00",
             "source": "ライブドアニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "コスモスイニシア・大和ハウス工業・共立エステート、3 社共同 新築分譲マンション『イニシア武蔵小杉御殿町』第1期1次販売開始 - マピオン",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SVlwOTExX2JlbDVnVGtsSW5NaDEtbmViSVlWVWNYQllvaVFGRjk2TzVUSVNqX2NtNEdHLVIycHQydUR1by1xUFFfbHIwTG4waHdnZ2dpYktwN19rbHc?oc=5",
+            "published": "2026-01-26T11:30:00+09:00",
+            "source": "マピオン"
         },
         {
             "company_id": "daiwa_house",
@@ -1109,17 +1109,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスのDE&Iは成長戦略 「精神・発達障害人財」本社に[PR] - 日経BizGate",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMUk4XzJ4RmdEZEhKWktDckszY18xNDBvdndUR1ZNN1Fja2JGYTFwTFJ6RWpsTm5RNnlraHpzOXlzWE9tdDU0QWJUYURkWDJ2N3p3Q3M0SnNSUXlDS3h5d2ZOUC1PY054Mi01eThpZXQ?oc=5",
-            "published": "2026-01-16T17:00:00+09:00",
-            "source": "日経BizGate"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "「淀屋橋ゲートタワー」竣工(ニュースリリース) - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYaF92Y0RjSGV5dEtDWWxoLXJ4bndObjJmMHgxeEZraTk5U2VKX2E4cm1YV1JwWVhFUmxvSmRjMkdNNXZNZ1pWLU5JWDAxV283WUJlQUhhUnZDQWxjSXhqYVFEbzh5ZDFOeUE?oc=5",
             "published": "2026-01-16T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスのDE&Iは成長戦略 「精神・発達障害人財」本社に[PR] - 日経BizGate",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMUk4XzJ4RmdEZEhKWktDckszY18xNDBvdndUR1ZNN1Fja2JGYTFwTFJ6RWpsTm5RNnlraHpzOXlzWE9tdDU0QWJUYURkWDJ2N3p3Q3M0SnNSUXlDS3h5d2ZOUC1PY054Mi01eThpZXQ?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "日経BizGate"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1978,6 +1978,13 @@
         {
             "company_id": "sumitomo_forestry",
             "title": "（短信）熊谷組、今期純利益2倍 住友林業株売却で - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUFpenBHVXVSMHAtMEhHTFN5R2xadUFTTi1qOXFLeTBIUmV0XzZrM3lacGpQQk5FUXpQekdrS19TRUxFSW8ySlkwU25fU1liem0tYVlWeDJSblVtTXpXNXktdGRXRmlKUzJrVG13aEhhRC12Rk1TN3NUYWRDZjR2TG9UVklyUl9vZjZ1SEhLc21sbUlWMWxDbTRNdUFLa0hpYTBBRFF1WEE?oc=5",
+            "published": "2026-01-09T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "（短信）熊谷組、今期純利益2倍 住友林業株売却で - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWF4S3VZc0RVTHh4UkVlMDNyT0o1aG1jbGs5MW9DMnp2eVhzbnFiQmx6MnltMU43N0JRSTZlVW9rTXZEb0JjSGlaM2ZtWjVJaldYT3ZHYjFHRi04WFJNMDg5VmQwVWFCNENEcWQ5bFEtTWd1LTRwU3R1Mm1mM2NYNDFNRHhQN0JsbmpEU1BSOG16WVVMVVduTFF0V2tJTm02eHBPVkt0UEc?oc=5",
             "published": "2026-01-09T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -2590,13 +2597,6 @@
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2lvOXd5Vm5ZVHhVbmREMHZWMGhiWGpuQ3lmbzBOcXlkbkcyUVp3dkFXMDlfcnNxZjF0Tml5WUtmX2NPa0ctajlqejJfNE00bzZLYnF3eGpaeUl3TnVrdEZMaVZqaUxOVjYzODFMNnA2ZVZHNEV5M3Y0bmFMRTVnbGp2dzV1THd2ZVIyWkZn?oc=5",
             "published": "2026-01-07T11:26:15+09:00",
             "source": "SUUMO"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業－丸三が新規「買い」 2026年中に海外住宅事業は回復へ向かうと予想〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2NaN21VSkNOZ0FNdEhjRC1ycEZyeENUVDBPWEFUOFM0dkJTYjI4WVctaUhrbzVFaDRSVTk2bzgtNlBLa0VZVGpMVWlQN3BSUEl4dy1Sb1hMQ01YSDJtdmxuTHdFbnUyeVdiaUJ4cXlyZ0ppOXdiOUJ2MVFDYlRLcmVXbUUzTmc?oc=5",
-            "published": "2026-01-07T09:27:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_heim",
