@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-27T12:44:52.408608+09:00",
+    "generated_at": "2026-01-27T13:43:40.118110+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -65,7 +65,7 @@
             "source": "joetsutj.com"
         },
         {
-            "company_id": "sumitomo_forestry",
+            "company_id": "daiwa_house",
             "title": "2026年1月27日(第2266号)/主要13社・2025年暦年戸建て・注文住宅受注推移、住友林業・大和ハウス工業・ヤマダHDなどが好調 - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iSnQ1NUxmX25BZV9ZajZ1bTNsbDA3TmV1M3Z1V0FfcktEUHdIVDBab2pMejJEUTFUZGhjeWV0Zk1vV28zZXBUeHRxaUpkZ9IBTkFVX3lxTE1iSnQ1NUxmX25BZV9ZajZ1bTNsbDA3TmV1M3Z1V0FfcktEUHdIVDBab2pMejJEUTFUZGhjeWV0Zk1vV28zZXBUeHRxaUpkZw?oc=5",
             "published": "2026-01-27T07:01:28+09:00",
@@ -1479,6 +1479,13 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業と中央日土地、米に複合物流施設 来年4月完工 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdjdLd3lROUs3UG5PRWg1SkF3Y1lJcXpTelJzSnRReEdiU0JTemFaRXBFWVlHcnRCNVR0T2VRcUtyVVg0YkJ0cG1hQVpGYmw0MXNVdmNFT2h1LXRqU0JlQnI0QmtIM0tIazFqODhlcTlMdDdt?oc=5",
+            "published": "2026-01-15T17:00:00+09:00",
+            "source": "日刊工業新聞"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "高断熱・高気密住宅ブランド「Asu-haus」一次エネルギー消費量等級8に対応 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QcjRQOXRzMGNXelVsUUpEbDYtb21kZUw1MUdQUGlnaFljclZYODgtTjRPbi1ITFo4bWVqeU9Nem16Z3VlUVJjX1djenVmMktzTS03dGxxZEVVdnJmSkRCUUtTOE9lTG5DM0E?oc=5",
@@ -1547,13 +1554,6 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Mks4WEpoa2NUSGpIRHVUeE9yYnJveV9yQWVPTXFsUXNmTjNzYmU0dnRFTmp2R3NYeUZmdTU2WUMtQ09OZkt2a0Mzb1hYR1RXMmZr?oc=5",
             "published": "2026-01-15T09:00:00+09:00",
             "source": "MarkeZine"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業と中央日土地、米に複合物流施設 来年4月完工 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdjdLd3lROUs3UG5PRWg1SkF3Y1lJcXpTelJzSnRReEdiU0JTemFaRXBFWVlHcnRCNVR0T2VRcUtyVVg0YkJ0cG1hQVpGYmw0MXNVdmNFT2h1LXRqU0JlQnI0QmtIM0tIazFqODhlcTlMdDdt?oc=5",
-            "published": "2026-01-15T07:47:37+09:00",
-            "source": "日刊工業新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -1907,17 +1907,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学が約25年前の会計システムを刷新、S/4HANAで経営高度化狙う - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wc0hJbWstMVFmMWxsRHFMSjZrQjcyQzk5VFlvdEdtcVRVaWFuTmxrWVJ6aHJNaE1kWUxFV3pKSmFuLWVsSmViOG5BYnllTHVmNTQ3akNTbmhySUZXcnI3ZDdkRlV2SHVISkJrUg?oc=5",
-            "published": "2026-01-13T17:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業が北海道の木造住宅会社を買収 プレハブメーカーの木造強化の流れ続く - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56WUt0Q1N5TkluTlhqazdvaFVlTUktUjVzeGpmUV9kSTBjb2k0OXFxNDdqcWN2ZFRRNFFYS0ZlcHl1YXVPWGdCNVJaNmx0N20x?oc=5",
             "published": "2026-01-13T17:00:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学が約25年前の会計システムを刷新、S/4HANAで経営高度化狙う - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wc0hJbWstMVFmMWxsRHFMSjZrQjcyQzk5VFlvdEdtcVRVaWFuTmxrWVJ6aHJNaE1kWUxFV3pKSmFuLWVsSmViOG5BYnllTHVmNTQ3akNTbmhySUZXcnI3ZDdkRlV2SHVISkJrUg?oc=5",
+            "published": "2026-01-13T17:00:00+09:00",
+            "source": "日経クロステック"
         },
         {
             "company_id": "sekisui_house",
@@ -2719,10 +2719,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナホーム静岡で「いい生活Square」「いい生活賃貸クラウド」を採用 | 鹿児島・九州プレスリリース | 生活情報 | くらし - 南日本新聞",
+            "title": "パナホーム静岡で「いい生活Square」「いい生活賃貸クラウド」を採用 | 鹿児島・九州プレスリリース | 生活情報 | くらし - 373news.com",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaFJYUFUzMFA5SXFXYkdlYlZaQkx2WmtyNm5xb2J2d3VBSTdPNkNJZHJXNU9SME8waUpQdXBYMnlOYjlMUzdVQUNPSXpZeExNVzZrWU1xNDgtbzZ6RzhrYzk1dmlkNWJldGltS2g2YmZsYXlsemlXdUZmVEhzYWxFTg?oc=5",
             "published": "2026-01-07T00:02:59+09:00",
-            "source": "南日本新聞"
+            "source": "373news.com"
         },
         {
             "company_id": "hebel_haus",
@@ -2982,13 +2982,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMlZ0SUhybjRTTGtGMjNKQ0F1V3NvTUpKb0xaVENJZkJ4NjZsQVBhRUZmU1VEMFBPbWRZQ3lHdXdackpZVWNsX0FJR2M0MllUMnFWZ19CT05nOE9oM2NpU1JKMmdNcXc?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "健美家"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業、モジュール型データセンター商品を2026年1月より提供 JDCCの最高レベルに準拠 - EnterpriseZine",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FMkY4WkxNY1FsZjRsNjZLZ3oxR3owdzh3bHlQSFdUYlk4WjZ6aU9OWk10Z21XdjlBN2pnaTRxVng4XzRZMnNYY2JwRFpvanI0MkZVR0JB?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "EnterpriseZine"
         },
         {
             "company_id": "sekisui_heim",
@@ -3682,6 +3675,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MVRQWXVwYXkwem9zZ1hjWGV2WWw5SEVYWVMxSk1fM2tOVHhIV1N6YTk2alVsS0FyRWl3OGJhNkFaMXVtNkRHQ0g1R2FvRFNLSERTUzQwazBlUkc0T19YbWc5Z2loM3RMZkc0Zg?oc=5",
             "published": "2025-12-22T17:30:51+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "GXの出遅れが命取り。創出量15倍に拡大の「森林クレジット」が今注目されるワケ - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsckhYMEZ2Umw5YXQtQ29ELXpRTmQ1VVU2dnNxSV90VkVOcmpHMy0xdk9PdlBzQUc4ODB3TGVPTlZoblFXRlo1S0s3bW4?oc=5",
+            "published": "2025-12-22T17:00:00+09:00",
+            "source": "ダイヤモンド・オンライン"
         },
         {
             "company_id": "sekisui_heim",
