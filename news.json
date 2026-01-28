@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-01-28T21:42:00.860028+09:00",
+    "generated_at": "2026-01-28T22:45:02.257371+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、「DPL青梅」を災害時拠点に - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sM3N6WllDUl9WejdDZ2RlNF90NXFtVXFTcjE2WlhwUHVpYnc3R3lEZXg4VVRuVmR4cnpqRk1xSlVLUlQxRzI3dg?oc=5",
+            "published": "2026-01-28T21:47:20+09:00",
+            "source": "LOGISTICS TODAY"
+        },
         {
             "company_id": "daiwa_house",
             "title": "東京都青梅市と「災害時等における一時避難場所等の借り受けにかかる支援および協力に関する協定書」を締結(ニュースレター) - PR TIMES",
@@ -948,7 +955,7 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホームグループ初の木造交番建設に着手 - tv-tokyo.co.jp",
+            "title": "東京スカイツリータウン(R)至近に木造宿泊施設「T-home 景 (KEI)」が竣工 - tv-tokyo.co.jp",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKelhwcWs4UmxZSlZ0c3FnWUs2anBtemhkRVpZbUctWTY1TlZuSXlnYkdSQ2YzM0FLd3Ztdy12WDV6LTlfNXJMcUlmeTdad1ZEd0dacEFrTnR2OU82Ym1TbnlXTGRMaGZ5bGtBbQ?oc=5",
             "published": "2026-01-20T14:03:45+09:00",
             "source": "tv-tokyo.co.jp"
@@ -1445,7 +1452,7 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "「JUCORE(ジュコア) 見積」、プレカットCADとデータ連携へ - PR TIMES",
+            "title": "「JUCORE(ジュコア) 見積」、プレカットCADとデータ連携へ | 住友林業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zakI2QjlJZkV3ajRTUjVzbXAtclNsR2diWFFHY09DUTJBVEFSc2xWTHVGSllBVlliMDU3S2djTW42aERDVmZhZFFrdTIwcVZoSXNrd2MxejZ1RGZNVXMzcWdMWFdBVmhOSmc?oc=5",
             "published": "2026-01-16T17:00:00+09:00",
             "source": "PR TIMES"
@@ -2929,13 +2936,6 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "データセンターショールーム「Module DPDC Fukushima」着工(ニュースレター) - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oY2o5Z1lLZHRJWU5YXy00NERybUJPM0tYU3JfRVpWTmhvRHhuNU9fZGhQcV9fUEExTVViMXNpNjUyYURST3BXdVdNcHMxb1ptUVNDNUJkdm1mR2FMNDQ5ZmZJbXpyZXFDdmc?oc=5",
-            "published": "2026-01-06T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "〈大成建設も食指〉ゼネコンが熱視線注ぐ｢サブコン｣に再編の兆し／大和ハウスの住友電設買収は序章か - 東洋経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CUjVCOTdFUVNnWDZ4ajFDNm1kaEwxa0dLcFBRa2x1U3JyemlBNmg2bkdiV3JkTXlyckUzNXpuUXd6cGhuQzJSaXFqN2J6MkRHTFE?oc=5",
             "published": "2026-01-06T17:00:00+09:00",
@@ -2947,6 +2947,13 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQUNfTi13b2p4Vl92U2V3WE9uRGpKaHM5T1Buei03YTFhZHRBVGJoeU1way1qaFVrcV9sbm1uME1TQlIzLVVDcUhwb1nSAU9BVV95cUxOX1FDRU1kSWI3a3NkeHNQVmowcWNZSFJCZDVTTmphZDh4QXdReU5RTV84bXRxNUYtT3F3M2FRVUxsNDM0OFlsSGdqbWMzdFY0?oc=5",
             "published": "2026-01-06T17:00:00+09:00",
             "source": "ダイヤモンド・オンライン"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "データセンターショールーム「Module DPDC Fukushima」着工(ニュースレター) - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oY2o5Z1lLZHRJWU5YXy00NERybUJPM0tYU3JfRVpWTmhvRHhuNU9fZGhQcV9fUEExTVViMXNpNjUyYURST3BXdVdNcHMxb1ptUVNDNUJkdm1mR2FMNDQ5ZmZJbXpyZXFDdmc?oc=5",
+            "published": "2026-01-06T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "daiwa_house",
@@ -3003,13 +3010,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZm1UOXN0QWlZLTdJMnY4b1Q4Y0ladVZPdlQzSmNiVmlKOWR5eTZ0U1lsWS1qUENPWTJ6MlFqVWhNdTJFVzhFYnNkTHhlZWpxOFBmMA?oc=5",
             "published": "2026-01-06T15:57:05+09:00",
             "source": "ASCII.jp"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "データセンターショールーム「Module DPDC Fukushima」着工 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTXRsSHFreU9lQnFHempNUnlzbl9YLVhQY3FWUXJreEN4ZktnQUllS1hPNUxhM1RoaDhUR0RfZmFDQWh0RGpvRzJ0dU9YeXRVclpOaHBhWDltSXc?oc=5",
-            "published": "2026-01-06T15:38:20+09:00",
-            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sekisui_heim",
@@ -3111,6 +3111,13 @@
         },
         {
             "company_id": "sekisui_heim",
+            "title": "積水化学工業、雄渾キャピタル・パートナーズ投資先で木造注文住宅設計・施工のアーキテックプランニングを買収 - marr.jp",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mMlI2RnlZeXdrTjQ3eS1zbkhGRDRLMDNDUGM1T2VaRkh3VDg1X2dYM3AxeXE0MWJyNWVpLXY1eWx0WFdmX1FFay1mMGs?oc=5",
+            "published": "2026-01-05T17:00:00+09:00",
+            "source": "marr.jp"
+        },
+        {
+            "company_id": "sekisui_heim",
             "title": "積水化学工業－丸三が新規「買い」 安定した事業ポートフォリオなどに注目〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzlnZUF1d1k1ZDk0VU9JenN5M1dKa3A5eWNsRkhNbjVVSVJja1RHckJhN0lndzlUZnVteF9FekZyTVlQLVZXbWRoaTFyWTV0Z0paSTU1d2gwekZYZHpLR1Vjb1haZVk2MXN1SkVjR3hEWDY4N01UTmhXR243eW9sZmNFNzVaY2M?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
@@ -3122,13 +3129,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQempSbHRkWjh2eGdST0JVSzJObElYVkRncW9kV1VJODFMMTlKNUhyQUo2NUxrQVNnWk9KaHJLV2FGem1qdlhHMW15bE8zWW9iV2I0TnZFcGNKUWppb0c0dnJ3d003aDN5WkZaVzVGdzg4b0pZQmtoRzU3NlhPbnVTOVluZmZiTVp6TFZEdEU2MXRNZW9CSlNYRDJvWDh6OE9lTlNrMmNZaF8?oc=5",
             "published": "2026-01-05T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業、雄渾キャピタル・パートナーズ投資先で木造注文住宅設計・施工のアーキテックプランニングを買収 - marr.jp",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mMlI2RnlZeXdrTjQ3eS1zbkhGRDRLMDNDUGM1T2VaRkh3VDg1X2dYM3AxeXE0MWJyNWVpLXY1eWx0WFdmX1FFay1mMGs?oc=5",
-            "published": "2026-01-05T17:00:00+09:00",
-            "source": "marr.jp"
         },
         {
             "company_id": "sekisui_heim",
