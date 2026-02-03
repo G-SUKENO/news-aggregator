@@ -1,12 +1,26 @@
 {
-    "generated_at": "2026-02-03T21:52:52.509567+09:00",
+    "generated_at": "2026-02-03T23:02:38.109209+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.7] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUakNwS3gwaHdpV1FsYjJ6Sk4yX08wS0RyQl9SZEhleG5yQm5OZjV0amZDZjJQOUpUdnVxVUIwam9wREctMUpTMjZSN1Q4ZF9ZMDhtaGFnSHRPTHRGNGNlZGd3?oc=5",
+            "published": "2026-02-03T16:40:02+09:00",
+            "source": "かぶたん"
+        },
         {
             "company_id": "sekisui_house",
             "title": "ブラックロック・ジャパン株式会社が積水ハウス株式会社＜1928＞株式の変更報告書を提出 - ｄメニューニュース",
             "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnhqVXZCa3F2bXlmYU81LWx3dTY3bWNEV2dwQzRMVHhzNVkwWWZITWwxenJTWUhueEx6TGtkd1MtczVDa2llSkZSX1J5a0RNdVlacElnU091aGV4V1hoS3ZjaEIwVkNsUHpEdjdaSURYMy0ySHU2RU8wSjJSa0h1dkV6TTItNTBDSWo4ckg3Vm1LWFpVZmlhMXhaRktkQlVBUkJFc0hTV0czR29nTDF3Tmp5LWxJV0l6Mi1ZRldodVdQNnBHM2VqZ0w1bERHRENOOC1vWXhidWZ6QdIBigFBVV95cUxQcFRGVzZfLU5pNG9sT2YtMHFmMHRoY0N0T0RlcFJ1ZkpOZG5nbFNaMm51bzhCTjd5OVJrekNweV96WVo3SDNNa05VN1dKdXFvQmRfRzhIMFNDRjBPSHlUWkVJUi0zai1vUDhRSG9ZX2JtQXpIY2l0N2RYT2hXMVhSdVc3RnpNWXZFWHc?oc=5",
             "published": "2026-02-03T16:37:00+09:00",
             "source": "ｄメニューニュース"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "デザイナーズ賃貸マンション『LEGALAND』が 東京都内 累計100棟竣工を達成:共同通信PRワイヤー - 福島民友新聞社",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04dFBHdGJiS1Q5cWJfVkNGV1NyRjVKT195cXdKZVZJMWhHR1R0QWVxcVJVZE00dEI0Ykp6R0U1d3Zxdnc2T2ZheE80Q29lMTd2YlBOUndsQ3k0eFNlTDhUM2RQY25KZGVYblMxQQ?oc=5",
+            "published": "2026-02-03T16:20:53+09:00",
+            "source": "福島民友新聞社"
         },
         {
             "company_id": "sekisui_heim",
@@ -16,9 +30,9 @@
             "source": "Housing Tribune Online"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "約6割が後悔した「住まいの照明」——住んでから気づいた“照明の落とし穴”とは？541人の実体験から見えた照明計画の盲点 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ialo1S3J4MjNLR21FTm1RanlsSUlOWW9kc1hWdWNFZGxUV1EyMndaUHpvYnlZaW5mSWdBWVBZZ2dGdzdtV0h1SlhVRHdtZ3RtUUR6M0pOWkFSdXR3RXR4YVlCY3BfVHBJOEE?oc=5",
+            "company_id": "sumitomo_forestry",
+            "title": "東京都内でのLEGALANDシリーズ竣工100棟目となる『LEGALAND幡ヶ谷South』が竣工 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMi1nbjVCNjRVWEFWdGs2RVNrRC0wN2FQRXhRSDYxR3VkV2h6Y0p1Z05KZExVLUZUVUZ0dkZIazFlUWt0R2xnSzd4T2xlN3Bwcmp0TkV1MXBSczNYQzEzY2xfclhBaWJmamc?oc=5",
             "published": "2026-02-03T16:00:01+09:00",
             "source": "PR TIMES"
         },
@@ -37,11 +51,18 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "東京都内でのLEGALANDシリーズ竣工100棟目となる『LEGALAND幡ヶ谷South』が竣工 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMi1nbjVCNjRVWEFWdGs2RVNrRC0wN2FQRXhRSDYxR3VkV2h6Y0p1Z05KZExVLUZUVUZ0dkZIazFlUWt0R2xnSzd4T2xlN3Bwcmp0TkV1MXBSczNYQzEzY2xfclhBaWJmamc?oc=5",
+            "company_id": "daiwa_house",
+            "title": "約6割が後悔した「住まいの照明」——住んでから気づいた“照明の落とし穴”とは？541人の実体験から見えた照明計画の盲点 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ialo1S3J4MjNLR21FTm1RanlsSUlOWW9kc1hWdWNFZGxUV1EyMndaUHpvYnlZaW5mSWdBWVBZZ2dGdzdtV0h1SlhVRHdtZ3RtUUR6M0pOWkFSdXR3RXR4YVlCY3BfVHBJOEE?oc=5",
             "published": "2026-02-03T16:00:01+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "猫と人の幸せを実現する全戸「猫」特化型賃貸マンション「LEGALAND+猫MIYAKOJIMA」竣工のお知らせ:共同通信PRワイヤー - 福島民友新聞社",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91VmxSVW8yVmJTR3NieEJ3YlZncFF6V042NjNmbDBleGo3NGpMUGlVdllOWXRGeHZ3elRHdUpBck9lZk9wZEN6SGdKWUE4T3ozajhtMExTMndZY3MxYlNSc2NfOWhIdGhCRlNDSg?oc=5",
+            "published": "2026-02-03T16:00:00+09:00",
+            "source": "福島民友新聞社"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -737,16 +758,16 @@
             "source": "毎日新聞"
         },
         {
-            "company_id": "daiwa_house",
+            "company_id": "sumitomo_forestry",
             "title": "大和ハウスの「次なる買収ターゲット」はどこなのか？芳井会長が語る、住友電設をTOBした真の狙いと“その先”《再配信》 - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41RHA0M1VXZGpUYjBtNnBkbXpfeWFUMV9HUVZvSnhKZXBlZEc4VUp1UjAyVXg1RVJKS2NqSV9nbEdZcDdWOHNpZUVpOE3SAU9BVV95cUxPZTh6TGRHZUk0UmFkZk5IREtubUU2UTJ0cEpfZUFBS1ZjWHIzbXo1UUhrMEZ4eXhxWHo2dXJCc0NYTkxyVVcyZ2J5WUtqVFdF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lOHpMZEdlSTRSYWRmTkhES25tRTZRMnRwSl9lQUFLVmNYcjNtejVRSGswRnh5eHFYejZ1ckJzQ1hOTHJVVzJnYnlZS2pUV0XSAU9BVV95cUxPZTh6TGRHZUk0UmFkZk5IREtubUU2UTJ0cEpfZUFBS1ZjWHIzbXo1UUhrMEZ4eXhxWHo2dXJCc0NYTkxyVVcyZ2J5WUtqVFdF?oc=5",
             "published": "2026-01-29T04:15:00+09:00",
             "source": "ダイヤモンド・オンライン"
         },
         {
-            "company_id": "sumitomo_forestry",
+            "company_id": "daiwa_house",
             "title": "大和ハウスの「次なる買収ターゲット」はどこなのか？芳井会長が語る、住友電設をTOBした真の狙いと“その先”《再配信》 - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lOHpMZEdlSTRSYWRmTkhES25tRTZRMnRwSl9lQUFLVmNYcjNtejVRSGswRnh5eHFYejZ1ckJzQ1hOTHJVVzJnYnlZS2pUV0XSAU9BVV95cUxPZTh6TGRHZUk0UmFkZk5IREtubUU2UTJ0cEpfZUFBS1ZjWHIzbXo1UUhrMEZ4eXhxWHo2dXJCc0NYTkxyVVcyZ2J5WUtqVFdF?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41RHA0M1VXZGpUYjBtNnBkbXpfeWFUMV9HUVZvSnhKZXBlZEc4VUp1UjAyVXg1RVJKS2NqSV9nbEdZcDdWOHNpZUVpOE3SAU9BVV95cUxPZTh6TGRHZUk0UmFkZk5IREtubUU2UTJ0cEpfZUFBS1ZjWHIzbXo1UUhrMEZ4eXhxWHo2dXJCc0NYTkxyVVcyZ2J5WUtqVFdF?oc=5",
             "published": "2026-01-29T04:15:00+09:00",
             "source": "ダイヤモンド・オンライン"
         },
@@ -849,16 +870,16 @@
             "source": "山形新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "新築一棟収益木造アパート「SOLASIA LUFRA 吹田岸部」竣工 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94c0V4RktUOWREQjQzT3VvcnU1dUZ6cmg0RUMtc1pmS0Qwa1RjOVJqUlkzMVhUQWpzdUI1VTVmYjY1eWwxMGxJZ3dad1JIaFB6Ym9VRWhXZk5pQWY5YUtWQk5rSnlIVDlObGc?oc=5",
+            "company_id": "sumitomo_forestry",
+            "title": "ファミリーケア休業制度を新設 ～家族のケアが必要な社員を支援し、多様な働き方を実現～ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbzhxRk51R21MR0pSSzVyQ0x6VUpPR0U1cEZaYlh3eFlvM0tmeHgyUUpCajYtRHhESm1FQ2dJYURIelV3RW5KWktrTFdOMms3ZFVDQllnS1dFTlhNWWY0aTF4cUlkTEZ0b2c?oc=5",
             "published": "2026-01-28T10:00:02+09:00",
             "source": "PR TIMES"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "ファミリーケア休業制度を新設 ～家族のケアが必要な社員を支援し、多様な働き方を実現～ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbzhxRk51R21MR0pSSzVyQ0x6VUpPR0U1cEZaYlh3eFlvM0tmeHgyUUpCajYtRHhESm1FQ2dJYURIelV3RW5KWktrTFdOMms3ZFVDQllnS1dFTlhNWWY0aTF4cUlkTEZ0b2c?oc=5",
+            "company_id": "daiwa_house",
+            "title": "新築一棟収益木造アパート「SOLASIA LUFRA 吹田岸部」竣工 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94c0V4RktUOWREQjQzT3VvcnU1dUZ6cmg0RUMtc1pmS0Qwa1RjOVJqUlkzMVhUQWpzdUI1VTVmYjY1eWwxMGxJZ3dad1JIaFB6Ym9VRWhXZk5pQWY5YUtWQk5rSnlIVDlObGc?oc=5",
             "published": "2026-01-28T10:00:02+09:00",
             "source": "PR TIMES"
         },
@@ -2138,17 +2159,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "サービスの在り様を追って客の求めに応え切る 積水化学工業・加藤敬太社長 - AERA DIGITAL",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hYU1KRV9ZTlFQUVRaZGpzQkQ0U3JiQlRfaGlCNXpQc1d1RTZ6RGNFckFId2U4TWdIUUtkTnZKbHUzUHBHQmtQNW5zOTVQX210bERCTlZUN09hdw?oc=5",
-            "published": "2026-01-19T17:00:00+09:00",
-            "source": "AERA DIGITAL"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "サービスの在り様を追って客の求めに応え切る 積水化学工業・加藤敬太社長（AERA DIGITAL） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Uk9zZDhYR3JSNVZpRDJHYmxrMXBadkxHMnFLYVd6M2t5UHVfa05sVm9xS3kwR0dtaU8wb2NzZmIxakxHcWg3WTJLUjRNOGVHSlJzRENXeUU4MlBFS0VLck41bWhBZTlyNjBKWlltUHNHdFliYkFFT1NEZW9nT3c?oc=5",
             "published": "2026-01-19T17:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "サービスの在り様を追って客の求めに応え切る 積水化学工業・加藤敬太社長 - AERA DIGITAL",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hYU1KRV9ZTlFQUVRaZGpzQkQ0U3JiQlRfaGlCNXpQc1d1RTZ6RGNFckFId2U4TWdIUUtkTnZKbHUzUHBHQmtQNW5zOTVQX210bERCTlZUN09hdw?oc=5",
+            "published": "2026-01-19T17:00:00+09:00",
+            "source": "AERA DIGITAL"
         },
         {
             "company_id": "daiwa_house",
@@ -2410,20 +2431,6 @@
             "source": "毎日新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスのDE&Iは成長戦略 「精神・発達障害人財」本社に[PR] - 日経BizGate",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMUk4XzJ4RmdEZEhKWktDckszY18xNDBvdndUR1ZNN1Fja2JGYTFwTFJ6RWpsTm5RNnlraHpzOXlzWE9tdDU0QWJUYURkWDJ2N3p3Q3M0SnNSUXlDS3h5d2ZOUC1PY054Mi01eThpZXQ?oc=5",
-            "published": "2026-01-16T17:00:00+09:00",
-            "source": "日経BizGate"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "「淀屋橋ゲートタワー」竣工(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYaF92Y0RjSGV5dEtDWWxoLXJ4bndObjJmMHgxeEZraTk5U2VKX2E4cm1YV1JwWVhFUmxvSmRjMkdNNXZNZ1pWLU5JWDAxV283WUJlQUhhUnZDQWxjSXhqYVFEbzh5ZDFOeUE?oc=5",
-            "published": "2026-01-16T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "「JUCORE(ジュコア) 見積」、プレカットCADとデータ連携へ | 住友林業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zakI2QjlJZkV3ajRTUjVzbXAtclNsR2diWFFHY09DUTJBVEFSc2xWTHVGSllBVlliMDU3S2djTW42aERDVmZhZFFrdTIwcVZoSXNrd2MxejZ1RGZNVXMzcWdMWFdBVmhOSmc?oc=5",
@@ -2450,6 +2457,20 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IVWExZ2xVM2ttODdpOS1BODJoTmktSGJ1THFIOHlIWkhkYS1DZXA3WC1Rd1VJT1V2OGR2amU0eVhpNlppMl9KeFdjTTZQU3JsR2FHWC1tdm4?oc=5",
             "published": "2026-01-16T17:00:00+09:00",
             "source": "現代ビジネス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスのDE&Iは成長戦略 「精神・発達障害人財」本社に[PR] - 日経BizGate",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMUk4XzJ4RmdEZEhKWktDckszY18xNDBvdndUR1ZNN1Fja2JGYTFwTFJ6RWpsTm5RNnlraHpzOXlzWE9tdDU0QWJUYURkWDJ2N3p3Q3M0SnNSUXlDS3h5d2ZOUC1PY054Mi01eThpZXQ?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "日経BizGate"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "「淀屋橋ゲートタワー」竣工(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYaF92Y0RjSGV5dEtDWWxoLXJ4bndObjJmMHgxeEZraTk5U2VKX2E4cm1YV1JwWVhFUmxvSmRjMkdNNXZNZ1pWLU5JWDAxV283WUJlQUhhUnZDQWxjSXhqYVFEbzh5ZDFOeUE?oc=5",
+            "published": "2026-01-16T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
@@ -3390,20 +3411,6 @@
             "source": "ｄメニューニュース"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "◎住友林業と熊谷組、持ち合い株式一部売却 - 時事通信ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DRXNUNmFWZVlucFhTeHVpeENoQmhFREJ5SmxXT09taXRrRlZlR2VrM3Vxelp6S0ZBTURiRUZVbGlJQWFMV0dGbDl2eDJmVGF6Q2pQWg?oc=5",
-            "published": "2026-01-08T17:20:00+09:00",
-            "source": "時事通信ニュース"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "熊谷組[1861]：住友林業株式会社株式の一部売却の結果及び特別利益（投資有価証券売却益）の計上に関するお知らせ 2026年1月8日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFFMU0lNZXRuQmNXZndMWnU4dUVHWkU1V2dyOHBudksyM3lVeHhvNFU4OHp0azcyVXhRaFVuWkk3V3BwdjZCT2xZVTZxdTlGOTRTc0p3RzJsa1kweXhXSko3bmhaNTA5bW9uNGQwLWdXdWlleEtsT1B4NGpweUExTTJ2cWpyT1NuTGZDU2ROX04zc0tuSWdzZjNINDFOeWRidVYyOUNFYVVCYWhNUVBGWERtWklrWDUwSU1RR1VwWFBSQnVOMWxmaDVlNzY?oc=5",
-            "published": "2026-01-08T17:10:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "展望2026／積水ハウス社長・仲井嘉浩氏 技術移植で米市場に変革 - 日刊工業新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jblZKeWRpRXQydU5wajVVaWdQUkVnbDRaajRDY1pPU1BJVW9ySEV4bWJwbXNhZjROZVU1VmpfVjRFRDhOYVZPRmQ0X2x5VVVmaTRfUjZlSFBDd1E?oc=5",
@@ -3731,13 +3738,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NRURvVEF0dVgxM2NNR3huMndGYzZoeXcyanNKVHRPYjhKcW9fWVdmd0RZS3djMVRWTkR5UXFnRUwxT1cxWWN0LUo2SU04ZWx5NllFY2h1cmM?oc=5",
             "published": "2026-01-06T06:29:11+09:00",
             "source": "建設通信新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "大阪市中央区に高さ８８㍍の超高層マンションを建設／１０月初旬に着工／積水ハウス - 建設ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSWRkZlVjYjRfUDFvb1BGY1VWbFVHay1Nd0hIbmY0WW0wQVYwUHoxX2tfY2ZxYzRjV0ZtQ0VPUVdNaF93UjVVaWwwcw?oc=5",
-            "published": "2026-01-06T06:13:36+09:00",
-            "source": "建設ニュース"
         },
         {
             "company_id": "sekisui_heim",
@@ -6128,13 +6128,6 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ 藤井社長が語る事業戦略 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZDlOZDduNlp2WXl1THNzbDlhRXQ3OHJZb0x3aXR4QXl1ZUt4dFJVbTJSMzBxSVRSOHRJZWROTHhHa2dPNlhYbENRZ3BELTktdFE?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
@@ -6146,6 +6139,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
