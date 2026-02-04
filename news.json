@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-05T06:29:37.620124+09:00",
+    "generated_at": "2026-02-05T07:23:28.289332+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -1773,6 +1773,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "mitsui_home",
+            "title": "三井ホームグループ初 北海道に5つの木造交番を建設 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENzVTazB3R3JzcDBDVHRBRnhwN29TYkFPZERtUmFkRVpUeC1QZ202QUFyLXBMX0NaZm1nY3JjSFh3cjhDWFJKUnRQd0NlOE9KOHFjYzRR?oc=5",
+            "published": "2026-01-22T17:00:00+09:00",
+            "source": "jutaku-s.com"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業グループ、DXで住宅事業者支援を加速（下）「JUCORE 物流」で住宅業界の物流問題を解消 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fR2FSZS1sWUlUUDBLYzJ0MU9zclRpYUVsNS1VSEhCRzh0RVpCVm4yS3ZqMFVIbkVyZTlxREJOV0tTa2hkYnMxbzUxZGtGYWFNWEE?oc=5",
@@ -1806,13 +1813,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JU2ZCZS1LZGI1TjB4eEFneExrSTVQLUhKYWJxT0NiN1NCaU9TNGhnQjU0cWV4UjdEbmVUcklvY3ljWExGXzkyUXZYX08yS1dTdncwN3ZtLV8?oc=5",
             "published": "2026-01-22T17:00:00+09:00",
             "source": "建設通信新聞"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "三井ホームグループ初 北海道に5つの木造交番を建設 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENzVTazB3R3JzcDBDVHRBRnhwN29TYkFPZERtUmFkRVpUeC1QZ202QUFyLXBMX0NaZm1nY3JjSFh3cjhDWFJKUnRQd0NlOE9KOHFjYzRR?oc=5",
-            "published": "2026-01-22T16:00:00+09:00",
-            "source": "jutaku-s.com"
         },
         {
             "company_id": "hebel_haus",
@@ -2074,6 +2074,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "【５％】 大和ハウスについて、米ブラックロックは保有割合が増加したと報告 [変更報告書No.3] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52Z0s2NkQ5V2d0M3dQeXlHdzgtdGxPWGxHblZVbTRMN2ExS29uSGhSbEhRc2xaWUpzeW9rR0dnTWVrTGZkVWwyUm9wZ25qQm8yaEdqWFRrZ2FHSldlWmhqYQ?oc=5",
+            "published": "2026-01-20T17:00:00+09:00",
+            "source": "かぶたん"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84bjM5OTQ4VmNETkNiRzFJTzZNaUlrZzRMWWJGVW1hLWtlUUFoV3NPZlBhNWpuZC1pME9WYnZYQXNqZW9Qd3hmcFU2MGdxTmUwbHgtWnFab21hZ3oweGlUb1MxQjZKRGxVNmc?oc=5",
@@ -2128,13 +2135,6 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSnhXS3hWQWtjV2ZpcWxmXy1QMTgyRmVMQUtseEtjSWxRVnJza2FIRDBsNS1MS211MGhWWFNkUWl3cDdycmwxWHZnMkpaTnR3X19jUkpLLUdYZEZSbW5xMWpzMVlBamQtZVhj?oc=5",
             "published": "2026-01-20T16:37:12+09:00",
             "source": "Excite エキサイト"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "【５％】 大和ハウスについて、米ブラックロックは保有割合が増加したと報告 [変更報告書No.3] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52Z0s2NkQ5V2d0M3dQeXlHdzgtdGxPWGxHblZVbTRMN2ExS29uSGhSbEhRc2xaWUpzeW9rR0dnTWVrTGZkVWwyUm9wZ25qQm8yaEdqWFRrZ2FHSldlWmhqYQ?oc=5",
-            "published": "2026-01-20T16:03:02+09:00",
-            "source": "かぶたん"
         },
         {
             "company_id": "daiwa_house",
@@ -2335,14 +2335,14 @@
         {
             "company_id": "daiwa_house",
             "title": "大和ハウスの常務執行役員｢新人に期待しすぎず｣ 失敗恐れず挑戦を - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYThLNE01aWd4eGxXRHBFN3hEWVNGR1dyUzFzVE5aZjdFWi0ydEpDX2NuRG5GUHQ1M0FwOUQ3SWR2bmJxdjRmOG5KcGsyaGd4QUFTVnFVWUstTnhvdzhWWXI4QnZRRlV5VVpObHFZakdTSFFrVXJMRjhQQkc2VXc3NDVDVUZHN19Ja3lrVnBtTGNhT3BnUjNCSmctdncwaE12LTg2eXdhdzM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tclhpZWpadjhlNG1KLUhrNVZ1MW9sTGJ3QzVOdi0wMFQydDE3ZWoyczhNSnpIeU54ZVlBa2xrQ3pzbnZrU0VVUU5xZm1wa3NwQ1QzcXJDMDlOWmlJVHdFNk1hV1JydFcwc1F6SQ?oc=5",
             "published": "2026-01-19T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウスの常務執行役員｢新人に期待しすぎず｣ 失敗恐れず挑戦を - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tclhpZWpadjhlNG1KLUhrNVZ1MW9sTGJ3QzVOdi0wMFQydDE3ZWoyczhNSnpIeU54ZVlBa2xrQ3pzbnZrU0VVUU5xZm1wa3NwQ1QzcXJDMDlOWmlJVHdFNk1hV1JydFcwc1F6SQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYThLNE01aWd4eGxXRHBFN3hEWVNGR1dyUzFzVE5aZjdFWi0ydEpDX2NuRG5GUHQ1M0FwOUQ3SWR2bmJxdjRmOG5KcGsyaGd4QUFTVnFVWUstTnhvdzhWWXI4QnZRRlV5VVpObHFZakdTSFFrVXJMRjhQQkc2VXc3NDVDVUZHN19Ja3lrVnBtTGNhT3BnUjNCSmctdncwaE12LTg2eXdhdzM?oc=5",
             "published": "2026-01-19T17:00:00+09:00",
             "source": "日本経済新聞"
         },
