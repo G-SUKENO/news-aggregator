@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-07T00:36:36.063661+09:00",
+    "generated_at": "2026-02-07T01:40:05.508976+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -2495,17 +2495,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホームグループ初の木造交番建設に着手 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94SmtPQm5sRlM0RkRRczJGei1iNGprRmhvSUg0UGZRODJsSE1UVVpBclQtZkVqQVR3VkhDdGVtUWsyRkVvejdOaC1jVTNjcDlUbW05QUpYVjRNeFFsLXJjb0lXOUdCZDZLaHc?oc=5",
-            "published": "2026-01-20T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "三井ホーム、三井ホーム北海道がCLTを利用した札幌市および恵庭市の木造交番建設に着手 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zekFxSmdqUkFzbDVfYU1ZbUVkVVEyV0pkMnpoMXktWUJuVmJPcDZTY1daX2traFdNLVNNX3hPY1A4cE9uTUJNSFVldGtZNzZKeW9tSFp4ZnhsbkVJd0tIeGJvZWVxVjAxUjdoWA?oc=5",
             "published": "2026-01-20T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "三井ホームグループ初の木造交番建設に着手 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94SmtPQm5sRlM0RkRRczJGei1iNGprRmhvSUg0UGZRODJsSE1UVVpBclQtZkVqQVR3VkhDdGVtUWsyRkVvejdOaC1jVTNjcDlUbW05QUpYVjRNeFFsLXJjb0lXOUdCZDZLaHc?oc=5",
+            "published": "2026-01-20T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
@@ -6191,13 +6191,6 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ 藤井社長が語る事業戦略 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZDlOZDduNlp2WXl1THNzbDlhRXQ3OHJZb0x3aXR4QXl1ZUt4dFJVbTJSMzBxSVRSOHRJZWROTHhHa2dPNlhYbENRZ3BELTktdFE?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
@@ -6209,6 +6202,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
@@ -6240,10 +6240,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "一条工務店のさらぽか夏の快適体感キャンペーン【泉佐野・和歌山】 - cozre[コズレ]",
+            "title": "一条工務店のさらぽか夏の快適体感キャンペーン【泉佐野・和歌山】 - cozre",
             "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiM1hXUnVIQ3AtQmV2LXNPdGtRZGZuUVNxU3RkaTI1ckhLUHNCTjZTYmpYQ3JSX3RKVGZKRzgwVEVpRG5a?oc=5",
             "published": "2025-07-28T16:00:00+09:00",
-            "source": "cozre[コズレ]"
+            "source": "cozre"
         },
         {
             "company_id": "panasonic_homes",
