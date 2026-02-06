@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-07T02:38:36.187443+09:00",
+    "generated_at": "2026-02-07T03:43:38.089737+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -122,7 +122,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "「ペロブスカイト太陽電池」だけの会社ではない - 現代ビジネス",
+            "title": "高市政権の国策「ペロブスカイト太陽電池」の死角とは - 現代ビジネス",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EZm5OZWxueVZfd2lxWC03NmprZHJoS3JsQ2JRUFl1NmphUUt4alZrRUI0WWQzeno0M016VE4wMmJWNkRZdFUtcmxpZDI4RldlSzhQdHRNNWQ?oc=5",
             "published": "2026-02-06T11:56:38+09:00",
             "source": "現代ビジネス"
@@ -1360,6 +1360,13 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "hebel_haus",
+            "title": "旭化成ホームズ、30年海外売上高5000億円へ 北米「サブコン」モデル、豪州は土地開発推進 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HODdrVUQ1VzFuMldTSWJJTUdrdGk0REZCYVdsSThsb3lXdzdKQnlJT1pXQWdUQzF5dUFIMldGRVZZZldfVXlHSXhZNzV6amxUMnc?oc=5",
+            "published": "2026-01-29T17:00:00+09:00",
+            "source": "Housing Tribune Online"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業／茨城県稲敷郡「DPLつくば阿見III」内覧会2月17日開催 - 物流ニュースのLNEWS",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GelJJQ2pwWUlrM3RPZkZFZ3h5TUJURWZkclpEODQ0a2dVVi1IRHVuWlNlUEV3Q1RsQ3QyT3ZlZ1ZoLThiNUFoT01hV2FWby1EZURyYw?oc=5",
@@ -1482,13 +1489,6 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業が北海道の木造住宅会社を買収 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41RGJkWmhtYVlFeXNVbVNyRFJPYTQ3aVBTUlpXY292cS0wb0h5YkJQU0dFSWEySkk1cWs0TmZPVjdma1J4ZlZKcVlQRUpHQjVVUmc?oc=5",
-            "published": "2026-01-29T09:13:41+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "旭化成ホームズ、30年海外売上高5000億円へ 北米「サブコン」モデル、豪州は土地開発推進 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HODdrVUQ1VzFuMldTSWJJTUdrdGk0REZCYVdsSThsb3lXdzdKQnlJT1pXQWdUQzF5dUFIMldGRVZZZldfVXlHSXhZNzV6amxUMnc?oc=5",
             "published": "2026-01-29T09:13:41+09:00",
             "source": "Housing Tribune Online"
         },
@@ -2502,17 +2502,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホームグループ初の木造交番建設に着手 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94SmtPQm5sRlM0RkRRczJGei1iNGprRmhvSUg0UGZRODJsSE1UVVpBclQtZkVqQVR3VkhDdGVtUWsyRkVvejdOaC1jVTNjcDlUbW05QUpYVjRNeFFsLXJjb0lXOUdCZDZLaHc?oc=5",
-            "published": "2026-01-20T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "三井ホームグループ初の木造交番建設に着手 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MUp1QUg2Nm55ZFB4RlpkUEFQREdSaXI4eElFc2ZVeTY1aWRlMVZWWWZVR0FNOHltcUJTM19YSkZEME9HZjhPWGRSTnNNMjdPcWdGdHBvWkpHMWc?oc=5",
             "published": "2026-01-20T17:00:00+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "三井ホームグループ初の木造交番建設に着手 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94SmtPQm5sRlM0RkRRczJGei1iNGprRmhvSUg0UGZRODJsSE1UVVpBclQtZkVqQVR3VkhDdGVtUWsyRkVvejdOaC1jVTNjcDlUbW05QUpYVjRNeFFsLXJjb0lXOUdCZDZLaHc?oc=5",
+            "published": "2026-01-20T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -4427,17 +4427,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "プレスリリース：AItegrity、パナソニックホームズに建築向けAIサービスを提供（PR TIMES） - 毎日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xWHFpWlVlR2JabXZFT211QkZXcFpTWG5BTnNTTVJrQy1xUHZXdTNkdS1FQnRmZGNlMUZLS3VGR2d0Ul9FUTlaX3hFSWRKR0ZjOXlZUzM0MHVGS3hMOVNmS2E1VWJHWHQ4?oc=5",
-            "published": "2025-12-25T17:00:00+09:00",
-            "source": "毎日新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "AItegrity、パナソニックホームズに建築向けAIサービスを提供 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTTE4STA0UXJrTF9tazJuT0lYWGZoM1lnNlJkalR5M3ZNVjlJV0lPZHlvbHcxLTBOdE1jZ3ZobE5IcXhIbmN0MmVKV0VnZktBbW9ULUVBdFVCeGtodGFuRHVKS0hMRUtsaXc?oc=5",
             "published": "2025-12-25T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "プレスリリース：AItegrity、パナソニックホームズに建築向けAIサービスを提供（PR TIMES） - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xWHFpWlVlR2JabXZFT211QkZXcFpTWG5BTnNTTVJrQy1xUHZXdTNkdS1FQnRmZGNlMUZLS3VGR2d0Ul9FUTlaX3hFSWRKR0ZjOXlZUzM0MHVGS3hMOVNmS2E1VWJHWHQ4?oc=5",
+            "published": "2025-12-25T17:00:00+09:00",
+            "source": "毎日新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -5064,17 +5064,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
-            "published": "2025-12-10T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "ヘーベルハウスの二世帯同居、築年数問わず約9割が「満足」 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qbmh2bHpzak5KU0doclpqaFoweEVoWGJfQTJKSUNsSkpXU3BTNUY1dmZGV2RDX2hzZ2szQVE2a3VrNVE2NWVpY0czVDI3b3lxVEE?oc=5",
             "published": "2025-12-10T17:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "アトラスシティ千歳烏山グランスイート「隣人祭」開催 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMajJwcmQ4WEI5T093RXFYY2xsVFRtRUdaMWFNNGRDb1JSQXFVMjNhMXpTYTdydVhMVjh6NHZicUo0M1dyX2Vaa1VjdF9HUWlVWVR5TnBSMnJiWm9ENU1jM2N1TUdDUlJRMEE?oc=5",
+            "published": "2025-12-10T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -6037,17 +6037,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ 服部緑地近くに共住新築 - digital.kentsu.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVdrY1pBakd0M0xGNndrbEFjYlJNMTRSbzUwSUJRZFExWXpHLVFGMmNfWG5wYmJ5aktLY2h6Sk4yT21ILU1VWE9NV055X1ZxVmRyUThYeUxKR3hWY2JocGw0UVNJNWc5OTRhRUR6cUZDSFpvdV9faDNibzFtQTZzTA?oc=5",
-            "published": "2025-09-23T16:00:00+09:00",
-            "source": "digital.kentsu.co.jp"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "京都パナホーム、建築強みに受託 管理3800戸 - 全国賃貸住宅新聞",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtN09GQlZGYlEyckI4S3dyOERGRER3XzlhV0FFY1huWDR1R3B2UGl2ZlQ1c1ZWakZmVWR0S19RWGROTFM1emFkcWVVajdZZllfWXVIVFM4Mks?oc=5",
             "published": "2025-09-23T16:00:00+09:00",
             "source": "全国賃貸住宅新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ 服部緑地近くに共住新築 - digital.kentsu.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVdrY1pBakd0M0xGNndrbEFjYlJNMTRSbzUwSUJRZFExWXpHLVFGMmNfWG5wYmJ5aktLY2h6Sk4yT21ILU1VWE9NV055X1ZxVmRyUThYeUxKR3hWY2JocGw0UVNJNWc5OTRhRUR6cUZDSFpvdV9faDNibzFtQTZzTA?oc=5",
+            "published": "2025-09-23T16:00:00+09:00",
+            "source": "digital.kentsu.co.jp"
         },
         {
             "company_id": "mitsui_home",
@@ -6191,6 +6191,13 @@
         },
         {
             "company_id": "panasonic_homes",
+            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ 藤井社長が語る事業戦略 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZDlOZDduNlp2WXl1THNzbDlhRXQ3OHJZb0x3aXR4QXl1ZUt4dFJVbTJSMzBxSVRSOHRJZWROTHhHa2dPNlhYbENRZ3BELTktdFE?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
@@ -6202,13 +6209,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "新建ハウジング"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
