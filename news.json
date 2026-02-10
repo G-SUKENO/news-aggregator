@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-11T04:01:36.706070+09:00",
+    "generated_at": "2026-02-11T05:03:24.736598+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -1631,6 +1631,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hb1FMVXRKSzNHajNGaG1FazRVM0NxVkFkcm92YnBMNkc4OXBlYWZlcXJrNXFfeFFVWkcxTFJKUGFGQ2U2U3BBUm5FRnZuVXlzN0E?oc=5",
             "published": "2026-01-30T17:00:00+09:00",
             "source": "SBSマイホームセンター"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、 BCP対策強化に向け「危機管理プラットフォーム」を提供する 株式会社Specteeへ出資 - 上毛新聞電子版",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRWdtWUw3QjhyNlhBRVZHM2IyOEExUzRBanRWYzQzV1RtYk56VzF4b0tSVzhXYkxweDZJV1ZpZURSQ0cyT215UVJaSTVINnRiaThOdElBa3c?oc=5",
+            "published": "2026-01-30T17:00:00+09:00",
+            "source": "上毛新聞電子版"
         },
         {
             "company_id": "sekisui_house",
@@ -3423,13 +3430,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVQ3T0ppNjVzU3ZVLU1tcktZcTRreXB5aGJkT2RtRTJyNERrdXZVbEtGaWdKNTRaWTlkdE4tblpXVFM1VU9qNHlXQnNJMnN4djNGbExtMzJvNkNKQ20wNWtQblV0UDJfd3hJRnJpVmlCYjZXM08zS2pWX0ZaZV9mbGU3dFZ4ZVU?oc=5",
             "published": "2026-01-16T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "アルネットホームと積水ハウスによる、埼玉県初のSIコラボレーションモデルハウスが1/17(土)にオープン（PR TIMES） - 毎日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bWVQVEFiRmhNOTBCaGpEMjE0cDhGUVc2SDBTQS1XdWo4bm1JcTBGUHZIVEtIVld1THJnSV9kOG1JYjRDbEdGSTJUOVNIYko4Z2RuMFd1UGxQNFo2d2NaNjM4VmxGa2VN?oc=5",
-            "published": "2026-01-16T17:00:00+09:00",
-            "source": "毎日新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -6233,17 +6233,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
-            "published": "2025-08-07T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "新築・リフォームの優秀な設計者を認定する社内制度において、『エキスパートデザイナー』を選出 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldFNxeFNyTmcwOGZjZ0pGd3BRT3N0eDlCSlRTb1FIS0lkM2REcTc4X09JNVh1RFBWejNMZEdGenZiRHNBZ1AzNTlBUjh1SFlNRHBmb3QyOUdHVEtEaWZfMktpOERQLXdENmc?oc=5",
             "published": "2025-08-07T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ×宝塚市、中山台ニュータウンの再生事業開始 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQzIxMGNyYXV5eGpndlFlZnlHMjZ6VGpIZEh4VjZsT1dTdnVPY0djd1lYZmpYc3FyX0Fhem1VcTB4OF9LOXZMWkY0dUZTd3h0NWc?oc=5",
+            "published": "2025-08-07T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "panasonic_homes",
