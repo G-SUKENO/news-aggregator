@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-11T18:51:05.228901+09:00",
+    "generated_at": "2026-02-11T19:45:54.913257+09:00",
     "articles": [
         {
             "company_id": "ichijo_komuten",
@@ -2012,6 +2012,13 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "コスモスイニシア、経済産業省が定める「ＤＸ認定」を取得(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yU3hQRVlhNjBpbDBacUJLQXpJSThuOUg0WWoxMXV1bi1NMXhzYzNUdW5EMTJZeVNvazlFd1I2WDRFcHdpTFBSMndvWE9IYk9yUTRGVGRSTXRoLVdydTYxMW80amV0UGlWSXc?oc=5",
+            "published": "2026-01-29T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "大和ハウス、多角化シナジーを追求 株価「全く満足していない」 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYmZKT1BLSWFRX0tEeVY4V1VZQmtJSnIwNnBiNDNrbDljZHRtdG13UEZJUWt5NE5TaTNXaGdMZHN2WU4xdzhqT3FYVmVuVjNTNWY4c0Q1YWJlckMtaTdPcjlMWTNta3FVdzM2eQ?oc=5",
             "published": "2026-01-29T17:00:00+09:00",
@@ -2026,7 +2033,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業[4204]：2026年３月期 第３四半期決算短信〔日本基準〕（連結） 2026年1月29日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "title": "積水化 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RRHZwSG56RFR6Mk1KbGREM1V0eVNvQTVGdU5qaDRmV2tBLVpwS0F4RXUtcjRrMDRnTFBQX2stZFFEWTIxWklPQm1neFhpUjgxOHZpZGM1NjdNNEMzMEhhN3VQaUlJcl9tdWc?oc=5",
             "published": "2026-01-29T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -2072,13 +2079,6 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NOU1xV0w1ZXhKTTI2ZGl2bld3Q1VJcXJtS3V0MkFtTkNZMnZ5UzdFTTNqNzRjVjA2SElVRk0xeHJTMDlXXzZ6NlN4T29HYUNJVWoyU2YwdjZKaUo5Skp3OWtlMkRreXdscC1BX3hR?oc=5",
             "published": "2026-01-29T16:47:30+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業／茨城県稲敷郡「DPLつくば阿見III」内覧会2月17日開催 - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GelJJQ2pwWUlrM3RPZkZFZ3h5TUJURWZkclpEODQ0a2dVVi1IRHVuWlNlUEV3Q1RsQ3QyT3ZlZ1ZoLThiNUFoT01hV2FWby1EZURyYw?oc=5",
-            "published": "2026-01-29T16:45:20+09:00",
-            "source": "物流ニュースのLNEWS"
         },
         {
             "company_id": "mitsui_home",
@@ -3957,6 +3957,13 @@
             "source": "SUUMO"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "【セキスイハイム 草津ハイム展示場】時を経ても続く価値ある住まい - SUUMO",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3dCclpBN2UzRUZkNkt5RG96SG1iSDV5TURVbUx6bjBPc3hrcXdLdzZlekZKWFpZNEZ3T2hwTFJaSTNiWXR5U0xfb1ZlbWdwcXJaS3l3QWVjWElhaFR3Y0FYZTNmY0c3TWlkRElSNHpvOVQyX0FoNkpOT2NSY1RLeUZKbGk?oc=5",
+            "published": "2026-01-11T10:37:18+09:00",
+            "source": "SUUMO"
+        },
+        {
             "company_id": "misawa_home",
             "title": "【ミサワホーム】所沢展示場「新仕様の120mm厚パネルによる『センチュリーモノコック構法』を採用」 - SUUMO",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15SkVFNElFWDB0NkdvWTRzVlAwS1hDcTVBOFA2SncwRnhJYjNmS3A1dFRMbTY2ejhZZ2cwaExiVW1aZXc0TDFzdEROaEU4c1YwOExFX1UtRGxOTkloOEstRndKSERncEpZTTlvOHd5MUwxWGM0akV6VU9NQTFEdw?oc=5",
@@ -3975,6 +3982,13 @@
             "title": "【セキスイハイム 富士パルフェ西展示場】時を経ても続く価値ある住まい - SUUMO",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam5JN2kyV1l2QkRlNldzaTBNN3VSZlRTVElLZVFna2E0dzJLeU9fLS1OS3JPM0dmVWRXV3FnTHREUDlWWWFLM05jem1nYlJqVmxIUFZyUUtlTy1BcXZxVUFuRUtJVUhSOHBzLXIweEw3a05mRVdNVTVRMDFRaGZ2OEtfYTE?oc=5",
             "published": "2026-01-10T20:04:52+09:00",
+            "source": "SUUMO"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "【セキスイハイム 延岡展示場】時を経ても続く価値ある住まい - SUUMO",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVJjaTBQNmhJTG9oWEZoOVZDVmpuTTFOU1Nzb3hkWmRlYk8ycGhTQWFfaVdYeGxJOVN1bHZGMi13dmY0RUhRa3ZfRWhxX0RKWlAxcFVhWWVxWEZqTlNBR3NJNjFySVBBYURVdkoxS0x2Z1NLQ1Q3SzFvM1EtRl83M3o2VkU?oc=5",
+            "published": "2026-01-10T20:01:45+09:00",
             "source": "SUUMO"
         },
         {
@@ -4319,20 +4333,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZNjlNR3cxVHBVc09vd1FZQTVqUXNEVVBwU1FINUJnazFQbFJZM2pNb1VRcVRDN1hxNkMyMVduMTNhWUVBYVpLZ0E2VmlVZWM5dzU1VWhfdEY?oc=5",
             "published": "2026-01-07T08:06:47+09:00",
             "source": "建設通信新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "【セキスイハイム エコラス展示場】時を経ても続く価値ある住まい - SUUMO",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE5wcXVjVC01ZnJTLXRKT1g5NHhhVEc3V1pGWUNpXzJNSTh4UXo2RHBfVGF5a2tEai1SQzdOVGdWS19OcHpac3R0d0JBR0gyakc5MmxUME05SmpZMEtfQS1MaVN6eXlpVFFwdC1aM3gxeGhVZVVybjd5VS0xczhkcVBB?oc=5",
-            "published": "2026-01-07T07:15:45+09:00",
-            "source": "SUUMO"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "【セキスイハイム 天草モデルハウス】時を経ても続く価値ある住まい - SUUMO",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVcyRU15aGpqc3ZnNlZaT2RMRDBCN2FwRUN4VmU1eG1lTWJ6TVpQT2VpRFRneHBRRTBXZTM5SDdkMHVYSmlRZFNNSzdYMEpYc2NvcVpWQVhsZVd4c3hXdnRRYldaQkx5ZjZOTzY2VkVGZ2ZzZkxUZnZRQUNCMDYzYnFn?oc=5",
-            "published": "2026-01-07T07:15:44+09:00",
-            "source": "SUUMO"
         },
         {
             "company_id": "panasonic_homes",
