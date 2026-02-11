@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-12T04:55:51.007700+09:00",
+    "generated_at": "2026-02-12T05:36:47.101560+09:00",
     "articles": [
         {
             "company_id": "ichijo_komuten",
@@ -1572,6 +1572,13 @@
         {
             "company_id": "sekisui_house",
             "title": "積水ハウス、防災テックに出資 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZE1jZm9JQm5naEk3QmptVWhVdVpvSWJMcDZjSGZaS2NUaFdvNzlkdi1qZWV5QUhpZEZYMnVQVE9HUzFxVTVSeVZ0ZjNRRm9Xcm5fUTRQWmpMR0xRVEw5em9ad2lyNGRfbkpma1pHMmdycllFX2lCQ203Y1M3MnJ0M2htNkFPTlowaVduWGw3WUk2SHFhNUg0VXlvMFhWbUNnSVBPRkhPbnE?oc=5",
+            "published": "2026-01-31T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、防災テックに出資 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjREWU9kLWp2LTRMSk5XQkZtTmxRV2VRTWM0bW1nRUVnNlFWTk40ZVFvU2pZSktrSFlUalFHZURzMTdBNGpfcUdsS213dVJEdDNSVFctQm43ZGtUN2lPdFJmckJoYW9SLUR6ZWZWejg1bG9DSWoyNGxITzFDdVp6WDFLWTZHUmkxa1pTMHkwMG1KR2xNRE1namhBa0E1NUUxdFNoMUVJeUE?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -1629,13 +1636,6 @@
             "company_id": "sekisui_house",
             "title": "積水ハウス、防災テックに出資 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTklEWUxfWmJrOW1tQTVTMzc5WWEyLVREcHo4dmJsUmlLdmNFNTFGbG54ZUJrLUY0bUFFaDBUbEFQVWNUbVctcmRISjlTWDFxV2pRckl2emllUXZzYy12dUR5T3Q1ZXpsQkR5RFNQdmdlQlBDQmNkVEU1clhrdVF1YTktWUpRTTdycEJxY2EyX3hud28tbTFJM1dONHc4NE42S3c?oc=5",
-            "published": "2026-01-31T04:07:36+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、防災テックに出資 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZE1jZm9JQm5naEk3QmptVWhVdVpvSWJMcDZjSGZaS2NUaFdvNzlkdi1qZWV5QUhpZEZYMnVQVE9HUzFxVTVSeVZ0ZjNRRm9Xcm5fUTRQWmpMR0xRVEw5em9ad2lyNGRfbkpma1pHMmdycllFX2lCQ203Y1M3MnJ0M2htNkFPTlowaVduWGw3WUk2SHFhNUg0VXlvMFhWbUNnSVBPRkhPbnE?oc=5",
             "published": "2026-01-31T04:07:36+09:00",
             "source": "日本経済新聞"
         },
@@ -2502,17 +2502,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業クレストへのサポート詐欺、個人情報が漏えいした可能性を完全に否定することができず - ScanNetSecurity",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkU0Jab0RpSXVTaDBPUXR0UkNYMnNpM0JUUlZXZWJ2M05qQVN3akUzcWJfaG5DX180dW0xZWo1a0JZMU12aUZBZnZxSUdFRHVvVTltbjF3QWtRRGltcDc0WTJzNVdNQk1VaGpZdg?oc=5",
-            "published": "2026-01-26T17:00:00+09:00",
-            "source": "ScanNetSecurity"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "建設業界の未来を支える“物流の再設計”。「JUCORE 物流」で描く2030年へのロードマップ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWUM2STFJbzBmRzFKdDRwSnBNRm5Ib25Pb01zZXpQbllsMEEyTkxac1ZUeWttZ3U4RmkxUGtoQzhpdUsxVlVicWlZM0FxSlhLOWdqOTFR?oc=5",
             "published": "2026-01-26T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業クレストへのサポート詐欺、個人情報が漏えいした可能性を完全に否定することができず - ScanNetSecurity",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkU0Jab0RpSXVTaDBPUXR0UkNYMnNpM0JUUlZXZWJ2M05qQVN3akUzcWJfaG5DX180dW0xZWo1a0JZMU12aUZBZnZxSUdFRHVvVTltbjF3QWtRRGltcDc0WTJzNVdNQk1VaGpZdg?oc=5",
+            "published": "2026-01-26T17:00:00+09:00",
+            "source": "ScanNetSecurity"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -4938,17 +4938,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム、ヘビ型ロボで床下点検 電通大と連携 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSWp4aUFDZ05YUkpiRUViMS1RUUlYMFRodUx1NkRsRkxzUmJPWk9zbHFpNE9GZjZCWlgxUU9YbGtqTmRuQ2NIcFhnbU52MFUzc0xvZHJqWGF3TU0?oc=5",
-            "published": "2025-12-19T17:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "逗子リトルシニア 打線爆発で２度目Ｖ ミサワホーム杯で３年ぶり | 逗子・葉山 - タウンニュース",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05YnBKYVh4b0EybERxZ056enNBbGdJbWU5a0R4N3VFT3BxSmVYcERQbXdaODVwdU5Sdm5UZVBPaTVLeDJZeGRDQXZaMnQ4U04tdmhMR1dvVzI3cFFwdU1DWjdqOVc?oc=5",
             "published": "2025-12-19T17:00:00+09:00",
             "source": "タウンニュース"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、ヘビ型ロボで床下点検 電通大と連携 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSWp4aUFDZ05YUkpiRUViMS1RUUlYMFRodUx1NkRsRkxzUmJPWk9zbHFpNE9GZjZCWlgxUU9YbGtqTmRuQ2NIcFhnbU52MFUzc0xvZHJqWGF3TU0?oc=5",
+            "published": "2025-12-19T17:00:00+09:00",
+            "source": "日刊工業新聞"
         },
         {
             "company_id": "misawa_home",
