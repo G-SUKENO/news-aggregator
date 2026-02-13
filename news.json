@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-02-14T04:40:16.543545+09:00",
+    "generated_at": "2026-02-14T05:34:28.154295+09:00",
     "articles": [
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、米住宅大手買収 ６３００億円 戸建て事業 拡大図る - 読売新聞オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3N2lMRGY3VG04bDFlSGJxTU5wLWlNdkZ3bEhrcEYyRUM3a0FHVnJhUHFEeXZWVmQxSmE0Z3A0T1dWc3RMd0lkeTUybGEzb3Ric1M2cHVndjBaUGpwcHVzRGNZcw?oc=5",
+            "published": "2026-02-14T05:00:00+09:00",
+            "source": "読売新聞オンライン"
+        },
         {
             "company_id": "sumitomo_forestry",
             "title": "住友林業 、戸建て住宅大手の米国トライ・ポイント・ホームズを子会社化 - M＆A Online",
@@ -2474,17 +2481,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "【特報】 寄前【板状況】注文ランキング 【買いトップ】アドテスト 【売りトップ】積水ハウス [08:33] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56X2lNdjl3QXMzNEhTcGJKMHFBNDNWQm5QczJScUlrb1BGQTJ5TmRyNnBnbGRPRFJPejBpcl9ENzJ3SjBmcXpScGt2SWxtSDdhaVhQdms2Q2Q3N3BSM096Sw?oc=5",
-            "published": "2026-01-29T17:00:00+09:00",
-            "source": "かぶたん"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "証金残（日証金）増減ランキング1/28発表分－積水ハウスの貸株残増加(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjE3UnFIbE1xTXJNOUdOcHlmdGRKM29XS2IwZ2doUUgtVzUyQXFCZkVwd2hQclk3aFNoOGJrVU9GYkh0c0hTZGU5LWZkLU9velNFS3J5YjdQazREOXVHWm1GSWlBcGpzNlVWRUlNby1tVTR6TTVqbVlqX1Q5aG1FSnVvRXlYN2s?oc=5",
             "published": "2026-01-29T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "【特報】 寄前【板状況】注文ランキング 【買いトップ】アドテスト 【売りトップ】積水ハウス [08:33] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56X2lNdjl3QXMzNEhTcGJKMHFBNDNWQm5QczJScUlrb1BGQTJ5TmRyNnBnbGRPRFJPejBpcl9ENzJ3SjBmcXpScGt2SWxtSDdhaVhQdms2Q2Q3N3BSM096Sw?oc=5",
+            "published": "2026-01-29T17:00:00+09:00",
+            "source": "かぶたん"
         },
         {
             "company_id": "ichijo_komuten",
@@ -3894,13 +3901,6 @@
             "source": "Housing Tribune Online"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、建材流通事業者向けソフトウェア「JUCORE 見積」でプレカットCADとのデータ連携を開始 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIOVU4eFp4M2M1dVVpVmlFOFFhSUNObHlyT0t2NHRadVYwMGpXQXVQVHZYWWdSbldaVjI1MXE4YjZYcl9XclRZRG5BWWNnWFl2ZHFLV2ttd0NDczRLUEFEN2cwTlFTLUszVUIxUQ?oc=5",
-            "published": "2026-01-16T14:49:18+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "工務店のハウスメーカー対策、「コスパ戦略」と「フラッグシップ戦略」 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hLUJ1cnV4X1hQZTFzZ3JncTRvRjI1VGlETllWZl9DVGVhN1Fqb0JEWEZzd0NUTV9vV09qeXFSRjlic1RsT056THpMY0xxcFlvVHc?oc=5",
@@ -4049,17 +4049,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ、湖東工場の新設棟がフル稼働=「魅せる工場」で信頼感醸成 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OQ2t6WHJMdWhaWUoycVBhRXh3bDZPbDJQY1UtelJHU3hHWnpobVhNZzhEVGVUVm8wV2FTS21Ec2txRHFOWXVIQ2hjSGnSAUxBVV95cUxPTkNrelhyTHVoWllKMnFQYUV4d2w2T2wyUGNVLXpSR1N4R1p6aG1YTWc4RFRlVFZvMFdhU0ttRHNrcURxTll1SENoY0hp?oc=5",
-            "published": "2026-01-14T17:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "冬本番 寒さと花粉のWシーズン到来 『住まいの温度と空気に関する意識調査』を実施 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OQ201Vzg5SjRiWHJ2bWF0T0lXRTRFa3ZfYVhZUFcxaTYza1A1SUl6UzB0LUkwaUNqZzZBcDZOOGlyNXVrTDUtcHdic1ctNHQtZkdzSXQ1SjQ5RDhVdVZIQjZwaTZLYnRnY3c?oc=5",
             "published": "2026-01-14T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ、湖東工場の新設棟がフル稼働=「魅せる工場」で信頼感醸成 - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OQ2t6WHJMdWhaWUoycVBhRXh3bDZPbDJQY1UtelJHU3hHWnpobVhNZzhEVGVUVm8wV2FTS21Ec2txRHFOWXVIQ2hjSGnSAUxBVV95cUxPTkNrelhyTHVoWllKMnFQYUV4d2w2T2wyUGNVLXpSR1N4R1p6aG1YTWc4RFRlVFZvMFdhU0ttRHNrcURxTll1SENoY0hp?oc=5",
+            "published": "2026-01-14T17:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "sekisui_heim",
