@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-19T02:54:49.686538+09:00",
+    "generated_at": "2026-02-19T03:50:18.342757+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -546,6 +546,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sZ3RJblh5aUJkdFl4RUNhMTRHaTJ4eHgzanEzZlhIX0UyM1UxRnlwZ3FhV3lrSjk2MUlGUXJBV1pJZnE1WHY3RVVKNHBmRkRUcEI5R0pKYURCYlJDTjVUajZtSW9ZdkFmZGc?oc=5",
             "published": "2026-02-16T15:00:01+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "イズミが広島市にある“創業の地”を大和ハウス工業に売却 かつては「ウィズワンダーランド」で現在ドン・キホーテ ホテルを中心とした再開発を検討 | RCC NEWS | 広島ニュース | RCC中国放送 - TBS NEWS DIG",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jbFZZSDlsVUJRZnBnd3R0aVpRN2tGREFIVUF5cVZGOV9zLU0wYnVHVTdXcDQwdjVZRE1WZGtubDZUTm4zX0VfT2pJN0xvWGhhd1BlVzVvakJHZw?oc=5",
+            "published": "2026-02-16T15:00:00+09:00",
+            "source": "TBS NEWS DIG"
         },
         {
             "company_id": "daiwa_house",
@@ -2018,13 +2025,6 @@
             "source": "新潟日報"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "高級賃貸マンション「ロイヤルパークス仙台青葉通」・ 学生寮「Miraiフォレスタ仙台青葉通」竣工 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWDE3X1pwdmdQbFFnOUxOazNSTm9rWnZ5SU1UU1RJUFFqd3I2bjBaaWtuczFrNGNpbFdOZEZ0b0RmbGFLYnFLX0lScw?oc=5",
-            "published": "2026-02-06T11:20:00+09:00",
-            "source": "47NEWS"
-        },
-        {
             "company_id": "misawa_home",
             "title": "「ミサワホームの森 松本」における取り組みが長野県ふるさとの森林づくり賞を受賞 - 時事ドットコム",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXNVJlLVFQekZ3NVMyall0cVhfTVRpMU41OVFYWHVCdXV5NWRiNEY1ZWJlZ25STFZwOTZzeHdVZnNPTzFmVXNOdEZVSlI0Y0dRWkgzNTR4ekFWOWVEcV9vd1ozOEdvUFNuZ3dB?oc=5",
@@ -2425,10 +2425,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.7] - 株探",
+            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.7] - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeUNua1Q3SzdMMmdKZGZzdm85TzhwaHdpY2V5XzdzWUxtV0l0WDItWWhqZG5BQzFIRzBCYVU4S2lGNURVMDg2TnRHeE5DWnpISFJfOXhpNE80RUxWMnh3eQ?oc=5",
             "published": "2026-02-03T17:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_heim",
@@ -2762,14 +2762,14 @@
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -3377,10 +3377,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業：海外住宅・不動産事業をドライバーに再び成長局面へ - 株探",
+            "title": "【材料】 住友林業：海外住宅・不動産事業をドライバーに再び成長局面へ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xOUNoR0w2cjV3Mm1YVVJnRmFEejVCLXVpNEpwa0ExamJEZjNvWmJsNWtIbEdkMERWOU40S19Xb0ZiZ0Y4RnBES1FNR3pQUkZpYzlCMG91bjllOGlNc3NVUw?oc=5",
             "published": "2026-01-27T17:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "hebel_haus",
