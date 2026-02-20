@@ -1,12 +1,26 @@
 {
-    "generated_at": "2026-02-20T17:36:34.582590+09:00",
+    "generated_at": "2026-02-20T18:36:56.279813+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "人事、大和ハウス工業 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkxGMW1TeFBsQktpMk0wcFpnSlpwVzl4N3phRHdaWE8ySUxYWWpzall4QWZZaFJEc1JqeXNSX2JSeGQyRjROdnRSQkg0MmF1MHdaY2NMYkpIeGtqTDRFc3l4VXR0NDVEMnhXcWpsdVYwMzVIa19MNmlPOVkyeVE2U09qYlpQTUg5RWQtYmt1ZXZVMVJNY1VQU1ZPNTVMN3B4MHN1SnVuMHY?oc=5",
+            "published": "2026-02-20T17:58:00+09:00",
+            "source": "日本経済新聞"
+        },
         {
             "company_id": "daiwa_house",
             "title": "【アナリスト評価】大和ハウス工業、レーティング中立を据置き、目標株価5,700円に引上げ（米系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemRZSE9mQ1pKTWwtYVE0eHFPVGxSR0FNVzNpZEhjMFUzUWVhNGRqeGs3VjFZZm1nYXZndVBOdW16dzM3b2ljQ3ZrQzl5OERLWUpscXF0WlJyVTZZOFU5cGFVaHZKTk1CVXBQQjE0ZUt6RmxWV3RZMmxMcXZ2VlpDWUhuTmduU0k?oc=5",
             "published": "2026-02-20T16:14:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "デザイナーズ賃貸マンション『LEGALAND』の 竣工100棟達成記念ロゴを制定 住友林業株式会社 - 新潟日報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41dEN1RkoySktRWE53UkprZHMtd05STkR6dUpGY0E3X1NkVVJTMVNnQUJqa1dVWERRVG9nZUJaZWtOOVpYOVQwMnV6OE9iTjZoYkpVcVoxX1FkN2RSSVE?oc=5",
+            "published": "2026-02-20T15:01:00+09:00",
+            "source": "新潟日報"
         },
         {
             "company_id": "sekisui_house",
@@ -364,6 +378,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaWFrd0R1YjdoRzFTLXlWUXpJZGdvUFRIU3ZLSms5VTBjMzZLRkNVektZUmRtcXd6U2ZCc1lQNUl4bldQclNjTGhxeXlodTNfcllpZWdQTTJGakcyXzJiRUJuY2ZSTVk4ZlE?oc=5",
             "published": "2026-02-19T02:41:16+09:00",
             "source": "Mapion"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスと日立社会情報サービス、異業種連携でクロスバリュー創出に挑戦 - RBB TODAY",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb2szN2JPOUQyRXl6bUVtSVFiTWFNTUcxVEFiSmVmV2hnb2RUX1VETi16aDktZDA4R1dtWWY4WW1NN0E4OXpsOG9vNDJLZ01kUElCRGZMRW93Z1d6bWsta2V4QTNwOFhRb000ekRneXVKa0xMSEZSeA?oc=5",
+            "published": "2026-02-19T01:40:01+09:00",
+            "source": "RBB TODAY"
         },
         {
             "company_id": "daiwa_house",
@@ -1515,7 +1536,7 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業[1911]：2025年12月期決算短信〔日本基準〕(連結) 2026年2月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "title": "住友林業[1911]：2025年12月期決算短信〔日本基準〕(連結) 2026年2月13日(適時開示) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0eHJlcWdtaXdjbHpFN29GbWlnQklQZHpQXzlldnY3bVA2bW9wbTczam9LTlBBaW9rQnpvS0Q4MjRVRGNvckRQb2U1SGhHOTFMcmx2NVYxZ29fWFlmY1lseFp0MzJIZkhqWmc?oc=5",
             "published": "2026-02-13T15:30:00+09:00",
             "source": "日本経済新聞"
@@ -2186,13 +2207,6 @@
             "source": "千葉テレビ放送"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "富山市公設卸売市場でにぎわい施設整備、今秋開業へ 大和ハウス工業 - ニコニコニュース",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3ZEpMNXdiM0VrVFBaSmNUcUlKQWRGR091Wk5JbnE1N2Z0Yk1SNXZlY3FBaXZfblJ0b0NKY1B4eUdoQmZkWG1MRmJlMmxMUG1jQzQycXdpQ2xuZmRRZzlpOUF6c0N3VFdNbnYyTDNrWjJqa09SdTd3dlQ2WQ?oc=5",
-            "published": "2026-02-07T11:00:25+09:00",
-            "source": "ニコニコニュース"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "ヘーベルハウスの建売分譲販売開始！ - SBSマイホームセンター",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DR2hvU2MyaWVCUWFCN0FBZHpIeHdXWjUxYS1ZUm13LU1IM2lKVFhqSm11S3pKYjhsdm1XTmFTc1R5WVAzUUJVbkM0YVNuSnRB?oc=5",
@@ -2676,6 +2690,13 @@
             "source": "家サイト"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業－大幅高 米国で「トランプ・ホームズ」構想が進ちょく中と伝わる(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTRHZ0VvZFdRUFk1Vjl5Vll5dm1vUXlfMnBZbVBMeFJHMFZGVldXeDJWSURVLUNsc1BOazkyUFVmZWQyQTRjZWkycGZNMEZlYVM3dnNfLTFDa0ZHVHlwcV92bWhjSnE3eGxkUHYwOVVoa2FKbmhnNVktWVl1NlNLRUxXTGhtMkk?oc=5",
+            "published": "2026-02-04T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウスのポッドキャスト番組「日々の句読点。」が 2月4日よりリニューアル配信開始 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XZy1VUGZ0LVUxTkxUbExYMGZ2ZVNzdC1wVkd6NUVhb3NtVWVHZWdfTlVJNmtudXMzR2ctT1J1UnpnWExJUHRfVTRfNVlROVhETDNMRUpjZ2VwbmM?oc=5",
@@ -2695,13 +2716,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12QS1XN1NsNHhZX3prcW9iUlV5bnJFWWJoZ2JNM0E3bERIYzBRSXFKT1RvaWZmdUJ0TEFuUG5wYzJJVkJHejd3WkJZdERaeWs?oc=5",
             "published": "2026-02-04T17:00:00+09:00",
             "source": "リアルエコノミー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業－大幅高 米国で「トランプ・ホームズ」構想が進ちょく中と伝わる(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTRHZ0VvZFdRUFk1Vjl5Vll5dm1vUXlfMnBZbVBMeFJHMFZGVldXeDJWSURVLUNsc1BOazkyUFVmZWQyQTRjZWkycGZNMEZlYVM3dnNfLTFDa0ZHVHlwcV92bWhjSnE3eGxkUHYwOVVoa2FKbmhnNVktWVl1NlNLRUxXTGhtMkk?oc=5",
-            "published": "2026-02-04T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_heim",
@@ -2795,20 +2809,6 @@
             "source": "日刊工業新聞"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.7] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeUNua1Q3SzdMMmdKZGZzdm85TzhwaHdpY2V5XzdzWUxtV0l0WDItWWhqZG5BQzFIRzBCYVU4S2lGNURVMDg2TnRHeE5DWnpISFJfOXhpNE80RUxWMnh3eQ?oc=5",
-            "published": "2026-02-03T17:00:00+09:00",
-            "source": "かぶたん"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "「大手メーカーで私の望む家はつくれない」その思い込みを覆す、積水ハウスの“リアルな”発信戦略 (1/3) - MarkeZine",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Mks4WEpoa2NUSGpIRHVUeE9yYnJveV9yQWVPTXFsUXNmTjNzYmU0dnRFTmp2R3NYeUZmdTU2WUMtQ09OZkt2a0Mzb1hYR1RXMmZr?oc=5",
-            "published": "2026-02-03T17:00:00+09:00",
-            "source": "MarkeZine"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "猫と人の幸せを実現する全戸「猫」特化型賃貸マンション「LEGALAND+猫MIYAKOJIMA」竣工のお知らせ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOLTN2U3dEMWhsdnBScVU1LXplOEVfUHZxbGdEeXAxbnNHUE5aRlV3M0xiNENOeGtkNGN1QlVjamdJVzJWQ0Njd1RRb0R6QlBGNTBmYVVQcWl0SGZ5Vk10WEtkT0tsVXc3cVE?oc=5",
@@ -2821,6 +2821,20 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMi1nbjVCNjRVWEFWdGs2RVNrRC0wN2FQRXhRSDYxR3VkV2h6Y0p1Z05KZExVLUZUVUZ0dkZIazFlUWt0R2xnSzd4T2xlN3Bwcmp0TkV1MXBSczNYQzEzY2xfclhBaWJmamc?oc=5",
             "published": "2026-02-03T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.7] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeUNua1Q3SzdMMmdKZGZzdm85TzhwaHdpY2V5XzdzWUxtV0l0WDItWWhqZG5BQzFIRzBCYVU4S2lGNURVMDg2TnRHeE5DWnpISFJfOXhpNE80RUxWMnh3eQ?oc=5",
+            "published": "2026-02-03T17:00:00+09:00",
+            "source": "かぶたん"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "「大手メーカーで私の望む家はつくれない」その思い込みを覆す、積水ハウスの“リアルな”発信戦略 (1/3) - MarkeZine",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Mks4WEpoa2NUSGpIRHVUeE9yYnJveV9yQWVPTXFsUXNmTjNzYmU0dnRFTmp2R3NYeUZmdTU2WUMtQ09OZkt2a0Mzb1hYR1RXMmZr?oc=5",
+            "published": "2026-02-03T17:00:00+09:00",
+            "source": "MarkeZine"
         },
         {
             "company_id": "sekisui_heim",
@@ -2884,13 +2898,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91VmxSVW8yVmJTR3NieEJ3YlZncFF6V042NjNmbDBleGo3NGpMUGlVdllOWXRGeHZ3elRHdUpBck9lZk9wZEN6SGdKWUE4T3ozajhtMExTMndZY3MxYlNSc2NfOWhIdGhCRlNDSg?oc=5",
             "published": "2026-02-03T16:00:00+09:00",
             "source": "福島民友新聞社"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "東京都内でのLEGALANDシリーズ竣工 100棟目となる『LEGALAND幡ヶ谷South』が竣工 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JRTUtUlpkMEVDQ3pxYjhRWkRCVGxXamRSemNaTjRndmdvQm9Vek9qTE14ZGZUWThPc3VqOW5hM1VCdTVFM183U0pScw?oc=5",
-            "published": "2026-02-03T16:00:00+09:00",
-            "source": "47NEWS"
         },
         {
             "company_id": "hebel_haus",
@@ -3528,13 +3535,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VbVBlbXBtaHM4cmtIdVFSdERjai14VG95S3czYmprN283MFhtcHZsQWcweDI1dzhOUVlFXzlKQnY3NUJRdmJqU3c5SGRKbFhtaUE?oc=5",
             "published": "2026-01-29T11:03:21+09:00",
             "source": "SBSマイホームセンター"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "品質重視、米国市場深掘り 検査態勢を充実 積水ハウス・仲井社長 - 毎日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xT2NyTGFMbUlnR3I2N09ZTkRLLWdkU2trbThpQTEwMkJwZEUtRkwxMU14d05XVXhrNXNSN0QyNVI0SnlCbFNkYTI3TlozYm9kNUt0bW5NdVZxZFFqVkFfM1ZoeEZDTlRX?oc=5",
-            "published": "2026-01-29T05:03:38+09:00",
-            "source": "毎日新聞"
         },
         {
             "company_id": "sekisui_heim",
