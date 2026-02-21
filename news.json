@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-22T07:19:25.862935+09:00",
+    "generated_at": "2026-02-22T08:20:16.416394+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -1591,6 +1591,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、大工1000人正社員化の賭け 「家建たぬ」危機へ先手 - 日経ビジネス電子版",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M2R2T2VNN2V5V2RycVBmcXlnN0hzLTNpNmd6dlI2bXFwNHgyRFBBMXUyVElRV2xQOVU1ZGVQRkJmY3dNOVZHWDV5SHkxcDRIbkI4VkRQM25Cc2V3VTVxeldYYVJnb0U?oc=5",
+            "published": "2026-02-13T17:00:00+09:00",
+            "source": "日経ビジネス電子版"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、米住宅大手を6500億円で買収 全米5位に - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85bDQ0Y0tWSlNhcG5JUVBWSzVjODVxRmlKTjNzdHJnUm54X19sSTVhVnpweHRaSEdIeERKUHdDTGdXN2lZNllicDVQQXZZZEdrLVB6a28zZXBiUzNXdWVJbkZyYmtVb0d5X2JiVQ?oc=5",
@@ -1718,7 +1725,7 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業が米戸建て住宅事業会社を6500億円で買収－現地で地位確立へ(Bloomberg) - Yahoo!ファイナンス",
+            "title": "住友林業が米戸建て住宅会社を6500億円で買収－全米5位の規模に(Bloomberg) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa05MdFN5cjhnV0puWnpZaVpmWE1GSFRJNGhhWkZ4YjZBbmkwN2ZUZzRVaXgyT1N2c0NFQzRMaHo4SXhBQ1pBLVJhM3Axb0VIeV9iekRPY2VXM1U5ckZBSGg5WVNuXzlmaVNKQ0hqTnFkVFluTHg3S3A5UFRPZUFrenZOQlBPMEU?oc=5",
             "published": "2026-02-13T15:42:00+09:00",
             "source": "Yahoo!ファイナンス"
@@ -1917,13 +1924,6 @@
             "title": "AIエージェントで無人営業／ソフトの顧客はAI／積水ハウス、大工1000人正社員（2026年2月13日版） - 日経ビジネス電子版",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNndwOVp6WGNNUWJMTV9XcmREc3ZscEJhUEFYbHdBWnNJblFQM2pNYzkzNkExNTNuT090N3J3RG5DNWJWV213T1RaTlR4cWRTNTJOckVFVEd2NmQ0Rk9rOW9BS3hVMHBIb3c?oc=5",
             "published": "2026-02-13T05:00:12+09:00",
-            "source": "日経ビジネス電子版"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、大工1000人正社員化の賭け 「家建たぬ」危機へ先手 - 日経ビジネス電子版",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M2R2T2VNN2V5V2RycVBmcXlnN0hzLTNpNmd6dlI2bXFwNHgyRFBBMXUyVElRV2xQOVU1ZGVQRkJmY3dNOVZHWDV5SHkxcDRIbkI4VkRQM25Cc2V3VTVxeldYYVJnb0U?oc=5",
-            "published": "2026-02-13T05:00:00+09:00",
             "source": "日経ビジネス電子版"
         },
         {
@@ -3238,14 +3238,14 @@
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -3300,17 +3300,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス「スポーツエールカンパニー2026」にて5年連続認定で“ブロンズ”を取得 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pMUpjOE1kVDItSk9UdEZYSi0zOU1tb0M2VkhoZkZKMXg1MWR6X3E2a0VNLW9yaF82QmpVTVV5SHdnd05TN3gzY0s1RndhOVY5OVZhczVpY0otSFE?oc=5",
-            "published": "2026-01-30T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス「スポーツエールカンパニー2026」にて5年連続認定で“ブロンズ”を取得 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBOeW5yb3RjXzZydHlEd3p6eWhnSVdRQUVsT2kyZ0c3ckVEY3h5OW1aU0JJbFZkNHNoSTg2QUtDbFhCc1E?oc=5",
             "published": "2026-01-30T17:00:00+09:00",
             "source": "Digital PR Platform"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス「スポーツエールカンパニー2026」にて5年連続認定で“ブロンズ”を取得 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pMUpjOE1kVDItSk9UdEZYSi0zOU1tb0M2VkhoZkZKMXg1MWR6X3E2a0VNLW9yaF82QmpVTVV5SHdnd05TN3gzY0s1RndhOVY5OVZhczVpY0otSFE?oc=5",
+            "published": "2026-01-30T17:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sekisui_house",
@@ -5414,7 +5414,7 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "高断熱・高気密住宅ブランド「Asu-haus」横浜市青葉区で賃貸住宅実証実験を開始 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
+            "title": "高断熱・高気密住宅ブランド「Asu-haus」横浜市青葉区で賃貸住宅実証実験を開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DanVta20wMTFmY2d5YzhseC1FemN2YUQ2T3ZCTzZFLU05bTZUOUNHcXYzMFROLTMyeHB5UnA1X2lxdGJmS2FWOUVIRF82U3pfYjd5ZEYza3hqem9EUjhwbDVaRlBESEJFNXc?oc=5",
             "published": "2025-12-17T17:00:00+09:00",
             "source": "PR TIMES"
@@ -5841,7 +5841,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックHD、挫折した「家まるごと」戦略 ハウジングソリューションズ社を売却 - 日本経済新聞 - 日本経済新聞",
+            "title": "パナソニックHD、挫折した「家まるごと」戦略 ハウジングソリューションズ社を売却 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81T1REMHBhSlFuUV85OUV5VHV2ekVFUnNReFZIN2RZRFlRWVJJVi1wVjk5S3RONE9SWnJZVURqSk9ZZWxxUlFFTW9oX3NPYkc2WlJLZ1poSGxBbFVsS0UzTVhmYVhnLUN2QXRPUA?oc=5",
             "published": "2025-11-19T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -5862,17 +5862,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "65歳以降の就労・社会参加活動に関する調査報告 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeDVVUVZhT3FWY1AtODdXYUxaeWJDb1djZ3AxSTN5THRockZ4Ri1WeXk1QjV2Sk9Nbm5Zb1lZNEpKNVN6anhuQ2F1ZmFaVmZHS3RPVmE0X09UZnFLZDBwbk1leTUyUEpnOFE?oc=5",
-            "published": "2025-11-18T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "旭化成ホームズの26年3月期第2四半期決算、過去最高業績を更新=国内住宅事業が堅調 - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zVnlpTXVRVm9YUVY5Ym1CZUd3TXRyNHJ3MUFYOU5PdmZqQUNXUVpqenIya2YzaW5vQWFwdTVqbkd2SmxoM1VEREU2ZVDSAUxBVV95cUxNM1Z5aU11UVZvWFFWOWJtQmVHd010cjRydzFBWDlOT3ZmakFDV1FaanpyMmtmM2lub0FhcHU1am5HdkpsaDNVRERFNmVQ?oc=5",
             "published": "2025-11-18T17:00:00+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "65歳以降の就労・社会参加活動に関する調査報告 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeDVVUVZhT3FWY1AtODdXYUxaeWJDb1djZ3AxSTN5THRockZ4Ri1WeXk1QjV2Sk9Nbm5Zb1lZNEpKNVN6anhuQ2F1ZmFaVmZHS3RPVmE0X09UZnFLZDBwbk1leTUyUEpnOFE?oc=5",
+            "published": "2025-11-18T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
