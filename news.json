@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-23T17:44:24.177411+09:00",
+    "generated_at": "2026-02-23T18:51:24.832569+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -819,6 +819,13 @@
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPME9QVDVJc3RhNENveXdkX3lwVnd2bWRGcUh6aWhIYkxVNTg2ZjVLc01fcElDeVhsU0o0bG5HdVFmd3BxWW5hZ05mdWU1cWs3QXBhUDhDWXZGM1hUMnFtbElGMzZZRTlpa2NDZ0tVYlQtNmJ4Z2NGV01OV2dUcmM3ZHdwYmtkOWc2ZUlzYUl3Zkw2eXV0am5tRlpfYkFLQdIBowFBVV95cUxPMFBRbGZQNzh5U0w4Sy1US2RtR2NwVzhqd2hfQkZCd2tzQTFLME5TS3pONmlILTZnV2lQQzNKVmhFU0dUamNySkdNS29ZM1RqN0s4aVYxekprNHpmSDBXVGlsVnZEMlYxWURoMDlfc3V0RF8waElJbWhpcmE1R19UQ29BWm1UNGlFSndmWVhwbW1OZWdic2Vaa1huMkY4LUZmb0hN?oc=5",
             "published": "2026-02-17T19:00:00+09:00",
             "source": "ｄメニューニュース"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "2026年2月 茨城県古河市にノーブルホーム×積水ハウスコラボレーションのモデルハウスOPEN - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Xa0lSTk5rWnlLb3lSYVAzRlU3MjFfUHM0eXlkSVV6R2hrUlN2S1E4OG5STUwxbEd6cWRvejQ2UVEyLXBMZXNNSU9VQ2F2dE13OHZkeWNLbGpBXzQ?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2950,6 +2957,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス不動産、札証物産旧本社ビル敷地など約284坪を昨年末に取得 - リアルエコノミー",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12QS1XN1NsNHhZX3prcW9iUlV5bnJFWWJoZ2JNM0E3bERIYzBRSXFKT1RvaWZmdUJ0TEFuUG5wYzJJVkJHejd3WkJZdERaeWs?oc=5",
+            "published": "2026-02-04T17:00:00+09:00",
+            "source": "リアルエコノミー"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウスのポッドキャスト番組「日々の句読点。」が 2月4日よりリニューアル配信開始 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XZy1VUGZ0LVUxTkxUbExYMGZ2ZVNzdC1wVkd6NUVhb3NtVWVHZWdfTlVJNmtudXMzR2ctT1J1UnpnWExJUHRfVTRfNVlROVhETDNMRUpjZ2VwbmM?oc=5",
             "published": "2026-02-04T17:00:00+09:00",
@@ -2968,13 +2982,6 @@
             "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YVDFlVXRybzJGeUx5TjJzMW82NmozUE5rWHNyay1fQVFPMFZVUE03YjlkRzkybXhVRzh0VWNEaWV3OV9HNmhj?oc=5",
             "published": "2026-02-04T17:00:00+09:00",
             "source": "kabushiki.jp"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス不動産、札証物産旧本社ビル敷地など約284坪を昨年末に取得 - リアルエコノミー",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12QS1XN1NsNHhZX3prcW9iUlV5bnJFWWJoZ2JNM0E3bERIYzBRSXFKT1RvaWZmdUJ0TEFuUG5wYzJJVkJHejd3WkJZdERaeWs?oc=5",
-            "published": "2026-02-04T17:00:00+09:00",
-            "source": "リアルエコノミー"
         },
         {
             "company_id": "hebel_haus",
@@ -3321,7 +3328,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
+            "title": "民泊の営業規制、事業者は困惑 パナソニックホームズは物件の賃貸転用を検討 - 日本経済新聞 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdnI4R2k1MkNTZ3Rmc2E1UnkxY25aZ0MxRzFUR0Z3M1RLUUZOQ3gwNHRhTndGeGFRYVRyLWRlZ3RqUTV6NFRPSElDYjk4S3ZRaWRGM0s1ZDBRMzFNS3Zva3k2NnpXeEhNZk1CRA?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -3514,13 +3521,6 @@
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ybnFKY1VNNmhzQVZmeUJxNXlYNklpRmMxN3hJS1R1VndDWXZEZGNXQkpBT3RHRjlnWThZZHYtVlhBbnJPdjlnSXU3c3dpaENnV2lRcDlWMWVRWHd4X2l2U3VodDU5N3BIOHk0bmo0UFQtalk?oc=5",
             "published": "2026-01-30T16:53:28+09:00",
             "source": "ytv.co.jp"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス「スポーツエールカンパニー2026」にて5年連続認定で“ブロンズ”を取得 | チバテレ＋プラス - 千葉テレビ放送株式会社",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xOGVCMDJIQmxhMGRMM25hTlBBaFZHV0dQT0hPRXZVNGM2T2t4ZXVRdkI4YnlPWGdKN2t5bGFfUFZuSHZGenZRQXZUaVRjY3BEZXBKSjFyeFJPUm1tcXdn0gFkQVVfeXFMTXFmaGxfVl9BdHJrQzBreUM1Vks2RjQzbVNBY2xDekt3WHd3UzJ3YmJlWjl6T3I5Y0hJV3pCeEdEWTlVamF5bE5sTWlCaWpQeXhDeWNTUzhKQTNrODdlZ296dTZrZQ?oc=5",
-            "published": "2026-01-30T16:41:44+09:00",
-            "source": "千葉テレビ放送株式会社"
         },
         {
             "company_id": "ichijo_komuten",
@@ -5274,7 +5274,7 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホームがリフォーム事業でANDPAD を導入 | 株式会社アンドパッドのプレスリリース - PR TIMES",
+            "title": "ミサワホームがリフォーム事業でANDPAD を導入 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Wk9Hem1MUkM0bnhRNDN6LWhnSEE1MzhWaHNUUktLOGNUSkdkOW1uUkM0T1hhekxZNkR1VnV6eVQ1WjZKaWcySEZ6REdad1dqV0pkYlZQOTNKeGFaQUgwVGpySXNHbzlWZGc?oc=5",
             "published": "2025-12-22T17:00:00+09:00",
             "source": "PR TIMES"
