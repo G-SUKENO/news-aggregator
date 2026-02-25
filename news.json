@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-25T21:57:15.790722+09:00",
+    "generated_at": "2026-02-25T23:09:54.458503+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -41,6 +41,13 @@
             "title": "住友林業株価一時3.6%安 SMBC日興が判断下げ、米社買収受け - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XX1dzZmR1eXh0R252bmQxM28tcjBrdE5CUTNzT0Z1NVRlWDR3VEhPa3FFdUExY2JkZ1E0b2hXeDg3bWtHb0FVYzFXM0JCOUVDZC12Q1dlUkxuM2VxR01xTUNPZEptVVJuMEdEaA?oc=5",
             "published": "2026-02-25T13:59:22+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業株価一時3.6%安 SMBC日興が判断下げ、米社買収受け - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVdteWs5SENSUlhweVg5aVR2VEEwMmdKNy02T3VuNkVLQTR3YzJDRkQyMWtETS1FOHFDVVZNMG1wbWJKNXRxbjI2MEZ5OWQzcWtXWnpOM3JwMWU2Wks0MHZUUTByNm5GX0traWhYTmR6a3lHbHRNbmZ2bm5nSWpETlBTckhwX1J5MkRNQ3p3dklDWjhyRjFnQVg2NGlFLXZCZXc?oc=5",
+            "published": "2026-02-25T13:59:00+09:00",
             "source": "日本経済新聞"
         },
         {
@@ -1346,6 +1353,13 @@
             "source": "Yahoo!ニュース"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業が嘉麻市に工業団地を整備へ…市の単独開発計画が中断し名乗り、４年後の完成を目指す - 読売新聞オンライン",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wdS1KalhXVGdaZjVHQXJ5LUdHTTJxM3FGeGxmV2Z4ZmFkYUQybW45SDctRXY4LWJkZkc5ZkxqejBNZ2VfWVdyazVRX3FRd1ZtcG9kVExfVkpGXzNzUm1PM2RsOElZOV9fTk05aVM4bXp5QQ?oc=5",
+            "published": "2026-02-17T10:59:00+09:00",
+            "source": "読売新聞オンライン"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、第7回「ESGファイナンス・アワード・ジャパン」において環境サステナブル企業部門の金賞を受賞 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQzV5SDBTMnd5M2RCNjlQeHZrSG1LY2VOU2JFZWl0elFVV1N1c1hWbk9NWlZ6aWp1T2RQZzUya09qQ3h1RTVJOTc5Zmg5WlNBcFl3NGxHNldmMU0?oc=5",
@@ -2347,13 +2361,6 @@
             "source": "ｄメニューニュース"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "樹齢400年の盆梅クローン苗、秀吉まつる豊国神社へ 滋賀・長浜観光協会 ：ニュース - 中日BIZナビ",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hZVpOUVo1bnVocDY3RV9NM2lZamRXN29PUGNLbXJyVmgtc1ZEMTk1QXQ3dWhCaVFwc0hFdms1Y2R1YTk3YTdnUUNBNDVub0ZOMGJhYklEWU1nS3ZvdDNJ?oc=5",
-            "published": "2026-02-13T14:00:00+09:00",
-            "source": "中日BIZナビ"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "【決算速報】大和ハウス工業、3Q累計経常335,390百万。(アイフィス株予報) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalNScUh6NmZ2QW41ZnpMcEVZaWF4OG0wLUdGRk54LWVpVFdWRWgybXZvMXR4RGRQZGVNNEFKZ1YweGtRYXRtUHNRNUt0T2JlSzFMaXFhWHZ0bnFQc0owMUlsU0RhZ1U3NHpMU1VJMFBWa1JiaG5yakw5Q3FzeE1iTmVFbktnU1E?oc=5",
@@ -2602,13 +2609,6 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス工業・大友浩嗣社長「社会課題の解決と事業成長を達成へ」 - 日経BP",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80X2o1QkF1cDhDUUYtZGFZVU81bTVTYUZOR2YxcVk4NHQtN1dhdHhmWTd4aWVVWG9qOXdvZUVVN2pyRjFvQlBNdzlFcnlIWGxpdzFXdDZoaUwtY003UTRlaTJYaWNfWHJVRHZBNHlITWk?oc=5",
-            "published": "2026-02-10T17:00:00+09:00",
-            "source": "日経BP"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業・大友浩嗣社長「社会課題の解決と事業成長を達成へ」（2ページ目） | 日経ESG - 日経BP",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbHlTQVlaamtPbjdZSEZVUThweXA3aXFneHlTM2d3UkF1MEZsZXU3MjgxeVF6UkpoS3ZDNHh5ZmhQZVJZQi1BcXhwaTA3REx6QU90R3Buek5Sa0xuMEdnMm5uNTEwMTBzSndzRlkzcFJJaHpCSEE?oc=5",
             "published": "2026-02-10T17:00:00+09:00",
             "source": "日経BP"
         },
@@ -5547,7 +5547,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ､滋賀の｢ご当地｣モデルハウス 鮒寿司の保管庫も - 日本経済新聞",
+            "title": "パナソニックホームズ､滋賀の｢ご当地｣モデルハウス 鮒寿司の保管庫も - 日本経済新聞 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYUpSQVNNMEt5el9zbnZkeG9heUR1cmlFQ1UyWDNxVHp3dW5LN3FzSFRiOHZZcHhhakh0WXBTbkRWT3lURm9YOXVTR29LV3ppZVMyak9JQ0VkNHNVMjVnMEs1WXJNaFNVTzBVcA?oc=5",
             "published": "2025-12-12T17:00:00+09:00",
             "source": "日本経済新聞"
