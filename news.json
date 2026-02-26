@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-26T10:49:24.163592+09:00",
+    "generated_at": "2026-02-26T13:13:48.337128+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -408,6 +408,13 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "国内住宅好調も増収減益で着地 住友林業25年12月期 決算 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rTDhXdWhyRTVkWFYxSDlGZm5CbDRQckcxYmFkUXJkY3FXSGh1S0R6YUVTYmxwMGZ2T2REQUxaUGlIRHFxbXB1dHNIZHd0T2d6bXNrckZtNA?oc=5",
+            "published": "2026-02-24T00:00:00+09:00",
+            "source": "jutaku-s.com"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "新社長に清水代表取締役 積水化学工業 「ESG経営を磨き上げる」 - jutaku-s.com",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UbXBSaEgzQzU5RFY5cFBEa3ZpaHpGdW14eWhNRzdjQllmb0JYLUJkR2VDanRYV0tCdnRtMVFoanVaTVJCZDBreFZ6Y2FHSUg4RTYwa1g4Yw?oc=5",
@@ -448,6 +455,13 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZlRyZzBQOWRKM29BQXlNRTdrUGxwLWRCZ0hGN3Z0VllQbV9ic2ZraFFUdVlCTDllY2s3a1d0N250SXY0UDZ1UUNiQ1Y4MFQwV2M4?oc=5",
             "published": "2026-02-22T01:51:15+09:00",
             "source": "ビジネス+IT"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "816万円のお家が当たる！？【リユースハイムキャンペーン】 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSUdMUGNIZFNzeVExd1Vpb0xsVktHOGVVNXhlUmlUQ0dfbldJcjVOSjQxaUFrbzR2Ml8wNHM3SHQ4WEoxOXUxcmhXdzQ5ZlplUGhSa2c5eGZYSWdUZW0wbVpDRWM1Mk1fNWZN?oc=5",
+            "published": "2026-02-21T17:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "sekisui_heim",
@@ -1361,6 +1375,13 @@
         },
         {
             "company_id": "sekisui_heim",
+            "title": "人事、積水化学工業 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1hyLWl3WEllQzQtWGZnSVVaTVBCY3k2V0gxTWk0NGJoOFpTVnFaLS1GV3doNVJGVkszVjFjZnR6UnFPdFoxZ3FXdmtKVy1VbldneGNYX2RUV2JCX1liYzRnN2VmdmNHUUUtaHE4T2MxZ3MxLUg2VlU3QkU5S0dvbU1fTVRQb2YtQ0x0WnBFLUxYRUdMZUhpendWVTBWMURGUF9Kekp1NkI?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
@@ -1379,13 +1400,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vdml4RTl4dExNUktxamJwVDBacFR6RmZRZm1ES0psQ0ZwdDFxLXNldXJVUzJfcEFXUVZQMG5HQzNZVzNFXy1vVXVNTE80bkQ2WjNtbWt3?oc=5",
             "published": "2026-02-17T16:00:00+09:00",
             "source": "jutaku-s.com"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "人事、積水化学工業 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1hyLWl3WEllQzQtWGZnSVVaTVBCY3k2V0gxTWk0NGJoOFpTVnFaLS1GV3doNVJGVkszVjFjZnR6UnFPdFoxZ3FXdmtKVy1VbldneGNYX2RUV2JCX1liYzRnN2VmdmNHUUUtaHE4T2MxZ3MxLUg2VlU3QkU5S0dvbU1fTVRQb2YtQ0x0WnBFLUxYRUdMZUhpendWVTBWMURGUF9Kekp1NkI?oc=5",
-            "published": "2026-02-17T15:24:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -1731,13 +1745,6 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "816万円のお家が当たる！？【リユースハイムキャンペーン】 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSUdMUGNIZFNzeVExd1Vpb0xsVktHOGVVNXhlUmlUQ0dfbldJcjVOSjQxaUFrbzR2Ml8wNHM3SHQ4WEoxOXUxcmhXdzQ5ZlplUGhSa2c5eGZYSWdUZW0wbVpDRWM1Mk1fNWZN?oc=5",
-            "published": "2026-02-16T17:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
             "company_id": "mitsui_home",
             "title": "「プライムグレーヌ横浜桐畑」が竣工しました！ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sZ3RJblh5aUJkdFl4RUNhMTRHaTJ4eHgzanEzZlhIX0UyM1UxRnlwZ3FhV3lrSjk2MUlGUXJBV1pJZnE1WHY3RVVKNHBmRkRUcEI5R0pKYURCYlJDTjVUajZtSW9ZdkFmZGc?oc=5",
@@ -1960,6 +1967,13 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42TGZfQzRCXzBBUVRWU0JxX3VmeVFBQ3ZpWE5TVFJpNlRtQlFISnU3dUgybGs3YW1FTnk2TDBUbkFLRWFRdUN2cFRsbWlTZF9GV1prVVFIb0FSWXI2U1FuZ2lHd00?oc=5",
             "published": "2026-02-14T17:00:00+09:00",
             "source": "読売新聞オンライン"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "ＣＲＴハウジング佐野総合住宅展示場 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQk9oTUZRUzYxbU5PRmlCcUxtTGlWM0VGZTkxTS1sZ1BmWmNybmoxUXJyMDhnY0VpRnN2RkhhT0ZORW8tSVpvdHdPQmNxWFQ3UnRnTGFXN1k1MGRzMm1mNVkwSVBHcVNCVFUzVQ?oc=5",
+            "published": "2026-02-14T17:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2285,15 +2299,15 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業、米戸建てのトリ・ポワント・ホームズ買収 6299億円(ロイター) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWt1RlQ0RUt3Tkhtd2ZmdjlfQzZ1SU9iWmNkZ05VWTFsWUozY0N5OW5ldUlCOGQ5S3c3VFc3SFMwVF8wUEpVamx1Uk01alRTdHl2S01MbnhyWG9DSEZHcGpDWk9Gc0NtWDh6Y2dGZkNId2RFSUM1aVE2VkFCcnVrNGQwemJyYXc?oc=5",
+            "title": "住友林業が米戸建て住宅会社を6500億円で買収－全米5位の規模に(Bloomberg) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa05MdFN5cjhnV0puWnpZaVpmWE1GSFRJNGhhWkZ4YjZBbmkwN2ZUZzRVaXgyT1N2c0NFQzRMaHo4SXhBQ1pBLVJhM3Axb0VIeV9iekRPY2VXM1U5ckZBSGg5WVNuXzlmaVNKQ0hqTnFkVFluTHg3S3A5UFRPZUFrenZOQlBPMEU?oc=5",
             "published": "2026-02-13T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業が米戸建て住宅会社を6500億円で買収－全米5位の規模に(Bloomberg) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa05MdFN5cjhnV0puWnpZaVpmWE1GSFRJNGhhWkZ4YjZBbmkwN2ZUZzRVaXgyT1N2c0NFQzRMaHo4SXhBQ1pBLVJhM3Axb0VIeV9iekRPY2VXM1U5ckZBSGg5WVNuXzlmaVNKQ0hqTnFkVFluTHg3S3A5UFRPZUFrenZOQlBPMEU?oc=5",
+            "title": "住友林業、米戸建てのトリ・ポワント・ホームズ買収 6299億円(ロイター) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWt1RlQ0RUt3Tkhtd2ZmdjlfQzZ1SU9iWmNkZ05VWTFsWUozY0N5OW5ldUlCOGQ5S3c3VFc3SFMwVF8wUEpVamx1Uk01alRTdHl2S01MbnhyWG9DSEZHcGpDWk9Gc0NtWDh6Y2dGZkNId2RFSUM1aVE2VkFCcnVrNGQwemJyYXc?oc=5",
             "published": "2026-02-13T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -2422,13 +2436,6 @@
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWZzSTRzYmpHTzNfZmMtQ1EyVjFubEhxZkJrc3JMRmZiTmgyY3lGU3lJV1c5aFdRa2Z0TjU0QjdjTGpqWXdCcmloSE9FYmFwNzNwTnYxQVpFZ1RKZ3RKYU83ZUt2cFhpVHpJQkYxX2paWVR6dzlfamN5RENXZGVZM0ZCX2JwdktjVHk4ZGtYVmlaRmcwa1BtMllZaTFPNHduZDZqSGpIZGdKVjVZQzMxbzh6REJwWS1FSjY5RndPQ0xnVjY1WjhOS3lhTmNiVmx4eklBQkxxc9IBhwFBVV95cUxNaVdaZTFyNlVkaVZqUEZPTVd1bUIweXBTUXMwLW5HVklITUhuOVpYSlR6ZlNvYlAxUlRXOU5nZ01yRGlUQ2o5amZjbkxuMzhhaTlTXzVDTERDbkVvY18wRl9yZnVYNUtRYmFSTFlMSkQxTDdPYTBwODJ1TlpYZml2LS1vWHNMN1U?oc=5",
             "published": "2026-02-13T15:57:00+09:00",
             "source": "ｄメニューニュース"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、米住宅大手を6300億円で買収 全米5位に - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnM2SzJaU0xRMWZMZzZib3lPUXMzT2lrV2RRd3dOc2lHQzNWaTFoZUlFWXdoVDJtUmNib3NzTGFaenNCS2xzNzY0OGxnSmUtV0NTQlVGUXJENFEwaGU5Y2lfMmRGTmVLZDRDTmhXS3V5c3A3bXRKNUZtVFBpSUIzeW81QW9CYXhWOElXUWVmeTlBcWJpd3BjZUd4eWVfdENIZl9JUWtTVEU?oc=5",
-            "published": "2026-02-13T15:48:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -3307,7 +3314,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業[4204]：自己株式の取得状況に関するお知らせ 2026年2月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "title": "積水化学工業[4204]：自己株式の取得状況に関するお知らせ 2026年2月3日(適時開示) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BVUFySl9IMzVMLU9qRjlaWE1pQzRfZWYwdVN4X0h0N1lKNlJpTnF6UE5QNVpRVU1rZDF3LU1wTjFDa2Y2NUg0YmtHNjQxOVFjazdRcDhyTmZacXVFNzMxaWxxZkhFNmxLRlE?oc=5",
             "published": "2026-02-03T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -3504,14 +3511,14 @@
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -4018,13 +4025,6 @@
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lV05YRmZlY3VBcTA4Y2ZpYk05cjZsYWVXaEFXUmdjUVBXeTF0bkFfdlFybm5yUWtvejFoRFdPcVdPZmFpYUx3My0zV1RPVXY1X3UxVk5tNEc1dHNMMGtlMTBnSTRhdlIxUW1xYmNpM09DQy10azNzTThoSkdXdw?oc=5",
             "published": "2026-01-26T16:50:18+09:00",
             "source": "SUUMO"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "アメフト部で身に付けた心得 個々の役割を果たす 積水化学工業・加藤敬太社長 - AERA DIGITAL",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0weUdVS0hJREpEWV9rNEZUU0FSMzZsUlVPX0NJVllrVVRSSGxCVjRGZEhBNHNHSy1sNDR5RHF0UEFVZktyM1BfN0tydDE2Q2pk?oc=5",
-            "published": "2026-01-26T06:30:00+09:00",
-            "source": "AERA DIGITAL"
         },
         {
             "company_id": "ichijo_komuten",
