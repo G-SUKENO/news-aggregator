@@ -1,6 +1,20 @@
 {
-    "generated_at": "2026-02-27T04:41:10.976938+09:00",
+    "generated_at": "2026-02-27T05:33:08.920754+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、ESG情報開示支援の新興シェルパに出資 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DUFA2UUtmWXJwQWJ0Nm1mbFYwU1MzalJlMUd1Z2c2MEVlN2lvaUR0Z3AybV9iOXN4RUtzcHIxMnktZ3pzZ2lVMjgyelFKd1l6YlNFVG5ETmROYVlnN0ctS0cwRmxGaVZ3ak5XSFQ1SC1iNkMzeEd3?oc=5",
+            "published": "2026-02-27T05:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、大型木造で非住宅開拓 BF構法4階建て - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pWGN5WXBRd0dJQXozRy14RUFuOWJVdlA1M0RuZW1XUEF4WnhJcXdRWXRScXhBOE0tUFRVcjE3ZVZ6LWVpZE5MYWsxaFNqek94R0g0bDVhVUNvZ1F6TkRVcXFodUE0dHFXaHNqTDl6T3R4S2x4?oc=5",
+            "published": "2026-02-27T05:00:00+09:00",
+            "source": "日刊工業新聞"
+        },
         {
             "company_id": "sumitomo_forestry",
             "title": "住友林業による「スミリンでんき一般家庭向けプラン（九州エリア）」の特徴｜電気料金プランDB - 新電力ネット",
@@ -1451,6 +1465,13 @@
             "source": "ｄメニューニュース"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "2026年2月 茨城県古河市にノーブルホーム×積水ハウスコラボレーションのモデルハウスOPEN - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Xa0lSTk5rWnlLb3lSYVAzRlU3MjFfUHM0eXlkSVV6R2hrUlN2S1E4OG5STUwxbEd6cWRvejQ2UVEyLXBMZXNNSU9VQ2F2dE13OHZkeWNLbGpBXzQ?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業－野村が目標株価を引き上げ 米大手ビルダー買収効果で増益を予想〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmU1bDlWeElBLXozNU1Fb01XMEhUM1U4dnRTd2Q2UTB1M3gzckFVZm9CVUw1dlJ3eHZ2ckJjbDQwVVZKdVVfbnExUXZrQjhYZEExUVRNOGxkWjhieXdINXdKQVZzajRxemRKdm9JNXo0b1Y0SXN4UDFOTVZhTUhqRGQzRTFwZDg?oc=5",
@@ -1470,13 +1491,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xQmNSOXV3bnA5SENZWWVCazZDY3NfcmRRMjA3RHZZN1dDSnF4MEVieENGdUVVNDN6M0hncTBNZTBsb2ZmUWNqblZ3ZnQ4R0h6c0lWM3ozT0RGQzhOQ2hGd2V1STRPQWxjWFE?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "2026年2月 茨城県古河市にノーブルホーム×積水ハウスコラボレーションのモデルハウスOPEN - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Xa0lSTk5rWnlLb3lSYVAzRlU3MjFfUHM0eXlkSVV6R2hrUlN2S1E4OG5STUwxbEd6cWRvejQ2UVEyLXBMZXNNSU9VQ2F2dE13OHZkeWNLbGpBXzQ?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -1843,13 +1857,6 @@
             "source": "マピオン"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業－急落 今期純利益11％減見込む 前期は9％減〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRm4ycUNQOUtkYmQzUjBiMkY3NDlJVmxYcUFkVkExVHZYdk5WdUNIM1NCWEpjOExORkFFSWxQVE1fSkVBMW0yTkVVdmlNWXhXWUptUldVblVxRHNYUWZCMk5aNE5kbE1taHRXX2I2aHZMd3pMTlp4RjQ1MFNxMlhjdkR0a0dnenM?oc=5",
-            "published": "2026-02-16T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【積水ハウス】一級建築士と始める家づくり - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zTkhQRkNRaEZleExXcnhKQ0o2U0Fad3Z1ZEdRaUYyM0FYZmFaUTVuMUk1WFRsWldONWFjZHJuRHgyaW5CVGJENXZBa0tHNDljcEFSa21CbGVWS2lKZXE4QUFwSGU?oc=5",
@@ -1869,6 +1876,13 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RdGNWczloS09VaEVnemZNUFZfc0FDQU1ESkx2V3JCclh3UmZJbmxUODdkd1lNZjI5NGk2a2VQTGRmd2NLNHJVVzF5QzY?oc=5",
             "published": "2026-02-16T17:00:00+09:00",
             "source": "LIMO | くらしとお金の経済メディア"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業－急落 今期純利益11％減見込む 前期は9％減〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRm4ycUNQOUtkYmQzUjBiMkY3NDlJVmxYcUFkVkExVHZYdk5WdUNIM1NCWEpjOExORkFFSWxQVE1fSkVBMW0yTkVVdmlNWXhXWUptUldVblVxRHNYUWZCMk5aNE5kbE1taHRXX2I2aHZMd3pMTlp4RjQ1MFNxMlhjdkR0a0dnenM?oc=5",
+            "published": "2026-02-16T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "mitsui_home",
@@ -2074,6 +2088,20 @@
             "source": "MSN"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "【積水ハウス】住まいの参観日 開催！｜とくしま総合住宅展示場｜住宅展示場を探す｜家サイト｜住宅展示場ガイド - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jTm9wX3R1Q0gzbnF4eDMyV3NpNmNWVkVBQS1NUXh5MnNwVXJuZW96R3hiaWRRU0M4TUZXdDc5NDlIdHUwbkFiWXltbG5Fekx6bk8ya29vbFpDUlVVOWdNdFpya1NHaG14SUdETGVGdw?oc=5",
+            "published": "2026-02-14T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "（人事・住建・不動産）積水ハウス - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLTQ5eWwxSVlINlJPYzJla0lUR1g5NXViMkxIdVJWS2otaUllREJ2N2tOczU1MllPR1BWaXBhb3c5Y3ZwWlBvbEhWVlV3YnNWRDVRU3F4R2Z1eGw2Ykx3R3RCRGZoSkNDUUJ1RUVLdmIzY3dNOThFaTFTMWNpby1aWlNvRUEtOThTTE00SFIxTG96amR3OUFlT2NGa0lGZFFpYXc?oc=5",
+            "published": "2026-02-14T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、米住宅大手買収…６３００億円 戸建て事業拡大図る - 読売新聞オンライン",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42TGZfQzRCXzBBUVRWU0JxX3VmeVFBQ3ZpWE5TVFJpNlRtQlFISnU3dUgybGs3YW1FTnk2TDBUbkFLRWFRdUN2cFRsbWlTZF9GV1prVVFIb0FSWXI2U1FuZ2lHd00?oc=5",
@@ -2086,20 +2114,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDlXV2dUVFQ2TjE2cW9FOGlNa19rRkc2blNYUzAtYldnZVo1NGpHWUIwY0JvR0RlajdFQ21IREluNFdXbjBqZjhkQzRXN00wRnJMdDdQeEVHTEdud2FYOHc2NGZ1MjRuQzhxbmh4MlVmOGFNMURqTENjUWhha1FDRHBOTVhQTzNmUlNzNGxOSG9GMk9QZDRPRC1ZcmZrNmlqSUM2clV5c0o?oc=5",
             "published": "2026-02-14T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "（人事・住建・不動産）積水ハウス - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLTQ5eWwxSVlINlJPYzJla0lUR1g5NXViMkxIdVJWS2otaUllREJ2N2tOczU1MllPR1BWaXBhb3c5Y3ZwWlBvbEhWVlV3YnNWRDVRU3F4R2Z1eGw2Ykx3R3RCRGZoSkNDUUJ1RUVLdmIzY3dNOThFaTFTMWNpby1aWlNvRUEtOThTTE00SFIxTG96amR3OUFlT2NGa0lGZFFpYXc?oc=5",
-            "published": "2026-02-14T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【積水ハウス】住まいの参観日 開催！｜とくしま総合住宅展示場｜住宅展示場を探す｜家サイト｜住宅展示場ガイド - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jTm9wX3R1Q0gzbnF4eDMyV3NpNmNWVkVBQS1NUXh5MnNwVXJuZW96R3hiaWRRU0M4TUZXdDc5NDlIdHUwbkFiWXltbG5Fekx6bk8ya29vbFpDUlVVOWdNdFpya1NHaG14SUdETGVGdw?oc=5",
-            "published": "2026-02-14T17:00:00+09:00",
-            "source": "家サイト"
         },
         {
             "company_id": "sekisui_heim",
@@ -2354,6 +2368,20 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、大工1000人正社員化の賭け 「家建たぬ」危機へ先手 - 日経ビジネス電子版",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M2R2T2VNN2V5V2RycVBmcXlnN0hzLTNpNmd6dlI2bXFwNHgyRFBBMXUyVElRV2xQOVU1ZGVQRkJmY3dNOVZHWDV5SHkxcDRIbkI4VkRQM25Cc2V3VTVxeldYYVJnb0U?oc=5",
+            "published": "2026-02-13T17:00:00+09:00",
+            "source": "日経ビジネス電子版"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "脱炭素社会に向け連携 市と積水ハウス 協定結ぶ | 藤沢 - タウンニュース",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sN3R0Nlg4VG4tM0JVLTRLd1ZUZ1p3YXRfeWlsTlE5bGNOWnQ1cFFVR21uRmJLZDBsV3JyTDBGZEJ3WE9ScVhMeDQ2TmM5eGdnVVMyUTVsSXVRTEFvRFlCZnhvdXg?oc=5",
+            "published": "2026-02-13T17:00:00+09:00",
+            "source": "タウンニュース"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、米住宅大手を6500億円で買収 全米5位に - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85bDQ0Y0tWSlNhcG5JUVBWSzVjODVxRmlKTjNzdHJnUm54X19sSTVhVnpweHRaSEdIeERKUHdDTGdXN2lZNllicDVQQXZZZEdrLVB6a28zZXBiUzNXdWVJbkZyYmtVb0d5X2JiVQ?oc=5",
@@ -2429,20 +2457,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGw3eFl0SjN1MXNmbllUejVzNHd5WEpWaXBzVXhrVndnZVFHTHNaczFQN194R29xQklPaEJNOEpmV1RvZS0xd1dWWUlUWVllcEVtMDZ1Z2tQWUd6R2RfbVVpMk9lMkVIb013cUphVGVhYmtOekhlX0xCVXJYRWRaS0ZDZ3F1NWs?oc=5",
             "published": "2026-02-13T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、大工1000人正社員化の賭け 「家建たぬ」危機へ先手 - 日経ビジネス電子版",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M2R2T2VNN2V5V2RycVBmcXlnN0hzLTNpNmd6dlI2bXFwNHgyRFBBMXUyVElRV2xQOVU1ZGVQRkJmY3dNOVZHWDV5SHkxcDRIbkI4VkRQM25Cc2V3VTVxeldYYVJnb0U?oc=5",
-            "published": "2026-02-13T17:00:00+09:00",
-            "source": "日経ビジネス電子版"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "脱炭素社会に向け連携 市と積水ハウス 協定結ぶ | 藤沢 - タウンニュース",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sN3R0Nlg4VG4tM0JVLTRLd1ZUZ1p3YXRfeWlsTlE5bGNOWnQ1cFFVR21uRmJLZDBsV3JyTDBGZEJ3WE9ScVhMeDQ2TmM5eGdnVVMyUTVsSXVRTEFvRFlCZnhvdXg?oc=5",
-            "published": "2026-02-13T17:00:00+09:00",
-            "source": "タウンニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -2541,13 +2555,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4dmZYS1g5NlVPMmpMdG1xSXktdzJhYm42UFV0VWVrcVlDTHY0NHVLQTlkeWdCSXBIbHEyNnVFY3ZnZTEtd0tTTXNZZHlDQQ?oc=5",
             "published": "2026-02-13T16:06:00+09:00",
             "source": "marr.jp"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、米戸建てのトリ・ポワント・ホームズ買収 6299億円（ロイター） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUURRMTNlc1g3SmxGclNiUnZhS2duNnBFSjdjM2hjdXZSd0c1U28xdUZfLUlldjU2ZktseGNSdzRJSVhXYmJHY2diRjVPdmtBVWJHZ3daM28tWXJKTGlrc29JOG9ERDRRR1l5Vkl6djVXSHhTeXJCdlY4Ty1hb2s?oc=5",
-            "published": "2026-02-13T15:57:20+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "daiwa_house",
@@ -3234,13 +3241,6 @@
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMnY0WVpESHBpaVJYRzVJN3VkbUhwMElUcTVrd2RDYkVVRHVFeUZnc3N3TDJnZzJZZWQzU1BJVWQxdVA2U3FrTktCTkU3TjhzenJuSnk2TGczNlp2SGJfMElvaUhmNmlTWEZsUkxVdmZDeFdxOWlfTkRPaVRpV1lTeGdIODNnY3pINGV0OWQxZ2pJMTBMRWt4ZENJNXUxU0Vjd2xGaHRBaTdueTc4?oc=5",
             "published": "2026-02-05T17:00:00+09:00",
             "source": "simplywall.st"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "経年美化「エイジング」の趣～時を重ねて美が深まる集合住宅～ - 沖縄タイムス社",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ySEZETzk2ZFFjR3hWc2lrRWJwbVAwdEduRXBiS2F2dDlhbFV5QlNBck1aSjZHbFYyRFFpdjVIa0lJMVZDdXNneVZFQkg1S29NWkZzYXEwd3NHQXJXT1E?oc=5",
-            "published": "2026-02-05T16:32:00+09:00",
-            "source": "沖縄タイムス社"
         },
         {
             "company_id": "hebel_haus",
