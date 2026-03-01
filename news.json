@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-01T14:49:15.958286+09:00",
+    "generated_at": "2026-03-01T15:41:02.815945+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -182,6 +182,13 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DWTRHLTFyVHNKTGNmaUprRlB2X0JnN09DcXRhX3VHRVVhTmFDSnRnd0V1b3hhZEVveWlBZVdfUWRiSXVBRFQ3VkZZT0RmR3Q3TkppR1hR?oc=5",
             "published": "2026-02-27T15:03:05+09:00",
             "source": "現代ビジネス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "第7回Minecraftカップ まちづくり部門全国大会・表彰式レポート 積水ハウス株式会社 - 新潟日報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qZmhBM1FWNl9wM3pzamNnUEpKNkhRZ3pGUnBvSVJ5NFhNRDM4dUYtbkhQaEpkXzdhWkd0N0RhUERPaVFmUHlpQlhhbTFONm85dTV1eDA1Ui1meFQ0Znc?oc=5",
+            "published": "2026-02-27T15:00:00+09:00",
+            "source": "新潟日報"
         },
         {
             "company_id": "sekisui_house",
@@ -842,6 +849,13 @@
             "source": "住宅産業新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ(フィスコ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUViNGpNSHhNZFN5U2Y4UXU4X2ZiV1B2Zkt0YlZ1ek56QldJOF9tdWFwSUx4QjZyYUp6THhRbUI2VFcxRS01MHk1bG1Yb0V5cFpsYVc1N1R3WDNoWEN6VWctcHpuUFNsU2dFbEUtVGhQSWZfbWhIVjJ4Zm1XZnZ3NFNwbi13cmc?oc=5",
+            "published": "2026-02-25T13:01:15+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、ESG情報開示を支援するシェルパ・アンド・カンパニー株式会社へ出資 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA3YWxqUFFKLUs2MDc5TE5DM3hVMG5IZlh0TTR2NVdzYnVnNTJKQXVDSTcwUG5kWThWemZSaGlySW5wNW8?oc=5",
@@ -868,13 +882,6 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQWZNaW9nRlR0bFg3LTZCR2N0MFl1V3ZFRC1rOTFwUlNlYVdtTkVVQlN4aWVFNENQdDk4enZuRC01aUNFTDZwcVpZbTRiMWJFUEVQWm1ublNuS0Q5a0tOOA?oc=5",
             "published": "2026-02-25T12:56:05+09:00",
             "source": "かぶたん"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ(フィスコ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUViNGpNSHhNZFN5U2Y4UXU4X2ZiV1B2Zkt0YlZ1ek56QldJOF9tdWFwSUx4QjZyYUp6THhRbUI2VFcxRS01MHk1bG1Yb0V5cFpsYVc1N1R3WDNoWEN6VWctcHpuUFNsU2dFbEUtVGhQSWZfbWhIVjJ4Zm1XZnZ3NFNwbi13cmc?oc=5",
-            "published": "2026-02-25T12:56:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2333,13 +2340,6 @@
             "source": "ニフティニュース"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "脱炭素社会に向け連携 藤沢市と積水ハウス湘南支店 協定結ぶ〈藤沢市〉 - ｄメニューニュース",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55cUxwOUtpN2pQM2tOOEtCTF93a0tKT1hOUHkyNS1FNXJwSmlvOUg0NUJqb2EyUnVreG1pUnFha1l5Wm9IZFhZZ2ROWFNNdjRCWGxobThZVkRTM1dZYk0yMU84elRJUEt3anZfcmtoZXVlSzBueDV5XzhNZ9IBgAFBVV95cUxPeDZkTFNET3FyX1d4SVlISlpqWVJibGpJVGZ0VlFDTG1XZ0VJYjVHV2JZZ01RM2w5T0tnNWJub2VrQ0t6ZkpBdzRqU1RQMnVWQWhyLUhCZE9PbFNpa3VYbm5UNkU1UFhzbG93RHpZRHQzdjByYzIzNjZKRmY4Y0JITw?oc=5",
-            "published": "2026-02-16T19:00:00+09:00",
-            "source": "ｄメニューニュース"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "イズミ、スーパー創業地を大和ハウスに売却 ホテルに建て替え - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdzNJbVdTcDRrNURzY0lzdVY0SjNzZzhpX1pTMlJ0VEp2dlZONTdPSGducm5GejRGVU1BcTZ5YlFHWUk1Z3RKcHUtd1JZRlBKZTlDaWphaXI2SHBLZmhHX1ozUE1JRHRGY0sydw?oc=5",
@@ -3665,14 +3665,14 @@
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
             "title": "民泊の営業規制、事業者は困惑 パナホームズは物件の賃貸転用を検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ05JV1B5YkVJUjBORDVEeHRFQmJDanVQZEhzZ3M1b1RkdFJQYnllVTR3M1BJc1ZWU0lBdFFRZlNwY3V2V1RYZEJMQkxGOWJXcjZ2M3N2aGhRd28tNXNFaE5YVmlPcTZ4MWx6VnM1aGloemNTU29CQ0VPclRDU3JnbXI2YnB0MUdMUlBnLVBKQ1RoVlNsVVdLakc0OXNZR1p1azhWZlNR?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFOYUZTRkF3Z1VZR0JtVGQ1NlVBV2x5WHNjM05GbGhjdllISzFiTUE0RHNud0dfZmJRa2pEOWh4TXJzamRGeWNKY2J6bnJCMXc2M1ZXU0dKYWEtdEhFNmF1aWpnMzRGcHctb0ZDcnU4dDFkLWM5VXZ6TW9ubW9qeHB4azk4aXMxMktLcUhORXJlWDNyVmxKV1RlSTVxbkU2TVI3eW93?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -5715,10 +5715,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "一条工務店×映画すみっコぐらし 限定グッズプレゼントキャンペーン開催！ - 映画 すみっコぐらし",
+            "title": "一条工務店×映画すみっコぐらし 限定グッズプレゼントキャンペーン開催！ - 空の王国とふたりのコ",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTGpWXzlaY0xFVUoyaS1GSlVRcDJCUVhZV1I4ZGpRZFVjTTFjbzZqZ3ZHNF9ONUhlSlMwWXdfTnFJQkNxWnNEM3VlRjFiR0xTZHln?oc=5",
             "published": "2025-12-02T17:00:00+09:00",
-            "source": "映画 すみっコぐらし"
+            "source": "空の王国とふたりのコ"
         },
         {
             "company_id": "panasonic_homes",
