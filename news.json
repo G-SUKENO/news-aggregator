@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-03-03T18:38:11.492572+09:00",
+    "generated_at": "2026-03-03T19:35:03.462642+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "「積水ハウス事件」主犯として捕まった男は生まれながらの“ワル”だった - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40T0pQQ1YzSjA0dHpwcXBDdEVpNXY5dmNybWR3UkwtTU9kWV9XX1luZ1RuMktTNThrTVlBbkE5WDRGZUVGOFVzLXVmZlJqWldzMEpLZ1FsNDU?oc=5",
+            "published": "2026-03-03T18:55:33+09:00",
+            "source": "現代ビジネス"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウスグループがJPYC社に出資し日本円連動ステーブルコインの発展を支援する - ニュースメディアVOIX",
@@ -1612,13 +1619,6 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "「積水ハウス地面師事件」の主犯格、刑務所で出会った「まさかの2人」とは？ - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NVGYtLVJUVk1kNnhUNlZCb1FmRjFtUktaUTBSeWRRaFhSS2luOWh1c2JybkE3TmZZc2hqVmd2VmNSX1BzWDhPMWEwaS1penc5OWxENXJB?oc=5",
-            "published": "2026-02-25T06:00:00+09:00",
-            "source": "ダイヤモンド・オンライン"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業による買収の中、TRI Pointe Homesが決算発表を控える 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMjRZelJISno0a0RaUDI2NGstanlqOHJZbEdOTzJtM2dSbmVpTm9adjhhdlNOYkx0dmtGWkdBcEM2ZWdKZGlhUy1TU3R0WFhpQkc1NS1aNzJSRERXbTU5ZVdxT2ZMV0dNN2o0?oc=5",
@@ -2614,17 +2614,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業社長に清水専務＝加藤社長は会長に―3月1日付(時事通信) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy1yQUJSMzZLTWxDaXBOa3NLZEg1Z09QRlJRZWNNZ0tXczQ0Wm9nY2V6Vm8wWEo5akRjWmRndFlLSnU3dWxRd21wVDg1eE1GdTRDM0tmTl8xYXFTR01fWUJYakFqYWlWdUppLXBKLTZZX3VaMldlWEM3aHhkbkJubVphSXhabTQ?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業社長に清水専務＝加藤社長は会長に―3月1日付(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy1yQUJSMzZLTWxDaXBOa3NLZEg1Z09QRlJRZWNNZ0tXczQ0Wm9nY2V6Vm8wWEo5akRjWmRndFlLSnU3dWxRd21wVDg1eE1GdTRDM0tmTl8xYXFTR01fWUJYakFqYWlWdUppLXBKLTZZX3VaMldlWEM3aHhkbkJubVphSXhabTQ?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_heim",
@@ -2646,6 +2646,13 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmU1bDlWeElBLXozNU1Fb01XMEhUM1U4dnRTd2Q2UTB1M3gzckFVZm9CVUw1dlJ3eHZ2ckJjbDQwVVZKdVVfbnExUXZrQjhYZEExUVRNOGxkWjhieXdINXdKQVZzajRxemRKdm9JNXo0b1Y0SXN4UDFOTVZhTUhqRGQzRTFwZDg?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業[1911]：臨時報告書 重要事項 (有価証券報告書) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZ09UMVctaTRSVGZUZFdNYU1va2pSb1VnalZaWDhDNUNQY1VlZ2xvVHFnWE1lN1ZyeGhYVHItcWJxMXhhRVJrektEbGQxM1pXRTJMcXZnSFFpWkxGdG5wRjlhMWc3ZVNoM0oxNw?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3010,13 +3017,6 @@
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tYko2LTI0RzhTd1VVMnJjcmRpUTBQdmFtbUJ2eVFCMjcwNDFtSFNtWmYyRk1Fa2tqTjNJeWhvZ2hFOVk1c2xDbTZn?oc=5",
             "published": "2026-02-14T01:39:27+09:00",
             "source": "M＆A Online"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業が米住宅建設会社を6900億円で買収 販売戸数全米5 位に - MSN",
-            "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPWGJ4QnBUUW5IYnFLd24yT19zTGdBWE94TnNXSFZweXNVdnQ4dWdwVmVmb2duYjJ6VW1DeWlJMTNCSWpnejk5MXoweXBWZHd0OF9TOHFUTmNBX3AxV1JWYWwwSm9RWTc4Y2xTSXlheGNCSGZNWHZmNG52QkpiUzUtdjJ6UFBJX2FTczYyRllfUUtXX0xfT3NkdDRYaUxBY0QycG9hZ1liajRBYmNQNlpjTHp2WWE3dXNzRUUzcXk2TVFsbEJrZFM0eWVocXpQUGZpajlSS0NFaVFyM0pSUEl6c2R1Vy0zLU0zc2JQVGl4R2pVSlZwUjd5dzhiOGU4UzRNRjFHM182WHMwOVEtZkJOekw5Y2sxZWtHRV9WMHpOX25DQmFjeDh1NGpmdjFyOFRGOUk4a1ZEOVJfV0J2cUVjUHQ5MXQ4OWZLUmtVZFUtV19ySkd4NUJfM2lJeDI5MHp6cFZyQ2FRZ3c2dHNSUXdXN2NlLXBoY1pGb0FySkNmSXNkRkJfVzBYRi1zVnd2akZsbzBCUkhrejRkeUtIV3E3R1E0Ul8tS3MtVEdNTVR3cUtONUwtMDNxZ0JRaHlZOGQ3RDRjbDJtNThDbWNqU3JTd0lKc2ltN1VWUUNXSVk1LUlDQ1U?oc=5",
-            "published": "2026-02-14T00:36:54+09:00",
-            "source": "MSN"
         },
         {
             "company_id": "sekisui_heim",
@@ -3426,7 +3426,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "【セキスイハイム新規分譲住宅街びらき】３月７日（土）～８日（日） 限定開催 - 家サイト",
+            "title": "【セキスイハイム分譲フェア】限定開催中｜ハウスセレクション彦根｜住宅展示場を探す｜家サイト｜住宅展示場ガイド - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tRnowUDAyQ2w2WmM2TlRHQ3d1R1NscVd4WkduT2FpMmhlTm9LV21EV2Ruek9seWl1cEUybzdHZ1c5X05TX1liWVk0VktDdW5LY2pLeU1qYTdvOWg3UUlxN3c3Y1ZFR3l6NWJEd1UtRQ?oc=5",
             "published": "2026-02-06T17:44:57+09:00",
             "source": "家サイト"
