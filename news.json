@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-03-03T17:36:25.027327+09:00",
+    "generated_at": "2026-03-03T18:38:11.492572+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスグループがJPYC社に出資し日本円連動ステーブルコインの発展を支援する - ニュースメディアVOIX",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZkhoNEtRckJLbWNxU0V6ajNRaUx4Qi1MSDk0THAwS0hsVWxZa0pLLWNZN0hydGVIa1Q3bUVNY0pDN0R0X2o5YmpQc1htQUs4aWQ3T1hB?oc=5",
+            "published": "2026-03-03T17:43:15+09:00",
+            "source": "ニュースメディアVOIX"
+        },
         {
             "company_id": "sekisui_house",
             "title": "積水ハウスとコラボレーションモデル完成 注文住宅のノーブルホーム - jutaku-s.com",
@@ -1522,10 +1529,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - 株探",
+            "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQWZNaW9nRlR0bFg3LTZCR2N0MFl1V3ZFRC1rOTFwUlNlYVdtTkVVQlN4aWVFNENQdDk4enZuRC01aUNFTDZwcVpZbTRiMWJFUEVQWm1ublNuS0Q5a0tOOA?oc=5",
             "published": "2026-02-25T12:56:05+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2362,6 +2369,13 @@
         },
         {
             "company_id": "sekisui_heim",
+            "title": "〈新社長〉積水化学工業 清水郁輔氏｜経済｜全国のニュース - 北國新聞",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ib1Y2UFp5eS1TZUJycTdLNllsQUpKNnNNM2RVa2F1Wlo2eDFuWWdNRlg3b0FPbDJ0RnB0WGxDaW1oUUtnVUhnUW56Q0d2d1ZKaFl1VGtZNA?oc=5",
+            "published": "2026-02-18T17:00:00+09:00",
+            "source": "北國新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
             "title": "＜人事＞積水化学工業 - 産経ニュース",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QWDhEa0Q2cFJiN1Q2OG9INVZZUVFCeFlpSTVrTG03T1NfNzRCZWpBTW9qTVh6Zm1JSzRGd3ZhRHN2NnRvTXRsUnVGMF9iY3lIdUlLd3R2amFEYTFkMEdnOVFVZU0wY1VBcGlzV3RFNzd2M1VLWEE?oc=5",
             "published": "2026-02-18T17:00:00+09:00",
@@ -2383,17 +2397,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業－SBIが目標株価引き上げ 米国戸建ては回復遅れも大型買収により中期的に成長へ〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFRxaWdDcjJCS2VROGV2UkZrVFZmYmM5U3FJQVVINGdBd1hXeWxydmZtZDFyR01iZko4bUlzQlVFaVFfTENfZkhxYnM4VXJVN1pCaG94M3hFWmlOMmh2ZjR3aWhpUm1vdzgzU3lWVUwyclB1YWJVYmtLSUFld28wWFNKV3dHWGs?oc=5",
-            "published": "2026-02-18T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業株価1年2カ月ぶり高値、SBIが目標上げ 米社買収で成長へ - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6NHJNZzZGTEFIai1qOHh0Nkd2cDN0RXRYeEo3QURtelRnWG1yT2o1M2U5SGpoYWJRWFg5XzFlM25mRWNNX2t0ZUxjM3BOZTI0UUNPeDI2Z2xOT3R6M3N6Yi1FVE5WWUNFX0RYbQ?oc=5",
             "published": "2026-02-18T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業－SBIが目標株価引き上げ 米国戸建ては回復遅れも大型買収により中期的に成長へ〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFRxaWdDcjJCS2VROGV2UkZrVFZmYmM5U3FJQVVINGdBd1hXeWxydmZtZDFyR01iZko4bUlzQlVFaVFfTENfZkhxYnM4VXJVN1pCaG94M3hFWmlOMmh2ZjR3aWhpUm1vdzgzU3lWVUwyclB1YWJVYmtLSUFld28wWFNKV3dHWGs?oc=5",
+            "published": "2026-02-18T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "panasonic_homes",
@@ -2485,13 +2499,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jaUlZNVZnbGYxMkFPQy1lVnBWUHd4YTdLMW5wM2Jtc2k1NjZPaGlKSzVmbGNRTHloVHJhRm10azhFWUhRNk4wSkRDLW1JZHRR?oc=5",
             "published": "2026-02-18T05:03:38+09:00",
             "source": "建設通信新聞Digital"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "〈新社長〉積水化学工業 清水郁輔氏｜経済｜全国のニュース - 北國新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ib1Y2UFp5eS1TZUJycTdLNllsQUpKNnNNM2RVa2F1Wlo2eDFuWWdNRlg3b0FPbDJ0RnB0WGxDaW1oUUtnVUhnUW56Q0d2d1ZKaFl1VGtZNA?oc=5",
-            "published": "2026-02-18T05:00:00+09:00",
-            "source": "北國新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2607,17 +2614,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水専務＝加藤社長は会長に―3月1日付(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy1yQUJSMzZLTWxDaXBOa3NLZEg1Z09QRlJRZWNNZ0tXczQ0Wm9nY2V6Vm8wWEo5akRjWmRndFlLSnU3dWxRd21wVDg1eE1GdTRDM0tmTl8xYXFTR01fWUJYakFqYWlWdUppLXBKLTZZX3VaMldlWEM3aHhkbkJubVphSXhabTQ?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2821,13 +2828,6 @@
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tbEpmMmxuYlpWS1VYWTl0cVozVUstQVdidzVvd0VKNzNMdC13aGR5dEdCdF8xb0swLU5faFk1TlVFMjlNdjNxNUd5elFCNlhkUldib2FNdG9sc1YxSm5kRV9nU2VMSXE2eHdQZkxVQdIBdEFVX3lxTFBneE9Ya1pVdVdEWEwzbkZnZVlWV2FpbTFPQ2N2Y1BmdEx2SkRLTmp1b3U3X0gtc1J1N0RuUkMxRnZ2SHJPcXBuQWZPTnZnaHVfODk2and5UVhlZkFjazJLbTh3RjBTWEJwZVJXV1pGYWZBeXlH?oc=5",
             "published": "2026-02-16T18:41:00+09:00",
             "source": "ｄメニューニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "ドン・キホーテ広島八丁堀店の跡にホテル建設へ イズミが大和ハウスに売却 2027年７月に引き渡し（テレビ新広島） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1odjlGemNaSUlYZk52TklsczRuWlFvdm9EQ0hyTGpKdHRNX2RydVRTWlhSZC1XT2xXeHpQbVdDT3NVa2VXbHNyakxGNEwwcDVlX3dNaHI4SGpmNXk4di15Yl9iNXJqenI5UlVnQ2R3NzE5d1ZkcEhaZGpSUjZJbzg?oc=5",
-            "published": "2026-02-16T18:35:02+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -3306,6 +3306,13 @@
             "source": "jutaku-s.com"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業[4204]：自己株式の取得状況及び取得終了に関するお知らせ 2026年2月9日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TQUk4SV9NVlFUckdpQzl4QWdTR2tEdGRYX2ZzTmtzYm92UXlzdHk3bzVrRmV3SVNhbUlqT3JhWFlqbHZ3UDdVby1XVTFmd2VWQ1ZxNDZyOGhZRDBuVEN5UHpYSDdiXzJ5ZlE?oc=5",
+            "published": "2026-02-09T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズグループが進めるアナログ脱却とCRM構築の裏側--「データのサイロ化」をどう打破したか - ZDNET Japan",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VSXN4OHJBV1lJSWFHNmR3Y3RVR2dHd3VjN3RoY1BxcHU2Z005bnBTU3JQNWhJOG90aGhUTmpZbm1mRWRKX21kbWJDZ3JiU3lVTTNj?oc=5",
@@ -3419,7 +3426,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "【セキスイハイム分譲フェア】限定開催中｜ハウスセレクション彦根｜住宅展示場を探す｜家サイト｜住宅展示場ガイド - 家サイト",
+            "title": "【セキスイハイム新規分譲住宅街びらき】３月７日（土）～８日（日） 限定開催 - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tRnowUDAyQ2w2WmM2TlRHQ3d1R1NscVd4WkduT2FpMmhlTm9LV21EV2Ruek9seWl1cEUybzdHZ1c5X05TX1liWVk0VktDdW5LY2pLeU1qYTdvOWg3UUlxN3c3Y1ZFR3l6NWJEd1UtRQ?oc=5",
             "published": "2026-02-06T17:44:57+09:00",
             "source": "家サイト"
@@ -4011,13 +4018,6 @@
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOR1hBUGpWY2R2Q0xsc3BjQjc5UGx5Tk9fZmtab2ltSnhZZkEtSW5zcXN3Znl2T05LLWpqMndpOTBsWm5jeW9nSldIdjRJNUVZNTJTbW9uS2xLOVJsVm5NeXlRaTVOaHNNRk52UWJQUQ?oc=5",
             "published": "2026-01-29T19:54:27+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "決算:積水化学工業の4〜12月期、純利益30％減 プラント撤収響く - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsR3dOVVRtOExPLUQ1ZmJpVlhCUzcyTElKRFlyZnRYblI1VmtlZDcxSWNTWmFvc21FT2VWeHBtbEdXNWVMSmppUDJuSG9JajhNMkE1emdjUk9OSnV5d2h4dnhPY0l6NENYQ01qWg?oc=5",
-            "published": "2026-01-29T19:20:37+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "mitsui_home",
