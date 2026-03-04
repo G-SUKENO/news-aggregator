@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-04T22:55:41.496920+09:00",
+    "generated_at": "2026-03-04T23:36:09.408054+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -28,6 +28,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zZTJDUWNkY0I3bmtldHpwNVp2bjVwbm41c244dWpodC02YWNTV1RZRnFlS2lseFhTR0drS1VaQWRmSU0yS0g5cDdUN2ZFTWpHQTcwUk1saVVkdEh1X0RGSVloMUVaVVVsS0E?oc=5",
             "published": "2026-03-04T16:00:02+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：AI値動き解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
+            "published": "2026-03-04T15:59:44+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -196,13 +203,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZkhoNEtRckJLbWNxU0V6ajNRaUx4Qi1MSDk0THAwS0hsVWxZa0pLLWNZN0hydGVIa1Q3bUVNY0pDN0R0X2o5YmpQc1htQUs4aWQ3T1hB?oc=5",
             "published": "2026-03-03T17:43:15+09:00",
             "source": "ニュースメディアVOIX"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：AI値動き解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
-            "published": "2026-03-03T16:00:14+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -1934,16 +1934,16 @@
             "source": "住宅産業新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "新社長に清水代表取締役 積水化学工業 「ESG経営を磨き上げる」 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UbXBSaEgzQzU5RFY5cFBEa3ZpaHpGdW14eWhNRzdjQllmb0JYLUJkR2VDanRYV0tCdnRtMVFoanVaTVJCZDBreFZ6Y2FHSUg4RTYwa1g4Yw?oc=5",
+            "company_id": "sumitomo_forestry",
+            "title": "国内住宅好調も増収減益で着地 住友林業25年12月期 決算 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rTDhXdWhyRTVkWFYxSDlGZm5CbDRQckcxYmFkUXJkY3FXSGh1S0R6YUVTYmxwMGZ2T2REQUxaUGlIRHFxbXB1dHNIZHd0T2d6bXNrckZtNA?oc=5",
             "published": "2026-02-24T00:00:00+09:00",
             "source": "jutaku-s.com"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "国内住宅好調も増収減益で着地 住友林業25年12月期 決算 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rTDhXdWhyRTVkWFYxSDlGZm5CbDRQckcxYmFkUXJkY3FXSGh1S0R6YUVTYmxwMGZ2T2REQUxaUGlIRHFxbXB1dHNIZHd0T2d6bXNrckZtNA?oc=5",
+            "company_id": "sekisui_heim",
+            "title": "新社長に清水代表取締役 積水化学工業 「ESG経営を磨き上げる」 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UbXBSaEgzQzU5RFY5cFBEa3ZpaHpGdW14eWhNRzdjQllmb0JYLUJkR2VDanRYV0tCdnRtMVFoanVaTVJCZDBreFZ6Y2FHSUg4RTYwa1g4Yw?oc=5",
             "published": "2026-02-24T00:00:00+09:00",
             "source": "jutaku-s.com"
         },
@@ -2305,6 +2305,34 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "〈買収額は約6500億円〉住友林業が｢戸建て住宅で全米5位｣を狙いアメリカ住宅大手を買収へ､懸念は視界不良の事業環境 - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40QkdCOHhzUkxYd0pSVkxhZGxiNHMxalB1cGZnQkVXMGQyTmVjNTNLbDNzbTVkNTR3WUFsbm92bXQ4NzhmdVA3LU1oeXJTQXR5QUE?oc=5",
+            "published": "2026-02-19T17:00:00+09:00",
+            "source": "東洋経済オンライン"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【住友林業ホームテック・人事部登壇！】説明会を減らしたら、採用が進んだ。 「え、こんなに見てくれてるの？」 最先端の「説明会自動化」とは？ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcWxGbDR6Rk92RHhIdk9mTS1BQXluMFpQTXV5WVVJMGwtaU5vMDJyenprNTlFUUtIb3RHUnpYNXdsMmxmY1U2aXFuVEZ0RDZ4Nzluc1VxUU1jNy1VRnhOb0Q0aTM0bTU5dkE?oc=5",
+            "published": "2026-02-19T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "S＆P 「 The Sustainability Yearbook - 2026 Rankings 」 最高評価の「Top 1%」に8年連続選定 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVFBWQS11NnVhSjdRS2JPR2RsaHVqYzN0aDNVdFQxcDkxRzBUajZlWjV3YWRmVmxNSHpLZGtfeFlINEdMS21xN2tmekMzZVVnV0pUb3pLbzVmOHM?oc=5",
+            "published": "2026-02-19T17:00:00+09:00",
+            "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "S＆P 「 The Sustainability Yearbook - 2026 Rankings 」最高評価の「Top 1%」に8年連続選定 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0LVVZenoxa041VHQ3TS1aelU3dHYzS1NrLXFCOUhjMVZWYTB3R1FMSnZsVEdqUlZVZDZsZnFFX1UtbHpoem9Wc2NrbVBqelJrVkU1VG9EYmliUFpmRzE5c21VQ1RIVjk5dmc?oc=5",
+            "published": "2026-02-19T17:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "若手社員向けに一級建築士取得集中研修を実施 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUkk2Yk0wZW1xV2VMWUtabEhmbUdLTEh3b1lHcTRrajgyUXRFWUxfcTMwa3BHMVFsbmdoNlpaczllbHFTa0kzbXpmWmdfanBMM1dUSGJzMDNwaGEwZExDbE1KV3JEV0hmTHc?oc=5",
@@ -2336,34 +2364,6 @@
             "company_id": "sekisui_heim",
             "title": "第７回「ESGファイナンス・アワード・ジャパン」資金調達者部門で金賞を受賞 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iYzVpZWdoNTNFLUlOa0F2UzFHRFlBWm9aajlkV1VLaGRKRmo3NWhqSTdLSy1JVEJnWk11b1FodlV1OEt2ZkE1QXF1ME9LRkxHbklGYzlIMWNEMzBIM1o2SHVrUlFMdWdsdUE?oc=5",
-            "published": "2026-02-19T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "〈買収額は約6500億円〉住友林業が｢戸建て住宅で全米5位｣を狙いアメリカ住宅大手を買収へ､懸念は視界不良の事業環境 - 東洋経済オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40QkdCOHhzUkxYd0pSVkxhZGxiNHMxalB1cGZnQkVXMGQyTmVjNTNLbDNzbTVkNTR3WUFsbm92bXQ4NzhmdVA3LU1oeXJTQXR5QUE?oc=5",
-            "published": "2026-02-19T17:00:00+09:00",
-            "source": "東洋経済オンライン"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【住友林業ホームテック・人事部登壇！】説明会を減らしたら、採用が進んだ。 「え、こんなに見てくれてるの？」 最先端の「説明会自動化」とは？ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcWxGbDR6Rk92RHhIdk9mTS1BQXluMFpQTXV5WVVJMGwtaU5vMDJyenprNTlFUUtIb3RHUnpYNXdsMmxmY1U2aXFuVEZ0RDZ4Nzluc1VxUU1jNy1VRnhOb0Q0aTM0bTU5dkE?oc=5",
-            "published": "2026-02-19T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "S＆P 「 The Sustainability Yearbook - 2026 Rankings 」 最高評価の「Top 1%」に8年連続選定 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVFBWQS11NnVhSjdRS2JPR2RsaHVqYzN0aDNVdFQxcDkxRzBUajZlWjV3YWRmVmxNSHpLZGtfeFlINEdMS21xN2tmekMzZVVnV0pUb3pLbzVmOHM?oc=5",
-            "published": "2026-02-19T17:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "S＆P 「 The Sustainability Yearbook - 2026 Rankings 」最高評価の「Top 1%」に8年連続選定 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0LVVZenoxa041VHQ3TS1aelU3dHYzS1NrLXFCOUhjMVZWYTB3R1FMSnZsVEdqUlZVZDZsZnFFX1UtbHpoem9Wc2NrbVBqelJrVkU1VG9EYmliUFpmRzE5c21VQ1RIVjk5dmc?oc=5",
             "published": "2026-02-19T17:00:00+09:00",
             "source": "PR TIMES"
         },
@@ -2550,34 +2550,6 @@
             "source": "流通スーパーニュース"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業－新高値 新社長に清水氏 「ペロブスカイトに社運」＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWJHWGxMU3FFOTdCYnpxX3R3aDdHRk84eG1TWXR6QWNRSmVXalQ5akhLaXpkNnBicGl2ZE1YOU9iSGtJUXRac3lMUk9URFN3aDk4c29DcXdmVmxRUGdQMU9NSUx1UnZrUUlYSGpZbXB6V3ZMcDB0WkQ5d0pUWTd2UTFkdlI4clk?oc=5",
-            "published": "2026-02-18T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "（人事・素材・エネルギー）積水化学工業 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVd5OUNTOTJ3M1dZemt4WmNMaG5UMHFGVHktOW1kMnY5aHRBdURPTno3SEFZM0g2cGhVa0UxUnlfNFdIMVp6bFRWTUlrc1RYSGxuOUZQQV9SNFJkbWJ2NzNzVHlTalF2WnBncWExVEtFMXBXUnJ3d3BfckhYSTNuMmpwX1JtTURwUGRLQ1d2V1dJUkFmZHhScXFyU0ttY2VSV2N5VzFCYTI?oc=5",
-            "published": "2026-02-18T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "〈新社長〉積水化学工業 清水郁輔氏｜経済｜全国のニュース - 北國新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ib1Y2UFp5eS1TZUJycTdLNllsQUpKNnNNM2RVa2F1Wlo2eDFuWWdNRlg3b0FPbDJ0RnB0WGxDaW1oUUtnVUhnUW56Q0d2d1ZKaFl1VGtZNA?oc=5",
-            "published": "2026-02-18T17:00:00+09:00",
-            "source": "北國新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "＜人事＞積水化学工業 - 産経ニュース",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QWDhEa0Q2cFJiN1Q2OG9INVZZUVFCeFlpSTVrTG03T1NfNzRCZWpBTW9qTVh6Zm1JSzRGd3ZhRHN2NnRvTXRsUnVGMF9iY3lIdUlLd3R2amFEYTFkMEdnOVFVZU0wY1VBcGlzV3RFNzd2M1VLWEE?oc=5",
-            "published": "2026-02-18T17:00:00+09:00",
-            "source": "産経ニュース"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業が米住宅大手を約6500億円で買収、米国2.3万戸へ確かな道筋 - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NUzlUS1RxRkVoWkhVOWdpX0ZIa0I1SERnc2Rkd1dSZ0lwNDF3eHR4azBFeVBZUDZWZUdCOXoyNVZ1Skc4bDdQdnc1NENwQTU5NXhfeHB1YkxnMWN1cDZXQjZrYm0yeG8?oc=5",
@@ -2604,6 +2576,34 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZllsc2tia2xBaXVzb0JrVnVMdndIZkZMRWczamZkbUtudDYzd2hzNndfenRQbWNLTU9LTjRoc0xrSmxSTDZKX2ZKdW1fM2xlSmQzOGtsUEdDaDhTZVhvNzZzai1jMzVVckFIVnZ1enRoSUkzSmtlekxuOFpkS1dzc3NWNXB3OHVMQmdWblFWT1RaMlJuOUVENE5EY0hEZFQ4S1pHV3JoSVE?oc=5",
             "published": "2026-02-18T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業－新高値 新社長に清水氏 「ペロブスカイトに社運」＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWJHWGxMU3FFOTdCYnpxX3R3aDdHRk84eG1TWXR6QWNRSmVXalQ5akhLaXpkNnBicGl2ZE1YOU9iSGtJUXRac3lMUk9URFN3aDk4c29DcXdmVmxRUGdQMU9NSUx1UnZrUUlYSGpZbXB6V3ZMcDB0WkQ5d0pUWTd2UTFkdlI4clk?oc=5",
+            "published": "2026-02-18T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "（人事・素材・エネルギー）積水化学工業 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVd5OUNTOTJ3M1dZemt4WmNMaG5UMHFGVHktOW1kMnY5aHRBdURPTno3SEFZM0g2cGhVa0UxUnlfNFdIMVp6bFRWTUlrc1RYSGxuOUZQQV9SNFJkbWJ2NzNzVHlTalF2WnBncWExVEtFMXBXUnJ3d3BfckhYSTNuMmpwX1JtTURwUGRLQ1d2V1dJUkFmZHhScXFyU0ttY2VSV2N5VzFCYTI?oc=5",
+            "published": "2026-02-18T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "〈新社長〉積水化学工業 清水郁輔氏｜経済｜全国のニュース - 北國新聞",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ib1Y2UFp5eS1TZUJycTdLNllsQUpKNnNNM2RVa2F1Wlo2eDFuWWdNRlg3b0FPbDJ0RnB0WGxDaW1oUUtnVUhnUW56Q0d2d1ZKaFl1VGtZNA?oc=5",
+            "published": "2026-02-18T17:00:00+09:00",
+            "source": "北國新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "＜人事＞積水化学工業 - 産経ニュース",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QWDhEa0Q2cFJiN1Q2OG9INVZZUVFCeFlpSTVrTG03T1NfNzRCZWpBTW9qTVh6Zm1JSzRGd3ZhRHN2NnRvTXRsUnVGMF9iY3lIdUlLd3R2amFEYTFkMEdnOVFVZU0wY1VBcGlzV3RFNzd2M1VLWEE?oc=5",
+            "published": "2026-02-18T17:00:00+09:00",
+            "source": "産経ニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -2704,18 +2704,18 @@
             "source": "建設通信新聞Digital"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "〈新社長〉積水化学工業 清水郁輔氏｜経済｜全国のニュース｜富山新聞 - 北國新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82Sk1lOFVOU1RLeENsM3BQVVlBR09NSzZ2V0ZiLVlxaUZuVlhvM3RlUVNXcW53Z2NlVU1TX09KUDlLS0xYUlhibjRmRmkwY1c3UDl2RzgxNA?oc=5",
-            "published": "2026-02-18T05:00:00+09:00",
-            "source": "北國新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業が米住宅大手を約6500億円で買収、米国2.3万戸へ確かな道筋（2ページ目） - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NcXBIOTlXMmVCVEhTVFYtMzdwc2l4ZWhWa0dreTVkVkN5UUNYei1qYnRlTmY3MGl0UWJDZkR1ejZybzBtLXd4eU5yaWlFNFhwUmpseWlmcWY3anYwWnBBci1Hb09rd0g0MzE3bA?oc=5",
             "published": "2026-02-18T05:00:00+09:00",
             "source": "日経クロステック"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "〈新社長〉積水化学工業 清水郁輔氏｜経済｜全国のニュース｜富山新聞 - 北國新聞",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82Sk1lOFVOU1RLeENsM3BQVVlBR09NSzZ2V0ZiLVlxaUZuVlhvM3RlUVNXcW53Z2NlVU1TX09KUDlLS0xYUlhibjRmRmkwY1c3UDl2RzgxNA?oc=5",
+            "published": "2026-02-18T05:00:00+09:00",
+            "source": "北國新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2802,6 +2802,34 @@
             "source": "PR TIMES"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業[1911]：臨時報告書 重要事項 (有価証券報告書) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZ09UMVctaTRSVGZUZFdNYU1va2pSb1VnalZaWDhDNUNQY1VlZ2xvVHFnWE1lN1ZyeGhYVHItcWJxMXhhRVJrektEbGQxM1pXRTJMcXZnSFFpWkxGdG5wRjlhMWc3ZVNoM0oxNw?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業－野村が目標株価を引き上げ 米大手ビルダー買収効果で増益を予想〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmU1bDlWeElBLXozNU1Fb01XMEhUM1U4dnRTd2Q2UTB1M3gzckFVZm9CVUw1dlJ3eHZ2ckJjbDQwVVZKdVVfbnExUXZrQjhYZEExUVRNOGxkWjhieXdINXdKQVZzajRxemRKdm9JNXo0b1Y0SXN4UDFOTVZhTUhqRGQzRTFwZDg?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "現地住宅買収に6500億円…住友林業、米で戸建攻勢かける - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxNDM3VTdYQUZqU1pldEhhU3k1eTlVLUxTdUx1TVdBRW44bEdCUGlScExPQnhRYXVwS1V0QlNEUkZvdw?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業[1911]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVy1WRk44em96ZEIzMXBhYkpYak12X29jWmNNTkNPTWNOV3hpd25uV1cyS283azB2R2xybXIxY3J0QjVXSjFMb0J6U0VIaVVpQWpRaVIxZW92RDZOc1VvTEY2U1dfUDRyb3NncA?oc=5",
+            "published": "2026-02-17T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
@@ -2840,34 +2868,6 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFQzN3kwZ3lOd3Q2R1JjaF9JamZfSlFOLWJZNHdWdjY2UnR3OHc4dkNOMWpjQVZaaXZQWGZkUzFFai1OdHY1X2R4M0VjcTJ4c29teVNLakc5SzVoUmlkN1VUOFgweW1yYW9KUTYzRTBlaUV1RDlJNU82NUlUdUNYNkxybEo4ZXBZWk9FS3k0Rzg4eGFERGxybkV1Tng5djg1bm5FUkk2TWE?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業－野村が目標株価を引き上げ 米大手ビルダー買収効果で増益を予想〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmU1bDlWeElBLXozNU1Fb01XMEhUM1U4dnRTd2Q2UTB1M3gzckFVZm9CVUw1dlJ3eHZ2ckJjbDQwVVZKdVVfbnExUXZrQjhYZEExUVRNOGxkWjhieXdINXdKQVZzajRxemRKdm9JNXo0b1Y0SXN4UDFOTVZhTUhqRGQzRTFwZDg?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業[1911]：臨時報告書 重要事項 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZ09UMVctaTRSVGZUZFdNYU1va2pSb1VnalZaWDhDNUNQY1VlZ2xvVHFnWE1lN1ZyeGhYVHItcWJxMXhhRVJrektEbGQxM1pXRTJMcXZnSFFpWkxGdG5wRjlhMWc3ZVNoM0oxNw?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "現地住宅買収に6500億円…住友林業、米で戸建攻勢かける - ニュースイッチ by 日刊工業新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxNDM3VTdYQUZqU1pldEhhU3k1eTlVLUxTdUx1TVdBRW44bEdCUGlScExPQnhRYXVwS1V0QlNEUkZvdw?oc=5",
-            "published": "2026-02-17T17:00:00+09:00",
-            "source": "ニュースイッチ by 日刊工業新聞社"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業[1911]：訂正発行登録書 (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVy1WRk44em96ZEIzMXBhYkpYak12X29jWmNNTkNPTWNOV3hpd25uV1cyS283azB2R2xybXIxY3J0QjVXSjFMb0J6U0VIaVVpQWpRaVIxZW92RDZOc1VvTEY2U1dfUDRyb3NncA?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -3082,18 +3082,18 @@
             "source": "MSN"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "ＣＲＴハウジング佐野総合住宅展示場 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQk9oTUZRUzYxbU5PRmlCcUxtTGlWM0VGZTkxTS1sZ1BmWmNybmoxUXJyMDhnY0VpRnN2RkhhT0ZORW8tSVpvdHdPQmNxWFQ3UnRnTGFXN1k1MGRzMm1mNVkwSVBHcVNCVFUzVQ?oc=5",
-            "published": "2026-02-14T17:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、米住宅大手買収…６３００億円 戸建て事業拡大図る - 読売新聞オンライン",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42TGZfQzRCXzBBUVRWU0JxX3VmeVFBQ3ZpWE5TVFJpNlRtQlFISnU3dUgybGs3YW1FTnk2TDBUbkFLRWFRdUN2cFRsbWlTZF9GV1prVVFIb0FSWXI2U1FuZ2lHd00?oc=5",
             "published": "2026-02-14T17:00:00+09:00",
             "source": "読売新聞オンライン"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "ＣＲＴハウジング佐野総合住宅展示場 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQk9oTUZRUzYxbU5PRmlCcUxtTGlWM0VGZTkxTS1sZ1BmWmNybmoxUXJyMDhnY0VpRnN2RkhhT0ZORW8tSVpvdHdPQmNxWFQ3UnRnTGFXN1k1MGRzMm1mNVkwSVBHcVNCVFUzVQ?oc=5",
+            "published": "2026-02-14T17:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "sekisui_heim",
@@ -3160,17 +3160,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "“江戸長屋”を再現した木造ホテル開業、東京スカイツリー近くの病院跡地で三井ホームが施工：プロジェクト - ITmedia",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0bmMtVUNqa2gtNTVJLUtrT01OemJrWlRzUjBXWHhna012bnVjM05yeExhMjY4MTZoWFQ1OV9iTFVKT0g3cnFxekhCa3dHRUlvWk5CSGJFRUIwcXg0aEd6ekhhdVJZRDBDc01ocA?oc=5",
-            "published": "2026-02-13T17:00:00+09:00",
-            "source": "ITmedia"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "三井ホーム、木造の中学校校舎建設 柱や梁を見せる造り - Impress Watch",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZE8zQmR1VDB2a2wxM0FLOVY1VmgwaDZtUzREeklnWkVlT0Znc2pMekg4VVFoQzdDT1pYNWJ5WjFpSnhYQVJ5Skd6Q3hvdUdXNk92NTVjU195WGQtd1lpRnliSlc?oc=5",
             "published": "2026-02-13T17:00:00+09:00",
             "source": "Impress Watch"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "“江戸長屋”を再現した木造ホテル開業、東京スカイツリー近くの病院跡地で三井ホームが施工：プロジェクト - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0bmMtVUNqa2gtNTVJLUtrT01OemJrWlRzUjBXWHhna012bnVjM05yeExhMjY4MTZoWFQ1OV9iTFVKT0g3cnFxekhCa3dHRUlvWk5CSGJFRUIwcXg0aEd6ekhhdVJZRDBDc01ocA?oc=5",
+            "published": "2026-02-13T17:00:00+09:00",
+            "source": "ITmedia"
         },
         {
             "company_id": "mitsui_home",
@@ -4238,17 +4238,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "東京スカイツリータウン®至近に木造宿泊施設「T-home 景 (KEI)」が竣工 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02eTQ0elVfak9haUJkaDM3UFhhNmhYR3Q1MUxacC1Fd1lpdHRiVWktUjNUbkVuQkdUMU9Kd09GbFI3RzQySTlFS0FobjhJWWtBN2U4eDNDUGswU0NyRFhtQWlJUjM5T0ROeGc?oc=5",
-            "published": "2026-01-27T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "【三井ホーム】設計相談会を開催いたします！ - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wbUZzanJ3NDBNTDI4SjA0dy1sd1JpMDV0TWI0UEdBcHVqdlRiXzBiNE1xa3NnNGtQX0QtVUdDQm9GTkR5NWkxakxTQ01malR2UTRicV85NU1nQ2RiMzRrX2tqTTVMUQ?oc=5",
             "published": "2026-01-27T17:00:00+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "東京スカイツリータウン®至近に木造宿泊施設「T-home 景 (KEI)」が竣工 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02eTQ0elVfak9haUJkaDM3UFhhNmhYR3Q1MUxacC1Fd1lpdHRiVWktUjNUbkVuQkdUMU9Kd09GbFI3RzQySTlFS0FobjhJWWtBN2U4eDNDUGswU0NyRFhtQWlJUjM5T0ROeGc?oc=5",
+            "published": "2026-01-27T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
@@ -5932,17 +5932,17 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55dHc5dm5sRUlzWEdBNjY4cW14TFRYWGlrUUUwTEtzckNkLTd4UHgyVl9pS3VvNlNqakJJMzBDenRlU0VWS2JBcVhBY055RHd2b2Rndk9WT3VPV18tY1YyTlEyM3RuYS1BNE5jRl93?oc=5",
-            "published": "2025-11-21T17:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
-            "company_id": "ichijo_komuten",
             "title": "【一条工務店】ハグミーの総額はいくら？費用目安やオプション価格、評判・口コミも紹介！ - シンニチ保険Web",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iZmd2X3k0cXJ5VUlWbkdlT3JqOTNDQ3UwY0VBYkhnRF83eXhKcmdLaHpaT0plUWpyV0ZfMml5WXBBeW5aVWJwcG5qUzJUd2xoenZXRTZoUDFpNFk0SVZ5a21LbE9nQQ?oc=5",
             "published": "2025-11-21T17:00:00+09:00",
             "source": "シンニチ保険Web"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "神戸新聞ハウジングセンター加古川会場 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55dHc5dm5sRUlzWEdBNjY4cW14TFRYWGlrUUUwTEtzckNkLTd4UHgyVl9pS3VvNlNqakJJMzBDenRlU0VWS2JBcVhBY055RHd2b2Rndk9WT3VPV18tY1YyTlEyM3RuYS1BNE5jRl93?oc=5",
+            "published": "2025-11-21T17:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "ichijo_komuten",
