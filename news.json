@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-07T00:33:49.529514+09:00",
+    "generated_at": "2026-03-07T01:36:20.604353+09:00",
     "articles": [
         {
             "company_id": "hebel_haus",
@@ -273,6 +273,13 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0NJVDAwQVQxQktsU3ZQUEE0MEhRQlVQajRtX2VxcGVqdlVaUjZxNzdqT3pEeFFjVjI1Tmh6TGQ2MmlFMVNfMFpCR0dRRDhsLWFMdU9sYUczTmlnMVVXb2hXSVYwUzRTcTZzdHJTWTctSlZqT0xwS0hxWU5jRUhqT0FOc1FfaGM?oc=5",
             "published": "2026-03-05T20:07:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス純利益過去最高 ２６年１月期マンション好調 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZmtTZ0Z6MEs5cnoxQU9SYUtjRllKZV84ZEJOVnQ3eWVRN3MzOUZDVHVkenhTUmNkOGFNaVIwcU04dGZmTGpMN3pObDVRMkdUalVvY1JoN09ab2hCa3hsaHhScnBuaW5mbVlrZE9nNHRvV0p0VTIyYTRfZVozcVZoNnpiRFVNSGc?oc=5",
+            "published": "2026-03-05T19:22:00+09:00",
+            "source": "山陽新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -731,17 +738,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホームが「生成AI利活用管理規程」を制定。3年で業務生産性30%向上目指す - マイナビニュース",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52TEJEeU1kTlBCUFBkc29iYXFtUnZPcnNqZWszYWg5TERWMElzcXZzcW93MWdDb05FYmxVMDgxTEJGZFBRWkR5bDVaSnBTTEtIT2xXVVppakJFbE1C?oc=5",
-            "published": "2026-03-05T10:00:00+09:00",
-            "source": "マイナビニュース"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "三井ホームが「生成AI利活用管理規程」を制定。3年で業務生産性30%向上目指す - ライブドアニュース",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PQmlLLTBvTE11TFhoVU9Zc1B6ZVNIZ2RZa1laQ3lXc2lBRkk0VlBDVXpHb3JPLTRTWGdrbHY4dkJHajlxYnRpUG5PSXVYdGhQQy0xcnNoSk5uZXdRMXNn?oc=5",
             "published": "2026-03-05T10:00:00+09:00",
             "source": "ライブドアニュース"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "三井ホームが「生成AI利活用管理規程」を制定。3年で業務生産性30%向上目指す - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52TEJEeU1kTlBCUFBkc29iYXFtUnZPcnNqZWszYWg5TERWMElzcXZzcW93MWdDb05FYmxVMDgxTEJGZFBRWkR5bDVaSnBTTEtIT2xXVVppakJFbE1C?oc=5",
+            "published": "2026-03-05T10:00:00+09:00",
+            "source": "マイナビニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -1365,13 +1372,6 @@
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yUzFyN0ZoTV9TaGxKM0ZlWlVidjRvcUdha20xSUxKUlZCTFg3RnNhZTMtTktiM3doN1R2N2twRkVyNFBlWW9aN1NR?oc=5",
             "published": "2026-03-02T15:03:32+09:00",
             "source": "奈良クラブ"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "地域らしさを大切に、”つながり”にアクセスできる場 積水ハウスの“「新しい居場所」をつくる”取り組み - MANTAN WEB",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xeVNmWW94dzVHSG1NalhzdmNUTWMzSkdWVnFZTjBTSGpveTBMU1ZEa0xVN1JkLVk0RV9BQTJSS2FGMnBDa00wVE5lNWR2b3QxNXNRRG15bjNvdlNrZEFqU21SWXRabU90MDFB?oc=5",
-            "published": "2026-03-02T15:00:30+09:00",
-            "source": "MANTAN WEB"
         },
         {
             "company_id": "daiwa_house",
@@ -2754,6 +2754,13 @@
         },
         {
             "company_id": "mitsui_home",
+            "title": "三井ホームとマルホンが木造校舎の内装を地元・福島県産材でコーディネート - 福島民友新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DalZlcUJORUFXYzlhRDRNR0xrMEN6UDZJY1dlMUxsUEF0ckdpaVJsYXNVYTR0aFg4dk1yYTVOTVl2cFB0M2lGNEUxa3hVN29yOFMwVWIzSDhUODBjeHJJVThHS1U?oc=5",
+            "published": "2026-02-19T17:00:00+09:00",
+            "source": "福島民友新聞社"
+        },
+        {
+            "company_id": "mitsui_home",
             "title": "三井ホームとマルホンが木造校舎の内装を地元・福島県産材でコーディネート - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yN1BQdUpvOWlHbVFBc0FNcDc2RGtVVjRyQkhsRm5FZnl5M0kzQ3lJRzFrWm9wT2p1YjlsWE12dWgwbjJ1elZvOUI2WnJ1T0hYVGFQcFRmTGx2ZVBQRnNZaml1bEZmdENWNkE?oc=5",
             "published": "2026-02-19T17:00:00+09:00",
@@ -2765,13 +2772,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKR3llbnNVaDB6YmlkOEtjTXlNdHdlc3dwQTdLWURlcUxETXNWTkhWdy00bThsQmRPQ0kzR1hZUmdkUzhkcmNsVjY0YmF2UlBMRGFyTmJlT3A2Rm9XX2M40gFkQVVfeXFMT3paaXZMNGo4VXdRQnhyQUw4blM1MjFBbl9nTE0wWDBmOUxtejBMRzhpVzJ3M2U1dENYWWtibDJTNnFVSC1mbW9Xcm5Oem1mWGo4Vm9fbUtpSnBlTkd2T05UZ3JOSA?oc=5",
             "published": "2026-02-19T17:00:00+09:00",
             "source": "千葉テレビ放送"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "三井ホームとマルホンが木造校舎の内装を地元・福島県産材でコーディネート - 福島民友新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DalZlcUJORUFXYzlhRDRNR0xrMEN6UDZJY1dlMUxsUEF0ckdpaVJsYXNVYTR0aFg4dk1yYTVOTVl2cFB0M2lGNEUxa3hVN29yOFMwVWIzSDhUODBjeHJJVThHS1U?oc=5",
-            "published": "2026-02-19T17:00:00+09:00",
-            "source": "福島民友新聞社"
         },
         {
             "company_id": "mitsui_home",
