@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-03-09T04:20:33.138441+09:00",
+    "generated_at": "2026-03-09T05:21:40.621411+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、コンクリ補強用PP短繊維を開発 廃プラ50％超 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMDBFTWFwUmVEczM5MUYxZFdwVU4wVGVpY1lGZ1U1RlNHd0lBSmtrWGhJeG5zTVRvalJzQ2dnNkNCcHJENUlXUEdWdE1aU1hZal9PMi1DSms5bVk?oc=5",
+            "published": "2026-03-09T05:02:00+09:00",
+            "source": "日刊工業新聞"
+        },
         {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ、生涯CO₂収支ゼロの戸建が国交大臣賞 | チバテレ＋プラス - 千葉テレビ放送",
@@ -49,6 +56,13 @@
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRzFZcDFPV3U4amNOeUJ6RlVoSUlON1pGZ3FRbjNEeHhhUFFtUUFzRlhfaEtfZmFDclpYY2hJRHBxSHBHcFhmUGpGSWhkVVQ5MXNkOXJ1Vjh6RjQ2ek1TWU5kRV9qYnpLcTRSWXh2QlR2MU0?oc=5",
             "published": "2026-03-06T23:15:01+09:00",
             "source": "読売テレビ"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "【アナリスト予想】積水ハウス、27年1月期経常予想。対前週1.9%下降。(アイフィス株予報) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2RPWVNSYzM2dWp6OU1BVzgweGtaVkpRT3dsY3RUUnRyd19saHhUR3ZMM3l5VzJndXE0alBvMUdCUElQZ3lnUTlyTjBiOTJ5em1CT3FleE5HQkN1QXUyOFdSeUVXcHlvMGtNX3FIajR3alRIbWc4RTBPTXdybThscG1kMnhrREk?oc=5",
+            "published": "2026-03-06T22:46:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "daiwa_house",
@@ -507,6 +521,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス純利益過去最高 ２６年１月期マンション好調 - 山形新聞",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzJnYUw5V2h1VFNlWkpEemFIaVEzTmRSNGJ2VmRxaWxLYjhWY1MtTjhiUFVGVlkyblk5TTlmbWw5ZlNod0FVRTRVYzhRSFF4SFQyeHFkOWRyWlBONGNSVDVSUGJSMkVtYVdNWktxa0VUWUFROHRSWFpYUGt0Q3VsWmdkemRoY2NBdWNZWA?oc=5",
+            "published": "2026-03-05T16:50:00+09:00",
+            "source": "山形新聞"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス純利益過去最高 26年1月期マンション好調 - au Webポータル",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5QVI4UXZNeDlQSk96RFlPN2FFU2FGbVl2dHRsaEpTMTdwOHdZVGY2c2lTR09XSi01OWdBLW5oLUVyc1cxeTdwcExja0N1VXpENWJKUFAtWkRtNk9hcVRLdnZxNk9hdmVUbHFpejVmQ2VGUEhhVEROQXRRZw?oc=5",
             "published": "2026-03-05T16:50:00+09:00",
@@ -527,16 +548,16 @@
             "source": "埼玉新聞"
         },
         {
-            "company_id": "hebel_haus",
-            "title": "【表彰】旭化成ホームズ：脱炭素住宅「earth-tect」で地球環境大賞・国交大臣賞、住宅の生涯CO₂ゼロを志向 - みんなの広報宣伝部",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Q0FtVU5FRndUUzQ3OTdJd2pQUldfbHg4OGRsYlE3OW9GU1FmRDZpbVNMb01VM0FERHIzb1I1TzJOYnJoRHlaUzRjVURZWjhWWU1KakNzUmVrbG5ic1A0QkJraUJYa1hMNGtFRVZDeVE?oc=5",
+            "company_id": "daiwa_house",
+            "title": "【調査】大和ハウス工業：窓の理想と現実にギャップ、8割が大開口志向も実際は33％にとどまる - みんなの広報宣伝部",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TaFhxVlZzUFNFMmMzOVo4RG9xbEZGaWVROEVBUlJTQnNEaXFzX3hUV25GbEo5M2E3emE0ZDhnbFNhUy14dDhBRzJ4NnVtZHFOd1RJcVRPNHpaak1rZFRETU5zeDZ5bkFzV3RmdVVsNGE?oc=5",
             "published": "2026-03-05T16:46:40+09:00",
             "source": "みんなの広報宣伝部"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "【調査】大和ハウス工業：窓の理想と現実にギャップ、8割が大開口志向も実際は33％にとどまる - みんなの広報宣伝部",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TaFhxVlZzUFNFMmMzOVo4RG9xbEZGaWVROEVBUlJTQnNEaXFzX3hUV25GbEo5M2E3emE0ZDhnbFNhUy14dDhBRzJ4NnVtZHFOd1RJcVRPNHpaak1rZFRETU5zeDZ5bkFzV3RmdVVsNGE?oc=5",
+            "company_id": "hebel_haus",
+            "title": "【表彰】旭化成ホームズ：脱炭素住宅「earth-tect」で地球環境大賞・国交大臣賞、住宅の生涯CO₂ゼロを志向 - みんなの広報宣伝部",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Q0FtVU5FRndUUzQ3OTdJd2pQUldfbHg4OGRsYlE3OW9GU1FmRDZpbVNMb01VM0FERHIzb1I1TzJOYnJoRHlaUzRjVURZWjhWWU1KakNzUmVrbG5ic1A0QkJraUJYa1hMNGtFRVZDeVE?oc=5",
             "published": "2026-03-05T16:46:40+09:00",
             "source": "みんなの広報宣伝部"
         },
@@ -595,6 +616,13 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UTHJCSDJjVDk5LWUtdVdVbHNsQzVoMkFJMEJqbjE3Q09jaTBva2ZyX0htRTRMekRnekN4dThXbGd5cDNsQUIwbDdja0Q1cmd4RHNKbnF1dS0?oc=5",
             "published": "2026-03-05T14:41:27+09:00",
             "source": "現代ビジネス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、中期経営計画を策定 - marr.jp",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJbWE4U2dmX1RnMndXN0pCWWZhQ0c2bVFleE40ejVUVXFFS0VVdFVScFV3RlItbHg4Y1dxajdNVXA3MmNoY0pBV0p6aEkzeWtDREZkZmQ0R1V6aTRFeU53cEM2SUw?oc=5",
+            "published": "2026-03-05T14:34:00+09:00",
+            "source": "marr.jp"
         },
         {
             "company_id": "sekisui_house",
@@ -983,15 +1011,15 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.8] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbjVwVjFBd1dVVDZpa09yQ0hLUlV6ZUdHZ3VfSlcxUzMyYkF5OW5wX2Qtb29TYmFFc0lZb0pUUFBzYmtjWUUtX2FTcnNMVEx6SFE?oc=5",
+            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.8] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44VVZnTXBtcmhQYkEyTkJGYUVxdDZPZUVIdnhSMHlWNnZmT3p4Yjl6cGRWTUl6QnZBa0lqWmRPSE5XOU1qc0JGSHppWDMtYlN3S2lvZjRPbExscFJacFR5MQ?oc=5",
             "published": "2026-03-04T16:00:03+09:00",
             "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
-            "title": "【５％】 積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.8] - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44VVZnTXBtcmhQYkEyTkJGYUVxdDZPZUVIdnhSMHlWNnZmT3p4Yjl6cGRWTUl6QnZBa0lqWmRPSE5XOU1qc0JGSHppWDMtYlN3S2lvZjRPbExscFJacFR5MQ?oc=5",
+            "title": "積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.8] - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbjVwVjFBd1dVVDZpa09yQ0hLUlV6ZUdHZ3VfSlcxUzMyYkF5OW5wX2Qtb29TYmFFc0lZb0pUUFBzYmtjWUUtX2FTcnNMVEx6SFE?oc=5",
             "published": "2026-03-04T16:00:03+09:00",
             "source": "かぶたん"
         },
@@ -1302,27 +1330,6 @@
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWFJnRnZvSUFaRUZ6blItTGJtUnk2RlUwTnBXR2J4cjYxNDduaFZua3VKV25IVUdkOGpNSGVadDI1UjRVS2NYeTNDMnJpQndxakF2RTJXRnAtb0RKdjhqYlpKRjU5cUxmNW1aUnNKYjY?oc=5",
             "published": "2026-03-03T12:25:47+09:00",
             "source": "みんなの広報宣伝部"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "独自・積水ハウス55億円詐欺事件の顛末》“有力地面師”の1人がまた逮捕されていた！「留置場で保釈金をかき集めてさ…」取材に語った“地面師トーク”（NEWSポストセブン - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGpRYTRRcWFzY1RwS28ybDJMUFNEYmlLOC1ROUYxbjY5OTBUS2hIVkdxYXc1cWtoTU93QXo3LWJ2Q2k1WUlzdTRpS3ZuaEU5WXMtUkxBbFBIb19TdHRqb3FPUlhIb1JUdzZvbjItdFV0RXNSQmFvWVVQQ21OQmJpcWQzX0pLNzZB?oc=5",
-            "published": "2026-03-03T11:59:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "《独自・積水ハウス55億円詐欺事件の顛末》“有力地面師”の1人がまた逮捕されていた！「留置場で保釈金をかき集めてさ…」取材に語った“地面師トーク” (NEWSポストセブン) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVVBnU2hRR3RJT1NfS1AzS3ZwYllkcVFMZGdxZjAzQkpwa0NGX2dIV3g5LU4xNzlZZzFTSDc5Yy1QVTBIejdkdjk2WUVZRHZEcHN1VzY3M1BPRkx2TUF5a1ZvU1ZPRC1yaEJjc0lJNVgyemt1VTV0NnRvbWNSTVhPeURPZWs0cXAwTGlZYmJn?oc=5",
-            "published": "2026-03-03T11:59:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "独自・積水ハウス55億円詐欺事件の顛末》“有力地面師”の1人がまた逮捕されていた！「留置場で保釈金をかき集めてさ…」取材に語った“地面師トーク”（NEWSポストセブン - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLXF1QVZKcW9TOTNGSGxJMTZmRS0xSF9VaThjTlpndVYzbHdiYkgybnd6UjVWbXBjLW15T3MyWDdJVnRRZHI2R0Y3NlFRTTdFR2pMU2l5ZkFiS0JJTDc2MllnUFlmdnlKUHE1dFV3OFFPRWZLczVTNWtQSjlyb0U?oc=5",
-            "published": "2026-03-03T11:59:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -2543,6 +2550,13 @@
             "source": "ビジネス+IT"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "（人事・住建・不動産）大和ハウス工業 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXpLQjRoM1FrNWVzSXB0a2dCUTU1NzNJaU52dmFVdkY1Y21UWTF4NDR0QlRvUkVaNnh3TkgtVXhvNFBQV2F2X1podU1VejE0dW1qQ2RfYWV3R0U3LWNYT3NzVkhRREEzYnJSNm0wcWFYNDJVcHdzSjlORUJSYzNqR0I5WXdKWjBEQUFpMnl1RmpHWTZXb0Z6RDgxMjRwVzQzV2c?oc=5",
+            "published": "2026-02-21T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "関関同立＋近畿大「就職先企業・団体」ランキング2025【全20位・完全版】 - ダイヤモンド・オンライン",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQm5mUURES0pobjZrWVUzVE1sbXZveHNoVmdPTm9BT3RwTjlaU3h2ckJ1WlhmVDY5Q0ROTm5Lcng5WTVCbDNtYkJ0dWZSS3lyS0NhZ3NB0gFPQVVfeXFMTlVReTJMWG9RSWdnWTRVbWJHbV9lUXg0UjU0UHlReEZQckVPcW1lZF9xeDQ2OWFqRU8ydWFlNzJKcmV5aXdZTm0zcm5acGJoVQ?oc=5",
@@ -2555,13 +2569,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQm5mUURES0pobjZrWVUzVE1sbXZveHNoVmdPTm9BT3RwTjlaU3h2ckJ1WlhmVDY5Q0ROTm5Lcng5WTVCbDNtYkJ0dWZSS3lyS0NhZ3NB?oc=5",
             "published": "2026-02-21T17:00:00+09:00",
             "source": "ダイヤモンド・オンライン"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "（人事・住建・不動産）大和ハウス工業 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXpLQjRoM1FrNWVzSXB0a2dCUTU1NzNJaU52dmFVdkY1Y21UWTF4NDR0QlRvUkVaNnh3TkgtVXhvNFBQV2F2X1podU1VejE0dW1qQ2RfYWV3R0U3LWNYT3NzVkhRREEzYnJSNm0wcWFYNDJVcHdzSjlORUJSYzNqR0I5WXdKWjBEQUFpMnl1RmpHWTZXb0Z6RDgxMjRwVzQzV2c?oc=5",
-            "published": "2026-02-21T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2646,13 +2653,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemRZSE9mQ1pKTWwtYVE0eHFPVGxSR0FNVzNpZEhjMFUzUWVhNGRqeGs3VjFZZm1nYXZndVBOdW16dzM3b2ljQ3ZrQzl5OERLWUpscXF0WlJyVTZZOFU5cGFVaHZKTk1CVXBQQjE0ZUt6RmxWV3RZMmxMcXZ2VlpDWUhuTmduU0k?oc=5",
             "published": "2026-02-20T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスリート投資法人[8984]：ESGファイナンス・アワード・ジャパンにおける「環境サステナブル企業」選定に関するお知らせ 2026年2月20日(適時開示) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzVTk1RjdteGM0OXpPaFFMbHFvTEJMeXNjbkloVXhFQVp2Vkxna2ZaOVZWUlRVako4TkxyTlJoeldqblJtbTdEZ2dhblNTdk1Pby1ObXh2S0RBMWVCbkExOUp3cEN6bTktZVE?oc=5",
-            "published": "2026-02-20T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -4245,7 +4245,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "民泊の営業規制、事業者は困惑 パナソニックホームズは物件の賃貸転用を検討 - 日本経済新聞",
+            "title": "民泊の営業規制、事業者は困惑 パナソニックホームズは物件の賃貸転用を検討 - 日本経済新聞 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdnI4R2k1MkNTZ3Rmc2E1UnkxY25aZ0MxRzFUR0Z3M1RLUUZOQ3gwNHRhTndGeGFRYVRyLWRlZ3RqUTV6NFRPSElDYjk4S3ZRaWRGM0s1ZDBRMzFNS3Zva3k2NnpXeEhNZk1CRA?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
@@ -5792,7 +5792,7 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "高断熱・高気密住宅ブランド「Asu-haus」横浜市青葉区で賃貸住宅実証実験を開始 - PR TIMES",
+            "title": "高断熱・高気密住宅ブランド「Asu-haus」横浜市青葉区で賃貸住宅実証実験を開始 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DanVta20wMTFmY2d5YzhseC1FemN2YUQ2T3ZCTzZFLU05bTZUOUNHcXYzMFROLTMyeHB5UnA1X2lxdGJmS2FWOUVIRF82U3pfYjd5ZEYza3hqem9EUjhwbDVaRlBESEJFNXc?oc=5",
             "published": "2025-12-17T17:00:00+09:00",
             "source": "PR TIMES"
