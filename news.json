@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-09T17:39:49.523409+09:00",
+    "generated_at": "2026-03-09T18:45:02.723640+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -70,6 +70,13 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qZ2RaWUxOazJMMWtRUjAxbVFzTjJ5b3VEOWVDZjlUMDBIdmVWcE1fb0VtTk1Cd2hPZGQ4NDU4cmZtTlc1VFpXOUppQUvSAUxBVV95cUxOamdkWllMTmsyTDFrUVIwMW1Rc04yeW91RDllQ2Y5VDAwSHZlVnBNX29FbU5NQndoT2RkODQ1OHJmbU5XNVRaVzlKaUFL?oc=5",
             "published": "2026-03-09T13:03:09+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、売上高5兆円へ…米国「ゲームチェンジャーとしての基盤を構築したい」 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yWGJUTHJKUmV0Z2xvTjFWb05VSnQwV3U1cE95RVRpVVpxT21ObExSLUxYX0xTaUVDblNVZHUzakU0Zw?oc=5",
+            "published": "2026-03-09T12:02:23+09:00",
+            "source": "ニュースイッチ by 日刊工業新聞社"
         },
         {
             "company_id": "sekisui_house",
@@ -185,10 +192,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "【特集】 決算マイナス・インパクト銘柄・引け後 … 積水ハウス、タカショー (3月5日発表分) - 株探",
+            "title": "【特集】 決算マイナス・インパクト銘柄・引け後 … 積水ハウス、タカショー (3月5日発表分) - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QOWZ6emJPNm9KU2kyVm9RQWpPbGZJeVgxTVN0RmhhZlFGYWdMZWV2V01ROGlaWFo0MjkySHVRZzBQWnA3TG1ZQ01qdUhPNXlJeXI0dW9qa3JjRmJodnFSRA?oc=5",
             "published": "2026-03-06T15:48:04+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -248,6 +255,13 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "「セントラル三田ハイツマンション建替組合」設立 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Tzg0ZWlsNGYwSXlFTE9yYnpMWkFnd2ZtWks3TkczT2dOZ1BldGFMdFp5ek4xS2VhY1hwcGtrdi00dURKNl9HZEN0dWdoZE44TFBIaGtuNGI4aGM?oc=5",
+            "published": "2026-03-06T14:00:00+09:00",
+            "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "「セントラル三田ハイツマンション建替組合」設立 - 下野新聞社",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03QnJMOEZ1eG9hZTAtS0ZuSEpKamFKVnZhMG91aWRxYnlFQTdBd0VYX1gzRzlHS1E2OEZZQk9yVV82VmUzdFpkUXFhU0NIZS1tY0lJU3RaYXF3aHc?oc=5",
             "published": "2026-03-06T14:00:00+09:00",
@@ -266,13 +280,6 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uM3Y0d0V4MGlEYlpobFAwVHN5V1BaR21VdjlOTG1pZUQ1RGhkTFJhakxzU2NPcUVkUm5vZmZlNG9LT0MyU0d4a3piMA?oc=5",
             "published": "2026-03-06T14:00:00+09:00",
             "source": "47NEWS"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "「セントラル三田ハイツマンション建替組合」設立 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Tzg0ZWlsNGYwSXlFTE9yYnpMWkFnd2ZtWks3TkczT2dOZ1BldGFMdFp5ek4xS2VhY1hwcGtrdi00dURKNl9HZEN0dWdoZE44TFBIaGtuNGI4aGM?oc=5",
-            "published": "2026-03-06T14:00:00+09:00",
-            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "hebel_haus",
@@ -913,10 +920,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス【1928】、今期経常は4％減益、1円増配へ | 決算速報 - 株探ニュース - 株探",
+            "title": "積水ハウス【1928】、今期経常は4％減益、1円増配へ | 決算速報 - 株探ニュース - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GX2IwZnRXSzVUNHRFVW9qYXZsbWRSZ0ZfblZnb1dZQ2JmVlJTdmd4NzM1eVJTRFZpd2Q2NmZJemZzWVI5WkluTWg2bGhiRHFGY0E?oc=5",
             "published": "2026-03-05T12:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -927,10 +934,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "【速報】 積水ハウス、自社株の消却を発表 - 株探",
+            "title": "【速報】 積水ハウス、自社株の消却を発表 - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44YVFlVlRoeUQwdEZEdE1UUmVQVUF2VmtpUG1Gd2M3aGFTaVo3TnlRRVdIREkwTFcxTldad1RpTXRkeHh2YkVCQnMzV1dtcE9nU2laYVRWWUcxNjcxdlJldw?oc=5",
             "published": "2026-03-05T12:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -1109,10 +1116,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "本日の決算発表予定 … 積水ハウス、タカショー、ティーライフ (3月5日) - 株探",
+            "title": "本日の決算発表予定 … 積水ハウス、タカショー、ティーライフ (3月5日) - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMW1nbFQ1U19LR3dxZHBYeWtxaFdlWnlaUXFCZzFtQmpfSEtfOTlranVwbEd1YVZ4N0FZcmJ1cGoyTl9IQThLdGkwa0JpVU8ycG0wdnhkdWZRY0xWdlh2SA?oc=5",
             "published": "2026-03-05T06:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "daiwa_house",
@@ -1151,10 +1158,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.8] - 株探",
+            "title": "積水ハウスについて、米ブラックロックは保有割合が減少したと報告 [変更報告書No.8] - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbjVwVjFBd1dVVDZpa09yQ0hLUlV6ZUdHZ3VfSlcxUzMyYkF5OW5wX2Qtb29TYmFFc0lZb0pUUFBzYmtjWUUtX2FTcnNMVEx6SFE?oc=5",
             "published": "2026-03-04T16:00:03+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -1207,10 +1214,10 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "【市況】 明日の決算発表予定 積水ハウス、タカショーなど3社 (3月4日) - 株探",
+            "title": "【市況】 明日の決算発表予定 積水ハウス、タカショーなど3社 (3月4日) - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mOVhJWHlfWEJrNmZOd25hZHBhWVc2V1lyOHFmb3BhYnBqODdyeHZmWHpUOFhRUjh3Q0ZDNE10dU85c0ZWdEtMTDA2TUo0YXRsQ2wxcktIRGpnc3NJR1NJdg?oc=5",
             "published": "2026-03-04T15:41:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_house",
@@ -1218,13 +1225,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FY0VQT2lwRk55RWhIX0wyN3dEZkpVSG5aX3FCdDBXQzh0eVhnOUxScjdfRE9aRGZCcmNSUlh4bUM1dkVXUlh3ZndCX2xfQkREYllhYVBDT2xFVDE1YUE?oc=5",
             "published": "2026-03-04T15:41:00+09:00",
             "source": "ライブドアニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【市況】 明日の決算発表予定 積水ハウス、タカショーなど3社 (3月4日) - かぶたん",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhYXV3aFhDSTJ3bE9WWEp0SFRhNHNiRm1nU21oNDdHT08yc21oTlVRMjE2Umw4bHZucWxPTDNRR2lBQW9IMnF3bFRUb1VPZDc3YjkzSUpqb2ZoMUt5Z3huZmdn?oc=5",
-            "published": "2026-03-04T15:41:00+09:00",
-            "source": "かぶたん"
         },
         {
             "company_id": "daiwa_house",
@@ -2313,10 +2313,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - 株探",
+            "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQWZNaW9nRlR0bFg3LTZCR2N0MFl1V3ZFRC1rOTFwUlNlYVdtTkVVQlN4aWVFNENQdDk4enZuRC01aUNFTDZwcVpZbTRiMWJFUEVQWm1ublNuS0Q5a0tOOA?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -6128,7 +6128,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックHD、挫折した「家まるごと」戦略 ハウジングソリューションズ社を売却 - 日本経済新聞 - 日本経済新聞",
+            "title": "パナソニックHD、挫折した「家まるごと」戦略 ハウジングソリューションズ社を売却 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81T1REMHBhSlFuUV85OUV5VHV2ekVFUnNReFZIN2RZRFlRWVJJVi1wVjk5S3RONE9SWnJZVURqSk9ZZWxxUlFFTW9oX3NPYkc2WlJLZ1poSGxBbFVsS0UzTVhmYVhnLUN2QXRPUA?oc=5",
             "published": "2025-11-19T17:00:00+09:00",
             "source": "日本経済新聞"
