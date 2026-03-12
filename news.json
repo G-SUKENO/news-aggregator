@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-13T03:49:14.351558+09:00",
+    "generated_at": "2026-03-13T04:39:54.172923+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -2207,6 +2207,13 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "【新生活応援フェア】ダイワハウスの分譲地 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMnJGQW9DeklTTWhNbDd4M2E0MHREbG1CbEFWb2xYSWhCTmRCUWl0M2twMHRGRWVqeVpHS2c0VzRGcThUcHFPaG15RXJsXzI2T1ZjV0pHSXptZC1tSmxQVlJXTVFpSDJoeXg4ay1R?oc=5",
+            "published": "2026-02-28T17:00:00+09:00",
+            "source": "家サイト"
+        },
+        {
             "company_id": "misawa_home",
             "title": "ご来場予約フェア｜TNC住宅展示場 きてミテ！小倉｜住宅展示場を探す｜家サイト｜住宅展示場ガイド - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jT3RKQ2dsS3lZT3J4VGs5MW50eEg5dUlsMVRLUWc5ZGxUa1VEc1JSM3UybnZCa0N5SDlSOGtGOXF0allzdVZCdEJxLUVfRXRUTkZJLXV1SUFpcm5tRWd2S05OTzQxZWhobjYyZnln?oc=5",
@@ -2320,17 +2327,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "女子プロゴルファー有村智恵選手と所属契約を締結、永井花奈選手とスポンサー契約を更新 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMG1veDBzRk5aeGsxZEpZVWRqVEZYTnkwNXBtWkNiRE5rV1A2d1lYM082Zmh4Z25ILVdzWDNvaHRhZzNlVUY5LVRITVJvd2JjeGc2RGhvZlQ5Y0dBd0RaY29BY2p0T211aUE?oc=5",
-            "published": "2026-02-27T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLM3hxYlBGdTN4UURyZkxJY0NTWUtrTEdUd3ZPaUVRTjItR2dJMzM0RUlXNDk5NGlqalFxWUsybDEtWUlTZW5YTzdyNnNOTDR2TlNvbFFmSTB4N3JZSE5xUDN1QVdRVzBkb0trQ1BZQ0ZLR2luWGU2dllOMjZvdWM?oc=5",
             "published": "2026-02-27T17:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "女子プロゴルファー有村智恵選手と所属契約を締結、永井花奈選手とスポンサー契約を更新 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMG1veDBzRk5aeGsxZEpZVWRqVEZYTnkwNXBtWkNiRE5rV1A2d1lYM082Zmh4Z25ILVdzWDNvaHRhZzNlVUY5LVRITVJvd2JjeGc2RGhvZlQ5Y0dBd0RaY29BY2p0T211aUE?oc=5",
+            "published": "2026-02-27T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "daiwa_house",
@@ -2655,13 +2662,6 @@
             "source": "新電力ネット"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業による「ダイワハウスでんき 従量電灯C（東北エリア）」の特徴｜電気料金プランDB - 新電力ネット",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzOXA4WGt4QW9pNmlXbHNGbERiQzJ5cXNWOENZRzVWVksxanVmRURZMFJKWGV0SjFSN3hNRWZNUnNwLVhueTBIZDR0QlJ5UQ?oc=5",
-            "published": "2026-02-26T18:13:12+09:00",
-            "source": "新電力ネット"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業による「スミリンでんき一般家庭向けプラン（東北エリア）」の特徴｜電気料金プランDB - 新電力ネット",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9McWRHR1pUeVhYeE1EUlU2ZDYwbE1qeXRmZWc4V2FmYzdVSVcyOEUxbk85bkVsZWNUYmpGT2V5aGwweU5RTFU1aXBYOS1HZw?oc=5",
@@ -2761,13 +2761,6 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業株価一時3.6%安 SMBC日興が判断下げ、米社買収受け - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XX1dzZmR1eXh0R252bmQxM28tcjBrdE5CUTNzT0Z1NVRlWDR3VEhPa3FFdUExY2JkZ1E0b2hXeDg3bWtHb0FVYzFXM0JCOUVDZC12Q1dlUkxuM2VxR01xTUNPZEptVVJuMEdEaA?oc=5",
-            "published": "2026-02-25T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ(フィスコ) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUViNGpNSHhNZFN5U2Y4UXU4X2ZiV1B2Zkt0YlZ1ek56QldJOF9tdWFwSUx4QjZyYUp6THhRbUI2VFcxRS01MHk1bG1Yb0V5cFpsYVc1N1R3WDNoWEN6VWctcHpuUFNsU2dFbEUtVGhQSWZfbWhIVjJ4Zm1XZnZ3NFNwbi13cmc?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
@@ -2779,6 +2772,13 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUctd3UtaXg1clBYb3JYZ0ZMYTUwTlJ3SFBEWlRBVjhaQnFxQ2RBZFBRNlNySEJEeWFJTDJYemhXYXJqbGlweE5QeHFFanZmNllrTktpS1VDVXA5a3RaVlhBVHlDWElZY2NFZDF4UnRscjFfSVN4MC03STdraGJiSTVUSzFMbU0?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業株価一時3.6%安 SMBC日興が判断下げ、米社買収受け - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XX1dzZmR1eXh0R252bmQxM28tcjBrdE5CUTNzT0Z1NVRlWDR3VEhPa3FFdUExY2JkZ1E0b2hXeDg3bWtHb0FVYzFXM0JCOUVDZC12Q1dlUkxuM2VxR01xTUNPZEptVVJuMEdEaA?oc=5",
+            "published": "2026-02-25T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "mitsui_home",
@@ -3301,14 +3301,14 @@
         {
             "company_id": "sekisui_heim",
             "title": "（人事・素材・エネルギー）積水化学工業 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM29pMEl5S1h0a0MzMVdTWWMwOFJQamR1ZU05bFV0RWQ0TDMzYkc3X09STndLRXZabVkxY1UwT1p5eWlYd3FOa3RWYllDQmlCQ2dDRzhCbGxLZF9XR281MDAtN2FKdlRDNFBkNUZQMzlWX0hyaVJacS1zb3YyalNMaVZPc0hETGVZVWM1cUZ0TTB4WHg2ejc3c3dKNEhOMG56NUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVd5OUNTOTJ3M1dZemt4WmNMaG5UMHFGVHktOW1kMnY5aHRBdURPTno3SEFZM0g2cGhVa0UxUnlfNFdIMVp6bFRWTUlrc1RYSGxuOUZQQV9SNFJkbWJ2NzNzVHlTalF2WnBncWExVEtFMXBXUnJ3d3BfckhYSTNuMmpwX1JtTURwUGRLQ1d2V1dJUkFmZHhScXFyU0ttY2VSV2N5VzFCYTI?oc=5",
             "published": "2026-02-18T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
             "title": "（人事・素材・エネルギー）積水化学工業 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVd5OUNTOTJ3M1dZemt4WmNMaG5UMHFGVHktOW1kMnY5aHRBdURPTno3SEFZM0g2cGhVa0UxUnlfNFdIMVp6bFRWTUlrc1RYSGxuOUZQQV9SNFJkbWJ2NzNzVHlTalF2WnBncWExVEtFMXBXUnJ3d3BfckhYSTNuMmpwX1JtTURwUGRLQ1d2V1dJUkFmZHhScXFyU0ttY2VSV2N5VzFCYTI?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM29pMEl5S1h0a0MzMVdTWWMwOFJQamR1ZU05bFV0RWQ0TDMzYkc3X09STndLRXZabVkxY1UwT1p5eWlYd3FOa3RWYllDQmlCQ2dDRzhCbGxLZF9XR281MDAtN2FKdlRDNFBkNUZQMzlWX0hyaVJacS1zb3YyalNMaVZPc0hETGVZVWM1cUZ0TTB4WHg2ejc3c3dKNEhOMG56NUE?oc=5",
             "published": "2026-02-18T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -3434,14 +3434,14 @@
         {
             "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeURDcmUwOHpmbEVPWnlnNzRmTFZFc1hIaFBqQ20yTFpFVWdyS3lVWTVMZlgwRlpnNllFQVJhX0liai1RMEFBRDZnMkZWbUVHdDVZY29HMXdrVGpqLWFnRFNsc0hjTW5GdDhrbjh4VnFPYUpDak1HLWE4eHI2Qm5rUFpUXzk1bDQtOHZhWElCNk83WTF3VHdRdEZ4M0FPbkJSOUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
             "title": "積水化学工業社長に清水郁輔氏 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoemt4SUF0YXFERUNEeHpCaE5RV1hvbTVtVDJVSjZaRk1xYTN4T2xlM1hEZ1pUYUlTaTdJRHgzZDMySDNrMXR1SDBaWDk5b1pMck8waVBkWlR1bGc0VmM2eUdRRE00S0VJbzhtUg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeURDcmUwOHpmbEVPWnlnNzRmTFZFc1hIaFBqQ20yTFpFVWdyS3lVWTVMZlgwRlpnNllFQVJhX0liai1RMEFBRDZnMkZWbUVHdDVZY29HMXdrVGpqLWFnRFNsc0hjTW5GdDhrbjh4VnFPYUpDak1HLWE4eHI2Qm5rUFpUXzk1bDQtOHZhWElCNk83WTF3VHdRdEZ4M0FPbkJSOUE?oc=5",
             "published": "2026-02-17T17:00:00+09:00",
             "source": "日本経済新聞"
         },
