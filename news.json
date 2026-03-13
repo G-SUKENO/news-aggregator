@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-14T04:28:36.326340+09:00",
+    "generated_at": "2026-03-14T05:30:20.998373+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -17,6 +17,13 @@
         },
         {
             "company_id": "mitsui_home",
+            "title": "【三井不動産グループ】SE構法×燃えしろ設計で既存のRC造校舎に木造増築。先進技術と福島県産材が融合した、「桜の聖母学院」新中学校校舎が誕生 - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tc1RTT2dnMjVkUTJ2SlFIV0hYZFhkRHY0azZMX0l3RlZyRmljcWMzN1FIZHFnRk5Na202S2xmTVE4NWJuQzlKNEN3eXVqbG4weHc?oc=5",
+            "published": "2026-03-13T17:00:00+09:00",
+            "source": "時事ドットコム"
+        },
+        {
+            "company_id": "mitsui_home",
             "title": "【三井不動産グループ】SE構法×燃えしろ設計で既存のRC造校舎に木造増築。先進技術と福島県産材が融合した、「桜の聖母学院」新中学校校舎が誕生 - イザ！",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxMi1MeVc5dnp4NC15SmR1T3NHT0tyNnZXMmVSbGxQV2hGdXJXWUx2MGhoQ0dQOUJBS0c2TXlmTlVlcTdHU1oyTjJsVTVLejVfTEZPN2VncmxNcm1sN0lKcFA1MnBJQTBDbW1nOG85VDIteXlSRUNXbEJ6NDZZUQ?oc=5",
             "published": "2026-03-13T17:00:00+09:00",
@@ -28,13 +35,6 @@
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4MnMzVUNPWmtsZlZBYkpNdW05R01ESXNxalZ5YVdXRjY3M3ZsUmh2Rk50M2tTOVJNY0t2d0RpcGNlMmRhUUVQcw?oc=5",
             "published": "2026-03-13T17:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "【三井不動産グループ】SE構法×燃えしろ設計で既存のRC造校舎に木造増築。先進技術と福島県産材が融合した、「桜の聖母学院」新中学校校舎が誕生 - 時事ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tc1RTT2dnMjVkUTJ2SlFIV0hYZFhkRHY0azZMX0l3RlZyRmljcWMzN1FIZHFnRk5Na202S2xmTVE4NWJuQzlKNEN3eXVqbG4weHc?oc=5",
-            "published": "2026-03-13T17:00:00+09:00",
-            "source": "時事ドットコム"
         },
         {
             "company_id": "daiwa_house",
@@ -1410,17 +1410,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス地面師事件における「最大」の謎…入院してるはずの地主から届いた内容証明郵便は誰が書いたのか？ - 現代ビジネス",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vN2FVV08wMHNfT0NuNm5zaXFZOTVmdHJ6QUtsS3llOUc1S3NPYUVfMlRCNG1ReHI4RkZMR0w0YW1lOWxqRlVicUZjem9Zdms?oc=5",
-            "published": "2026-03-05T17:00:00+09:00",
-            "source": "現代ビジネス"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス、配当金下限を110円から145円に 29年1月期に売上高5兆円（ロイター） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTDFNdzJtUFRCMHczVHp6MFVveEhGYTA3U3FVbGtkM21ELTBZekpEaXpCSTRKMEZUaHllaTZHYVY2eng1ZlVVYzQxYUZhWEhISzdCSmRNV3NHM0J5M2tBeFhMUmR5N1VZMkFONWdCQ2FiRnZYOVNDcXNqWEZvWlE?oc=5",
             "published": "2026-03-05T17:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス地面師事件における「最大」の謎…入院してるはずの地主から届いた内容証明郵便は誰が書いたのか？ - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vN2FVV08wMHNfT0NuNm5zaXFZOTVmdHJ6QUtsS3llOUc1S3NPYUVfMlRCNG1ReHI4RkZMR0w0YW1lOWxqRlVicUZjem9Zdms?oc=5",
+            "published": "2026-03-05T17:00:00+09:00",
+            "source": "現代ビジネス"
         },
         {
             "company_id": "sekisui_house",
@@ -2145,7 +2145,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "Ceglu™ cultureware北米地域での販売開始 - PR TIMES",
+            "title": "Ceglu™ cultureware北米地域での販売開始 | 積水化学工業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VWnlaSmg5U1lGeHhvRHdWZnQ2aHROZEl0NEFCTUhoNTRwNzZEbDVsZTZIclRLN3V5MHcyQkpHUnVSU2VacUtjel95eUlUQjRTLXRJR2VHejNVOFZFdXB4a25sX3RPeE5ZaGc?oc=5",
             "published": "2026-03-02T17:00:00+09:00",
             "source": "PR TIMES"
@@ -5050,17 +5050,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "旭化成ホームズ、一次エネ等級8に対応 坪単価135万円～ - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdWQyVFlxNUxfTjJJa3F4c3F5TU1Wc0xNN2s0LXdRMmRXdFE0VEtmaElGRVBiYUJaa2tWWi1ZOE9LNnAzc05IeHRnRjFqbXFJZGc?oc=5",
-            "published": "2026-01-20T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84bjM5OTQ4VmNETkNiRzFJTzZNaUlrZzRMWWJGVW1hLWtlUUFoV3NPZlBhNWpuZC1pME9WYnZYQXNqZW9Qd3hmcFU2MGdxTmUwbHgtWnFab21hZ3oweGlUb1MxQjZKRGxVNmc?oc=5",
             "published": "2026-01-20T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "旭化成ホームズ、一次エネ等級8に対応 坪単価135万円～ - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdWQyVFlxNUxfTjJJa3F4c3F5TU1Wc0xNN2s0LXdRMmRXdFE0VEtmaElGRVBiYUJaa2tWWi1ZOE9LNnAzc05IeHRnRjFqbXFJZGc?oc=5",
+            "published": "2026-01-20T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "hebel_haus",
