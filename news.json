@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-13T20:27:53.885456+09:00",
+    "generated_at": "2026-03-13T21:51:40.004017+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -14,6 +14,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tc1RTT2dnMjVkUTJ2SlFIV0hYZFhkRHY0azZMX0l3RlZyRmljcWMzN1FIZHFnRk5Na202S2xmTVE4NWJuQzlKNEN3eXVqbG4weHc?oc=5",
             "published": "2026-03-13T17:00:00+09:00",
             "source": "時事ドットコム"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "【嵐ライブで3日間の臨時交通規制】混雑緩和のため会場の大和ハウスプレミストドーム周辺は「駐停車禁止」送迎の乗り降りなど短時間の停車も禁止＿期間3月13日～15日〈北海道札幌市〉 - UHB 北海道文化放送",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVEF4UjRtc1hQcjZCVktZWkpOUFQ3SlFybGpjdzU0Nk4takExOVBkZFVpMzQ1eV9SR0tNcVFVRDRLdzVrVE9nVVV2aFpDd2J0R1ZibzJ1TQ?oc=5",
+            "published": "2026-03-13T12:40:37+09:00",
+            "source": "UHB 北海道文化放送"
         },
         {
             "company_id": "daiwa_house",
@@ -850,6 +857,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "“すれ違いだらけ”の被告証言…積水ハウス地面師事件の巧妙な組織図から浮かび上がる「謎の人物」 - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NN2lObEJMLV9aZDBDdVVRSTB1MkFCZUk4U0dhZHNGY2thbVBoWXdFbENHSk9VRVhqaVp3RU1YZmgtX0VWbHRuMnY5R3NOUTY4SWU5ZHlfX3M?oc=5",
+            "published": "2026-03-07T16:38:26+09:00",
+            "source": "現代ビジネス"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "決算マイナス・インパクト銘柄 … 積水ハウス、パーク２４、伊藤園 (2月27日～3月5日発表分)(株探ニュース) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUVQdTM0NTBYWENmMTBPblpGSWhCa1F1QVBBNDZUcXJydlg1a2ppLXJyZDBWV0hqVE5idXpKUXdicUpBc3o3Y0x0MWpycEVheTA2VDdHYXBmRkpGRjJxbmVXN2FNSElnOXQ0bmYwX1pmQ0k2cVU4UUNBWndQZE9pMXh0NmJQMkU?oc=5",
             "published": "2026-03-07T15:05:05+09:00",
@@ -1381,6 +1395,13 @@
             "source": "ライブドアニュース"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業が過去最大規模の6500億円で米大手住宅メーカーを買収！悲願達成も待ち受ける米国事業2つのリスクとは？ - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mVXBmLWZoeGh2WGdRaDliZzBldWtQVG4zWlVSS0VvV09RMUpnTE54YXhtOE80MnBkSWJubkxERlpQODloSUFaVGpSMnTSAU9BVV95cUxQbHdmQjhLRl9BWlEyekFtSTJWcElVVnZVb2VYYjRLTno5YUdlX3lPam1EcUJfWU9MWnZ6WGJ0UTNlOVpWdEd3TVRrT3FUdXBj?oc=5",
+            "published": "2026-03-05T17:00:00+09:00",
+            "source": "ダイヤモンド・オンライン"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウス純利益過去最高 26年1月期マンション好調 - 北海道新聞デジタル",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNktxdGRoYlV3NjlRSDFtMHRvb2VMTEhaZ3dpb1BhTFBhWnhlbWc0UVJaREYwbnRERTh3UlJrdG05dHVkQlMtNldVWU8xOUlhNGdpWmM0MjNrUQ?oc=5",
@@ -1619,13 +1640,6 @@
             "source": "ニフティニュース"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、配当金下限を110円から145円に 29年1月期に売上高5兆円（ロイター） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTDFNdzJtUFRCMHczVHp6MFVveEhGYTA3U3FVbGtkM21ELTBZekpEaXpCSTRKMEZUaHllaTZHYVY2eng1ZlVVYzQxYUZhWEhISzdCSmRNV3NHM0J5M2tBeFhMUmR5N1VZMkFONWdCQ2FiRnZYOVNDcXNqWEZvWlE?oc=5",
-            "published": "2026-03-05T13:14:40+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "◇大和ハウス工業（４月１日） - 下野新聞社",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZVNDYVZ4OS1hXy1YNWtHTDdpS0VHNzhZVWdDSi1qcHllOWFDd2hSLUpTLVA5LXlrMUtqZ2lHeGoyVExFbFZuOExEUnBqTG1ZQkFvNGtoMWJfbTQ?oc=5",
@@ -1722,13 +1736,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FRUlJN1JmaVpzY1BlNXE3dTM2RDhsbmtKdVZudnFmRG1iN0Q1ejlKOEFtY0xDQWg1NXI4NDRqLXlBOGRuUEVQQ1RnZG8zU3J6bVk4RWJ3azdTcDg?oc=5",
             "published": "2026-03-05T05:00:00+09:00",
             "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業が過去最大規模の6500億円で米大手住宅メーカーを買収！悲願達成も待ち受ける米国事業2つのリスクとは？ - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mVXBmLWZoeGh2WGdRaDliZzBldWtQVG4zWlVSS0VvV09RMUpnTE54YXhtOE80MnBkSWJubkxERlpQODloSUFaVGpSMnTSAU9BVV95cUxQbHdmQjhLRl9BWlEyekFtSTJWcElVVnZVb2VYYjRLTno5YUdlX3lPam1EcUJfWU9MWnZ6WGJ0UTNlOVpWdEd3TVRrT3FUdXBj?oc=5",
-            "published": "2026-03-05T04:52:00+09:00",
-            "source": "ダイヤモンド・オンライン"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2110,17 +2117,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "効率性･機能性･資産性…ビジネスパーソンのニーズに適う､リラックス＆リフレッシュできる家づくり - PRESIDENT Online（プレジデントオンライン）",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBod3J1MGhuZGdBU19NcEpqUzdtNkd3SU5BRXpUNXNKd2tWSTFWME03b2FTX2gtS0hRQk5IRndpWnBsSXRFYXJ3THNuLU02LUk?oc=5",
-            "published": "2026-03-02T17:00:00+09:00",
-            "source": "PRESIDENT Online（プレジデントオンライン）"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "Ceglu™ cultureware北米地域での販売開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VWnlaSmg5U1lGeHhvRHdWZnQ2aHROZEl0NEFCTUhoNTRwNzZEbDVsZTZIclRLN3V5MHcyQkpHUnVSU2VacUtjel95eUlUQjRTLXRJR2VHejNVOFZFdXB4a25sX3RPeE5ZaGc?oc=5",
             "published": "2026-03-02T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "効率性･機能性･資産性…ビジネスパーソンのニーズに適う､リラックス＆リフレッシュできる家づくり - PRESIDENT Online（プレジデントオンライン）",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBod3J1MGhuZGdBU19NcEpqUzdtNkd3SU5BRXpUNXNKd2tWSTFWME03b2FTX2gtS0hRQk5IRndpWnBsSXRFYXJ3THNuLU02LUk?oc=5",
+            "published": "2026-03-02T17:00:00+09:00",
+            "source": "PRESIDENT Online（プレジデントオンライン）"
         },
         {
             "company_id": "sekisui_heim",
@@ -2722,13 +2729,6 @@
             "title": "住友林業による「スミリンでんき店舗・事業所向けプラン（関西エリア）」の特徴｜電気料金プランDB - 新電力ネット",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05NHFvWUFxdGY5X3AzaVlaUnFDNWNLb1F1VXdNMzlpUTBLX3N5ckVNQXpFNlM0TmtQLUpxOVcxT0tDQkNraFdhLV8tdXZlZw?oc=5",
             "published": "2026-02-26T18:39:57+09:00",
-            "source": "新電力ネット"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業による「ダイワハウスでんき 従量電灯B（東北エリア）」の特徴｜電気料金プランDB - 新電力ネット",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12S2pvdTliNHNZaHRtMFUxTkk4aVY1eHhVbl9aS1daSVE2VjZDT2xWWmVaSVpCc0RHUXFWVDNnT3ZJTXFVSC1TcFZLaE1BQQ?oc=5",
-            "published": "2026-02-26T18:37:40+09:00",
             "source": "新電力ネット"
         },
         {
@@ -5239,7 +5239,7 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "環境省「エコ・ファースト企業」に認定 - PR TIMES",
+            "title": "環境省「エコ・ファースト企業」に認定 | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ScmNzTldkX01uZ2h6V2l6TU92bWU2MWYzZzRJeml5MTJ0MlQ3eUZjM2lnOEU5dVM4NlNUTzhWeml3S25tWnR1RHU1czJna2JkSEFwbmt0SnFMeGlqVlhkZGxNeVRWVG1WZHc?oc=5",
             "published": "2026-01-15T17:00:00+09:00",
             "source": "PR TIMES"
