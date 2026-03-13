@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-14T07:24:40.609162+09:00",
+    "generated_at": "2026-03-14T08:24:36.756219+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -735,6 +735,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80UDlMc2VKMEVtX29UVlplSE41bmR3R0k0QTJZYmF1QXlBQnZudzNkaTZEbXNrbmxDSjFkZzF0c3lHWC11aklCTjcxTGJQZFFHa2xUS0FwZWpNVERzY0FhcUxkZHJVR3RBeEE?oc=5",
             "published": "2026-03-09T16:30:40+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：AI値動き解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
+            "published": "2026-03-09T16:10:47+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1942,6 +1949,13 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "大和ハウスが3Dプリンターで住宅外構量産、独自の巨大ヘッドで印刷 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00OVA0dFRKZ2s1WUxtSnZLNWtRNUctTkloS1J4dy1LVXV4RVBMMW12NUhpRURqZWpsaEwzSG1ZWkl4bzhHSTViT0poR1UyZ1NJdjVvdnNqY05iRVZneWhTNnFlTjlrVXM?oc=5",
+            "published": "2026-03-03T17:00:00+09:00",
+            "source": "日経クロステック"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "大和ハウスリート投資法人【8984】：株価・株式情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZzE1d1RQNGFlYndOaFBnaDBkZ1lWZzFLSEFPVGxpTUZueVlUbmVleHpZOEd4U3hkRUM1ekkyOGs0RGs1dXdpV2Z6UTVwR3hNbXc?oc=5",
             "published": "2026-03-03T17:00:00+09:00",
@@ -2065,13 +2079,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFMFhhREZVbHBFVWpaWl9Jc21NUjhXR3hQTHhpaDdhM0l3ZS02S3JMS1RKajRhTHpkcjRkdkJEUjR5YUQzMXlQdzRlTTR6VVJTOGFJeFJWRXM?oc=5",
             "published": "2026-03-03T05:05:42+09:00",
             "source": "建設通信新聞Digital"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスが3Dプリンターで住宅外構量産、独自の巨大ヘッドで印刷 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00OVA0dFRKZ2s1WUxtSnZLNWtRNUctTkloS1J4dy1LVXV4RVBMMW12NUhpRURqZWpsaEwzSG1ZWkl4bzhHSTViT0poR1UyZ1NJdjVvdnNqY05iRVZneWhTNnFlTjlrVXM?oc=5",
-            "published": "2026-03-03T05:00:00+09:00",
-            "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
@@ -2708,13 +2715,6 @@
             "title": "住友林業による「スミリンでんき店舗・事業所向けプラン（中国エリア）」の特徴｜電気料金プランDB - 新電力ネット",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rMDBpYk9IUjF5eUxjX2VRS1NMcDBRZzhSdlJQRU9CY3VFTWVKb1AwNmxYZnFnZlRKczdOSjF6RU1weVh1ZTd2SXl2MHBBUQ?oc=5",
             "published": "2026-02-26T19:43:36+09:00",
-            "source": "新電力ネット"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業による「ダイワハウスでんき 従量電灯A（中国エリア）」の特徴｜電気料金プランDB - 新電力ネット",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSFpvd3JodS1pSERDWjU0Z0ptcTU1T0MwT3RGT2czTTktQ3l0YURrRXd0dGtkVHFWSjJKZU5rX1YxTjhjRG1PeDVYaUVtUQ?oc=5",
-            "published": "2026-02-26T19:09:33+09:00",
             "source": "新電力ネット"
         },
         {
@@ -6163,7 +6163,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックHD、挫折した「家まるごと」戦略 ハウジングソリューションズ社を売却 - 日本経済新聞",
+            "title": "パナソニックHD、挫折した「家まるごと」戦略 ハウジングソリューションズ社を売却 - 日本経済新聞 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81T1REMHBhSlFuUV85OUV5VHV2ekVFUnNReFZIN2RZRFlRWVJJVi1wVjk5S3RONE9SWnJZVURqSk9ZZWxxUlFFTW9oX3NPYkc2WlJLZ1poSGxBbFVsS0UzTVhmYVhnLUN2QXRPUA?oc=5",
             "published": "2025-11-19T17:00:00+09:00",
             "source": "日本経済新聞"
