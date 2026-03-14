@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-14T13:07:49.775218+09:00",
+    "generated_at": "2026-03-14T14:42:08.763031+09:00",
     "articles": [
         {
             "company_id": "misawa_home",
@@ -679,6 +679,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNEJtd252bDZxbWlzMW1PUFNVS09kWjFyQ19DT0ZacjNxTE80NG9qUnpDVWd2NktETFBidmhsbnlZQ014WjZOS2o0MDlmcjZPMWdYS0VwenUyQmYxQmlSN2J3V3pEOXVwa3c?oc=5",
             "published": "2026-03-10T11:00:03+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、売上高5兆円へ…米国「ゲームチェンジャーとしての基盤を構築したい」 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tUmUwakYzOWtBUk1wY1hua0NwQnRDWU1mZFRqdnh2T0p3b1YzWFBLLVgzMjZqeDd0Y0VmTU9qOFRfTmd5cDZF?oc=5",
+            "published": "2026-03-10T10:47:01+09:00",
+            "source": "ニュースイッチ by 日刊工業新聞社"
         },
         {
             "company_id": "hebel_haus",
@@ -1466,17 +1473,24 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス【1928】、今期経常は4％減益、1円増配へ | 決算速報 - 株探ニュース - かぶたん",
+            "title": "積水ハウス【1928】、今期経常は4％減益、1円増配へ | 決算速報 - 株探ニュース - 株探",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GX2IwZnRXSzVUNHRFVW9qYXZsbWRSZ0ZfblZnb1dZQ2JmVlJTdmd4NzM1eVJTRFZpd2Q2NmZJemZzWVI5WkluTWg2bGhiRHFGY0E?oc=5",
             "published": "2026-03-05T17:00:00+09:00",
-            "source": "かぶたん"
+            "source": "株探"
         },
         {
             "company_id": "sekisui_house",
-            "title": "【５％】 積水ハウスＲについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.24] - かぶたん",
+            "title": "【５％】 積水ハウスＲについて、三井住友トラスト・アセットマネジメントは保有割合が減少したと報告 [変更報告書No.24] - 株探",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zYlVMdndsWDBEb0ZfVzc5RFQ3LXZ4RzZKUVJtbmtOdlZvdkFNYnFDR3MzaGdtVUYzQ0RkWGdrSGtKU2w1S3ItdWp2Y2I5SXZZRnJqLWVFZl9fdk1kUVFnNA?oc=5",
             "published": "2026-03-05T17:00:00+09:00",
-            "source": "かぶたん"
+            "source": "株探"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス－後場下げ幅拡大 今期最終益6％減見込む 前期は7％増〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGt0aHgtY1ZXa2x4U25peWN2bWNYRUU5TmRYMklSYzVTbDlxVjNfR1ZxNF9XNVdQX0xvZ21jV09ZZklfRk9zRDJ0Um5YdTJudnVqQjVQMl9CVGRBSnRBcVVZeGFDM29FZ1FsLXRaOGVuNmRtaHFBRS1oS0hFSVhFdmxHNWVNZEE?oc=5",
+            "published": "2026-03-05T17:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -1640,13 +1654,6 @@
             "source": "山形新聞"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス純利益過去最高 - 埼玉新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12UlVBT1dZTkRrYXF2YkNHa0h5MHViQ0Y0VUpta0JMYnlXOWNYQnh6aXlTM1FYUUkxVXNGckkwRnJGYTdOVzFmd3BZSi1GbG9wRVc1N01tSQ?oc=5",
-            "published": "2026-03-05T16:50:00+09:00",
-            "source": "埼玉新聞"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "【調査】大和ハウス工業：窓の理想と現実にギャップ、8割が大開口志向も実際は33％にとどまる - みんなの広報宣伝部",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TaFhxVlZzUFNFMmMzOVo4RG9xbEZGaWVROEVBUlJTQnNEaXFzX3hUV25GbEo5M2E3emE0ZDhnbFNhUy14dDhBRzJ4NnVtZHFOd1RJcVRPNHpaak1rZFRETU5zeDZ5bkFzV3RmdVVsNGE?oc=5",
@@ -1666,13 +1673,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KMS02VF9fc3hMT2pOY0Q0WFdMMzRWZEJ6N2ZTelVIUHF4d3pUd3ZZZDZyanhtTldLR2d0U1lQdDdkSjNmQWlJVVNQbHFrOFBXeUE?oc=5",
             "published": "2026-03-05T16:12:56+09:00",
             "source": "SBSマイホームセンター"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "後場コメント No.1 積水ハウス、アライドアーキ、すかいＨＤ、ラウンドワン、ＪＤＳＣ、Ｊマテリアル(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzYwbTB4alhwNmI0TU1iT0huaXJRY2hpWnNLM2RrMTZFWlY1Mkx6b3Nkc3FMZDJIeU1MSWJvQlRvdEdMRldDT0ItQ1hKcVhzVXdXX1FEWTVVX0NJRGsweTdVRXhxLWMtU0VoT1NrcXAzb0xyS3VSSzdPN1pWbjV6dkV4SURjYlE?oc=5",
-            "published": "2026-03-05T15:30:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "panasonic_homes",
@@ -2208,7 +2208,7 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "Ceglu™ cultureware北米地域での販売開始 | 積水化学工業株式会社のプレスリリース - PR TIMES",
+            "title": "Ceglu™ cultureware北米地域での販売開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VWnlaSmg5U1lGeHhvRHdWZnQ2aHROZEl0NEFCTUhoNTRwNzZEbDVsZTZIclRLN3V5MHcyQkpHUnVSU2VacUtjel95eUlUQjRTLXRJR2VHejNVOFZFdXB4a25sX3RPeE5ZaGc?oc=5",
             "published": "2026-03-02T17:00:00+09:00",
             "source": "PR TIMES"
@@ -2866,10 +2866,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - かぶたん",
+            "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - 株探",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQWZNaW9nRlR0bFg3LTZCR2N0MFl1V3ZFRC1rOTFwUlNlYVdtTkVVQlN4aWVFNENQdDk4enZuRC01aUNFTDZwcVpZbTRiMWJFUEVQWm1ublNuS0Q5a0tOOA?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
-            "source": "かぶたん"
+            "source": "株探"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -5078,17 +5078,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84bjM5OTQ4VmNETkNiRzFJTzZNaUlrZzRMWWJGVW1hLWtlUUFoV3NPZlBhNWpuZC1pME9WYnZYQXNqZW9Qd3hmcFU2MGdxTmUwbHgtWnFab21hZ3oweGlUb1MxQjZKRGxVNmc?oc=5",
-            "published": "2026-01-20T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "旭化成ホームズ、一次エネ等級8に対応 坪単価135万円～ - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdWQyVFlxNUxfTjJJa3F4c3F5TU1Wc0xNN2s0LXdRMmRXdFE0VEtmaElGRVBiYUJaa2tWWi1ZOE9LNnAzc05IeHRnRjFqbXFJZGc?oc=5",
             "published": "2026-01-20T17:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "【エータイ】旭化成ホームズの安心設計・施工による納骨堂が竣工。 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84bjM5OTQ4VmNETkNiRzFJTzZNaUlrZzRMWWJGVW1hLWtlUUFoV3NPZlBhNWpuZC1pME9WYnZYQXNqZW9Qd3hmcFU2MGdxTmUwbHgtWnFab21hZ3oweGlUb1MxQjZKRGxVNmc?oc=5",
+            "published": "2026-01-20T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
