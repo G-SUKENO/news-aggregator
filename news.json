@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-16T04:25:08.061868+09:00",
+    "generated_at": "2026-03-16T05:24:30.697486+09:00",
     "articles": [
         {
             "company_id": "misawa_home",
@@ -199,7 +199,7 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "【ヘーベルハウス】親子コラボキャンペーン｜柏駅西口ハウジングギャラリー｜住宅展示場を探す｜家サイト｜住宅展示場ガイド - 家サイト",
+            "title": "【ヘーベルハウス】親子コラボキャンペーン - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92czV1UWgyb2xyRElpMzZ4UjNNU2FvOWQzY1M0OTIzYlRkLTY1N0tDU2lIbGNuTEhiMnZkRHdOdFYwVmRQT2FlM0NEdnVZMS04T3ZoZmxmVl8tT29RMzBlc0RDbXVOR2tUQ25tMVhR?oc=5",
             "published": "2026-03-13T16:00:00+09:00",
             "source": "家サイト"
@@ -1200,17 +1200,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業、津田塾大学に木造平屋建て「ウェルネス館」竣工 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQUJSSWJyR3RsMHhxbUJPMHBxRGM2eURwOTNXYTBiQ291SHFhWFNZaUVEMkFhbEdJdHBrVjJlSzhYbktOUnpIRnVnOGVZbmFGeVE?oc=5",
-            "published": "2026-03-06T17:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業と電通が発表した｢社債型種類株式｣は個人マネーを大きく動かすイノベーションだ - 東洋経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yUTFwSVhDSTBrVFdnM21hd0tZdHJfRkM2ejR2NXc2UDVIS1Y2YlpveTlEQ0FqMEJIUTl0aHBnSlpJYktuSDFWLXhvQW9XSEpHUk9fMWpTdHRIRkVtWUI4?oc=5",
             "published": "2026-03-06T17:00:00+09:00",
             "source": "東洋経済オンライン"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、津田塾大学に木造平屋建て「ウェルネス館」竣工 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQUJSSWJyR3RsMHhxbUJPMHBxRGM2eURwOTNXYTBiQ291SHFhWFNZaUVEMkFhbEdJdHBrVjJlSzhYbktOUnpIRnVnOGVZbmFGeVE?oc=5",
+            "published": "2026-03-06T17:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1704,6 +1704,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス純利益6%減 27年1月期、持ち分法収益剝落も営業益は最高 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzBzdnZXeGVRVXExR3AwSVBJaTNneFdrNVF6VVRsbUx1dG4xblhrOHRFcmotdnpwWVlZUGVNQ2Zva2xDX292LVZRME5aR2RUaGZxTjBNXzNPUUVrdDdmejRWLXJrTG4xY2dWclpoRWdkcWZsVHl0TnRaV3ZkVlRRVzZzQ1U5YU5OUXp5djMxY3ZtVFJleHRXaTJwYzQ0ZDZzMEpodVVDdUc?oc=5",
+            "published": "2026-03-05T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス、配当金下限を110円から145円に 29年1月期に売上高5兆円（ロイター） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTDFNdzJtUFRCMHczVHp6MFVveEhGYTA3U3FVbGtkM21ELTBZekpEaXpCSTRKMEZUaHllaTZHYVY2eng1ZlVVYzQxYUZhWEhISzdCSmRNV3NHM0J5M2tBeFhMUmR5N1VZMkFONWdCQ2FiRnZYOVNDcXNqWEZvWlE?oc=5",
             "published": "2026-03-05T17:00:00+09:00",
@@ -1757,13 +1764,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGt0aHgtY1ZXa2x4U25peWN2bWNYRUU5TmRYMklSYzVTbDlxVjNfR1ZxNF9XNVdQX0xvZ21jV09ZZklfRk9zRDJ0Um5YdTJudnVqQjVQMl9CVGRBSnRBcVVZeGFDM29FZ1FsLXRaOGVuNmRtaHFBRS1oS0hFSVhFdmxHNWVNZEE?oc=5",
             "published": "2026-03-05T17:00:00+09:00",
             "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス純利益6%減 27年1月期、持ち分法収益剝落も営業益は最高 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzBzdnZXeGVRVXExR3AwSVBJaTNneFdrNVF6VVRsbUx1dG4xblhrOHRFcmotdnpwWVlZUGVNQ2Zva2xDX292LVZRME5aR2RUaGZxTjBNXzNPUUVrdDdmejRWLXJrTG4xY2dWclpoRWdkcWZsVHl0TnRaV3ZkVlRRVzZzQ1U5YU5OUXp5djMxY3ZtVFJleHRXaTJwYzQ0ZDZzMEpodVVDdUc?oc=5",
-            "published": "2026-03-05T17:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -3006,17 +3006,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業株価一時3.6%安 SMBC日興が判断下げ、米社買収受け - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XX1dzZmR1eXh0R252bmQxM28tcjBrdE5CUTNzT0Z1NVRlWDR3VEhPa3FFdUExY2JkZ1E0b2hXeDg3bWtHb0FVYzFXM0JCOUVDZC12Q1dlUkxuM2VxR01xTUNPZEptVVJuMEdEaA?oc=5",
-            "published": "2026-02-25T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "【材料】 住友林業---続落、米国市場の回復見極めたいとして国内証券が格下げ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQWZNaW9nRlR0bFg3LTZCR2N0MFl1V3ZFRC1rOTFwUlNlYVdtTkVVQlN4aWVFNENQdDk4enZuRC01aUNFTDZwcVpZbTRiMWJFUEVQWm1ublNuS0Q5a0tOOA?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
             "source": "かぶたん"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業株価一時3.6%安 SMBC日興が判断下げ、米社買収受け - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XX1dzZmR1eXh0R252bmQxM28tcjBrdE5CUTNzT0Z1NVRlWDR3VEhPa3FFdUExY2JkZ1E0b2hXeDg3bWtHb0FVYzFXM0JCOUVDZC12Q1dlUkxuM2VxR01xTUNPZEptVVJuMEdEaA?oc=5",
+            "published": "2026-02-25T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -4609,7 +4609,7 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "民泊の営業規制、事業者は困惑 パナソニックホームズは物件の賃貸転用を検討 - 日本経済新聞 - 日本経済新聞",
+            "title": "民泊の営業規制、事業者は困惑 パナソニックホームズは物件の賃貸転用を検討 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdnI4R2k1MkNTZ3Rmc2E1UnkxY25aZ0MxRzFUR0Z3M1RLUUZOQ3gwNHRhTndGeGFRYVRyLWRlZ3RqUTV6NFRPSElDYjk4S3ZRaWRGM0s1ZDBRMzFNS3Zva3k2NnpXeEhNZk1CRA?oc=5",
             "published": "2026-01-31T17:00:00+09:00",
             "source": "日本経済新聞"
