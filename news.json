@@ -1,6 +1,20 @@
 {
-    "generated_at": "2026-03-19T04:06:37.235499+09:00",
+    "generated_at": "2026-03-19T05:31:54.654483+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、住宅複層壁の水分測定 検査機を開発 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdW5jam1uSVM5UFRDNzFJN1dwTTVHVkhYemJkX2pUZHJnMVNUVXZCWWJNNm03amdyRDRxQ2VxZ09mWDdfRkFjWHNEZWdLUUdFRGxlckZTRHcwMjA?oc=5",
+            "published": "2026-03-19T05:02:52+09:00",
+            "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、3Dプリンターで住宅外構量産へ 独自の大型ヘッドで印刷 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NcEJnVUd1SlRMZVR2TXkyUWxMSHNtMEwzUGt0MndYS1o1Wl9vY1VYUHFQVUNUS1dPWF9qVWZQaEdPemNIZXFnamExNVNPQVkyaE5vZHZLQ0dTa0RzUkF0MXA3OF9QYU00UmxWUw?oc=5",
+            "published": "2026-03-19T05:00:00+09:00",
+            "source": "日本経済新聞"
+        },
         {
             "company_id": "panasonic_homes",
             "title": "パナソニック ホームズの国内複数拠点へ「zenshot」の本格導入を開始。現場データとAIを活用し「現場管理の極小化」を加速 - 朝日新聞",
@@ -98,6 +112,20 @@
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OcWhsblYxWndQUDZOTHhjX0dkbGhiY0UwX0dpNGoyUEtSSmlCX2FzWXRYOTF1X0F2WVAtTmdjSUlkM0hMZURjNXdUbm1PMHRrTnpMZ1oxSGZ1UQ?oc=5",
             "published": "2026-03-18T08:30:30+09:00",
             "source": "LIGARE（リガーレ）"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "画像 | 《積水ハウス事件》｢地面師｣たちのまさかの\"その後\" なぜ大企業は狙われたのか…主犯格から届いた衝撃の手紙 - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94OW53ZjJxRXVnbnkzQWV4YkZoNDctZGticGNyVTUxUGhiekdfSzlDd21tQ1MwYXVoMmUyTV9TUWY3RUVuMldLRTVfMmFJWlBBZXRtVFVWbzhHWTVwQXc?oc=5",
+            "published": "2026-03-18T07:15:06+09:00",
+            "source": "東洋経済オンライン"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "画像 | 《積水ハウス事件》｢地面師｣たちのまさかの\"その後\" なぜ大企業は狙われたのか…主犯格から届いた衝撃の手紙 - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WX3Ztemd1Y1I1OGVIVU84RFl1a0Q0ZW5jdXc4RzhNSTZhOTNuU1Y4aUdNNjlhSFgxRDB6cHU3eW9TZXItaVlKdy1ramQxOVk3T2RZME42aw?oc=5",
+            "published": "2026-03-18T07:11:43+09:00",
+            "source": "東洋経済オンライン"
         },
         {
             "company_id": "daiwa_house",
@@ -1374,6 +1402,13 @@
             "source": "NEC wisdom"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "コスモスイニシアが、「健康経営優良法人2026（ホワイト500）」に認定～ 健康経営の取り組みが評価され、6年連続認定 ～ (ニュースリリース) - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYLU5Pb0FrdFlwNWZVaDBqbS1JNUF2YXRwbEVEdjZBZlFUcG85eWVjRWFsbUhKQVE4YkwzUjlJQnhiMDIySjRoSXJxVFRJS2tGTUdRRjIzRlBEY0dOT1FMWHBjaUtFVmZLQ2c?oc=5",
+            "published": "2026-03-10T11:00:03+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "国内初 積水ハウス、大栄環境、AGC、住宅改修における窓ガラスの資源循環の実証実験を開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kWWlEbUR1cl9vZXFZUml0Y012TlRiQmp3dTlTejZVZ1l4YmlOVG11Z1BWdG94dXVYM0hEbU1PTTZfYnVKd0dQWG12cmpUS0s1X0hEcFoybVl3TTZaTWdsR2IwZGQtSEYzMmc?oc=5",
@@ -1384,13 +1419,6 @@
             "company_id": "sekisui_heim",
             "title": "健康経営優良法人2026（大規模法人部門（ホワイト500））に認定されました - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNEJtd252bDZxbWlzMW1PUFNVS09kWjFyQ19DT0ZacjNxTE80NG9qUnpDVWd2NktETFBidmhsbnlZQ014WjZOS2o0MDlmcjZPMWdYS0VwenUyQmYxQmlSN2J3V3pEOXVwa3c?oc=5",
-            "published": "2026-03-10T11:00:03+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "コスモスイニシアが、「健康経営優良法人2026（ホワイト500）」に認定～ 健康経営の取り組みが評価され、6年連続認定 ～ (ニュースリリース) - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYLU5Pb0FrdFlwNWZVaDBqbS1JNUF2YXRwbEVEdjZBZlFUcG85eWVjRWFsbUhKQVE4YkwzUjlJQnhiMDIySjRoSXJxVFRJS2tGTUdRRjIzRlBEY0dOT1FMWHBjaUtFVmZLQ2c?oc=5",
             "published": "2026-03-10T11:00:03+09:00",
             "source": "PR TIMES"
         },
@@ -1759,6 +1787,13 @@
             "source": "福島民友新聞社"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスグループ、東京都中央区で展開する「ダイワロイネットホテル銀座PREMIER」をリニューアルオープン - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1feDctNm9wbkR3MzVyR1NaU1l1VF95MDN5bzllTG1lQmVVc0ZPMEZPd3AtblN1SFFkV213SEJjTmgzRFlDclQ3c09nQmNRT0xwa2ZFZXlCOTlBT3FzcXAzMVRocG5PSThHQmI3eA?oc=5",
+            "published": "2026-03-06T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "決算マイナス・インパクト銘柄・寄付 … 積水ハウス、タカショー (3月5日発表分)(株探ニュース) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjB6MDRLZmxiY0stQzM5a3FmcXJuSm11X0d6S3NaVFJNcEEyVXVtcXAtckZzY2xCVThJM18zek00eHM1NHlEeVZScWt5eVFRYUVlaG8xRTJ6VHJyU205SGZiWWNMbE5qZE1HSmlQaGU3bEtnd2JBM3VOYnZuZGFETzh0OVlRbzdCTTJxRE03Q1ZRVk1WQUtfTGdrWQ?oc=5",
@@ -1832,13 +1867,6 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業、グループ会社LeTechのデザイナーズ賃貸マンション「LEGALAND三軒茶屋South」が竣工 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTFrQTRBVmxqcGFaaVZNNUtXMUtmOTc2djV2NnZIczU5aFUtX1RDNEx1WnNfekNFd0VkWS1xQzd5R2pOV3JnQlJDb3NRWlZXZTR3cmxzQXJUS01YQkxDUGdvNko1eGdtNE83N3F6MEExZ0ZaeElpWG9kX3FRWGROUGp4RTg0QnNQeE9SV1E2Ykk4bExydEhfZ3JsMHBiQ0FHZ0xn?oc=5",
-            "published": "2026-03-06T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスグループ、東京都中央区で展開する「ダイワロイネットホテル銀座PREMIER」をリニューアルオープン - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1feDctNm9wbkR3MzVyR1NaU1l1VF95MDN5bzllTG1lQmVVc0ZPMEZPd3AtblN1SFFkV213SEJjTmgzRFlDclQ3c09nQmNRT0xwa2ZFZXlCOTlBT3FzcXAzMVRocG5PSThHQmI3eA?oc=5",
             "published": "2026-03-06T17:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -2193,20 +2221,6 @@
             "source": "東京新聞デジタル"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "〔決算〕積水ハウス、２７年１月期純利益６．１％減の見通し - ｄメニューニュース",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3am1NeXMxcl9mR2FqNDhUVlFwREZjUURfTDQzTzhPdEwxcWZhWDEzWUFDc1pGc1ZBVGxGRm14MVdweXFfMWVZMGdwTzRucjZWbGFGUTI0Skw1T3B3RTFydzdDZzhiWVhqR1VaWlg3eG1US1hWY1Z2ZtIBfkFVX3lxTE9oQ3B6TWJlQTAwWlVtUHJ2MnBKYjV0RU00ZU1EZVVURlJxckliVG1UemZ3T3dSRVV2T1FXT2N4Sy1ZTVFPbzhkT05pbXB3SGJpWV85WTNTc0Z1RDJpcWNEWUE3bDZnVy1zMklPaExvcnhtcWFhS2l3b1pqdjBLZw?oc=5",
-            "published": "2026-03-05T18:07:00+09:00",
-            "source": "ｄメニューニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "決算:積水ハウス純利益6％減 27年1月期、持ち分法収益剝落も営業益は最高 - 日本経済新聞 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVa3lDNkU4OS01OUI2R0pva0Eyb0JIdkJpQjRpLXMtWEx6dlBVcmtBMXpvUnV5NUU2Z0xBM200NVZDZDlIYlNtNldVYVdXb2xmbjNDbjdpdEkxTWZQSHRTM21JcThQQXVqSEJNMg?oc=5",
-            "published": "2026-03-05T18:02:46+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "一条工務店【200棟限定】新商品「Naturia」先行販売キャンペーン！ | SBSマイホームセンター - 静岡県下最大の住宅展示場 - SBSマイホームセンター",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13eE1MWlhyNmxLbHdXV2FNUmZ2WlROX1ZRSVFXNkVvcDNGNGZpa3llUXdpSXMyLW1URmFhN3hLZV9PUFB4Yld5bVRmWmpnNXpt?oc=5",
@@ -2249,6 +2263,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "戸建てから大型物流倉庫、データセンターまで 大友浩嗣・大和ハウス工業社長（サンデー毎日×週刊エコノミストOnline） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbk5iZXlGZHF0MXdZZGUyZC01VmRNXzJ5bW5XdWhDRHVHeHJUclZDU1k3VU1Pa01MNXBnY3BBREZEaWpaRXNuNl90NC1TRXdBVDBMck96TmtsWXI2a01ESzNCRWY3YUw3N1Y3NUo2dDF3cHhEVzN1UG13RzRtNWc?oc=5",
+            "published": "2026-03-05T17:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "パナソニック ホームズの国内複数拠点へ「zenshot」の本格導入を開始。現場データとAIを活用し「現場管理の極小化」を加速 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05a1l1MmppLVpJQ1E4U1FXSFZwTmhrdW1UTG5wdFJ6ODF5ODgyak1ZYXYwTGRsbmt3TUpSVFRmUHB1VzlhcWtURU9Zb29hcDMyeko1LUo0TE03WGtqYkh3SjFqVFhwMVVvcXc?oc=5",
@@ -2275,13 +2296,6 @@
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU19GVUxzR0IxOEZMeGZ4SnphRXJJSlFjdDU3LXJpdFA4OVpaRmNKN3FfMXZVT2E0cUlFZEhia0RvZmFvUWNQcmtKWUlDUWRzTy1MdDVLQ3RnSk4zWUdLcVFGUkp3Z3E2WHAtT016cWcwU085cVBvNXZQdnU4cnVscGMzb3g0c0ZkamltMUhrRi1YNHFsa05BRHhpTmljTmJaQXlN?oc=5",
             "published": "2026-03-05T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "戸建てから大型物流倉庫、データセンターまで 大友浩嗣・大和ハウス工業社長（サンデー毎日×週刊エコノミストOnline） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbk5iZXlGZHF0MXdZZGUyZC01VmRNXzJ5bW5XdWhDRHVHeHJUclZDU1k3VU1Pa01MNXBnY3BBREZEaWpaRXNuNl90NC1TRXdBVDBMck96TmtsWXI2a01ESzNCRWY3YUw3N1Y3NUo2dDF3cHhEVzN1UG13RzRtNWc?oc=5",
-            "published": "2026-03-05T17:00:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -2480,6 +2494,13 @@
             "source": "家サイト"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "「第64期大和ハウス杯十段戦第3局」大盤解説会の開催について - city.omachi.nagano.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NOTd3RnYxRGNibko2eXZSNGxFcmUxUkFTM09XOVdKUVpjN3JsNEF3SkZUaGlpZzB0LWk5bFJrcXVWOFBaUEREdzBTZ0cwLVpONDlXWV84Ul9BUExUMW1aeFlyUjg1a0dsX3c?oc=5",
+            "published": "2026-03-04T17:00:00+09:00",
+            "source": "city.omachi.nagano.jp"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "KDDI・住友林業・太陽石油・東京製鐵が寄付する理由 京大「自然再興」講座とは - 京都新聞デジタル",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wSVFMTm9ncE9FMUE4OFB6b2tVVTl0YU80dkNwMFpXZnFxSk9JN25hQWNPYXVWc2R6VFdZUTJ1WGJYZ1U3dU0ydHhZZ1BiQ1c1a3Z4WkdYTzI?oc=5",
@@ -2492,13 +2513,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wbDE0QUM5Mm5GTUM3TkU5NGJmSFl6cGRzVGpkOEVTTFlvUmE4SGNJVWhHNlEzWlFKemF0Z1NGMlctalZ1cWpzSGRrQV9LWTZKbVMtdy1Oc0xwcGpaWTJzS3pSa1JELVRTYW16aw?oc=5",
             "published": "2026-03-04T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "「第64期大和ハウス杯十段戦第3局」大盤解説会の開催について - city.omachi.nagano.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NOTd3RnYxRGNibko2eXZSNGxFcmUxUkFTM09XOVdKUVpjN3JsNEF3SkZUaGlpZzB0LWk5bFJrcXVWOFBaUEREdzBTZ0cwLVpONDlXWV84Ul9BUExUMW1aeFlyUjg1a0dsX3c?oc=5",
-            "published": "2026-03-04T17:00:00+09:00",
-            "source": "city.omachi.nagano.jp"
         },
         {
             "company_id": "mitsui_home",
@@ -2627,13 +2641,6 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスグループがJPYC社に出資し日本円連動ステーブルコインの発展を支援する - ニュースメディアVOIX",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZkhoNEtRckJLbWNxU0V6ajNRaUx4Qi1MSDk0THAwS0hsVWxZa0pLLWNZN0hydGVIa1Q3bUVNY0pDN0R0X2o5YmpQc1htQUs4aWQ3T1hB?oc=5",
-            "published": "2026-03-03T17:43:15+09:00",
-            "source": "ニュースメディアVOIX"
-        },
-        {
             "company_id": "ichijo_komuten",
             "title": "【PR】上越市で平屋住宅の完成見学会 3月7・8日開催 一条工務店 - joetsutj.com",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CSTRsQ3VoZmNyWkFtNVR1MHNLNm5mNWRSSWwtejVBYWlrcUxsR2ptR3N0Y2w3V2xOWHRqTDY0LW9YSlg1QjFyQ0dqdVNfR2VGRmVuSg?oc=5",
@@ -2646,13 +2653,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NV3JqSVNrY3JxTnYyeHhickgwY3dlOE9UVUVZZEtEYVl3bU1UN05aZDJudEpBbkxCWlRQVmJFTzE2MEpYWnBlTlo1WG_SAUxBVV95cUxNTVdyaklTa2NycU52Mnh4YnJIMGN3ZThPVFVFWWRLRGFZd21NVDdOWmQybnRKQW5MQlpUUFZiRU8xNjBKWFpwZU5aNVhv?oc=5",
             "published": "2026-03-03T17:00:00+09:00",
             "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスグループグロースファンド、日本円連動ステーブルコインを発行する JPYC に出資 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ySWJhTjQ3dms4cXBvYWRmUEtETVV5WXZDeTA1eUZ4bXh5TkJZYmNPb1NGUU9JTm53cDd6M1pSR0xpaVNwN25hNW8xNThuTHRBcktDemE3ODdIcVNvMVdLRFRPcC1MTmFwUEE?oc=5",
-            "published": "2026-03-03T17:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
@@ -4273,7 +4273,7 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "スポーツ庁 「スポーツエールカンパニー」に３年連続で認定 - PR TIMES",
+            "title": "スポーツ庁 「スポーツエールカンパニー」に３年連続で認定 | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sT2lVVEN2dm56NXNaay1wZ0dGZFJFWm5qOFBIanl2R2pmQ1k3RUNLT21nSGdhWnJxR0pHVVpabTJ5VlEyU2VKLUlsNWNGM0pIbzZ2LUtfSC1fM2tudjZ1T01pVElGT25YOHc?oc=5",
             "published": "2026-02-10T17:00:00+09:00",
             "source": "PR TIMES"
