@@ -1,6 +1,20 @@
 {
-    "generated_at": "2026-03-21T15:38:21.256754+09:00",
+    "generated_at": "2026-03-21T16:30:39.929806+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "【売買】福岡・天神の大型ビル持分を取得、大林組が積水ハウスから - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6cjVtY2RoVnJOTDBDOGN3c1h0Tmc5a01LSGNuZTBuZGJHUF9sYkJRU2dSY19qRUtGaWlFQVh4Y21VN1A4UjNrTGdZYUpxbDctTU9wVUdadTJrOE03REhhb1Rn?oc=5",
+            "published": "2026-03-21T16:25:31+09:00",
+            "source": "日経不動産マーケット情報"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "札幌が木戸のゴールを守り切り今季初の連勝 甲府戦 明治安田J2・J3百年構想リーグ 第7節 [写真特集1/9] - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHF1Q3B4OWxLTER0RnEwM29MZmFGNFkzQlltSmU3REVGaDhoMW5CMjVuT0tjWDRNbXhsaE9tQlRmaXh3QUd6MXpQZzdqUFAwbmc0UU9GLUg3aENyMzlSc2x6djhMblduTGtZUV9Kc0Ewci1qUGVvazcwUUktcDVtanNDXzNWVjg?oc=5",
+            "published": "2026-03-21T14:19:36+09:00",
+            "source": "毎日新聞"
+        },
         {
             "company_id": "ichijo_komuten",
             "title": "写真・図版（1枚目）| 【一条工務店】代表取締役社長の交代および新体制に関するお知らせ - AERA DIGITAL",
@@ -163,13 +177,6 @@
             "source": "AERA DIGITAL"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店】代表取締役社長の交代および新体制に関するお知らせ | 株式会社一条工務店のプレスリリース - prtimes.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BbXpad3F2WGZpUmRYYXhrOTUwRFVWRk9QTG50X2JJSmgzdWF0T29reDhHeWJxUVNaWWdvTXRSazM5Y0lqbmFlX3RYWmttQ2ltTUJScmc0Q1hiMk5vV2lPQVFhV1U3Rnh6aEE?oc=5",
-            "published": "2026-03-19T13:00:02+09:00",
-            "source": "prtimes.jp"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【フェアフィールド・バイ・マリオット 道の駅プロジェクト】4月22日「道の駅の日」記念キャンペーン第3弾！「みちる旅マルシェ2026」を4月17日～19日に開催！ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTjF2QTBXUFROUXpsVXRySzVlcndtcEtsa09jSXJZZERFUVlKdFBGTXVGNDNhRHRyVHk5a0hkS1dfTjdtQ3FHUGhjanRhNGg0UU5acVZxSVlJT2ZmdlRXenJZOWQ0dFFHR1E?oc=5",
@@ -182,6 +189,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JTm9KMHoxdlZPdHpxWjNoZ3hIODlGUGhlWFVRcUp1Y3RaS2lCdkJ6QWppakQ4YXZMazFUTHpyYnkyU3NRM1cyNFB0Vms5YnMxdEJNZzBIbUJHaWJhQ1BpMUkzeUpnME9xUVE?oc=5",
             "published": "2026-03-19T13:00:02+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店】代表取締役社長の交代および新体制に関するお知らせ | 株式会社一条工務店のプレスリリース - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BbXpad3F2WGZpUmRYYXhrOTUwRFVWRk9QTG50X2JJSmgzdWF0T29reDhHeWJxUVNaWWdvTXRSazM5Y0lqbmFlX3RYWmttQ2ltTUJScmc0Q1hiMk5vV2lPQVFhV1U3Rnh6aEE?oc=5",
+            "published": "2026-03-19T13:00:02+09:00",
+            "source": "prtimes.jp"
         },
         {
             "company_id": "ichijo_komuten",
@@ -385,13 +399,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Mb2xFVDZNTjh2SnBBQXB3WkpxMkZKYkxZLXBJbUhGb0t6UHVMVHVXalcxWnZGZjBGdDVXeHFWREpKdVNnYm03VGc3SkbSAUxBVV95cUxNTG9sRVQ2TU44dkpwQUFwd1pKcTJGSmJMWS1wSW1IRm9LelB1TFR1V2pXMVp2RmYwRnQ1V3hxVkRKSnVTZ2JtN1RnN0pG?oc=5",
             "published": "2026-03-19T06:02:24+09:00",
             "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【売買】福岡・天神の大型ビル持分を取得、大林組が積水ハウスから - 日経不動産マーケット情報",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6cjVtY2RoVnJOTDBDOGN3c1h0Tmc5a01LSGNuZTBuZGJHUF9sYkJRU2dSY19qRUtGaWlFQVh4Y21VN1A4UjNrTGdZYUpxbDctTU9wVUdadTJrOE03REhhb1Rn?oc=5",
-            "published": "2026-03-19T05:50:00+09:00",
-            "source": "日経不動産マーケット情報"
         },
         {
             "company_id": "daiwa_house",
@@ -686,6 +693,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRjlNU1FaSllHOVNaS09ZMjVGTUdFZ0thUXlINi1WV2xwN0RkSXo0Yl9FMUlrSFpFdnhuakVtRG94UTg3ZEFDRjBLc00zbldXaFpsLUMwakZ2M0FHdWdCYnRWVG40d0VlWEJIYw?oc=5",
             "published": "2026-03-17T11:00:00+09:00",
             "source": "ITmedia"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "茨城県阿見町と大和ハウス工業が「災害発生時における支援協力に関する協定書」を締結(ニュースリリース) - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtZC1mbVhQS3o1bHVLZDFHcHFGNnlmSExTeTRNQWFySlU1SkQwRW5fNGFQUjRuQXZfNlc0UGxTbE1YUTJQS1FMa0MzaEd6VWhhbmluRVJaZ0NGeTVPS0prTXZJVkhVYkdGeFE?oc=5",
+            "published": "2026-03-17T10:00:02+09:00",
+            "source": "prtimes.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -1718,17 +1732,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、幹細胞の培養プレート 北米地域で販売開始 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNFVaaGF2WHVHTllhQXUyVGpXU05jM09BYk93MXpHMHRCWVZqbUFfS1Y3aWp4VjFpc21uVnpjQ3RMY1VaODNzYjJ3Y19hbHlDSFNIdjlhOU1sYi1RdFkwMmJiLXNLQTl6a1U3VA?oc=5",
-            "published": "2026-03-10T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "ニュースファイル県内 ■セキスイハイム東北福島支店に交通部長感謝状を贈呈 - minpo.jp",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tbGYtNUtybHVDTjZEQ2t1WGdGSWFOY0FHa29BNVRsMjI4RzVqR3NWWGtSb2lRa0YyQ0x6dzdvb3VBSE1qR0lIdm9mNVBnUQ?oc=5",
             "published": "2026-03-10T16:00:00+09:00",
             "source": "minpo.jp"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業、幹細胞の培養プレート 北米地域で販売開始 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNFVaaGF2WHVHTllhQXUyVGpXU05jM09BYk93MXpHMHRCWVZqbUFfS1Y3aWp4VjFpc21uVnpjQ3RMY1VaODNzYjJ3Y19hbHlDSFNIdjlhOU1sYi1RdFkwMmJiLXNLQTl6a1U3VA?oc=5",
+            "published": "2026-03-10T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1920,18 +1934,18 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "健康経営優良法人2026（大規模法人部門（ホワイト500））に認定されました - prtimes.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNEJtd252bDZxbWlzMW1PUFNVS09kWjFyQ19DT0ZacjNxTE80NG9qUnpDVWd2NktETFBidmhsbnlZQ014WjZOS2o0MDlmcjZPMWdYS0VwenUyQmYxQmlSN2J3V3pEOXVwa3c?oc=5",
-            "published": "2026-03-10T11:00:03+09:00",
-            "source": "prtimes.jp"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "コスモスイニシアが、「健康経営優良法人2026（ホワイト500）」に認定～ 健康経営の取り組みが評価され、6年連続認定 ～ (ニュースリリース) - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYLU5Pb0FrdFlwNWZVaDBqbS1JNUF2YXRwbEVEdjZBZlFUcG85eWVjRWFsbUhKQVE4YkwzUjlJQnhiMDIySjRoSXJxVFRJS2tGTUdRRjIzRlBEY0dOT1FMWHBjaUtFVmZLQ2c?oc=5",
             "published": "2026-03-10T11:00:03+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "健康経営優良法人2026（大規模法人部門（ホワイト500））に認定されました - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNEJtd252bDZxbWlzMW1PUFNVS09kWjFyQ19DT0ZacjNxTE80NG9qUnpDVWd2NktETFBidmhsbnlZQ014WjZOS2o0MDlmcjZPMWdYS0VwenUyQmYxQmlSN2J3V3pEOXVwa3c?oc=5",
+            "published": "2026-03-10T11:00:03+09:00",
+            "source": "prtimes.jp"
         },
         {
             "company_id": "sekisui_house",
@@ -2452,20 +2466,6 @@
             "source": "四季報オンライン"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "お客さまのニーズに合わせ、全国76施設の中で最も広い72㎡の客室を新設「ダイワロイネットホテル銀座PREMIER」3月9日(月)リニューアルオープン(ニュースリリース) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMWmJnQV81YkFLTGpDdUNMVnRKdndya3pkRlJIbl9EUlJsYkVaZG1RVWFETDl2T3RQM3Jiczh5Y0pBZGdGMXYtcDBxWjZ3QzgwMTJNQXR4dm5mY3lNRVdKTzVmY0hMM2JrWVE?oc=5",
-            "published": "2026-03-06T14:15:05+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "「セントラル三田ハイツマンション建替組合」設立 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Tzg0ZWlsNGYwSXlFTE9yYnpMWkFnd2ZtWks3TkczT2dOZ1BldGFMdFp5ek4xS2VhY1hwcGtrdi00dURKNl9HZEN0dWdoZE44TFBIaGtuNGI4aGM?oc=5",
-            "published": "2026-03-06T14:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ、新入社員の一級建築士取得を支援=人材獲得・定着と技術力底上げへ - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43NFZncTdtaW44REQ5cHNYQlZrbE16amYxOFNjamM3TDN3QWRxWk9mS0U3RTlXZUlRQ00zNG9qa2FRQnJneXFXSlFOa1HSAUxBVV95cUxONzRWZ3E3bWluOEREOXBzWEJWa2xNempmMThTY2pjN0wzd0FkcVpPZktFN0U5V2VJUUNNMzRvamthUUJyZ3lxV0pRTmtR?oc=5",
@@ -2970,6 +2970,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業[1911]：第86期定時株主総会 その他の電子提供措置事項（交付書面省略事項） 2026年3月2日(適時開示) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sVldUdVZIMzcyMHJoNFFzdGlkOWFJdE4yMFpYdlUzYlpITWVUVkxYZU1NWmJkX2Rwd3FoVkNVNHpIcXRzU0N1R3V5TE5rY1lJcFRtWmJhYUdaRTVZTnFjTGRSM3FGRmtvMFE?oc=5",
+            "published": "2026-03-02T17:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズが会員サイトで家主と関係強化 新築減少時代の生残戦略 - 日経クロストレンド",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94Q1l4Q0lXTzhtQTAzVjhtNTJkRy1zeXlTOEI3Z2dCSnpRYVlic1hQQ2kzU0tDRXNsSU16c3Q3SnpCVlhQUmZjNll5SG5LS21pUDZOa2FWd0VFSnpnamJvdHo0Z3RzZ0VIQk51YXdndw?oc=5",
@@ -3024,13 +3031,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRjJ2WnZQVjdqWTR6d1JSZkpWOU1IcTJObnFzSFV2N29ienhPOVV1eDY5UTZYeWRNajRkcV82Z3Njemlycko0QTQzVlRtNl9vWjEyaHliZDBfeGE4NGk3UUEzNUYyNzQ2TXc?oc=5",
             "published": "2026-03-02T09:30:00+09:00",
             "source": "PRESIDENT Online（プレジデントオンライン）"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業[1911]：第86期定時株主総会 その他の電子提供措置事項（交付書面省略事項） 2026年3月2日(適時開示) ：日経会社情報DIGITAL：日本経済新聞 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sVldUdVZIMzcyMHJoNFFzdGlkOWFJdE4yMFpYdlUzYlpITWVUVkxYZU1NWmJkX2Rwd3FoVkNVNHpIcXRzU0N1R3V5TE5rY1lJcFRtWmJhYUdaRTVZTnFjTGRSM3FGRmtvMFE?oc=5",
-            "published": "2026-03-02T08:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3202,17 +3202,17 @@
         },
         {
             "company_id": "misawa_home",
+            "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - ゴルフのニュース",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZYmFQczNZeFhTTk93TWtRLUZJdlhVeHZldzJralVHcUdxYkhpSEVibmkzWGlfQ0dJWnRTT2hkd1Fzam9CS3Q5eA?oc=5",
+            "published": "2026-02-27T17:00:00+09:00",
+            "source": "ゴルフのニュース"
+        },
+        {
+            "company_id": "misawa_home",
             "title": "女子プロゴルファー有村智恵選手と所属契約を締結、永井花奈選手とスポンサー契約を更新 - prtimes.jp",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMG1veDBzRk5aeGsxZEpZVWRqVEZYTnkwNXBtWkNiRE5rV1A2d1lYM082Zmh4Z25ILVdzWDNvaHRhZzNlVUY5LVRITVJvd2JjeGc2RGhvZlQ5Y0dBd0RaY29BY2p0T211aUE?oc=5",
             "published": "2026-02-27T17:00:00+09:00",
             "source": "prtimes.jp"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLM3hxYlBGdTN4UURyZkxJY0NTWUtrTEdUd3ZPaUVRTjItR2dJMzM0RUlXNDk5NGlqalFxWUsybDEtWUlTZW5YTzdyNnNOTDR2TlNvbFFmSTB4N3JZSE5xUDN1QVdRVzBkb0trQ1BZQ0ZLR2luWGU2dllOMjZvdWM?oc=5",
-            "published": "2026-02-27T17:00:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "misawa_home",
@@ -3223,10 +3223,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - ゴルフのニュース",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZYmFQczNZeFhTTk93TWtRLUZJdlhVeHZldzJralVHcUdxYkhpSEVibmkzWGlfQ0dJWnRTT2hkd1Fzam9CS3Q5eA?oc=5",
+            "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLM3hxYlBGdTN4UURyZkxJY0NTWUtrTEdUd3ZPaUVRTjItR2dJMzM0RUlXNDk5NGlqalFxWUsybDEtWUlTZW5YTzdyNnNOTDR2TlNvbFFmSTB4N3JZSE5xUDN1QVdRVzBkb0trQ1BZQ0ZLR2luWGU2dllOMjZvdWM?oc=5",
             "published": "2026-02-27T17:00:00+09:00",
-            "source": "ゴルフのニュース"
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "mitsui_home",
@@ -3510,17 +3510,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学、社長人事も「ペロブスカイト」シフト 塗工のプロ・清水氏起用 - 日経ビジネス電子版",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92LXJkRXc0S3JFTWphSlFCZmtoRjJTZzRWRkVUSGdyY2ktMVFtWWVRaVlJS3lSdnczQnI1dTlCdGRQNnpZVGF6S253WFoxNDMtckhBaEhDSG55dEJRLUsyYTFvWlNvLTg?oc=5",
-            "published": "2026-02-25T17:00:00+09:00",
-            "source": "日経ビジネス電子版"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "「介護・自立支援設備wells」浴室のBIMデータ提供サービスを開始します! - prtimes.jp",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVWV1cFl4dnBzc2JlcTRGU0tsQUMzYnhUSGk0TFFfNkNiQ2d2NjUyTGhHdnoyaUhCd0VhWDhCNGJ6Z3Zta0ZkWC05T1gyeEphTnA2LVNsbHkwUlBmRUdjUGJXZ0JCOUpoSkE?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
             "source": "prtimes.jp"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学、社長人事も「ペロブスカイト」シフト 塗工のプロ・清水氏起用 - 日経ビジネス電子版",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92LXJkRXc0S3JFTWphSlFCZmtoRjJTZzRWRkVUSGdyY2ktMVFtWWVRaVlJS3lSdnczQnI1dTlCdGRQNnpZVGF6S253WFoxNDMtckhBaEhDSG55dEJRLUsyYTFvWlNvLTg?oc=5",
+            "published": "2026-02-25T17:00:00+09:00",
+            "source": "日経ビジネス電子版"
         },
         {
             "company_id": "sekisui_heim",
