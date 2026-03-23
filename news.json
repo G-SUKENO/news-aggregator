@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-23T23:18:28.839660+09:00",
+    "generated_at": "2026-03-24T00:57:03.394742+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -70,6 +70,13 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbVlMeXJGX1F5WnVMTS1YdDZQbTk0Ml94TDVaUC1CZUZzcTdTcDRSczFmZ0MxcG5nNVBndzkyd3FjQzlMbS1nWnBQdG9XSDlveXRjUkJwR084Q0U?oc=5",
             "published": "2026-03-23T16:30:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：AI値動き解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSnVPT3BiOWRaMG1rQi00THZ1RnIyR1V5NEhxSG1QUi16dFdFQzFibDJ6cVZOUDRkQjZ4UjVYYXhmR0hraGNJdHJsNjhES3VLakZqRURSbnRTWXBnMVJN?oc=5",
+            "published": "2026-03-23T15:57:07+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "daiwa_house",
@@ -419,13 +426,6 @@
             "title": "住友林業(株)【1911】：企業情報（決算時期や平均年収、代表者名など） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0dVJialFHUTB1N1AwUlpWSnZWV3pWUldSa0FvS1hJbXpVVVQzSG5ZTWtsWl9KeHZKQnFwOU5JOC01UTBwaElmY3ZNZk9yeVNlTG81d2NZQkdkbThQ?oc=5",
             "published": "2026-03-19T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業(株)【4204】：AI値動き解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSnVPT3BiOWRaMG1rQi00THZ1RnIyR1V5NEhxSG1QUi16dFdFQzFibDJ6cVZOUDRkQjZ4UjVYYXhmR0hraGNJdHJsNjhES3VLakZqRURSbnRTWXBnMVJN?oc=5",
-            "published": "2026-03-19T15:57:48+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -1599,10 +1599,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "入居者調査から読み解く、20 年の住まいの価値観変化 - PR TIMES",
+            "title": "入居者調査から読み解く、20 年の住まいの価値観変化 - prtimes.jp",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBab3Qwc3ZDZlZHTHdpeTlxUDVJRFhiWmw4OFdIbEJIc2VpZk1rSmxNbXM2S3ZXbWE5dDlzdEstNU1XTEE0WTBrN2JpMUFyQ2R1OTM3azhyTGFLYTYwRjZJa2NORy14b1dXTlE?oc=5",
             "published": "2026-03-13T16:00:00+09:00",
-            "source": "PR TIMES"
+            "source": "prtimes.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -2081,18 +2081,18 @@
             "source": "下野新聞社"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "健康経営優良法人2026（大規模法人部門） 「ホワイト500」に２年連続認定 - prtimes.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uUzdKTjRYbGhRVHVUeG53R2EzZHFtZTNMQXZvWVpvLWpEWmdrQlpKZHVCUUJCRmtUYXlNVExkaWdWbVliQlhrd3VCU3AxVXR0a2c4cmEtUkxmVW1SN0xkVThoU1lJZkZTVWc?oc=5",
-            "published": "2026-03-10T16:00:00+09:00",
-            "source": "prtimes.jp"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "ニュースファイル県内 ■セキスイハイム東北福島支店に交通部長感謝状を贈呈 - minpo.jp",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tbGYtNUtybHVDTjZEQ2t1WGdGSWFOY0FHa29BNVRsMjI4RzVqR3NWWGtSb2lRa0YyQ0x6dzdvb3VBSE1qR0lIdm9mNVBnUQ?oc=5",
             "published": "2026-03-10T16:00:00+09:00",
             "source": "minpo.jp"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "健康経営優良法人2026（大規模法人部門（ホワイト500））に認定されました - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNEJtd252bDZxbWlzMW1PUFNVS09kWjFyQ19DT0ZacjNxTE80NG9qUnpDVWd2NktETFBidmhsbnlZQ014WjZOS2o0MDlmcjZPMWdYS0VwenUyQmYxQmlSN2J3V3pEOXVwa3c?oc=5",
+            "published": "2026-03-10T16:00:00+09:00",
+            "source": "prtimes.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -2102,9 +2102,9 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "健康経営優良法人2026（大規模法人部門（ホワイト500））に認定されました - prtimes.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNEJtd252bDZxbWlzMW1PUFNVS09kWjFyQ19DT0ZacjNxTE80NG9qUnpDVWd2NktETFBidmhsbnlZQ014WjZOS2o0MDlmcjZPMWdYS0VwenUyQmYxQmlSN2J3V3pEOXVwa3c?oc=5",
+            "company_id": "sumitomo_forestry",
+            "title": "健康経営優良法人2026（大規模法人部門） 「ホワイト500」に２年連続認定 - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uUzdKTjRYbGhRVHVUeG53R2EzZHFtZTNMQXZvWVpvLWpEWmdrQlpKZHVCUUJCRmtUYXlNVExkaWdWbVliQlhrd3VCU3AxVXR0a2c4cmEtUkxmVW1SN0xkVThoU1lJZkZTVWc?oc=5",
             "published": "2026-03-10T16:00:00+09:00",
             "source": "prtimes.jp"
         },
@@ -2893,18 +2893,18 @@
             "source": "家サイト"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "KDDI・住友林業・太陽石油・東京製鐵が寄付する理由 京大「自然再興」講座とは - 京都新聞デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wSVFMTm9ncE9FMUE4OFB6b2tVVTl0YU80dkNwMFpXZnFxSk9JN25hQWNPYXVWc2R6VFdZUTJ1WGJYZ1U3dU0ydHhZZ1BiQ1c1a3Z4WkdYTzI?oc=5",
-            "published": "2026-03-04T17:00:00+09:00",
-            "source": "京都新聞デジタル"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業など、大阪で下水道施設全国初の2市共同発注案件を受託 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wbDE0QUM5Mm5GTUM3TkU5NGJmSFl6cGRzVGpkOEVTTFlvUmE4SGNJVWhHNlEzWlFKemF0Z1NGMlctalZ1cWpzSGRrQV9LWTZKbVMtdy1Oc0xwcGpaWTJzS3pSa1JELVRTYW16aw?oc=5",
             "published": "2026-03-04T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "KDDI・住友林業・太陽石油・東京製鐵が寄付する理由 京大「自然再興」講座とは - 京都新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wSVFMTm9ncE9FMUE4OFB6b2tVVTl0YU80dkNwMFpXZnFxSk9JN25hQWNPYXVWc2R6VFdZUTJ1WGJYZ1U3dU0ydHhZZ1BiQ1c1a3Z4WkdYTzI?oc=5",
+            "published": "2026-03-04T17:00:00+09:00",
+            "source": "京都新聞デジタル"
         },
         {
             "company_id": "hebel_haus",
@@ -2984,13 +2984,6 @@
             "source": "SUUMO"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "【PR】上越市で平屋住宅の完成見学会 3月7・8日開催 一条工務店 - joetsutj.com",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CSTRsQ3VoZmNyWkFtNVR1MHNLNm5mNWRSSWwtejVBYWlrcUxsR2ptR3N0Y2w3V2xOWHRqTDY0LW9YSlg1QjFyQ0dqdVNfR2VGRmVuSg?oc=5",
-            "published": "2026-03-03T17:00:00+09:00",
-            "source": "joetsutj.com"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "【積水化学工業】培養プレート「Ceglu cultureware」、北米地域で販売を開始 - 神戸どうぶつ王国",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53SlFsWlhZSDZGNjcwd2hyRjZ1eFMyZk5SRGN2RnNER01LRV8wazFUeDF4VGtabkFkWVBvMDYzT0hlcjU5cGNEck4tRnM4QkR2YXAw?oc=5",
@@ -3003,6 +2996,13 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NV3JqSVNrY3JxTnYyeHhickgwY3dlOE9UVUVZZEtEYVl3bU1UN05aZDJudEpBbkxCWlRQVmJFTzE2MEpYWnBlTlo1WG_SAUxBVV95cUxNTVdyaklTa2NycU52Mnh4YnJIMGN3ZThPVFVFWWRLRGFZd21NVDdOWmQybnRKQW5MQlpUUFZiRU8xNjBKWFpwZU5aNVhv?oc=5",
             "published": "2026-03-03T17:00:00+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【PR】上越市で平屋住宅の完成見学会 3月7・8日開催 一条工務店 - joetsutj.com",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CSTRsQ3VoZmNyWkFtNVR1MHNLNm5mNWRSSWwtejVBYWlrcUxsR2ptR3N0Y2w3V2xOWHRqTDY0LW9YSlg1QjFyQ0dqdVNfR2VGRmVuSg?oc=5",
+            "published": "2026-03-03T17:00:00+09:00",
+            "source": "joetsutj.com"
         },
         {
             "company_id": "mitsui_home",
@@ -3061,6 +3061,20 @@
             "source": "ｄメニューニュース"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "Ceglu™ cultureware北米地域での販売開始 | 積水化学工業株式会社のプレスリリース - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VWnlaSmg5U1lGeHhvRHdWZnQ2aHROZEl0NEFCTUhoNTRwNzZEbDVsZTZIclRLN3V5MHcyQkpHUnVSU2VacUtjel95eUlUQjRTLXRJR2VHejNVOFZFdXB4a25sX3RPeE5ZaGc?oc=5",
+            "published": "2026-03-02T17:00:00+09:00",
+            "source": "prtimes.jp"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "効率性･機能性･資産性…ビジネスパーソンのニーズに適う､リラックス＆リフレッシュできる家づくり - PRESIDENT Online（プレジデントオンライン）",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBod3J1MGhuZGdBU19NcEpqUzdtNkd3SU5BRXpUNXNKd2tWSTFWME03b2FTX2gtS0hRQk5IRndpWnBsSXRFYXJ3THNuLU02LUk?oc=5",
+            "published": "2026-03-02T17:00:00+09:00",
+            "source": "PRESIDENT Online（プレジデントオンライン）"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業が方針発表=買収効果で売上高過去最高を更新、国内住宅8千棟維持で「シェア拡大」へ - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GWEhOa1NMSzduTE9FVXFrRDM5bkF5Y2pISkpock1vZ1gzbzZKR29VSUxka2dJSGo3a2VhNlhrZV82ZG1NVFZ6azhQbmfSAUxBVV95cUxNRlhITmtTTEs3bkxPRVVxa0QzOW5BeWNqSEpKaHJNb2dYM282SkdvVUlMZGtnSUhqN2tlYTZYa2VfNmRtTVRWems4UG5n?oc=5",
@@ -3080,20 +3094,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sVldUdVZIMzcyMHJoNFFzdGlkOWFJdE4yMFpYdlUzYlpITWVUVkxYZU1NWmJkX2Rwd3FoVkNVNHpIcXRzU0N1R3V5TE5rY1lJcFRtWmJhYUdaRTVZTnFjTGRSM3FGRmtvMFE?oc=5",
             "published": "2026-03-02T17:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "Ceglu™ cultureware北米地域での販売開始 | 積水化学工業株式会社のプレスリリース - prtimes.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VWnlaSmg5U1lGeHhvRHdWZnQ2aHROZEl0NEFCTUhoNTRwNzZEbDVsZTZIclRLN3V5MHcyQkpHUnVSU2VacUtjel95eUlUQjRTLXRJR2VHejNVOFZFdXB4a25sX3RPeE5ZaGc?oc=5",
-            "published": "2026-03-02T17:00:00+09:00",
-            "source": "prtimes.jp"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "効率性･機能性･資産性…ビジネスパーソンのニーズに適う､リラックス＆リフレッシュできる家づくり - PRESIDENT Online（プレジデントオンライン）",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBod3J1MGhuZGdBU19NcEpqUzdtNkd3SU5BRXpUNXNKd2tWSTFWME03b2FTX2gtS0hRQk5IRndpWnBsSXRFYXJ3THNuLU02LUk?oc=5",
-            "published": "2026-03-02T17:00:00+09:00",
-            "source": "PRESIDENT Online（プレジデントオンライン）"
         },
         {
             "company_id": "hebel_haus",
@@ -3544,20 +3544,6 @@
             "source": "千葉テレビ放送"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店の坪単価は約84万円｜実際に建てた方の口コミや、メリット・デメリットを紹介 - マイナビニュース",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4VFhfQjRqdmlFOUxIdkNJMjFtMzFCUjJPcFZEcHlSQlpiUDFjRDRGWVlUYUdEZTJGdVNyMU1IUF9CTkZfOEE1dlVzd1ZMYjdjYlotUW1tcXFsenExLXBZcA?oc=5",
-            "published": "2026-02-25T17:00:00+09:00",
-            "source": "マイナビニュース"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【2026年】坪単価ランキング！ハウスメーカー・工務店12社！｜価格を徹底比較！ | 不動産査定【マイナビニュース】 - マイナビニュース",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YamJ1dXAtWkdGRnZWVDJmRFpoOTJxRWZCN0NuN1c3dExaSFlxLXlLTkwyWnZLY1lTN2pPUHE4NDh1SGZCSF94V2loZjlIQ043TGlxeTM4Y0wyRnJURXl3cQ?oc=5",
-            "published": "2026-02-25T17:00:00+09:00",
-            "source": "マイナビニュース"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "「介護・自立支援設備wells」浴室のBIMデータ提供サービスを開始します! - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVWV1cFl4dnBzc2JlcTRGU0tsQUMzYnhUSGk0TFFfNkNiQ2d2NjUyTGhHdnoyaUhCd0VhWDhCNGJ6Z3Zta0ZkWC05T1gyeEphTnA2LVNsbHkwUlBmRUdjUGJXZ0JCOUpoSkE?oc=5",
@@ -3577,6 +3563,20 @@
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWEtLeGI0UHpETHd0UXluR3B0cnVoQWk2ekJWdGppVDQwVlgybnM1bWJHQzlzZDl1cWVoVlVfYWZGLUZ4bkJvdG1QMEhiX19nM2hWekxjTVk2dkF1amtONU12N0h3QnNDM3RsXy1BblFJZFB1cGUzNlgwNzNVVHc?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
             "source": "kankyo-news.co.jp"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店の坪単価は約84万円｜実際に建てた方の口コミや、メリット・デメリットを紹介 - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4VFhfQjRqdmlFOUxIdkNJMjFtMzFCUjJPcFZEcHlSQlpiUDFjRDRGWVlUYUdEZTJGdVNyMU1IUF9CTkZfOEE1dlVzd1ZMYjdjYlotUW1tcXFsenExLXBZcA?oc=5",
+            "published": "2026-02-25T17:00:00+09:00",
+            "source": "マイナビニュース"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【2026年】坪単価ランキング！ハウスメーカー・工務店12社！｜価格を徹底比較！ | 不動産査定【マイナビニュース】 - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YamJ1dXAtWkdGRnZWVDJmRFpoOTJxRWZCN0NuN1c3dExaSFlxLXlLTkwyWnZLY1lTN2pPUHE4NDh1SGZCSF94V2loZjlIQ043TGlxeTM4Y0wyRnJURXl3cQ?oc=5",
+            "published": "2026-02-25T17:00:00+09:00",
+            "source": "マイナビニュース"
         },
         {
             "company_id": "panasonic_homes",
