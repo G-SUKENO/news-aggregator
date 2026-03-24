@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-25T06:34:16.807373+09:00",
+    "generated_at": "2026-03-25T07:27:05.680762+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -21,6 +21,13 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRY3p1WXZzT09ONUx0UHBxa0EzMUlXVmV1aGlPZjBwWGI3SWI2ZXIwVklFTnN3bkFSSHVXOWJVMnY0SmkwZXU2VGhDcw?oc=5",
             "published": "2026-03-25T06:02:09+09:00",
             "source": "建設ニュース"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナホーム(株)【1924】：アナリストレポート - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fVDhIcnZkcEYtdW1URjdtWk9NWlVmRGRxUVZhajVTTm5kZnVUX2g1dUtmX0VPU3hodmZSUjVJNC0zWWwwSjdxSkRkdHdNaFdFRDNjdUpiUldQZjRXSzd3aDh6RThKSnBkczVqajd2enA?oc=5",
+            "published": "2026-03-25T04:00:53+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "daiwa_house",
@@ -728,6 +735,13 @@
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MZE9YTWdhUkR1cDI1T3h6WjJGS2ZqVm9nWm1qd3JtN3M2bTZ6aGRDSkFMTk9fQUtrbXFsYzJlc0Z6ZmVRaDI0ZmZIQ1FoNGcxVmZOc3FMUDQ3SG11WGNTdExrMEJRYjZodG1BSG5nTm5Td2tHcUlNLVRn?oc=5",
             "published": "2026-03-19T14:00:00+09:00",
             "source": "イザ！"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ 中原区の共同住宅新築を受注 - 建通新聞",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdG8xSnQzckdoUkVoLWF4MVloMmNmSXNzazI5aXY3TS02elpUVE1nVm9IY3B3SWZ1bDVQd1NRVTZ5d183ZkhERDRsRk9QeS1CeGVYZ184N0hnWERTMllkd1lWRVR6c3ZzNEhDdUpZSi0xUkF2NTY4c3QyOFBzdmdoTw?oc=5",
+            "published": "2026-03-19T13:13:00+09:00",
+            "source": "建通新聞"
         },
         {
             "company_id": "ichijo_komuten",
@@ -2341,17 +2355,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "ニュースファイル県内 ■セキスイハイム東北福島支店に交通部長感謝状を贈呈 - minpo.jp",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tbGYtNUtybHVDTjZEQ2t1WGdGSWFOY0FHa29BNVRsMjI4RzVqR3NWWGtSb2lRa0YyQ0x6dzdvb3VBSE1qR0lIdm9mNVBnUQ?oc=5",
-            "published": "2026-03-10T16:00:00+09:00",
-            "source": "minpo.jp"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業、幹細胞の培養プレート 北米地域で販売開始 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNFVaaGF2WHVHTllhQXUyVGpXU05jM09BYk93MXpHMHRCWVZqbUFfS1Y3aWp4VjFpc21uVnpjQ3RMY1VaODNzYjJ3Y19hbHlDSFNIdjlhOU1sYi1RdFkwMmJiLXNLQTl6a1U3VA?oc=5",
             "published": "2026-03-10T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "ニュースファイル県内 ■セキスイハイム東北福島支店に交通部長感謝状を贈呈 - minpo.jp",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tbGYtNUtybHVDTjZEQ2t1WGdGSWFOY0FHa29BNVRsMjI4RzVqR3NWWGtSb2lRa0YyQ0x6dzdvb3VBSE1qR0lIdm9mNVBnUQ?oc=5",
+            "published": "2026-03-10T16:00:00+09:00",
+            "source": "minpo.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -6285,20 +6299,6 @@
             "title": "『パークナードテラス結の宙(ゆいのそら)』沖縄各地で本格展開を開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZmdDM0xfYnBTakhKMjhhbkZQLWVYbVpyUVdqQXZpWlNqN3plYnFLbGV4MFJNUjBrbnU3S3ZCWWlOMXZJSS1yMFFwZlNOSnIyb3NSQ1huTVotSGN2UEtRbDNINV9uQWpfRlE?oc=5",
             "published": "2025-11-07T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "トヨタホーム、鉄骨軸組工法住宅「エスパシオ」をフルモデルチェンジ=パナソニックホームズの構造躯体採用で設計自由度向上 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6M09ZZW9rb1hRNWhRbkFhRGZsbmtNZFdHSEVtZVBtWFYza1VHSlQzS2syR05jd3d0Xzg3WDRrcS1rNEctdldvWXRueGzSAUxBVV95cUxQejNPWWVva29YUTVoUW5BYURmbG5rTWRXR0hFbWVQbVhWM2tVR0pUM0trMkdOY3d3dF84N1g0a3EtazRHLXZXb1l0bnhs?oc=5",
-            "published": "2025-11-06T17:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "2026年版 パナソニック ホームズカレンダー（非売品）が計200名様に当たる「Xフォロー＆リポスト」キャンペーンを実施 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByRzd5M1lvMU8zdnNMYVg3S2pYLW9McXdLSmExajFoSHdjZHlNU1R0MUV1U3VXYmlFcDE5VTZyS1N4eHFVWHRsU1ZkLWREeGNwQ3o4d290endKTHpwR1NBR2E2RFNzbDh3ZXc?oc=5",
-            "published": "2025-11-04T17:00:00+09:00",
             "source": "PR TIMES"
         }
     ]
