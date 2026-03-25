@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-26T04:43:41.637064+09:00",
+    "generated_at": "2026-03-26T05:34:55.610942+09:00",
     "articles": [
         {
             "company_id": "misawa_home",
@@ -315,6 +315,13 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wZFVNNWFUOEVNdzFQMFBvTm0yTExaOVlsSTQtUXFwWTl6NTlpU3hTajVpZmlaZ2ZrQXh6cXhJTHEtd0ladWM0QktZR2NJX2NQaUlhWWE1V1QtLTdfb3FJVDhnVzBpdGVLZzFzcC13?oc=5",
             "published": "2026-03-24T19:49:33+09:00",
             "source": "家サイト"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、住宅基礎の強度を温度で確認 破砕検査不要で廃棄物減 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xWUhON3JMN0hVNkdaTmhfc2xJZ0Fod0RZV29lTUtxMWEwMXN5SUc3UXp0WHZLVHg3OU1xTHJYU3dEMmx1RHdxYm1sdFBScXpLa0VyMENTeHFLc0tQWHpyUjZEOXloX0dIdGdmSA?oc=5",
+            "published": "2026-03-24T18:21:34+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -2781,13 +2788,6 @@
             "source": "サンスポ"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "国内初 積水ハウス、大栄環境、AGC、住宅改修における窓ガラスの資源循環の実証実験を開始 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kWWlEbUR1cl9vZXFZUml0Y012TlRiQmp3dTlTejZVZ1l4YmlOVG11Z1BWdG94dXVYM0hEbU1PTTZfYnVKd0dQWG12cmpUS0s1X0hEcFoybVl3TTZaTWdsR2IwZGQtSEYzMmc?oc=5",
-            "published": "2026-03-10T11:00:03+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業、「Beハイム」ブランドで買取再販 年間82件販売し売上30億円 - リフォーム産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OT3JkNWFoeGVOWHVzaS1Gb0dUVk9Ub1dkbmc0c2JLeUhKREpyeXpSTU5SRGFKajcyNkdDZV9pM0hJNUxFX081aTFPdXc4aFJ3VV9Wa3B2N0thdmFPSzN2VnhKTE8?oc=5",
@@ -3678,17 +3678,17 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "業界トップ水準のAI活用を支える「管理規程」を策定。担い手不足の解消へ取り組む | 三井ホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LNDNrNmNfQXVaVUJmM1pBckVkclkxUHNvZjlGd2JZdVlHcHd1bG1FM001cWI4UkJYQnMxRUk3R1FfbVE1QzdzWEJrNUQyd2F3azZrT2R4RkMxcGMwcF9SRGFndXV2ei1sZ2c?oc=5",
-            "published": "2026-02-27T17:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
             "title": "三井ホーム、「生成AI利活用管理規程」を制定し「AI活用推進委員会」を発足 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rWC0zUEJHUXZKcjJCWE5Ndnk2T0N3cUNyM0QtMzZuRjd4RXMzcllELUZoWk5hVTAyX2hOT3IzUS1XOE1rTGNHR0k5VnEtSzFhSlBVa242MHFLU1UxbTBRNS1QdG9KbnRVbnVWcw?oc=5",
             "published": "2026-02-27T17:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "業界トップ水準のAI活用を支える「管理規程」を策定。担い手不足の解消へ取り組む | 三井ホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LNDNrNmNfQXVaVUJmM1pBckVkclkxUHNvZjlGd2JZdVlHcHd1bG1FM001cWI4UkJYQnMxRUk3R1FfbVE1QzdzWEJrNUQyd2F3azZrT2R4RkMxcGMwcF9SRGFndXV2ei1sZ2c?oc=5",
+            "published": "2026-02-27T17:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "misawa_home",
@@ -3839,13 +3839,6 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ=良好な住宅環境が血圧の季節変動を抑制、断熱性能と空調方式の違いで血圧変動に差 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tMWR6RHVIbXJtYkVLbEZzQkZtTVBicmo3dERKNWRwX2VzN1NrdGdrbE5KQ1pUNTF0NmppOFFraldvdVdQQ1ZUS2hQdVLSAUxBVV95cUxOLTFkekR1SG1ybWJFS2xGc0JGbU1QYnJqN3RESjVkcF9lczdTa3Rna2xOSkNaVDUxdDZqaThRa2pXb3VXUENWVEtoUHVS?oc=5",
-            "published": "2026-02-25T17:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナソニックホームズの坪単価は平均92万円｜実際に建てた方の口コミ・ポイントを紹介 - マイナビニュース",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SeW9ZVmM3N01WaW44Q19aSzlMOHRDV2NQOTgyTjVjVHgzdFBDN1lZVUUtSFZzbW5QZktCamNMLS1OeGt2ZjIxbG5PNmt5N0RzVnpYMHp2aURYN3lfcWFaeQ?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
@@ -3857,6 +3850,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UTms0QzBySm1acjVqQUxoeWpnZUxBV3FiY3RPT202YV9YbmM1X2NVMzZrNDJTNkZKYUF1X2x2U2taOW5FdUZHNE56a2JJWllFcFpyX2RaWVlpMkg0Mk9WYg?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
             "source": "マイナビニュース"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ=良好な住宅環境が血圧の季節変動を抑制、断熱性能と空調方式の違いで血圧変動に差 - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tMWR6RHVIbXJtYkVLbEZzQkZtTVBicmo3dERKNWRwX2VzN1NrdGdrbE5KQ1pUNTF0NmppOFFraldvdVdQQ1ZUS2hQdVLSAUxBVV95cUxOLTFkekR1SG1ybWJFS2xGc0JGbU1QYnJqN3RESjVkcF9lczdTa3Rna2xOSkNaVDUxdDZqaThRa2pXb3VXUENWVEtoUHVS?oc=5",
+            "published": "2026-02-25T17:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "mitsui_home",
