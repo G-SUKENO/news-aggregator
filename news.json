@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-26T02:55:30.408550+09:00",
+    "generated_at": "2026-03-26T03:52:55.417191+09:00",
     "articles": [
         {
             "company_id": "misawa_home",
@@ -77,6 +77,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jaktsUEg1b2xFcW1iOHVxYmNrWHd5Tk9Ia0V4UFFEdl9USTNWRWp4OHpKakNtSjB4QkREbTA1d3dLQVRxRXUxWlhzOU81YWdDQXNNNzlCMkFxc1h6LVp3WUtB?oc=5",
             "published": "2026-03-25T16:03:21+09:00",
             "source": "ライブドアニュース"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、住宅業界初、基礎コンクリート工事における強度をリアルタイムに可視化 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uZGhQd1ZCSzNkekh4RW5hMjVEVXBsQTVTM0JVVkZpM2pmWmtlZm05RzlvLUxYdG00QjlQZUFESXFCOXBuVEZBNG5wak9qSVVkNWp5LVFiejl4VGc?oc=5",
+            "published": "2026-03-25T16:00:00+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sekisui_house",
@@ -2774,13 +2781,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、売上高5兆円へ…米国「ゲームチェンジャーとしての基盤を構築したい」 - ニュースイッチ by 日刊工業新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tUmUwakYzOWtBUk1wY1hua0NwQnRDWU1mZFRqdnh2T0p3b1YzWFBLLVgzMjZqeDd0Y0VmTU9qOFRfTmd5cDZF?oc=5",
-            "published": "2026-03-10T10:47:01+09:00",
-            "source": "ニュースイッチ by 日刊工業新聞社"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業、「Beハイム」ブランドで買取再販 年間82件販売し売上30億円 - リフォーム産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OT3JkNWFoeGVOWHVzaS1Gb0dUVk9Ub1dkbmc0c2JLeUhKREpyeXpSTU5SRGFKajcyNkdDZV9pM0hJNUxFX081aTFPdXc4aFJ3VV9Wa3B2N0thdmFPSzN2VnhKTE8?oc=5",
@@ -3797,10 +3797,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "「介護・自立支援設備wells」浴室のBIMデータ提供サービスを開始します! - prtimes.jp",
+            "title": "「介護・自立支援設備wells」浴室のBIMデータ提供サービスを開始します! - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVWV1cFl4dnBzc2JlcTRGU0tsQUMzYnhUSGk0TFFfNkNiQ2d2NjUyTGhHdnoyaUhCd0VhWDhCNGJ6Z3Zta0ZkWC05T1gyeEphTnA2LVNsbHkwUlBmRUdjUGJXZ0JCOUpoSkE?oc=5",
             "published": "2026-02-25T17:00:00+09:00",
-            "source": "prtimes.jp"
+            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -4077,17 +4077,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学の清水次期社長、岡本真夜さん名曲支えに米グループ会社再建 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53al80OFlGZDFlSU5ZTVIxa3o3cWIyRjQza0ZWd1NDbUVpRUt1aGNIUThERzIzQUVZUFAzdnd6eDVNU1RaTmxiTEctaHBmY2prRWZubzF5SWZCWFNxeDRWTDhXQTBKOWNPTy04aQ?oc=5",
-            "published": "2026-02-19T17:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業が社長交代会見/ペロブスカイト太陽電池・社運かけ立ち上げ/4セグメント成長事業・資源集中 攻めの経営 - 建設通信新聞Digital",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaEtSc05hRGk3Q2FrRGpzQTV3YW1qTU5QekRUaDZsbE0wTDFRWTJxT1U1TXhhSkNwbnlZdk4xeUtid05KTTV5UUNUQW40ckNocjgzQmFHbVE?oc=5",
             "published": "2026-02-19T17:00:00+09:00",
             "source": "建設通信新聞Digital"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学の清水次期社長、岡本真夜さん名曲支えに米グループ会社再建 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53al80OFlGZDFlSU5ZTVIxa3o3cWIyRjQza0ZWd1NDbUVpRUt1aGNIUThERzIzQUVZUFAzdnd6eDVNU1RaTmxiTEctaHBmY2prRWZubzF5SWZCWFNxeDRWTDhXQTBKOWNPTy04aQ?oc=5",
+            "published": "2026-02-19T17:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -4273,10 +4273,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "【住宅メーカーに関する調査】『省エネ・エコ住宅』のイメージがある住宅メーカー、「特にない」が7割弱と高い。上位は「パナソニックホームズ」「積水ハウス」で各9％台 - prtimes.jp",
+            "title": "【住宅メーカーに関する調査】『省エネ・エコ住宅』のイメージがある住宅メーカー、「特にない」が7割弱と高い。上位は「パナソニックホームズ」「積水ハウス」で各9％台 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZ1hYMzNCRVZTU3VmVWZsUTUyQ3NNUWN1NE50ellSRmtTRXVTTC0wVWZ4dWk2VnA3bnZ4Y3p6MEtmZHZ5bE83VVdYUTJMR285dW1ScVRNYUhDMl90QkFha0Z4SXRlbVRHTmc?oc=5",
             "published": "2026-02-18T17:00:00+09:00",
-            "source": "prtimes.jp"
+            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
