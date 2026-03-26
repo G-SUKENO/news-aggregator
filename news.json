@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-03-27T04:17:30.019961+09:00",
+    "generated_at": "2026-03-27T05:35:34.435650+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -48,6 +48,13 @@
             "title": "住友林業(株)【1911】：AI値動き解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
             "published": "2026-03-26T16:02:25+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：AI値動き解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQSVZMRU54cGE3MkFhZDZaTE1RTVRfa3dvOTkzR2tjNVdzVEJVdEg4UlJDc0lBNWpudnFHNS1zaW9SVlN1VW9WVjB2bFNOYnJ0enkxQkZJUk1GbkZFVzRv?oc=5",
+            "published": "2026-03-26T16:01:02+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -665,13 +672,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUG9JTFlnRFJvckExS3FBTWtHNFE4VjRtOEp1SFRoZzB1Sm5ubzRCNFhIMzJjVWpaR2lDaTRsQjBXclJxa2xYTk1DdDIzY3NHZ3o1Z2E5M3JabGs?oc=5",
             "published": "2026-03-24T12:10:20+09:00",
             "source": "朝日新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：AI値動き解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQSVZMRU54cGE3MkFhZDZaTE1RTVRfa3dvOTkzR2tjNVdzVEJVdEg4UlJDc0lBNWpudnFHNS1zaW9SVlN1VW9WVjB2bFNOYnJ0enkxQkZJUk1GbkZFVzRv?oc=5",
-            "published": "2026-03-24T11:59:11+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "daiwa_house",
@@ -1522,17 +1522,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウスJUNOPARK内カフェ「iru-ca donuts & coffee」 阪神梅田本店「THE 社食めし」イベントへ出店 - Digital PR Platform",
-            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PSkFITDR6cllJSFc0cG1QVHdBU3ZjZWhSemNrcGRVWTFaUEtvTW9Rb08yeEdLQmRvLWtNODJMMmlnWmc?oc=5",
-            "published": "2026-03-19T09:30:00+09:00",
-            "source": "Digital PR Platform"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウスJUNOPARK内カフェ「iru-ca donuts & coffee」 阪神梅田本店「THE 社食めし」イベントへ出店 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajdnei1ZWE9fTTBUeE50bGdOaVY1NkpVZGVnc3RwLVBTWDhJd09xOFZrY1o1OFFkRGY4a29xbnF5WjdqN3l1MUZFcnUyaWF2Rkl5LXdnODJwY3M?oc=5",
             "published": "2026-03-19T09:30:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスJUNOPARK内カフェ「iru-ca donuts & coffee」 阪神梅田本店「THE 社食めし」イベントへ出店 - Digital PR Platform",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PSkFITDR6cllJSFc0cG1QVHdBU3ZjZWhSemNrcGRVWTFaUEtvTW9Rb08yeEdLQmRvLWtNODJMMmlnWmc?oc=5",
+            "published": "2026-03-19T09:30:00+09:00",
+            "source": "Digital PR Platform"
         },
         {
             "company_id": "sekisui_house",
@@ -2635,6 +2635,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "「私も地面師に騙された」【積水ハウス事件】主犯格として逮捕された受刑者の手紙で判明した衝撃の事実（FRIDAY） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXZDhNSDktRDRtWnRXaDRQU1lRR3VMWHlCRU1OVEMxVjV1UGZpM01JemxrenM5R3RnbEVBaERlV2FDMmJxUWVyVzNNOHU3MjIyQlljaFJ4UGZSZkpaVmtrRXk0ZFc3aGtfZ0NSWFFrSjRLNWItcWNRRnZpX094OGM?oc=5",
+            "published": "2026-03-11T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "【アナリスト評価】積水ハウス、レーティングやや強気、目標株価4,000円（日系中堅証券）(アイフィス株予報) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZjdFRUh5a3BKZ2o1YlNtOFdudFNGWUVfWWZLdl9PaG5qcnNmR3JXaG9fUVc5U253eXdqdXdkZDFaa082X3RnSHBuTU5kdmxwY0FweW9SUGJnY045YlJfQ2NVOEVabjB3MWs5QnZPLWRXV0dFU1dOa25nRXFyemlZUFBVdFV3ZHc?oc=5",
             "published": "2026-03-11T16:00:00+09:00",
@@ -2737,13 +2744,6 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1QxR1V5R05YdER0TlN2S25XYTNMSkJTZ2ZCdlNvakJnd003bHRMTWwydmZDUDV3ZHQ0T1pWaklDRUhkc29neXBScnQ5SldXMTRjYzgzcUZNdUdBdDJfT1B0TkJHZUd0eHVtaGUyVllFUGJER0l1bFZkci1CM2xJQQ?oc=5",
             "published": "2026-03-11T09:48:00+09:00",
             "source": "建通新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "「私も地面師に騙された」【積水ハウス事件】主犯格として逮捕された受刑者の手紙で判明した衝撃の事実（FRIDAY） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXZDhNSDktRDRtWnRXaDRQU1lRR3VMWHlCRU1OVEMxVjV1UGZpM01JemxrenM5R3RnbEVBaERlV2FDMmJxUWVyVzNNOHU3MjIyQlljaFJ4UGZSZkpaVmtrRXk0ZFc3aGtfZ0NSWFFrSjRLNWItcWNRRnZpX094OGM?oc=5",
-            "published": "2026-03-11T07:03:19+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_house",
@@ -3664,17 +3664,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - ゴルフのニュース",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZYmFQczNZeFhTTk93TWtRLUZJdlhVeHZldzJralVHcUdxYkhpSEVibmkzWGlfQ0dJWnRTT2hkd1Fzam9CS3Q5eA?oc=5",
-            "published": "2026-02-27T17:00:00+09:00",
-            "source": "ゴルフのニュース"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "女子プロゴルファー有村智恵選手と所属契約を締結、永井花奈選手とスポンサー契約を更新 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMG1veDBzRk5aeGsxZEpZVWRqVEZYTnkwNXBtWkNiRE5rV1A2d1lYM082Zmh4Z25ILVdzWDNvaHRhZzNlVUY5LVRITVJvd2JjeGc2RGhvZlQ5Y0dBd0RaY29BY2p0T211aUE?oc=5",
             "published": "2026-02-27T17:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "有村智恵がミサワホームと所属契約 永井花奈とのスポンサー契約更新も同時に発表 - ゴルフのニュース",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZYmFQczNZeFhTTk93TWtRLUZJdlhVeHZldzJralVHcUdxYkhpSEVibmkzWGlfQ0dJWnRTT2hkd1Fzam9CS3Q5eA?oc=5",
+            "published": "2026-02-27T17:00:00+09:00",
+            "source": "ゴルフのニュース"
         },
         {
             "company_id": "misawa_home",
