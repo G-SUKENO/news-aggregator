@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-03-27T05:35:34.435650+09:00",
+    "generated_at": "2026-03-27T06:27:56.315935+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "美原区の土地を取得／既存建物を解体／積水ハウス不動産 - 建設ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBadjEtMEJ2d2J1U1gxbVAyOHF0Q0JPZ1lFN3Iyc0JwZW5vNV9ydjZUVDk3Q1lIWnJJVVN2MldYbTFrTEZuNmc4RkJuSQ?oc=5",
+            "published": "2026-03-27T06:11:01+09:00",
+            "source": "建設ニュース"
+        },
         {
             "company_id": "sumitomo_forestry",
             "title": "【写真】住友林業「桜のたすき」プロジェクトを発足 - MANTAN WEB",
@@ -653,18 +660,18 @@
             "source": "Digital PR Platform"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "GXの出遅れが命取り。創出量15倍に拡大の「森林クレジット」が今注目されるワケ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XT2l1dFltLUtib01pQklYeEdnQmJnOTlTTWp4Y25ZWGFKX3p2RFRRbGpBT1RmUFFLckVfR2xTczlzQ0h5SVFleXQwMXJFX1hyaS1ZZUN3?oc=5",
-            "published": "2026-03-24T13:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "LIXILの循環型低炭素アルミ「PremiAL R100」を積水ハウスのZEBオフィス「朝日システム株式会社新社屋」に採用 - 沖縄タイムス社",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wek02TkVmT1lGMkhzcExWVXN4WVQyeU91SGFQVDZNM2hLbWRqSTNMV0RDWl9MRTNlc2pvU01Dc2hpdkNLYjY1b1lObG1QUVRpZGV3R09XanF1a3VVQ2c?oc=5",
             "published": "2026-03-24T13:00:00+09:00",
             "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "GXの出遅れが命取り。創出量15倍に拡大の「森林クレジット」が今注目されるワケ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XT2l1dFltLUtib01pQklYeEdnQmJnOTlTTWp4Y25ZWGFKX3p2RFRRbGpBT1RmUFFLckVfR2xTczlzQ0h5SVFleXQwMXJFX1hyaS1ZZUN3?oc=5",
+            "published": "2026-03-24T13:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
@@ -1199,20 +1206,6 @@
             "source": "ウォーカープラス"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株価・株式情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y0ZiN2JzUXFtYjFzX2ZtWWdfUFpfekpwdlVfbmc2MmJQNmZtR0paX3JMbmtsRFJKRVNzY2hxMW45QlltTkNOVmlBWFV4clJhbXc?oc=5",
-            "published": "2026-03-19T18:59:59+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株価・株式情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
-            "published": "2026-03-19T18:59:59+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：株価・株式情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bnNoOHdLOXR0Y0NfbkJXY3VpSDJ2Qm1jM3RFY0Y5Z2FRMTFCaDFBWmxaYkpkRTN6TUdocVZhaFBmcExnb0NTV1pqWnh6aUdGVkE?oc=5",
@@ -1223,6 +1216,20 @@
             "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：株価・株式情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
+            "published": "2026-03-19T18:59:59+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：株価・株式情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y0ZiN2JzUXFtYjFzX2ZtWWdfUFpfekpwdlVfbmc2MmJQNmZtR0paX3JMbmtsRFJKRVNzY2hxMW45QlltTkNOVmlBWFV4clJhbXc?oc=5",
+            "published": "2026-03-19T18:59:59+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：株価・株式情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
             "published": "2026-03-19T18:59:59+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -2060,6 +2067,13 @@
             "source": "現代ビジネス"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスは絶好調なのに…大手住宅メーカーで大和ハウスと積水化学が減益になった理由 - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RQ2lHWWZwVXVqMjN4MVl3blZycDcwMmt1dS16X2gwRzBxN21vTE9janQ2aGxiWkZrbTdGLXdoWWR1a3pLWGR6Q0x1a2HSAU9BVV95cUxPaEw5RC16SGVoRXY0dDVlczl4a1ZaekxROXRLem43cW9GQ1VFbDVCamNRRk9OUTkzWTN2NGxRU2dtWnBSWTBzQXU5ZGpuYm9z?oc=5",
+            "published": "2026-03-16T16:00:00+09:00",
+            "source": "ダイヤモンド・オンライン"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業／日通／ＪＲ貨物 大阪から横浜へ万博会場の樹木を鉄道輸送 - カーゴニュースオンライン",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iNmxrWW10ZWdRZkMzUHJPdFE2NXFPa1pHaGhqdEJmaDRybU1HcUF3MXpNU1ZBU3ZFZFlsX21CUE1CZE5ld0R0UVFTTFNXYkk5dncxeDAydjdxX1U0MFE?oc=5",
@@ -2079,13 +2093,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2anZ3NlFGTUcwNlRmeFY0ZlJ0T3E3S1ZUQlVkUXdDQmJRNXRXQlFQLWNQdnRtcG5sT1N0MDVWcmVydENsek5BdFN4R2dCdDMtQUc1SkpQbGJlSU8tUUplMTkyU1FDUEJmb2Zpcw?oc=5",
             "published": "2026-03-16T16:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスは絶好調なのに…大手住宅メーカーで大和ハウスと積水化学が減益になった理由 - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RQ2lHWWZwVXVqMjN4MVl3blZycDcwMmt1dS16X2gwRzBxN21vTE9janQ2aGxiWkZrbTdGLXdoWWR1a3pLWGR6Q0x1a2HSAU9BVV95cUxPaEw5RC16SGVoRXY0dDVlczl4a1ZaekxROXRLem43cW9GQ1VFbDVCamNRRk9OUTkzWTN2NGxRU2dtWnBSWTBzQXU5ZGpuYm9z?oc=5",
-            "published": "2026-03-16T16:00:00+09:00",
-            "source": "ダイヤモンド・オンライン"
         },
         {
             "company_id": "daiwa_house",
@@ -2844,13 +2851,6 @@
             "source": "prtimes.jp"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "健康経営優良法人2026（大規模法人部門） 「ホワイト500」に２年連続認定 - prtimes.jp",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uUzdKTjRYbGhRVHVUeG53R2EzZHFtZTNMQXZvWVpvLWpEWmdrQlpKZHVCUUJCRmtUYXlNVExkaWdWbVliQlhrd3VCU3AxVXR0a2c4cmEtUkxmVW1SN0xkVThoU1lJZkZTVWc?oc=5",
-            "published": "2026-03-10T16:00:00+09:00",
-            "source": "prtimes.jp"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "国内初 積水ハウス、大栄環境、AGC、 住宅改修における窓ガラスの資源循環の実証実験を開始 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1KMW1hMG9tRG9aZzV4NkdSWDg3bkZ2Z0V1SG9sdHNCbS1BVjB5MTRFZlhYS0tEZW5VeHF2TXR0b3d1djg?oc=5",
@@ -2863,6 +2863,13 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Pamt3bWJVYUV1bmRBUjdRZzlDczNnUkZaaUJsMHI1YmtwcVRnMXQ3eWVZclVQMzd6Q19FaWl2ZGRDZWRVVWpPWlJWcw?oc=5",
             "published": "2026-03-10T16:00:00+09:00",
             "source": "47NEWS"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "健康経営優良法人2026（大規模法人部門） 「ホワイト500」に２年連続認定 - prtimes.jp",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uUzdKTjRYbGhRVHVUeG53R2EzZHFtZTNMQXZvWVpvLWpEWmdrQlpKZHVCUUJCRmtUYXlNVExkaWdWbVliQlhrd3VCU3AxVXR0a2c4cmEtUkxmVW1SN0xkVThoU1lJZkZTVWc?oc=5",
+            "published": "2026-03-10T16:00:00+09:00",
+            "source": "prtimes.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -2954,13 +2961,6 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wVklEMkVJUDVHRi1aRjZ1eWw0ZnZYYXhLc0lYZENtRV9VbFNZRU5TWkZmaDhya3NoN2ZITnZQZk1MV2ktaHJocXVpbzRZdTQ3ZVR1bi1zeEM5eHlsMV9jLWc0M3pMSHZ5YlBZ?oc=5",
             "published": "2026-03-10T12:56:05+09:00",
             "source": "MANTAN WEB"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "国内初 積水ハウス、大栄環境、AGC、住宅改修における窓ガラスの資源循環の実証実験を開始：マピオンニュースの注目トピック - マピオン",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeVRZbnB3WFNzcDN2T2loSUhmX2FMS1FLQVdPWXJ0cHNkNDBWT2c1bFctOTc2QWFjaFRra0tWbS13TGl0czd6UDVpZHRLUVdOWDN5dzZEZ2E1UFRuR3c?oc=5",
-            "published": "2026-03-10T12:45:00+09:00",
-            "source": "マピオン"
         },
         {
             "company_id": "sekisui_heim",
@@ -5456,10 +5456,10 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "東京都墨田区に宿泊施設「T-home 景（KEI）」が2月11日オープン 三井ホームが施工を担当 - AMP[アンプ]",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82QUhMNFlvQlM3RXFYb1lVVnprQTE3S0MzeTFIcG5EZnk2eU5Ub1I4QWtHX2RvdG4weXUyOGF1UW1VaHJDSFdfQmlfdVFJLXEwc2FscjNvUldvbTA0S0RB?oc=5",
+            "title": "スカイツリー至近に木造宿泊施設「T-home景」 ”江戸の長屋”風 - Impress Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Rl9WUDZFbkVHNjllVGRMZXJLYmJLZERUeVhKUWZWTXNZWDNRNWM3MFVIelF6SVZsTFpJUGpsWXl2TnlreTJHZjJSRWJtWXlTM0h3SnJvWF9iUW1penBpT3dZYXM?oc=5",
             "published": "2026-01-27T17:00:00+09:00",
-            "source": "AMP[アンプ]"
+            "source": "Impress Watch"
         },
         {
             "company_id": "hebel_haus",
