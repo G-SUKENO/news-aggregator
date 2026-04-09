@@ -1,6 +1,20 @@
 {
-    "generated_at": "2026-04-09T22:18:41.761530+09:00",
+    "generated_at": "2026-04-10T00:18:59.661581+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "ENEOS・クボタ・大和ハウス、脱・大量採用へ 「新卒厳選・中途拡大」の大潮流 - 日経ビジネス電子版",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sc21qRlBIYVE3QXd2RzNUR1J3SXBiSjBsUHpmUGM2Z2F6eXlySUQ0alpRQVNtVGctVEFqQk5aeE5NNk9rblZwZVpkam9CLTBFYnhPZmk4VV9aOE9adzk5MzBiOEQ?oc=5",
+            "published": "2026-04-10T00:00:00+09:00",
+            "source": "日経ビジネス電子版"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店】平屋住宅相談会開催中！～段差なし、温度差なし！この上ない平屋ライフを～ - SBSマイホームセンター",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45S2Y4RDBud2hwbGVpT3FucGtFSGlVdHloV0R0MUxvLWdaU2VSR2FWSDBKUjB5WWVad29IU0dPY2JDV09YQ09iR0VEVF9zbXdXX3c?oc=5",
+            "published": "2026-04-09T20:28:21+09:00",
+            "source": "SBSマイホームセンター"
+        },
         {
             "company_id": "sekisui_house",
             "title": "温度センサーで住宅基礎コンクリート強度を可視化 積水ハウスが8月から導入 - ITmedia",
@@ -268,6 +282,13 @@
             "source": "ライブドアニュース"
         },
         {
+            "company_id": "hebel_haus",
+            "title": "旭化成ホームズ、子育て向け賃貸の関西展開拡大へ | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZmppd3ZPT3U5QTVscmtyQmE5YWhWYm43dG8tWG81NXFNT19EWnMteGI2SDhYNm1sam50OWotUTVwZFpXdWVkYjl2QU9HWFI5MVdIMVdzX2I3T25GaFJj0gFkQVVfeXFMTy1ua2JRWHBYX1lrZ0MxY3UzZm5zYWo5UVphWkpWb191WkxHVkJka21mTUEtVENETzAxbGJoQXpxTndER0p3RVFZZVpfa1JRdDNhMWJ1Vlg2endvazhMMm9MbjdOSw?oc=5",
+            "published": "2026-04-08T09:14:16+09:00",
+            "source": "千葉テレビ放送"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスグループが描く｢成長戦略ストーリー｣ | 大和ハウス工業 - 東洋経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oLXlzS0hoT3o0ei1IUDN4czZQVlFWZk1wOHp3bl96V0FPbEdoaTBoYXdiNHV4UjdkVzJ3MHB6UzJ4QWhQWWQ3c2VUd1FMRVZOcFE?oc=5",
@@ -280,6 +301,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ybUtsbXZOMXU0TGhKRmZGYzNDNmc5Sm45OU9XaDc2Sk1ici10ZDJlSU4zOUg3LU1PUDRrWmk5d3hQT2lUelM2czA4ZnR5TzE0ZVE?oc=5",
             "published": "2026-04-08T08:15:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "新社長に中林克憲氏 セキスイハイム中四国 - 山陽新聞デジタル｜さんデジ",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1VkV1dRd2dGQUd3REtuNmVBMnNNMm10QmRpdWp5VFVRSGZDOGk5bUxQV2xCS0s2T010RFZuQXoyRDhRT2lxSFpyTHFoRXFlR2dZcWRkZDZVT19aMGd4NTZPWG1LTjg1RnhJNWlUNmF0R1p1Y1BOOUF6N2c0a2ZMWnNSOTRzc2s?oc=5",
+            "published": "2026-04-08T08:11:26+09:00",
+            "source": "山陽新聞デジタル｜さんデジ"
         },
         {
             "company_id": "sekisui_house",
@@ -753,13 +781,6 @@
         {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ、子育て向け賃貸の関西展開拡大へ | チバテレ＋プラス - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZmppd3ZPT3U5QTVscmtyQmE5YWhWYm43dG8tWG81NXFNT19EWnMteGI2SDhYNm1sam50OWotUTVwZFpXdWVkYjl2QU9HWFI5MVdIMVdzX2I3T25GaFJj0gFkQVVfeXFMTy1ua2JRWHBYX1lrZ0MxY3UzZm5zYWo5UVphWkpWb191WkxHVkJka21mTUEtVENETzAxbGJoQXpxTndER0p3RVFZZVpfa1JRdDNhMWJ1Vlg2endvazhMMm9MbjdOSw?oc=5",
-            "published": "2026-04-06T13:13:25+09:00",
-            "source": "千葉テレビ放送"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "旭化成ホームズ、子育て向け賃貸の関西展開拡大へ | チバテレ＋プラス - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tbmtiUVhwWF9Za2dDMWN1M2Zuc2FqOVFaYVpKVm9fdVpMR1ZCZGttZk1BLVRDRE8wMWxiaEF6cU53REdKd0VRWWVaX2tSUXQzYTFidVZYNnp3b2s4TDJvTG43TkvSAWRBVV95cUxPLW5rYlFYcFhfWWtnQzFjdTNmbnNhajlRWmFaSlZvX3VaTEdWQmRrbWZNQS1UQ0RPMDFsYmhBenFOd0RHSndFUVllWl9rUlF0M2ExYnVWWDZ6d29rOEwyb0xuN05L?oc=5",
             "published": "2026-04-06T13:13:25+09:00",
             "source": "千葉テレビ放送"
@@ -1150,6 +1171,13 @@
             "source": "SBSマイホームセンター"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "塩ビ管など来月値上げ 積水化学工業 中東情勢悪化で - 日本農業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NY1c2dm45UlNPU0oxaDg3aUo3dmRmMTVHVG1nbV8zaVJmR1BVMHJyeFB0cXVGMndFZTVCMzJ4d3FNS0JlcEl4RmkwM2h0cWtySjF3TGpnMA?oc=5",
+            "published": "2026-04-03T19:48:21+09:00",
+            "source": "日本農業新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス､袋井に東西中継マルチテナント施設着工 - LOGISTICS TODAY",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sb3B2MHJuZENTTkJKMlIzM2o2RlNXcHB3VENWQW5mMmVuMWFHUWI3dlV2N0txR0ZJUUF0Qk9oQTA1VU01VzlBY9IBTkFVX3lxTE1tQ090bUJQWGVVYlVTZGlCaHZPMjI4R1ZOQVhNT2drOUFnSnZlVHJvcUNXYnYyZG5FZ3RuTWFPbGYzSHF2aU9LZzlWRWF0QQ?oc=5",
@@ -1351,13 +1379,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZUDRDMzlMaWhtcnZTM1pybDFNZWFuend0bnZLS3VCU2tHQmhJRHJxc2ZtdWVkTWxyeUJ2UGlOT1hKTHRqaUJ3WHJuYmp3TXZxeENJRzdjRXV5UjVXNWNN0gFkQVVfeXFMTWtjVWU1dkRPVWkyd0M4SVUtbFBYdVJjbHhkWU1kemVJVTZZTXZyUXZJbEl3NVA0eGtoajFtRWZfR0RwTVpVMHMxcmoxXzE3QVN5QlVZa1l3LWRtRFVSZkVJek1Reg?oc=5",
             "published": "2026-04-03T12:13:13+09:00",
             "source": "千葉テレビ放送"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "塩ビ管など来月値上げ 積水化学工業 中東情勢悪化で - 日本農業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NY1c2dm45UlNPU0oxaDg3aUo3dmRmMTVHVG1nbV8zaVJmR1BVMHJyeFB0cXVGMndFZTVCMzJ4d3FNS0JlcEl4RmkwM2h0cWtySjF3TGpnMA?oc=5",
-            "published": "2026-04-03T11:48:19+09:00",
-            "source": "日本農業新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -2228,18 +2249,18 @@
             "source": "建通新聞"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "【PR】上越で住宅2棟見学 一条工務店の規格住宅と自由設計を体感 富岡分譲地 - joetsutj.com",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDT0J4OHJuQnI2VGZLeHp0U1VXR1k2Z1BPVzZFSTh0OUt1R3pXMmFWcDN6NDFyc1ZNU09jMFdhMk5kYWZRVXNUNk9jbDRULU1JdEJHUA?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "joetsutj.com"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "CDP､日本企業22%が気候変動｢高評価｣ 大和ハウスAAA - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWExBeHlvc2w5VnViRHMzV1psc0VPXzFBeHg0VmlyY1VJRDdsRjNMRUlCREw2cDJsdVdQVDRmMDRhd1JQMzRaeDQ1Nk5KQnN2ejdiMEJ2MHBvTWZOYlAtdGhYNlczLThRUUE5RVJMeFBOS0ZnUXNZ?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【PR】上越で住宅2棟見学 一条工務店の規格住宅と自由設計を体感 富岡分譲地 - joetsutj.com",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDT0J4OHJuQnI2VGZLeHp0U1VXR1k2Z1BPVzZFSTh0OUt1R3pXMmFWcDN6NDFyc1ZNU09jMFdhMk5kYWZRVXNUNk9jbDRULU1JdEJHUA?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "joetsutj.com"
         },
         {
             "company_id": "misawa_home",
@@ -2272,16 +2293,9 @@
         {
             "company_id": "sekisui_heim",
             "title": "セキスイハイム中四国社長に中林克憲氏 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2tlZUFLNy1KYXdVVEZ6dktpU3YyYXpMYTdENy05YmJ2QVgxLVpxUk0zNkFVQWFFTDJDNzhwT0E2Z3BwQkhiNzRiUGdneDl0aEFEOUVYdEZHX05sNnlvRmtjTjVNZmZGVEFwdlotWXpCdmprcnRhejZ2bENzOENpeVlySS13MEVmTTVhNXRISlpOWXFsTG44b1M4YXRuSHFmdnVGeWpYdEo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91QVQwLWVRNVgxaW5Da294WHpsd1JrUWxkdDFnWEJ3RzJ0SmxJMHJ5R2Y0Y2hScjcwd1pRSXRQcGlmdVdOcE93bm9IWWF3YkxGRTJQY1pXSmVOdGxpa29LaFVhQVlmTUVxWlpESw?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "セキスイハイム中四国 4月1日付け、新社長に中林克憲氏 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdWF2LTlmOHJqaVdLdllhQTJkMl9hYUhUNUZmbEo1ODEtT0hUbE03VFN4WWhhb1NvRkNBYUNYdFdjd21EVGRwV2ViWXVkVUJXcWNxczhn?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "jutaku-s.com"
         },
         {
             "company_id": "sekisui_heim",
@@ -2293,9 +2307,16 @@
         {
             "company_id": "sekisui_heim",
             "title": "セキスイハイム中四国社長に中林克憲氏 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91QVQwLWVRNVgxaW5Da294WHpsd1JrUWxkdDFnWEJ3RzJ0SmxJMHJ5R2Y0Y2hScjcwd1pRSXRQcGlmdVdOcE93bm9IWWF3YkxGRTJQY1pXSmVOdGxpa29LaFVhQVlmTUVxWlpESw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2tlZUFLNy1KYXdVVEZ6dktpU3YyYXpMYTdENy05YmJ2QVgxLVpxUk0zNkFVQWFFTDJDNzhwT0E2Z3BwQkhiNzRiUGdneDl0aEFEOUVYdEZHX05sNnlvRmtjTjVNZmZGVEFwdlotWXpCdmprcnRhejZ2bENzOENpeVlySS13MEVmTTVhNXRISlpOWXFsTG44b1M4YXRuSHFmdnVGeWpYdEo?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "セキスイハイム中四国 4月1日付け、新社長に中林克憲氏 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdWF2LTlmOHJqaVdLdllhQTJkMl9hYUhUNUZmbEo1ODEtT0hUbE03VFN4WWhhb1NvRkNBYUNYdFdjd21EVGRwV2ViWXVkVUJXcWNxczhn?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "jutaku-s.com"
         },
         {
             "company_id": "mitsui_home",
@@ -2765,13 +2786,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGTUU4NnpJbS1aaF80OWZRLW1CcXMwQ1pTYU41czZaU2JhLXJ5clI0N2ZIUDFGUEY2UzMwSjlXR2dNQlBVUjVsNVQ2S3QwbmQ1OU9Dc3lFYmlUTWJOTHd3aHNRUVkyRGNNYXc?oc=5",
             "published": "2026-03-30T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "ハウスリート - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gbml2d1ItM205OXVBd1hPLXBrbWphcFY5SVA0eHhWbm1jWUJrTnZnSHlVcUdTTkpmQ3Buc2o2OVhNajlpSkZPZGR1RUYwQUsxMWFuSXd1VHVzSW1tUlRQekZyNlBFVldRVmc?oc=5",
-            "published": "2026-03-30T15:30:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "mitsui_home",
@@ -3355,6 +3369,13 @@
             "source": "ライブドアニュース"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【一条工務店千葉展示場】待望の新商品「ナチュリア」新登場！ - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbGRwMUVvM2t5WlRDU09sVDdNQm4xeXNVbHRhU0pPejhSQ19aWDRHbUlTOTUxVVR1TTdRYXFCdUhibmtDaHpBSXpOY3VGQVBGRmxjUkMxOGM4Y0U?oc=5",
+            "published": "2026-03-25T16:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、住宅業界初、基礎コンクリート工事における強度をリアルタイムに可視化 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uZGhQd1ZCSzNkekh4RW5hMjVEVXBsQTVTM0JVVkZpM2pmWmtlZm05RzlvLUxYdG00QjlQZUFESXFCOXBuVEZBNG5wak9qSVVkNWp5LVFiejl4VGc?oc=5",
@@ -3374,13 +3395,6 @@
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFN6TmJBQ1hfWkxTalV2WDNMSDhRY0xDUWFDNUtCVFA4dVlSRlRqNEVWX0dvR25fRUN1U0tnR0V4TUJmckRlSVlILUdKQTVuclNSYWlfTGRaSFRldTB5R05hbFlwUUdhaFNHLWZXVEZQZjFCYUNBYkU4bUNWcW90MUp3?oc=5",
             "published": "2026-03-25T16:00:00+09:00",
             "source": "サンスポ"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店千葉展示場】待望の新商品「ナチュリア」新登場！ - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbGRwMUVvM2t5WlRDU09sVDdNQm4xeXNVbHRhU0pPejhSQ19aWDRHbUlTOTUxVVR1TTdRYXFCdUhibmtDaHpBSXpOY3VGQVBGRmxjUkMxOGM4Y0U?oc=5",
-            "published": "2026-03-25T16:00:00+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "misawa_home",
@@ -3581,6 +3595,13 @@
         {
             "company_id": "sekisui_heim",
             "title": "再開発案件支援へ新会社 SFG不動産 セキスイハイム東海と - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTZiNjJrY2tiMTlxdmVJQkJiVFdrSTFlbWVER2cwYl9Sb1ZCTEZJZ2RsWGJONUUyLUFNZHFPRGdpOHNxVXM2RzV4MVBKUjNJOFFZaG1vQW14V2tsNVVZQWRBc19tRDNGQjQwalJZd2Z4RHIwLWVqUk1VcHdRNy16Q2xYRlVBUkVETzlwUzBrMFJDNWxLSEhRQ3NodTlXU0lFZGc?oc=5",
+            "published": "2026-03-24T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "再開発案件支援へ新会社 SFG不動産 セキスイハイム東海と - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkFkWjBkd0laZ2Jvdmxwc3ZRSUhDSl80cjNvOUo0c2ppbDBCQmE1aVlhS2hWZ3hCZWw0aDhwMjBxYVI0Q2FtV2J0WWNjQVZpbllaelg4QzRGN1dVVWloUmtrelhWT2hOOEdxYy1uOTg0eXFMZGJYVDYyb0k2bXgtcEMzYllVamxCRjNlcDJXakFJSl9OUTJVS1BkaTUyUEtnU1FtY180bFE?oc=5",
             "published": "2026-03-24T16:00:00+09:00",
             "source": "日本経済新聞"
@@ -3695,13 +3716,6 @@
             "title": "再開発案件支援へ新会社 SFG不動産 セキスイハイム東海と - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHIwRDJKb29yVll1TkE1MFpQaEhhc3BoakhCcTdqLUh2SG9yaDAydWIxUVk0STFybUFjNlhXN0JaeXBiemRETG9VeWNNWENZUnhVT3YzTW1scldEYmNZTXcwMThHZE1BMHJIWXNWUlAxNnJYeTF5NDhqdkdYajhYRzNWLUtXR29wZHhBWVRYaEdLSVJxWnNVVW5xNmFkSno3X1E?oc=5",
             "published": "2026-03-24T02:58:16+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "再開発案件支援へ新会社 SFG不動産 セキスイハイム東海と - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTZiNjJrY2tiMTlxdmVJQkJiVFdrSTFlbWVER2cwYl9Sb1ZCTEZJZ2RsWGJONUUyLUFNZHFPRGdpOHNxVXM2RzV4MVBKUjNJOFFZaG1vQW14V2tsNVVZQWRBc19tRDNGQjQwalJZd2Z4RHIwLWVqUk1VcHdRNy16Q2xYRlVBUkVETzlwUzBrMFJDNWxLSEhRQ3NodTlXU0lFZGc?oc=5",
-            "published": "2026-03-24T02:12:16+09:00",
             "source": "日本経済新聞"
         },
         {
@@ -3852,6 +3866,20 @@
             "source": "ライブドアニュース"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "4月1日付で社長交代 牧野克彦氏が昇格 一条工務店 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xOTVSSVRGOTZNSEdrMG1XMFNCdXcxZEROTm14ZFl2S3pUVWdROFRZLWlKbXlFb0tyNFdvUzl3MGJjbXZteHhOSjZsckl6ajROdG9rWjVR?oc=5",
+            "published": "2026-03-23T16:00:00+09:00",
+            "source": "jutaku-s.com"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店が社長交代、現・副社長牧野氏が就任 | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPNk14V3M2OVFCSC0xRHBNTVBqeE1GNkw3NlZxcTJOcGo4MVkwQVUwUURtTTZjS1VhaDJZWTdEdHRmVi15NzdyQjVNTFJwaHRzTkVkSEItd3E4YXBuSVA40gFkQVVfeXFMT0NXczR1dmNGdE9TV1I3dGZreEpqWjRTX21HRVEwZ3VmdUVJZ1FCb3hvZ1p0WEZWMGNzTGFqMWc2Mk9sUnJyRXYxTHpVWDRTU1FHRkozVUJFaFVrVzdpTlV2WFMxQw?oc=5",
+            "published": "2026-03-23T16:00:00+09:00",
+            "source": "千葉テレビ放送"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウスがIoTやAIでスマートホーム推進！家電の遠隔操作から開始 - AIsmiley",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zdVpNU0NOcTU3M2hBWm5oNEs1SDJOQk9ReHBUYU9zeXB3RHJUeTNCNktaQmdNMXM1VFZJWmRqUGJHQjk1aTlnWjRUQmtXWlBQc0VBdmdkRGVTWFRtWUFYTXhzUThLWThaLU81Y3VSMDBLaFE?oc=5",
@@ -3899,20 +3927,6 @@
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tWC1LVnBkdk9UY3JwNVFhTEdfMWxRNmhqelRuRmlZTDZoV28wNU5FUUtKS1U0WWI0RFh3R3JzRjlMcE5HaXZ4UnRtMHY2SDFuWVdNdXVKN1dldUNESUFHT21uUGlPbnUw?oc=5",
             "published": "2026-03-23T16:00:00+09:00",
             "source": "kyodonewsprwire.jp"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "4月1日付で社長交代 牧野克彦氏が昇格 一条工務店 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xOTVSSVRGOTZNSEdrMG1XMFNCdXcxZEROTm14ZFl2S3pUVWdROFRZLWlKbXlFb0tyNFdvUzl3MGJjbXZteHhOSjZsckl6ajROdG9rWjVR?oc=5",
-            "published": "2026-03-23T16:00:00+09:00",
-            "source": "jutaku-s.com"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店が社長交代、現・副社長牧野氏が就任 | チバテレ＋プラス - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPNk14V3M2OVFCSC0xRHBNTVBqeE1GNkw3NlZxcTJOcGo4MVkwQVUwUURtTTZjS1VhaDJZWTdEdHRmVi15NzdyQjVNTFJwaHRzTkVkSEItd3E4YXBuSVA40gFkQVVfeXFMT0NXczR1dmNGdE9TV1I3dGZreEpqWjRTX21HRVEwZ3VmdUVJZ1FCb3hvZ1p0WEZWMGNzTGFqMWc2Mk9sUnJyRXYxTHpVWDRTU1FHRkozVUJFaFVrVzdpTlV2WFMxQw?oc=5",
-            "published": "2026-03-23T16:00:00+09:00",
-            "source": "千葉テレビ放送"
         },
         {
             "company_id": "sekisui_heim",
@@ -4662,13 +4676,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwNFVaaGF2WHVHTllhQXUyVGpXU05jM09BYk93MXpHMHRCWVZqbUFfS1Y3aWp4VjFpc21uVnpjQ3RMY1VaODNzYjJ3Y19hbHlDSFNIdjlhOU1sYi1RdFkwMmJiLXNLQTl6a1U3VA?oc=5",
             "published": "2026-03-10T16:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業、「Beハイム」ブランドで買取再販 年間82件販売し売上30億円 - リフォーム産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OT3JkNWFoeGVOWHVzaS1Gb0dUVk9Ub1dkbmc0c2JLeUhKREpyeXpSTU5SRGFKajcyNkdDZV9pM0hJNUxFX081aTFPdXc4aFJ3VV9Wa3B2N0thdmFPSzN2VnhKTE8?oc=5",
-            "published": "2026-03-10T08:01:30+09:00",
-            "source": "リフォーム産業新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -6188,13 +6195,6 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUelduRWVBQ0gzQ2syVDNnZy1meGlUV2ZGeTZxT3ZoX1RYUWozemoxOGlleWRhT3YtT1FjbVZCM0FPZm1DMmhvRlI0X2pCbHoya0tIbENESWx3RGdXbGVlcWxKSWpYMmt2dzBPUzZB?oc=5",
             "published": "2026-01-19T17:00:00+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "❤ハッピーバレンタイン❤キャンペーン開催！GODIVAのチョコレートをプレゼント！ - SBSマイホームセンター",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JY3dBZldSUURBblpuY1c2YW00ZFYzMmlJbUhWTk5YbThKMzZBTjN5UExoM2hvQjVWR2tiTFdCazZRTHFRS3hNbTFlRlNCMkdmbnc?oc=5",
-            "published": "2026-01-17T23:12:03+09:00",
-            "source": "SBSマイホームセンター"
         },
         {
             "company_id": "panasonic_homes",
