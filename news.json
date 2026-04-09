@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-04-09T13:34:47.221233+09:00",
+    "generated_at": "2026-04-09T15:19:13.005565+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -49,6 +49,13 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12ZU9LdXFpMGthV3pEaFU4S1ZYUkljU0ZFeHNJZ1hIOE1xU3daT1J0OElnYm56YmJJZndJejBkc3FzaXduUmJpXzIzU2V5bGlfbURibXp6eHFaRlV0eDE4?oc=5",
             "published": "2026-04-09T06:00:00+09:00",
             "source": "カーゴニュースオンライン"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、不動産仲介・買取再販を強化 | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zSk9BRVRieDhFNkh6cUpGRS1WR21rbEtRZVl0NUdaZ0tNdDFZSE5JTzhvVmkySlUwc3hsSGVERFZLekRtd2R0ckZFUF83b1NvV0lTUExsUDRGY2p1OFpF0gFkQVVfeXFMTzhRaDdEdHlXQjlHM044aXd2WlpXbDBpYzB4dDN2eFRmZkMwUWpvdE9JZVNWY0w1OU1uVWRHdjJCWEdJYURKY0JJaVFaSnZ2cHNPcDI0QlFOaFdpVER6ck9CYzlJMg?oc=5",
+            "published": "2026-04-08T21:13:27+09:00",
+            "source": "千葉テレビ放送"
         },
         {
             "company_id": "ichijo_komuten",
@@ -413,13 +420,6 @@
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0RPWFM2Z011S2pEdVNwRklZMjk0OGxUanlWdXphNHJRSnkxMEFReXAwN3VZall6ZmZ6WDdDUU9RcjNlM3VJUVlpRkpNZ3MyR01vVzVWa2I1T2Rkc1dJeGIyLVRGbDB4Y3E2eEw1THJUMEUyUllJT0tZRW8xaUhiTGVRbmpUSFRxRDBPbFBCNTY?oc=5",
             "published": "2026-04-07T15:01:17+09:00",
             "source": "全国ソーシャルビジネス事業者データベース"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "ミサワホーム、不動産仲介・買取再販を強化 | チバテレ＋プラス - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zSk9BRVRieDhFNkh6cUpGRS1WR21rbEtRZVl0NUdaZ0tNdDFZSE5JTzhvVmkySlUwc3hsSGVERFZLekRtd2R0ckZFUF83b1NvV0lTUExsUDRGY2p1OFpF0gFkQVVfeXFMTzhRaDdEdHlXQjlHM044aXd2WlpXbDBpYzB4dDN2eFRmZkMwUWpvdE9JZVNWY0w1OU1uVWRHdjJCWEdJYURKY0JJaVFaSnZ2cHNPcDI0QlFOaFdpVER6ck9CYzlJMg?oc=5",
-            "published": "2026-04-07T14:24:38+09:00",
-            "source": "千葉テレビ放送"
         },
         {
             "company_id": "panasonic_homes",
@@ -1473,17 +1473,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "レンゴーと共同出資会社設立 バイオエタノール事業を開始 住友林業 - JAcom 農業協同組合新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNZmZVcm1iNDR0YVl2VWcxa1A1alVrcmxRU2sxODQzTHRZWUR2bXUzUWRvc0lCUUhmZEhpb21UcmtmelBJRGNvUm5HbkdMdmhod0tIQ3VxYzVQd0FzZktteGgyZ20?oc=5",
-            "published": "2026-04-02T16:00:00+09:00",
-            "source": "JAcom 農業協同組合新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "【勝ち組？】住友林業の就職偏差値･難易度と平均年収の企業研究【激務？やばい？】 - 就職偏差値.com",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SjduSGMwcWg2dFpwNUZ2V3dqSXRidm9mb0xqWms5eWF6NjRqRmN2ZkdNcXBBU2pVdzE4MC0tNXdiTGh3QkdaNWJSOWQ0dEpZcjhYUGlwTVQ2NDlzV2xVUjJ5MTRNaWR3VHRVelZ5WQ?oc=5",
             "published": "2026-04-02T16:00:00+09:00",
             "source": "就職偏差値.com"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "レンゴーと共同出資会社設立 バイオエタノール事業を開始 住友林業 - JAcom 農業協同組合新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNZmZVcm1iNDR0YVl2VWcxa1A1alVrcmxRU2sxODQzTHRZWUR2bXUzUWRvc0lCUUhmZEhpb21UcmtmelBJRGNvUm5HbkdMdmhod0tIQ3VxYzVQd0FzZktteGgyZ20?oc=5",
+            "published": "2026-04-02T16:00:00+09:00",
+            "source": "JAcom 農業協同組合新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -3153,10 +3153,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業四倉工場が操業開始、国産材供給網を構築 - LOGISTICS TODAY",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuTHhnMU5LeDNlUWhIYlJQeTF0NF9NTTgxRDNiQzREeDZGckxhdHo3bVROSmpaRTZLa2lXX1c0b2w2VzhUMWZLVQ?oc=5",
+            "title": "住友林業、米子会社が米ジョージア州アトランタで賃貸用集合住宅「NOVEL Lulah Hills」を開発 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwWnVvT0toQTB5Y1ZaZjRxcGNWOGE1ZEVDcjhaNDI2d2JZbnhVM011TVE5YVBDRTBPVTl2SzAzWXRvVUZ1aDlxdmN0RkhrWnVHcWxCbmQ0aExRdXR6ekFBd0VQNEdrTkk3cElRYQ?oc=5",
             "published": "2026-03-26T16:00:00+09:00",
-            "source": "LOGISTICS TODAY"
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -4161,7 +4161,7 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "MISAWA DESIGNERS' CODE MARGE（ミサワ デザイナーズ コード マージ） - PR TIMES",
+            "title": "MISAWA DESIGNERS' CODE MARGE（ミサワ デザイナーズ コード マージ） | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rYlF5RmxrRDJ6LUlzc0tWMHc2YVFDSXQ2dUZxVWlFdDk3UEFCMUFVaDQ2Q2JSSFhLUzhIWXpyQUJtUWJUVmRBZy1hLWlpQXV3VlFIRVhSN2xpeDBZRWx0WVFVM0dRdVBRTmc?oc=5",
             "published": "2026-03-16T16:00:00+09:00",
             "source": "PR TIMES"
