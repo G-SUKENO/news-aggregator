@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-04-12T14:20:16.279127+09:00",
+    "generated_at": "2026-04-12T16:09:12.507159+09:00",
     "articles": [
         {
             "company_id": "hebel_haus",
@@ -146,6 +146,13 @@
             "title": "住友林業(株)【1911】：AI値動き解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
             "published": "2026-04-10T16:01:21+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：株価・株式情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
+            "published": "2026-04-10T16:00:48+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -1647,13 +1654,6 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：株価・株式情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
-            "published": "2026-04-03T15:59:13+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：株価・株式情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMHgyWUt2R1JvOFpYLW85VFNnX3lTWTNSU0VlWjAwLXBVQ1hzU0NLSUl5dXhyeXd5ZEZoRXpMV3N6TUd3RTBPQ2RtUGF4YTFNRnc?oc=5",
@@ -2635,17 +2635,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsODYyTmFmZDlBSjNRZzhqcVVNUWM0cUppclVyMXZlSng1WkM1dEpKVGFEajRkYm5HZ0M2cHRITGtoQTJxNkZJUnc3Zw?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "47NEWS"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入（オーヴォ） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZSGJjUHctaFlzRTZFakVoVGMtTnhWM1B5dmljeVp0YXFFSkZsTnFueU8zVFh6dElkMm5tRXZmOWFPNmZUZ2l0NjdtLTNGLU94WG5xbVA4WjZzZDJVY3dXb0xQbm9Ca1RyNjFQWTVVamtTdnNGeE5Xem9kcUt3Wmc?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入 - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsODYyTmFmZDlBSjNRZzhqcVVNUWM0cUppclVyMXZlSng1WkM1dEpKVGFEajRkYm5HZ0M2cHRITGtoQTJxNkZJUnc3Zw?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "47NEWS"
         },
         {
             "company_id": "hebel_haus",
@@ -2677,17 +2677,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "セキスイハイム中四国 4月1日付け、新社長に中林克憲氏 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdWF2LTlmOHJqaVdLdllhQTJkMl9hYUhUNUZmbEo1ODEtT0hUbE03VFN4WWhhb1NvRkNBYUNYdFdjd21EVGRwV2ViWXVkVUJXcWNxczhn?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "jutaku-s.com"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "セキスイハイム中四国社長に中林克憲氏 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91QVQwLWVRNVgxaW5Da294WHpsd1JrUWxkdDFnWEJ3RzJ0SmxJMHJ5R2Y0Y2hScjcwd1pRSXRQcGlmdVdOcE93bm9IWWF3YkxGRTJQY1pXSmVOdGxpa29LaFVhQVlmTUVxWlpESw?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "セキスイハイム中四国 4月1日付け、新社長に中林克憲氏 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdWF2LTlmOHJqaVdLdllhQTJkMl9hYUhUNUZmbEo1ODEtT0hUbE03VFN4WWhhb1NvRkNBYUNYdFdjd21EVGRwV2ViWXVkVUJXcWNxczhn?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "jutaku-s.com"
         },
         {
             "company_id": "sekisui_heim",
@@ -3174,17 +3174,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナホームズなど27者、兵庫・宝塚のニュータウン再開発 協議体発足 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2o1QTlreGNwNW5Va0JqUDdiZ2VuT0VWc0h5R1dNMjVkWU9NWnVHUEdBOHNhT19kbllvWWsxdDdEc0Y3SmJFOUVPb2o4Vkppd0RvakFJRXN6NWZHb0djSW9tTmJvRlNPZXkwbHB6czRxc200YkNBaUo4Qk1GQ1NKN0w4aFhGM0tXVGx3LXZmLThiaGd4a1M0MVpzZFBFeWVJalRqcDlUTEgyUQ?oc=5",
-            "published": "2026-03-30T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ株式会社がM2Xを導入 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZnlYazBhejN0T09pZ2tnQlpHVUhKbGxNeFpOcXFJNHUwbHZWTDdKd1RPN2lYV192M2U4VTZqUnlKd2c3dzE3MjcycjN3WTU2MUdoeGhFR2RGXzhoaVBLRkhPSG8wMGtHekE?oc=5",
             "published": "2026-03-30T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナホームズなど27者、兵庫・宝塚のニュータウン再開発 協議体発足 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2o1QTlreGNwNW5Va0JqUDdiZ2VuT0VWc0h5R1dNMjVkWU9NWnVHUEdBOHNhT19kbllvWWsxdDdEc0Y3SmJFOUVPb2o4Vkppd0RvakFJRXN6NWZHb0djSW9tTmJvRlNPZXkwbHB6czRxc200YkNBaUo4Qk1GQ1NKN0w4aFhGM0tXVGx3LXZmLThiaGd4a1M0MVpzZFBFeWVJalRqcDlUTEgyUQ?oc=5",
+            "published": "2026-03-30T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -4252,17 +4252,17 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "4月1日付で社長交代 牧野克彦氏が昇格 一条工務店 - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xOTVSSVRGOTZNSEdrMG1XMFNCdXcxZEROTm14ZFl2S3pUVWdROFRZLWlKbXlFb0tyNFdvUzl3MGJjbXZteHhOSjZsckl6ajROdG9rWjVR?oc=5",
-            "published": "2026-03-23T16:00:00+09:00",
-            "source": "jutaku-s.com"
-        },
-        {
-            "company_id": "ichijo_komuten",
             "title": "一条工務店が社長交代、現・副社長牧野氏が就任 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OHlhcmFqc2V3TXJndjBYUV9BOUpJcHVXRWFZX3h6Z1ZSSmN3U21KVXpsUDdhT2llQnhsUXpLNmFZaGw2cjBSVi1jcVIwOHhFRHQ4V29n?oc=5",
             "published": "2026-03-23T16:00:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "4月1日付で社長交代 牧野克彦氏が昇格 一条工務店 - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xOTVSSVRGOTZNSEdrMG1XMFNCdXcxZEROTm14ZFl2S3pUVWdROFRZLWlKbXlFb0tyNFdvUzl3MGJjbXZteHhOSjZsckl6ajROdG9rWjVR?oc=5",
+            "published": "2026-03-23T16:00:00+09:00",
+            "source": "jutaku-s.com"
         },
         {
             "company_id": "ichijo_komuten",
