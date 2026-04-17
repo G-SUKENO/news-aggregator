@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-04-17T19:51:33.535298+09:00",
+    "generated_at": "2026-04-17T20:49:12.355090+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -369,7 +369,7 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス工業 異例人事の舞台裏 ゼネコン再編ののろしか？ - 東洋経済オンライン",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XVG0wRThodFYwM3drZ2dKN3MwWGU2ZWlZc2pmaXVIQTF1OG9lb2FtbG9GenhrWTU4a2JPTHJxZDEwcHM1bkdXOGZnWXJUdERUSjVpTXh2V1F0MEkydHFnWUVjWmZsdw?oc=5",
-            "published": "2026-04-15T20:15:00+09:00",
+            "published": "2026-04-15T20:18:52+09:00",
             "source": "東洋経済オンライン"
         },
         {
@@ -1444,6 +1444,13 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業が介護事業から撤退、２子会社の全株式を「ＡＬＳＯＫ介護」へ売却 - 読売新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55eTV4eVhRelc5Tk9zZnJsenczOFZFRDZic3d0NV9ZNFVfMTd5VGxmbDVQb3VLSEtDbTUzTnVhMGFGU094MkFMOTFZVUZBMVBZWXo5Q2Y0ZmVZUzE2T1A3Z3lMejM?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "読売新聞"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "一条工務店、主力の2商品で断熱性能等級7を標準化 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXY05ZaWNSakljTTltVTJNaVBEM2h1U0xkczFkTzY2bTBLUGg3SlRtc2JQV3k3V2dMTEpyQXI3djZ0bWZvckVQcWJRaWRtT1BJc1E?oc=5",
@@ -1459,17 +1466,24 @@
         },
         {
             "company_id": "hebel_haus",
+            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yejJjcUpka2lVSG9fZVNkcnNxS0tmWkIwY2QzbGlrVEZhM294NFVvQ1l4Q3pVRjhSaDhTSmZBb3IwVjk1bGNWQXVpbXc5bFQ1Z2FLWVUwOHlTZ1EwMVdsaFNFaWhwb1Z0RDkxVmtrVWZjd3VXamtrOXpFWQ?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "au Webポータル"
+        },
+        {
+            "company_id": "hebel_haus",
             "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】（共同通信） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWldSM0d3cG1sbDdLaGxCR1QxSnlXU2NTTUV4cVJBdkJvSlRYTVU0VVA4cGhKVlZWR05ndlR3SUJKdUI3eV96bkNudmJyVVZqaS1ZZlFEWWNhWHVVSk5SZGt5N0gyVkZXdEJmT01CV3dlN1ZaTWFPMk1GQU5QbDA?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "Yahoo!ニュース"
         },
         {
-            "company_id": "hebel_haus",
-            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 - au Webポータル",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yejJjcUpka2lVSG9fZVNkcnNxS0tmWkIwY2QzbGlrVEZhM294NFVvQ1l4Q3pVRjhSaDhTSmZBb3IwVjk1bGNWQXVpbXc5bFQ1Z2FLWVUwOHlTZ1EwMVdsaFNFaWhwb1Z0RDkxVmtrVWZjd3VXamtrOXpFWQ?oc=5",
+            "company_id": "misawa_home",
+            "title": "AIで太陽光パネルの不具合を自動検知 ミサワホームが技術開発 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ybUtsbXZOMXU0TGhKRmZGYzNDNmc5Sm45OU9XaDc2Sk1ici10ZDJlSU4zOUg3LU1PUDRrWmk5d3hQT2lUelM2czA4ZnR5TzE0ZVE?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
-            "source": "au Webポータル"
+            "source": "新建ハウジング"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1557,13 +1571,6 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業が介護事業から撤退、２子会社の全株式を「ＡＬＳＯＫ介護」へ売却 - 読売新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55eTV4eVhRelc5Tk9zZnJsenczOFZFRDZic3d0NV9ZNFVfMTd5VGxmbDVQb3VLSEtDbTUzTnVhMGFGU094MkFMOTFZVUZBMVBZWXo5Q2Y0ZmVZUzE2T1A3Z3lMejM?oc=5",
-            "published": "2026-04-08T10:00:00+09:00",
-            "source": "読売新聞"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大和ハウス工業が介護事業から撤退、２子会社の全株式を「ＡＬＳＯＫ介護」へ売却 (2026年4月8日掲載) - ライブドアニュース",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwMWQ3WW1Bb3BYTm1nUWY4ZGtpZ3o0QVdmcmRIa3E2THFReGhTa0xPOWpEaFY2Ri1adnNCbm16LUhMTTQwZ0FoR0FSelNTME1KUm9GVzZuT1hDU2haUFE?oc=5",
             "published": "2026-04-08T10:00:00+09:00",
@@ -1582,13 +1589,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oLXlzS0hoT3o0ei1IUDN4czZQVlFWZk1wOHp3bl96V0FPbEdoaTBoYXdiNHV4UjdkVzJ3MHB6UzJ4QWhQWWQ3c2VUd1FMRVZOcFE?oc=5",
             "published": "2026-04-08T09:00:00+09:00",
             "source": "東洋経済オンライン"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "AIで太陽光パネルの不具合を自動検知 ミサワホームが技術開発 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ybUtsbXZOMXU0TGhKRmZGYzNDNmc5Sm45OU9XaDc2Sk1ici10ZDJlSU4zOUg3LU1PUDRrWmk5d3hQT2lUelM2czA4ZnR5TzE0ZVE?oc=5",
-            "published": "2026-04-08T08:15:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "sekisui_heim",
