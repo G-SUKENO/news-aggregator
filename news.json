@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-04-18T23:50:54.617054+09:00",
+    "generated_at": "2026-04-19T00:34:07.529105+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -1262,6 +1262,13 @@
             "source": "山陽新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、米国で覚悟の大型買収 住宅最大手DRホートン追う - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1veVFfOU1wTlh4NGcyOUE4elEzTjlQbUE1ak5PSWI2VG5FR2s1RHhvZjBncHlrMWx6X0swOUlidnFFcHRzamRqN1BHSVZCZ29sbGZLQzdVdm5EdE80TE9NWlZ6aGNmVEFfUnpGYg?oc=5",
+            "published": "2026-04-10T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "［新連載］新卒は必要か ENEOS・クボタ・大和ハウス、採用大幅減の真意 - 日経ビジネス電子版",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNl9udEtoa01VWWFsLW93WDJscFNwcWRJS2N4ZE9oOUZSaGp6aHBxZWFmbWIyVnNQczlBX2ZoQUotd3pJMG1WNEkxVWxoVFgtWW5QTnNSSC1FMGJNVk1sMFJEQnU1aFk?oc=5",
@@ -1351,13 +1358,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jN2NHYm1YV2hhTEZNMkFfTGswa3JyTnczN2RNeTJZR0FiNlVrX2pQeXZmcWlERUM1RHpvVVZ0Z1dHZ3gteFhaN2lMNU5XZ3RDYkt3bHZsNC0?oc=5",
             "published": "2026-04-10T06:20:19+09:00",
             "source": "建設通信新聞Digital"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、米国で覚悟の大型買収 住宅最大手DRホートン追う - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1veVFfOU1wTlh4NGcyOUE4elEzTjlQbUE1ak5PSWI2VG5FR2s1RHhvZjBncHlrMWx6X0swOUlidnFFcHRzamRqN1BHSVZCZ29sbGZLQzdVdm5EdE80TE9NWlZ6aGNmVEFfUnpGYg?oc=5",
-            "published": "2026-04-10T04:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -2684,17 +2684,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業、CO2排出実質ゼロの電力サービス オーナー向けに開始 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UVFYOFg1V3ZXMWdFTXNfU2NNODY4YjFuWXdkaHI1dXBOSnpvempDQ2dwOG5JNG4zTXhDbFB5ZlNZUGxCNS1POGhPZDVmMlFDcmc?oc=5",
-            "published": "2026-04-03T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：コーポレート・ガバナンスに関する報告書 2026/04/03 2026年4月3日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMHY1WlBUMkJsOFRoYkVqSzFacXpta0lFRUEzdVR0NUdFVWJ0VTliMUgwU1QtTTQ0MEZMOEM1S3JObFN6N21aR29LV0FkUXlTYVQ1eWZQVjZDRmJVbWNYb2tkUkZLaFZ4M1E?oc=5",
             "published": "2026-04-03T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、CO2排出実質ゼロの電力サービス オーナー向けに開始 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UVFYOFg1V3ZXMWdFTXNfU2NNODY4YjFuWXdkaHI1dXBOSnpvempDQ2dwOG5JNG4zTXhDbFB5ZlNZUGxCNS1POGhPZDVmMlFDcmc?oc=5",
+            "published": "2026-04-03T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "sumitomo_forestry",
