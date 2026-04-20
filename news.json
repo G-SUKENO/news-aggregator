@@ -1,19 +1,26 @@
 {
-    "generated_at": "2026-04-21T05:58:39.883220+09:00",
+    "generated_at": "2026-04-21T06:53:14.985915+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスリート投資法人【8984】：株価・株式情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZzE1d1RQNGFlYndOaFBnaDBkZ1lWZzFLSEFPVGxpTUZueVlUbmVleHpZOEd4U3hkRUM1ekkyOGs0RGs1dXdpV2Z6UTVwR3hNbXc?oc=5",
+            "published": "2026-04-21T06:21:20+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "堺区にマンションを新築／着工は６月初旬／大和ハウスリアルエステート - 建設ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkU1FFTEY1WnU3YndOd2g2aEdTelJqYmIxT2RSMXRMSUpHQXBSTG1fX2JCWTc2MkFoTU5KUWFQQ2xvYTNkcW8xZEdrdw?oc=5",
+            "published": "2026-04-21T06:09:53+09:00",
+            "source": "建設ニュース"
+        },
         {
             "company_id": "sekisui_heim",
             "title": "積水化学が挑む「データ経営」の核心：SAP S/4HANA Cloud導入の狙いとは - ITmedia",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16UmVhMEtNX0xacGloN3N4M0NkckdvTFk1RVI4SWtybTVvNlJiYzRKR2R6WVdZMWRCQnJKek95cVd5WGktRGFZOTdzMV9HRTg4LVdSVnhUMjY2V0VoWFEwT2lJbmFMczRHYTlWVg?oc=5",
             "published": "2026-04-21T05:00:00+09:00",
             "source": "ITmedia"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスリート投資法人【8984】：株価・株式情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZzE1d1RQNGFlYndOaFBnaDBkZ1lWZzFLSEFPVGxpTUZueVlUbmVleHpZOEd4U3hkRUM1ekkyOGs0RGs1dXdpV2Z6UTVwR3hNbXc?oc=5",
-            "published": "2026-04-21T03:23:47+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "misawa_home",
@@ -444,6 +451,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "ハウスメーカー･積水ハウスの女性管理職が5年で倍増した背景。20年かけた地道な取り組みに迫る - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ramw5cW91U0dyd0Q2UmhPNTJJLTFGRlRkWkVHWFdsdUJOajd1alNheGVqcnBfNzZHaXRKOXA3QXRUUzUtWXlXc2dlWm1qQi1TTmYwZnRhYw?oc=5",
+            "published": "2026-04-17T16:00:00+09:00",
+            "source": "東洋経済オンライン"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス (1928) の株価・株式 - QUICK Money World",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40ZGtRMldrUzRvSFhLYnpxeHBzTEpTMnhVakVhY28zeWI0WTEyODJ4Mks3MUgtd2xLNkg5N2VCTVlpeTVKNjgyYVd5djlrR3RlUDdyaXJURQ?oc=5",
             "published": "2026-04-17T16:00:00+09:00",
@@ -807,13 +821,6 @@
             "source": "東洋経済オンライン"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "ハウスメーカー･積水ハウスの女性管理職が5年で倍増した背景。20年かけた地道な取り組みに迫る - 東洋経済オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ramw5cW91U0dyd0Q2UmhPNTJJLTFGRlRkWkVHWFdsdUJOajd1alNheGVqcnBfNzZHaXRKOXA3QXRUUzUtWXlXc2dlWm1qQi1TTmYwZnRhYw?oc=5",
-            "published": "2026-04-16T04:38:09+09:00",
-            "source": "東洋経済オンライン"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林「直接金融で6割」 米社買収の資金、多様に - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnJFTFNvNE5DczdkMko1NHp6UDlxdFNtN1dyZ21HQ0ROZkVHQnc1c3I2X04zRkJGNFg5N3JXelFLeGdmYlgzQlo5T0pUaTFZalNPTUQwZ2lEclNtY1EzbTY4d0JWZEJtX3g0Y1R6b2hTakd0TDVUVHI3bFBnLUVjUmJSazJZSHJlQzlhbzlkMGZNUWQ1OUlqS1Q1c0x2T0NQbUNoV2s1T1k?oc=5",
@@ -1101,16 +1108,16 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "建材製品群の価格改定について - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FQm9XcG9WNFdyQTRzU3NMRVNfNm02dFFJRGFqaVVhNjVzWnNwRXo5YVFuNUFzR3EzZ1JvcWNQN2w5TDc2M1hmTnR2bEdwRFk1bHZCSWpuWTZUaXZlYUNYSFotLTNKdVBvQVE?oc=5",
+            "company_id": "daiwa_house",
+            "title": "「D-Wash平野南港通」２０２６年４月オープン！ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQczNpUDJrZzF0NDBFaUZyYm5TUmlLc2I3amg5c3JueTlhTEM4UFFSWlg3aGdwcHpaQ0gyUTM0Y05pd3dpYkZENFBZTVB1OXpuNzZHaGliZVFUMDBRbkxmSy1CVVRmQmY1Y0E?oc=5",
             "published": "2026-04-14T11:00:02+09:00",
             "source": "PR TIMES"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "「D-Wash平野南港通」２０２６年４月オープン！ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQczNpUDJrZzF0NDBFaUZyYm5TUmlLc2I3amg5c3JueTlhTEM4UFFSWlg3aGdwcHpaQ0gyUTM0Y05pd3dpYkZENFBZTVB1OXpuNzZHaGliZVFUMDBRbkxmSy1CVVRmQmY1Y0E?oc=5",
+            "company_id": "sekisui_heim",
+            "title": "建材製品群の価格改定について - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FQm9XcG9WNFdyQTRzU3NMRVNfNm02dFFJRGFqaVVhNjVzWnNwRXo5YVFuNUFzR3EzZ1JvcWNQN2w5TDc2M1hmTnR2bEdwRFk1bHZCSWpuWTZUaXZlYUNYSFotLTNKdVBvQVE?oc=5",
             "published": "2026-04-14T11:00:02+09:00",
             "source": "PR TIMES"
         },
@@ -1626,11 +1633,11 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "セキスイハイム中四国 社長岡部氏 １０月１日付で昇格 - 山陽新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSGJNTEpXTlVKT3cwMEluZ1NmMDBQTUtVcFRoLXJySU5EOFBadjR6ZV8yeWlJWEdHcGp3U0pQa28yelY3N0Q4RVlSYXA1Zm5QOTNaWUdlb0Fkd2llNlJIdDVrSWduS0U?oc=5",
+            "company_id": "daiwa_house",
+            "title": "ENEOS・クボタ・大和ハウス、脱・大量採用へ 「新卒厳選・中途拡大」の大潮流 - 日経ビジネス電子版",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sc21qRlBIYVE3QXd2RzNUR1J3SXBiSjBsUHpmUGM2Z2F6eXlySUQ0alpRQVNtVGctVEFqQk5aeE5NNk9rblZwZVpkam9CLTBFYnhPZmk4VV9aOE9adzk5MzBiOEQ?oc=5",
             "published": "2026-04-10T16:00:00+09:00",
-            "source": "山陽新聞"
+            "source": "日経ビジネス電子版"
         },
         {
             "company_id": "daiwa_house",
@@ -1638,6 +1645,13 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNl9udEtoa01VWWFsLW93WDJscFNwcWRJS2N4ZE9oOUZSaGp6aHBxZWFmbWIyVnNQczlBX2ZoQUotd3pJMG1WNEkxVWxoVFgtWW5QTnNSSC1FMGJNVk1sMFJEQnU1aFk?oc=5",
             "published": "2026-04-10T16:00:00+09:00",
             "source": "日経ビジネス電子版"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "セキスイハイム中四国 社長岡部氏 １０月１日付で昇格 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSGJNTEpXTlVKT3cwMEluZ1NmMDBQTUtVcFRoLXJySU5EOFBadjR6ZV8yeWlJWEdHcGp3U0pQa28yelY3N0Q4RVlSYXA1Zm5QOTNaWUdlb0Fkd2llNlJIdDVrSWduS0U?oc=5",
+            "published": "2026-04-10T16:00:00+09:00",
+            "source": "山陽新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1764,13 +1778,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzlRNUNLYjRDZ05DbmhYN3B0Q291NjNtZ0VidldUWG1yQjUyQzZXV3J0MUpvY2NnS3VNQkVJUnRtcV9jbnNmUjdaczVrazB2Z3dBTVVJNEpQRnlCQUZWc1VuNmhQOTc2OFdKN1ZzNWdLVnQtbVF0dks4aEE1TGdRUS1oenZJdVYtTlJhZXV6SldlblI0d1ZPNFJUOGs2QTg5V0RsM1ZweFg?oc=5",
             "published": "2026-04-10T01:53:49+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "ENEOS・クボタ・大和ハウス、脱・大量採用へ 「新卒厳選・中途拡大」の大潮流 - 日経ビジネス電子版",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sc21qRlBIYVE3QXd2RzNUR1J3SXBiSjBsUHpmUGM2Z2F6eXlySUQ0alpRQVNtVGctVEFqQk5aeE5NNk9rblZwZVpkam9CLTBFYnhPZmk4VV9aOE9adzk5MzBiOEQ?oc=5",
-            "published": "2026-04-10T00:00:00+09:00",
-            "source": "日経ビジネス電子版"
         },
         {
             "company_id": "ichijo_komuten",
@@ -1998,17 +2005,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "長く住める住宅目指す、旭化成ホームズ - 京都新聞デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YdzBFY01qc21wTXVubWozd2NDLUwwWHRDdGRtbW9nQzA0YnE3NWpxenZpTmFjMnR4VTRYanM5ZmQ3YlFYUWhCLTVjZndqM3dMN3daeDFWNmY?oc=5",
-            "published": "2026-04-08T16:00:00+09:00",
-            "source": "京都新聞デジタル"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2l4NVJya0c1X0xEZG84bkdBYmUwcXpzU3Qxay05Z3FOYlNCVVdKd0daX2RCWDZsSEJwOHR6T2ZLZ2wyXzZ1MU1NSjQxNnZOaTZBd1ZudW5PREJwenlETVVvd2V4RTE1VjlGdFQydmlQSFhPbXFxOUZkYWdMNEhENWVCMlM0SllKcGppMGZ3?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "長く住める住宅目指す、旭化成ホームズ - 京都新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YdzBFY01qc21wTXVubWozd2NDLUwwWHRDdGRtbW9nQzA0YnE3NWpxenZpTmFjMnR4VTRYanM5ZmQ3YlFYUWhCLTVjZndqM3dMN3daeDFWNmY?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "京都新聞デジタル"
         },
         {
             "company_id": "hebel_haus",
@@ -2429,13 +2436,6 @@
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzb01HOTlGZUpHVGJBa3dtUzJBVjN6dUk3ZDB0VXZRbWRvZVpYRnlGY1JKamcyck1ZM3Z4YWxqSEI4OXU2cEpJeGRzaVRSajFhSk5fenk1dmN4WkhBYUd6MEstQktWQkFkRkpDbjAxWG5qWnpCZ25keFEwYw?oc=5",
             "published": "2026-04-07T13:30:00+09:00",
             "source": "産経ニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業／東京都江東区に15万m2の物流施設を竣工、ヤマト運輸が1棟利用 - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hMUVSU0NvNHFhV1VpcFZ6Si1od3VxbGNSeXpZQVJEMmdpYkFQMUl2Q3NZM1NtUXpsU2tub2IxMHRpQl9vSmo5eHhWcmlMZWtFN3pQRA?oc=5",
-            "published": "2026-04-07T13:20:02+09:00",
-            "source": "物流ニュースのLNEWS"
         },
         {
             "company_id": "sumitomo_forestry",
