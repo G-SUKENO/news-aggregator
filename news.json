@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-04-29T04:27:40.483424+09:00",
+    "generated_at": "2026-04-29T06:03:56.544650+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -28,6 +28,13 @@
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkhnRnlMU1A3VGh6UlhSUS1UMVZteWhuY1lUVGhUQng3ZHFDVWRwOG9zRmVTUWY2Y0VLSHRTUzh5VGU5NlhDUDF6WGhYWThqU1E1dXItRVdBYWJFUFZFalFWTHhCZ3RNbmg5WlFBLTJObWd4OEYtWDY0eWsxUFpDV3RacjhBTTk3aHE5VFA3aDhqUQ?oc=5",
             "published": "2026-04-28T16:12:45+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
+            "published": "2026-04-28T16:09:42+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -565,13 +572,6 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス工業(株)【1925】：株価・株式情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RnRlSVBqVUVBTGZ4dEd0d0lSYTJWcTItQVFjRktudUxfR3gtUGtKSVdQUmFyb3M4TmRvNmFOeVU2QTN5T3VNcTcxMVo1bmFfNnc?oc=5",
-            "published": "2026-04-24T16:07:19+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
             "published": "2026-04-24T16:07:19+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -2285,6 +2285,13 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "宮城県利府町と大和ハウス工業が「災害発生時における支援協力に関する協定書」を締結 - 上毛新聞電子版",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qTXlQVnVlUjBwRDZPV25UNzUtOWU1UndkS0ZfYjdvVEpqdnRUOTZJVU1kOU1DUllCcjdOVTlTcm03cEZQSFp4UkUySUhNUlNyamEzWDNWZjU?oc=5",
+            "published": "2026-04-15T16:00:00+09:00",
+            "source": "上毛新聞電子版"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "宮城県利府町と大和ハウス工業が「災害発生時における支援協力に関する協定書」を締結 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DOW5wVzRtaWYxN2JVdjU3YjE0bTd4N1hxSXF3NWJwbGc5WTdPOXZ1a2FNV1JBNHZsb3o5d1RueC1OMHYyUUJfSlJMLVdGSWh3eFAtZ2xRWWpZc2M?oc=5",
             "published": "2026-04-15T16:00:00+09:00",
@@ -2352,13 +2359,6 @@
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRnZJRkowaEVxM203ZGVfb2RvSnFqbnJhbjNQZHpKUVRyaDBxU1pDTk9zYko4c25OX2RvWkxvVHpRYTZjM3FZUzNYVkd5aXM5R0R4S0lEeDU0Y2YxYWNnTHBUZTE5Wk1tUGp2NnRndUI?oc=5",
             "published": "2026-04-15T15:53:00+09:00",
             "source": "宮崎日日新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "宮城県利府町と大和ハウス工業が「災害発生時における支援協力に関する協定書」を締結 - 上毛新聞電子版",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qTXlQVnVlUjBwRDZPV25UNzUtOWU1UndkS0ZfYjdvVEpqdnRUOTZJVU1kOU1DUllCcjdOVTlTcm03cEZQSFp4UkUySUhNUlNyamEzWDNWZjU?oc=5",
-            "published": "2026-04-15T15:53:00+09:00",
-            "source": "上毛新聞電子版"
         },
         {
             "company_id": "daiwa_house",
