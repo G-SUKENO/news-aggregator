@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-04-29T19:52:49.007341+09:00",
+    "generated_at": "2026-04-29T21:14:49.881874+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -2726,6 +2726,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス、基礎の強度可視化するシステム開発 8月から運用 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYnFidEp2dkxTMU9rLWRpN2tSY1JFRVBQT3ItUXFjTmt4cmduYy1SVG1RelZhd21LZ1A1WE1uZkFSbmR1MkZidldhMlFqRlkyaEE?oc=5",
+            "published": "2026-04-13T16:00:00+09:00",
+            "source": "新建ハウジング"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "【積水ハウス】【国分寺市開催】30坪のリアルサイズが見れる完成現場見学会 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HR1VFMUJ4NVlZZk1YX0ZYYnl1TFRTWWxOVUl6T1BmdUl3cHdSN2tvVFpwWG9HSzlNdTVmQ3FRSlJpOTdSQ05lcWZ0eUhoT1BIZW9kd21KOE1hVU1NLWhIcnBkWkFodw?oc=5",
             "published": "2026-04-13T16:00:00+09:00",
@@ -2793,13 +2800,6 @@
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYjlkVGpubXAyVGlJZUFMR2JuLXN6NFVTZVNaZXhERkVmS1UwTlVndGkwWFdHWHBQQlRSWnNZNVJVNVBlbkoxTVh5UGh0SlVjbVpEakVHU1dac2RuSzNaazRWVlBXdUVKaUFQUGlVNVBfaGhzX3ZZNkhad2JhU0c4VlRR?oc=5",
             "published": "2026-04-13T11:47:32+09:00",
             "source": "rakumachi.jp"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、基礎の強度可視化するシステム開発 8月から運用 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYnFidEp2dkxTMU9rLWRpN2tSY1JFRVBQT3ItUXFjTmt4cmduYy1SVG1RelZhd21LZ1A1WE1uZkFSbmR1MkZidldhMlFqRlkyaEE?oc=5",
-            "published": "2026-04-13T10:55:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "panasonic_homes",
@@ -4546,17 +4546,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "［人事］ミサワホーム北越社長（26年4月1日付） - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tMWh4UjhsUDdTTjRCNkZWVzFYNGluTmpVZjA0LS1fQzJ6Qnh5MlFlV3ZDQklwdkpwYS1vRTRxVHV2OFZKOThFcVpGVQ?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "47NEWS"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "データとAIで支える、住まいの『健康診断』 | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTEppN1BDZURfRmk4cWFLaVN0WWF1TmhxN0JHZHVISjFxcHoyRDhQTnl3NzFJSGxmZVBHZTR6dG9qdVJHdmstcnFSRmlMR0N3YUlHRGlQajdGTWtnclBJREFRZS1IMGVRMkE?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "［人事］ミサワホーム北越社長（26年4月1日付） - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tMWh4UjhsUDdTTjRCNkZWVzFYNGluTmpVZjA0LS1fQzJ6Qnh5MlFlV3ZDQklwdkpwYS1vRTRxVHV2OFZKOThFcVpGVQ?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "47NEWS"
         },
         {
             "company_id": "misawa_home",
@@ -5414,7 +5414,7 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "MISAWA DESIGNERS' CODE MARGE（ミサワ デザイナーズ コード マージ） - PR TIMES",
+            "title": "MISAWA DESIGNERS' CODE MARGE（ミサワ デザイナーズ コード マージ） | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rYlF5RmxrRDJ6LUlzc0tWMHc2YVFDSXQ2dUZxVWlFdDk3UEFCMUFVaDQ2Q2JSSFhLUzhIWXpyQUJtUWJUVmRBZy1hLWlpQXV3VlFIRVhSN2xpeDBZRWx0WVFVM0dRdVBRTmc?oc=5",
             "published": "2026-03-16T16:00:00+09:00",
             "source": "PR TIMES"
