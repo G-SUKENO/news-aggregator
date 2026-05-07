@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-05-08T07:58:31.073604+09:00",
+    "generated_at": "2026-05-08T08:57:40.174181+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -1136,6 +1136,13 @@
             "source": "PR TIMES"
         },
         {
+            "company_id": "panasonic_homes",
+            "title": "戸建て「NEWカサート」発売 GX志向型住宅に対応 パナソニックホームズ - jutaku-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtdXh2X1M5ZDdndmlJU2lKSGZncjBkSms0Wms5QTdvV2dSVlhMRVNaWE9ZcjJJWTRxUVhkYS1Ccnh3SG9mcnI0cGszOW9wZmlKdmRrMzctZw?oc=5",
+            "published": "2026-04-28T16:00:00+09:00",
+            "source": "jutaku-s.com"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "【決算速報】積水化学工業、経常5.6%増益。アナリスト予想を上回る(アイフィス株予報) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFZUOEdSeEI3Z3diUVZDczcxUFZnakNMaW9HQzNkVnJwX2x3VWxtWWNVYXZJRG5YNGpBcDhUSkREZUdaSGk3QTVESUdvXzdzSnJQc1dOTEk2TmJTTFJVQkNHLU0wdWNfbUpBcGctRW96ZWJhbWd3UTBoTktyR2ZpaFRSczdVUjQ?oc=5",
@@ -1393,13 +1400,6 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JVndCdE8yM1lPTzFDUE45LW1lc3g2YzVkWncyM09nSjRJSlZ2alVqZnVnaTdkb2RTdWljRm9rOG4yYk5reW1ONDlTWnJiNUxIT3pn?oc=5",
             "published": "2026-04-28T00:00:00+09:00",
             "source": "株探（かぶたん）"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "戸建て「NEWカサート」発売 GX志向型住宅に対応 パナソニックホームズ - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtdXh2X1M5ZDdndmlJU2lKSGZncjBkSms0Wms5QTdvV2dSVlhMRVNaWE9ZcjJJWTRxUVhkYS1Ccnh3SG9mcnI0cGszOW9wZmlKdmRrMzctZw?oc=5",
-            "published": "2026-04-28T00:00:00+09:00",
-            "source": "jutaku-s.com"
         },
         {
             "company_id": "sekisui_house",
@@ -2103,17 +2103,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "【大和ハウス】音を気にせず「好きを楽しむ」専用空間『私の自由区』提案開始 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZFYyUmhCbWc2TEt0OGo2Y0xVcUh0YkZNQWlVUW5DZFlxdGE2dF9ieUE2VURzM0JFMXhCRHpqWDMyY0dFQng1OEQzQlVnengxNE9IWmw1WDRSY284WDRSdlBuSmNmelp2c3c?oc=5",
-            "published": "2026-04-23T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大和ハウスが音響空間『私の自由区』を2026年4月提案開始 - Koubo",
             "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GSDV3NHFUYjVIWl96djlpdVp0WXgxM1FzT1djSEtyN204RHlqN1Nnekh4aE9VQXZIdko1U2xYMThmZlR6?oc=5",
             "published": "2026-04-23T16:00:00+09:00",
             "source": "Koubo"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "【大和ハウス】音を気にせず「好きを楽しむ」専用空間『私の自由区』提案開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZFYyUmhCbWc2TEt0OGo2Y0xVcUh0YkZNQWlVUW5DZFlxdGE2dF9ieUE2VURzM0JFMXhCRHpqWDMyY0dFQng1OEQzQlVnengxNE9IWmw1WDRSY284WDRSdlBuSmNmelp2c3c?oc=5",
+            "published": "2026-04-23T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3391,10 +3391,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニック ホームズ、首都圏施工力強化で建設子会社 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+            "title": "パナソニック ホームズ、首都圏施工力強化で建設子会社 | チバテレ＋プラス - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fV0hmZi1XdnRBOTFkS2Q0R0tCQTF1bkZORjdDZ1BwbDg2cEc4LWpCLXZaZHYwY0ZvWUh3RFRhbENyem1GQVBTT3dHRG1PZjJTMDNONXV1MENEaHZtREpv0gFkQVVfeXFMTm1zYURzWUs4ekF1cllNZ1YxWmxpRGh5eXFyMEJLN2xJa0JYSnNPbVpsb1diWUYtV0xsWlpEZlhCMUZKOWp4TGVNUzNaM0hxVWIwc0RXU19xRGpzRmhmQTljWkNCMg?oc=5",
             "published": "2026-04-16T16:00:00+09:00",
-            "source": "千葉テレビ放送株式会社"
+            "source": "千葉テレビ放送"
         },
         {
             "company_id": "daiwa_house",
@@ -3608,15 +3608,15 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林、米で成長の礎 覚悟の6500億円買収 シェア拡大へ効率化磨く - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81c0VxVHpTNEplS2NnTVdDeUtzYVh1Ykk0UVdXaDZ2T2FsSlpnX1hrNmwzZ2xxTWxzc1BudzRDdVJNUlZxd1hNRkFGemUxVEVGRE5yOWpfOXIyYWhBVlkzcnh0VktEbEx2T0FZZw?oc=5",
+            "title": "住友林業傘下の木環の杜、木材輸出「年内にも」 生産能力は2倍へ - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZEJtdVRzV1dqd1Q3a1k2WDFfc2NvNFlIM1NwUldDWjF5ZVdGUTViU3R6ZU5oQ1BNMGFGNm5ITEV5NGxQOFl3OHg1U0lRM0FRT09lNU82cmJzb3R2TVphajByZXFZbnFCVUtHNA?oc=5",
             "published": "2026-04-14T16:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業傘下の木環の杜、木材輸出「年内にも」 生産能力は2倍へ - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZEJtdVRzV1dqd1Q3a1k2WDFfc2NvNFlIM1NwUldDWjF5ZVdGUTViU3R6ZU5oQ1BNMGFGNm5ITEV5NGxQOFl3OHg1U0lRM0FRT09lNU82cmJzb3R2TVphajByZXFZbnFCVUtHNA?oc=5",
+            "title": "住友林、米で成長の礎 覚悟の6500億円買収 シェア拡大へ効率化磨く - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81c0VxVHpTNEplS2NnTVdDeUtzYVh1Ykk0UVdXaDZ2T2FsSlpnX1hrNmwzZ2xxTWxzc1BudzRDdVJNUlZxd1hNRkFGemUxVEVGRE5yOWpfOXIyYWhBVlkzcnh0VktEbEx2T0FZZw?oc=5",
             "published": "2026-04-14T16:00:00+09:00",
             "source": "日本経済新聞"
         },
