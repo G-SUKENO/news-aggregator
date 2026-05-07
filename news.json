@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-05-07T22:58:29.951576+09:00",
+    "generated_at": "2026-05-08T01:07:53.308537+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -170,6 +170,13 @@
             "source": "全国賃貸住宅新聞"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業、ハイエンド住宅の展示場を栃木初オープン | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dkswR1ZjejBFNk5rR29JakFIMzkyTWY5VVQxNEJKQlVQVldicmhYTFEzeWdVTlp1Z21zcENjZFN0LUk2SjJNcDN4VmZHb0NLalI2YV9xcVNRLW02U0o00gFkQVVfeXFMTnVNRHE2eXFReFlfN0lVRHFMTHp1ZWhzMXRSOVk3SjJNcjZZZmlBakJ6cUZyazRCUU5HQTlCaC1EU1BlOEdxQ3RfQzc2N3Zua2VfWDY2QVlIdGhGY3RsWU5oQnd6WQ?oc=5",
+            "published": "2026-05-06T09:14:30+09:00",
+            "source": "千葉テレビ放送"
+        },
+        {
             "company_id": "misawa_home",
             "title": "ミサワホーム、ストック事業の総合不動産ブランド「MISAWA RELAY」立ち上げ=専門人材が多様な相談にワンストップ対応 - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0Y2tlU0ZQaEwxWmN6d3lWa1A3Q1hpdS1lVGpTR0tiblpuVS1sVzZQZjhLOVQ1VFdCck1wd2RVdXlhYUQxX2dBVERLeXjSAUxBVV95cUxQdGNrZVNGUGhMMVpjend5VmtQN0NYaXUtZVRqU0dLYm5ablUtbFc2UGY4SzlUNVRXQnJNcHdkVXV5YWFEMV9nQVRES3l4?oc=5",
@@ -266,13 +273,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXlOZGZRVnN6ODU5aFdiejRQUEptbDVMeVgxcnFrOUZqTGVPVTdPRi0wUk5vWThDQzZyVHF2OURsN1l4dG1ZaS16YnhqSE52T3VVZGUtZURncTcxWERlYnhIc3l5ekIxa19rb04xYWhGR2dLa2ZwUm0wR0JIczhONE85elZpTkxrdFljXy1lc25JV2llakFkYnFmekh6V2JrMEx2NEUxbzk?oc=5",
             "published": "2026-05-05T02:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業、ハイエンド住宅の展示場を栃木初オープン | チバテレ＋プラス - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dkswR1ZjejBFNk5rR29JakFIMzkyTWY5VVQxNEJKQlVQVldicmhYTFEzeWdVTlp1Z21zcENjZFN0LUk2SjJNcDN4VmZHb0NLalI2YV9xcVNRLW02U0o00gFkQVVfeXFMTnVNRHE2eXFReFlfN0lVRHFMTHp1ZWhzMXRSOVk3SjJNcjZZZmlBakJ6cUZyazRCUU5HQTlCaC1EU1BlOEdxQ3RfQzc2N3Zua2VfWDY2QVlIdGhGY3RsWU5oQnd6WQ?oc=5",
-            "published": "2026-05-04T21:14:35+09:00",
-            "source": "千葉テレビ放送"
         },
         {
             "company_id": "sekisui_heim",
@@ -1347,10 +1347,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業（積水化）【4204】｜ニュース - 株探（かぶたん）",
+            "title": "積水化学工業（積水化）【4204】｜ニュース - 株探",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHZDVjRndkZzBuSE96ajZvck1KOHRLLTM1TmRJRmo3Nk1YSzg4eGQ0N0RWUVp1ajdrVzdIdXJ1SnVfcVdCeXpnLXp1RUNucG4xZ21zRkFqYXFlZXZ0bWlBdHU0dWxobDI3ck5LOEtn?oc=5",
             "published": "2026-04-28T00:00:00+09:00",
-            "source": "株探（かぶたん）"
+            "source": "株探"
         },
         {
             "company_id": "sekisui_heim",
@@ -1830,6 +1830,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス、次世代交通システムを開発する Zip Infrastructureへ出資 - 沖縄タイムス社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OMG1pcnV0RE1YejhHZTFOZ0RGVjFHYWFwY0U3YlJCdWh5ak1icHg4d1VSRVdIT3dYb2VhaVlBdmVpNkdxYlcycVV1a3dmbTdRYlJfLWRxdTROcVVDbEE?oc=5",
+            "published": "2026-04-24T16:00:00+09:00",
+            "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス、次世代交通システムを開発する Zip Infrastructureへ出資 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1SRkZLZkdYUm9GOEl4NmpzU2FEVWdpbHFFYmxCQ1o5NVJKSnhKWVYzUlFlbFlYeG9XN25uMWViQnBuUjA?oc=5",
             "published": "2026-04-24T16:00:00+09:00",
@@ -2089,17 +2096,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスが音響空間『私の自由区』を2026年4月提案開始 - Koubo",
-            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GSDV3NHFUYjVIWl96djlpdVp0WXgxM1FzT1djSEtyN204RHlqN1Nnekh4aE9VQXZIdko1U2xYMThmZlR6?oc=5",
-            "published": "2026-04-23T16:00:00+09:00",
-            "source": "Koubo"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "【大和ハウス】音を気にせず「好きを楽しむ」専用空間『私の自由区』提案開始 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZFYyUmhCbWc2TEt0OGo2Y0xVcUh0YkZNQWlVUW5DZFlxdGE2dF9ieUE2VURzM0JFMXhCRHpqWDMyY0dFQng1OEQzQlVnengxNE9IWmw1WDRSY284WDRSdlBuSmNmelp2c3c?oc=5",
             "published": "2026-04-23T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスが音響空間『私の自由区』を2026年4月提案開始 - Koubo",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GSDV3NHFUYjVIWl96djlpdVp0WXgxM1FzT1djSEtyN204RHlqN1Nnekh4aE9VQXZIdko1U2xYMThmZlR6?oc=5",
+            "published": "2026-04-23T16:00:00+09:00",
+            "source": "Koubo"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2313,10 +2320,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニック ホームズ、宝塚市中山台ニュータウンで公民連携のまちづくり始動 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+            "title": "パナソニック ホームズ、宝塚市中山台ニュータウンで公民連携のまちづくり始動 | チバテレ＋プラス - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01SExicnlSV3FCeEE5czNDM3NrZG8xdnlzRjF2OVdLazNZN25RVHVMTUhDdGVRUzZrSDZ4MnFJWW1Vdm1JaGVsSjBhVVlON1dTNnptM1o4aVRUbmltenJJ0gFkQVVfeXFMTTJENWJvRTljV2UxWWFUYTZ4S21TNlRYSERuVGNKUDVvSS1aWENpRWV6cWhrM3RFc2VKTTU3TFIxbUN3M0h6Tnh6ZWZLeFBRaUVLTDJHRFdLMGk2S0d5RnpZeUJNMA?oc=5",
             "published": "2026-04-22T16:00:00+09:00",
-            "source": "千葉テレビ放送株式会社"
+            "source": "千葉テレビ放送"
         },
         {
             "company_id": "panasonic_homes",
@@ -3187,13 +3194,6 @@
             "source": "QUICK Money World"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "ハウスメーカー･積水ハウスの女性管理職が5年で倍増した背景。20年かけた地道な取り組みに迫る - 東洋経済オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ramw5cW91U0dyd0Q2UmhPNTJJLTFGRlRkWkVHWFdsdUJOajd1alNheGVqcnBfNzZHaXRKOXA3QXRUUzUtWXlXc2dlWm1qQi1TTmYwZnRhYw?oc=5",
-            "published": "2026-04-17T16:00:00+09:00",
-            "source": "東洋経済オンライン"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "スマートドッグハウス「WanPod※」社会実装を目指して 改良モデルで2026年夏から実証実験を拡大 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GRGtWUkpxNksza1Z1bHdabUlDYWNhRzNJcDdRUkx5OGI3ZnFmU3hrUGdQX2xPbXJnVC1JVERjNmRCd1BNRGhNZGhUTDJhR0s3MVQ3LXd0TG9CVDlza05xT0xMc0hCSVZqeVE?oc=5",
@@ -3784,14 +3784,14 @@
         {
             "company_id": "hebel_haus",
             "title": "ナフサ高騰、住宅に波及 旭化成ホームズ、戸建て値上げ YKKAPは追加値上げ検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0k0U3BZa25MNklWRWd6TjREckFFR2o1Qzh5b2NETjRXLVhUME1aTWwzS1preHR2OHFJdzdtSUhqTWNHNG5XOVRrckxVMEJtR0ZFU2d2UkRVb1VnNkVuRDZkd1ZNWGRKNEFLNG1HS3k3WkprX2FHelRWb3ZZNnY0c1haaXlaWE1aZFdaVGh6c1VCSTh3OWV5Qmw3SHRkbjlONXpkQUo3VHM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSS1ESzVFSDVpVF9rX2ExTTdacmtYdmNKMzF6ZEo0YnBHVjRDeHJ2S0JTT2RCVk9USlc3Yl9SdmVHSkF0LUNoU21MdW1jTnpwUUNRVEhOQXB5aV8zQXZGd25MQWtMWWtUUHY1MVVGRXNhUGR1c3dYVVhNUmdfX3BaSXdsal9RRkUzMzktVHRwd2d4SHloTFRVVjBWLXdJN2I0cV9MdlF3?oc=5",
             "published": "2026-04-12T16:00:00+09:00",
             "source": "日本経済新聞"
         },
         {
             "company_id": "hebel_haus",
             "title": "ナフサ高騰、住宅に波及 旭化成ホームズ、戸建て値上げ YKKAPは追加値上げ検討 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSS1ESzVFSDVpVF9rX2ExTTdacmtYdmNKMzF6ZEo0YnBHVjRDeHJ2S0JTT2RCVk9USlc3Yl9SdmVHSkF0LUNoU21MdW1jTnpwUUNRVEhOQXB5aV8zQXZGd25MQWtMWWtUUHY1MVVGRXNhUGR1c3dYVVhNUmdfX3BaSXdsal9RRkUzMzktVHRwd2d4SHloTFRVVjBWLXdJN2I0cV9MdlF3?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0k0U3BZa25MNklWRWd6TjREckFFR2o1Qzh5b2NETjRXLVhUME1aTWwzS1preHR2OHFJdzdtSUhqTWNHNG5XOVRrckxVMEJtR0ZFU2d2UkRVb1VnNkVuRDZkd1ZNWGRKNEFLNG1HS3k3WkprX2FHelRWb3ZZNnY0c1haaXlaWE1aZFdaVGh6c1VCSTh3OWV5Qmw3SHRkbjlONXpkQUo3VHM?oc=5",
             "published": "2026-04-12T16:00:00+09:00",
             "source": "日本経済新聞"
         },
