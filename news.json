@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-05-14T02:13:57.953037+09:00",
+    "generated_at": "2026-05-14T04:49:24.889990+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -170,6 +170,13 @@
             "source": "SalesZine"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
+            "published": "2026-05-13T16:00:11+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSnVPT3BiOWRaMG1rQi00THZ1RnIyR1V5NEhxSG1QUi16dFdFQzFibDJ6cVZOUDRkQjZ4UjVYYXhmR0hraGNJdHJsNjhES3VLakZqRURSbnRTWXBnMVJN?oc=5",
@@ -213,10 +220,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス、今期経常は40％減益、実質増配へ - 株探",
+            "title": "大和ハウス工業【1925】、今期経常は40％減益、実質増配へ | 決算速報 - 株探ニュース - 株探（かぶたん）",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZXlzYUI3d2x0V19SY0M0QjFfMElPNUZCcFZHR3N6WXN2bFVoQ1lOYnZ0dEstdDRpazhxREUxMkI4aHJCbG1MVlluMVZDYUFmMkE?oc=5",
             "published": "2026-05-13T15:30:00+09:00",
-            "source": "株探"
+            "source": "株探（かぶたん）"
         },
         {
             "company_id": "daiwa_house",
@@ -307,13 +314,6 @@
             "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
             "published": "2026-05-12T16:09:05+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
-            "published": "2026-05-12T15:59:30+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -752,10 +752,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探",
+            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探（かぶたん）",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GakszdjdIT0dyR3lfWFZmaDlPMmN1b3k1LXRjMFdNaTBjSE94RWZ6eEpLbldJNHRkUWxzNm1YbEVDenVaSVB2Q2otSEtLdF84ZTlUYUhrMHU0cGZIYy1GWA?oc=5",
             "published": "2026-05-08T14:35:51+09:00",
-            "source": "株探"
+            "source": "株探（かぶたん）"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1025,17 +1025,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探",
+            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探（かぶたん）",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWEJzV2VvdGtuRVZUM0xPcndudzNCenk0WUhKazJraThsMUwxWGdVSGw2UTMzTVFFbUhmNVBRV3hyT040UVJ2aHpqc2twQll5ZkE?oc=5",
             "published": "2026-05-07T15:30:00+09:00",
-            "source": "株探"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：決算情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VUpvRUVnWnBvaTJXclhDWEZpb0x3OV9fTnFoLUo0cHA3Vk1YV0RlaUR5LXlQMUplTnlyajM3LUw5VEVkX01xa2RWQWFZU0NLRkxIdTVRQmdyNnBlVHZhMg?oc=5",
-            "published": "2026-05-07T15:30:00+09:00",
-            "source": "Yahoo!ファイナンス"
+            "source": "株探（かぶたん）"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1043,6 +1036,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zTk9oQU81S3dSbGxxbXJkSWdFS01ycnQ5dGpveTFZUVZkLTU0NXVnTDZBRjNWak1Ld0xZbXlWRF9KeGVuMjk3ejQtQlJLWjhmZ3dHWXZxaVJXdUd1eWZOUXEtQ3dUU0Q3S2c?oc=5",
             "published": "2026-05-07T15:30:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：決算情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VUpvRUVnWnBvaTJXclhDWEZpb0x3OV9fTnFoLUo0cHA3Vk1YV0RlaUR5LXlQMUplTnlyajM3LUw5VEVkX01xa2RWQWFZU0NLRkxIdTVRQmdyNnBlVHZhMg?oc=5",
+            "published": "2026-05-07T15:30:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1522,13 +1522,6 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業の魅力を体感！【スマイル FESTA】開催！！ - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQ2tsRGE3cDNTWWo5OFdoVl9iOV83cDdSUlF3VDBYV1NnVF94WkxmY2Z6OEdkWjZnYUV1VGI4Nm5sc2RaYnZlQmdyaWdvNE9ndW5YT2pHMVZpbGpvS2NSV0JNSGFrTWN4SkVxOQ?oc=5",
-            "published": "2026-05-01T16:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "【住友林業】「超ウキウキ見学会」のご案内 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tYTVPS295X3ZWbmlXdFgxYW5HdG05QkdzZFNsTWdxTDlvQ3E4RVhIeGVZRGpYV215VzhJcWJ1eGs0SGVINkloMHItbXBKRjc1N2FCQUtIeDhSd1k?oc=5",
             "published": "2026-05-01T16:00:00+09:00",
@@ -1540,6 +1533,13 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03UHA0V19WY0hLcXFEU2IzZkVLTGZ4RkpKemhTVnNCUHlqaUJXZXVCSHdEcGlMemRzMmRCaFZBZmdQLTd1QjN4Z0dPZDM4Szlxc2cxdnhsTk84TDQ?oc=5",
             "published": "2026-05-01T16:00:00+09:00",
             "source": "朝日新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業の魅力を体感！【スマイル FESTA】開催！！ - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQ2tsRGE3cDNTWWo5OFdoVl9iOV83cDdSUlF3VDBYV1NnVF94WkxmY2Z6OEdkWjZnYUV1VGI4Nm5sc2RaYnZlQmdyaWdvNE9ndW5YT2pHMVZpbGpvS2NSV0JNSGFrTWN4SkVxOQ?oc=5",
+            "published": "2026-05-01T16:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "sekisui_house",
@@ -1662,6 +1662,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "写真：積水ハウス、「SHINKA HOUSE Ⅱ」が 「2026 HIA Australian Housing Awards」建売住宅部門最上位賞を受賞 - 沖縄タイムス社",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jSXdaeDljME1rNlZ6SW5EUkkxX0tlX1l6dW8wSlJBZ2lPTWV2TG03VENVXzgtUENHVG1NWjFfODRWREhLZGRQOWJ2NEZfTld6Zm1qVzEtR0lMUDliTmpFYVkxMFM1Zw?oc=5",
+            "published": "2026-05-01T13:30:00+09:00",
+            "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス、「SHINKA HOUSE Ⅱ」が 「2026 HIA Australian Housing Awards」建売住宅部門最上位賞を受賞 - 福井新聞社",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ETTRJbksyWTVyNzM4QnNPSGNTQ0h6ak0xX1VSU3VkdWd5dWNSNlhscDRLbHFreTZJX1loMXRBckgzUC1mdHRXYkc0cUZEOEJGN3RoM2NRY2NGTW52R0E?oc=5",
             "published": "2026-05-01T13:30:00+09:00",
@@ -1680,13 +1687,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbEVFQS1NankzdFBaanBMNi1TREtVXzU3YlA0cUNYVERZNGNRY2VGaW4wa2hRcDR0VmJBeFRaZVN3M1BXZ2dvRFgtUHBhQ1RJSmh6a3JGelRBMWM?oc=5",
             "published": "2026-05-01T13:30:00+09:00",
             "source": "下野新聞社"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "写真：積水ハウス、「SHINKA HOUSE Ⅱ」が 「2026 HIA Australian Housing Awards」建売住宅部門最上位賞を受賞 - 沖縄タイムス社",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jSXdaeDljME1rNlZ6SW5EUkkxX0tlX1l6dW8wSlJBZ2lPTWV2TG03VENVXzgtUENHVG1NWjFfODRWREhLZGRQOWJ2NEZfTld6Zm1qVzEtR0lMUDliTmpFYVkxMFM1Zw?oc=5",
-            "published": "2026-05-01T13:30:00+09:00",
-            "source": "沖縄タイムス社"
         },
         {
             "company_id": "sekisui_house",
@@ -3461,17 +3461,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナソニック ホームズ、宝塚市中山台ニュータウンで公民連携のまちづくり始動 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvWTZvVkZEajZoQUwyeC1BMXB3MEdweEQwUThGU3NMLXJQNE8tSG9VQjhvNVpWYVo2UHhKN1ljM0lrUXhNWFczU3l3UGUxdF92cFE?oc=5",
-            "published": "2026-04-21T16:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "「GX志向型住宅」に対応する戸建住宅商品『NEWカサ―ト』を発売 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FNXpKZ08zeklUMzRCWW9ucFRWTDV0bEpwZW80eFZUN1ZiYXU1ZDkzWUlPRjdlaXdtQXBraDFNUUQzTEZOQTl5OXVYVERBWE8td1N2ZzBqZUl6dnljbHZyYk9QWGdadE1kb1E?oc=5",
             "published": "2026-04-21T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニック ホームズ、宝塚市中山台ニュータウンで公民連携のまちづくり始動 - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvWTZvVkZEajZoQUwyeC1BMXB3MEdweEQwUThGU3NMLXJQNE8tSG9VQjhvNVpWYVo2UHhKN1ljM0lrUXhNWFczU3l3UGUxdF92cFE?oc=5",
+            "published": "2026-04-21T16:00:00+09:00",
+            "source": "Housing Tribune Online"
         },
         {
             "company_id": "misawa_home",
