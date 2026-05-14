@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-05-15T02:46:27.528315+09:00",
+    "generated_at": "2026-05-15T04:41:29.694329+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、仙台にBCP対応の大型マルチ施設 - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1cmE5V3FMM1d0bzBIYTB6TURiQTlYX1RtLXA2LVNNcHlyUTdxcVJ6X3NlNExQcXZ5RUVIODR5ekNkNlotQVBaeQ?oc=5",
+            "published": "2026-05-15T04:18:45+09:00",
+            "source": "LOGISTICS TODAY"
+        },
         {
             "company_id": "sumitomo_forestry",
             "title": "支店前の歩道などで清掃活動 - tonichi.net",
@@ -23,15 +30,8 @@
             "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、仙台にBCP対応の大型マルチ施設 - LOGISTICS TODAY",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1cmE5V3FMM1d0bzBIYTB6TURiQTlYX1RtLXA2LVNNcHlyUTdxcVJ6X3NlNExQcXZ5RUVIODR5ekNkNlotQVBaeQ?oc=5",
-            "published": "2026-05-14T18:46:43+09:00",
-            "source": "LOGISTICS TODAY"
-        },
-        {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、太陽光発電付き賃貸住宅 省エネとコスパ両立 - 日本経済新聞",
+            "title": "積水化学、「セキスイハイム」で太陽光発電付き賃貸住宅 省エネとコスパ両立 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90cVZoWHR1bDB4YmxCUnlHN0NBLXllS1Jwcm81V25ObHdPbE5WZE1HUGtmeWlvR0RsTGlxdWxqNkU5SWhtYnQ1SS1PRXFQQlcxRWYyNXJEMEhxa1p3aWU5RjdHVEtYa09kQnBQWg?oc=5",
             "published": "2026-05-14T18:41:01+09:00",
             "source": "日本経済新聞"
@@ -49,6 +49,20 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fWGh1WFhVN3BxczhMeU4ycy1VZEZDMG15RVNzTjJBSzlrSHFfTll4R3ZrdTNHM0VSeFg3MUJkOW5WWjhUdFRpc1hKVHZzcndOVWF4Rko2REM2T045alJLYmhQcldBUlpvS0JmZQ?oc=5",
             "published": "2026-05-14T16:59:17+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "大和ハウス、旭化成ホームズと茨城県つくば市で分譲マンション「プレミストつくば研究学園」を販売開始 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVJtWjM5TzIxTDZvaW1TMVYyY3lZdmdkbFZYUHFmdmNSQ2ROcGpyVE80UnNYcENFVVFBT1VZLUxLRUdnX3NVaDRlM0JwS0FETmxzdHZydExMc1ZFam9lRUJaaVRYNm9jY3paaDBzaFY4YUJCMF9BbERLa3dFTk43bklVY05zVkFEd0VMVTdnWDhNY3JjZ3R0a3VtRkFpMkNfOUVJ?oc=5",
+            "published": "2026-05-14T16:59:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kZHBULXB5RmdtWm1OUFhaMjgySVRfZ2MtbFgxcVVob0hSdHVBQlFUWm1DWmdMV1REN3N5YlNIcExIajJ0RU5YdTZaUjV1elF2UDFraUhSWjJ2NkRMWmlJ?oc=5",
+            "published": "2026-05-14T16:00:48+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "daiwa_house",
@@ -395,10 +409,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業【1925】、今期経常は40％減益、実質増配へ | 決算速報 - 株探ニュース - 株探",
+            "title": "大和ハウス工業【1925】、今期経常は40％減益、実質増配へ | 決算速報 - 株探ニュース - 株探(かぶたん)",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZXlzYUI3d2x0V19SY0M0QjFfMElPNUZCcFZHR3N6WXN2bFVoQ1lOYnZ0dEstdDRpazhxREUxMkI4aHJCbG1MVlluMVZDYUFmMkE?oc=5",
             "published": "2026-05-13T15:30:00+09:00",
-            "source": "株探"
+            "source": "株探(かぶたん)"
         },
         {
             "company_id": "daiwa_house",
@@ -731,6 +745,13 @@
         },
         {
             "company_id": "sumitomo_forestry",
+            "title": "【２０２７年国際園芸博覧会】住友林業館「ひゃくの森」アテンダントを5月11日（月）より募集開始 - AGARA紀伊民報",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55UFdYN1NOWW1UVzliV1RmUDlBb0l6WUJHMFp3cXpIc2F1U0dZMUdaVC10alN0WHBJRm43NDJ6dS1aRUIyOUVaTktnbDdVNmlWaGlUa090YlViMFV1dEstR2MyZFlCbF80c21JTHNfTWNzUS05eTFPNW5ZeWRZdw?oc=5",
+            "published": "2026-05-11T10:00:00+09:00",
+            "source": "AGARA紀伊民報"
+        },
+        {
+            "company_id": "sumitomo_forestry",
             "title": "【２０２７年国際園芸博覧会】住友林業館「ひゃくの森」アテンダントを5月11日（月）より募集開始 - 秋田魁新報電子版",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTY2lNcVBMQWxIazBIa3V2MFJWOXpweGtHdlVJY1RPTmUtblBBNEhRU1RsUXRCMEZPbjlLc1MtejRzSDc5a0FfNnI5UGxZTkJJNEVYLTYtT0N2cUJ1NGlXU3FB?oc=5",
             "published": "2026-05-11T10:00:00+09:00",
@@ -905,16 +926,16 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株価チャート - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44OG5naXg2elladEFGSUtFRFc4WE5aRW1xVHBoVEVXMTNaTEt5VlJjZl9Wa0RyNGlfenRveW11ZXljUHdrWmlqNVZnUVZuRV9SUXdhaDN0d1RMZw?oc=5",
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：株価チャート - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTjQtWHh2bFNXZFhtMFRkR0JEOGNVSWtHN2NaNmM5RnppU1AyOXBPUm80NEttdDdkWG1PNlBPTWxqMjByTGF3NGdnMEdoQmMxUGVVQUFpOVdoQQ?oc=5",
             "published": "2026-05-08T19:32:31+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：株価チャート - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuTjQtWHh2bFNXZFhtMFRkR0JEOGNVSWtHN2NaNmM5RnppU1AyOXBPUm80NEttdDdkWG1PNlBPTWxqMjByTGF3NGdnMEdoQmMxUGVVQUFpOVdoQQ?oc=5",
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：株価チャート - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44OG5naXg2elladEFGSUtFRFc4WE5aRW1xVHBoVEVXMTNaTEt5VlJjZl9Wa0RyNGlfenRveW11ZXljUHdrWmlqNVZnUVZuRV9SUXdhaDN0d1RMZw?oc=5",
             "published": "2026-05-08T19:32:31+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -976,10 +997,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探",
+            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探(かぶたん)",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GakszdjdIT0dyR3lfWFZmaDlPMmN1b3k1LXRjMFdNaTBjSE94RWZ6eEpLbldJNHRkUWxzNm1YbEVDenVaSVB2Q2otSEtLdF84ZTlUYUhrMHU0cGZIYy1GWA?oc=5",
             "published": "2026-05-08T14:35:51+09:00",
-            "source": "株探"
+            "source": "株探(かぶたん)"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1193,13 +1214,6 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kZHBULXB5RmdtWm1OUFhaMjgySVRfZ2MtbFgxcVVob0hSdHVBQlFUWm1DWmdMV1REN3N5YlNIcExIajJ0RU5YdTZaUjV1elF2UDFraUhSWjJ2NkRMWmlJ?oc=5",
-            "published": "2026-05-07T16:00:32+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "【２０２７年国際園芸博覧会】住友林業館「ひゃくの森」アテンダントを5月11日（月）より募集開始 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RMkdCQ1A0LTl3VG1MQ0N2OWt4bnFpa2IxcXVrZUs3UGFFdUJaMUtEWnZoUENCeU12UHNsZTFpX2JHenNvczlIUS11UEdiQWxUNWZkdzZ1aGpmXzZhd1pLNnFKOVp5VnpS?oc=5",
             "published": "2026-05-07T16:00:00+09:00",
@@ -1235,10 +1249,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探",
+            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探(かぶたん)",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWEJzV2VvdGtuRVZUM0xPcndudzNCenk0WUhKazJraThsMUwxWGdVSGw2UTMzTVFFbUhmNVBRV3hyT040UVJ2aHpqc2twQll5ZkE?oc=5",
             "published": "2026-05-07T15:30:00+09:00",
-            "source": "株探"
+            "source": "株探(かぶたん)"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1753,17 +1767,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【住友林業】 初めてのご来場予約限定キャンペーン - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03UHA0V19WY0hLcXFEU2IzZkVLTGZ4RkpKemhTVnNCUHlqaUJXZXVCSHdEcGlMemRzMmRCaFZBZmdQLTd1QjN4Z0dPZDM4Szlxc2cxdnhsTk84TDQ?oc=5",
-            "published": "2026-05-01T16:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業の魅力を体感！【スマイル FESTA】開催！！ - 家サイト",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQ2tsRGE3cDNTWWo5OFdoVl9iOV83cDdSUlF3VDBYV1NnVF94WkxmY2Z6OEdkWjZnYUV1VGI4Nm5sc2RaYnZlQmdyaWdvNE9ndW5YT2pHMVZpbGpvS2NSV0JNSGFrTWN4SkVxOQ?oc=5",
             "published": "2026-05-01T16:00:00+09:00",
             "source": "家サイト"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【住友林業】 初めてのご来場予約限定キャンペーン - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03UHA0V19WY0hLcXFEU2IzZkVLTGZ4RkpKemhTVnNCUHlqaUJXZXVCSHdEcGlMemRzMmRCaFZBZmdQLTd1QjN4Z0dPZDM4Szlxc2cxdnhsTk84TDQ?oc=5",
+            "published": "2026-05-01T16:00:00+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2039,6 +2053,13 @@
             "source": "クレアウェブ"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "延床約13万㎡・1フロア約1,100坪 次代をひらく大規模ビジネスタワー「淀屋橋ゲートタワー」7月9日(木)グランドオープン（ニュースレター） - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81YVpWM3BmOEZaMmVySUViWFlOZjVZZE5LTldsZnh3cjU1WWxMTkZZa0lzVFNQZG1WZXZ1RmxaY2JaazdGMTVXSU5ZbjM4WFFIUjZNTlpxTi12WEt2X0dQZWtLWTlkb2lmV0E?oc=5",
+            "published": "2026-04-30T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業が設計施工した日本生命保険の木造オフィス利用開始 ～木質感あふれた空間でCO₂排出量も削減～ - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GT3c2Mm5RS0piX1d2NWdia2ktbGxjVHVQNWt2YV9qWjA5Q21wLWhpcDF5TUUwa0ExbllZZnBwYVNYY3c2aTQwU3VZNy1YWjFjWXRzRng3M1hYOEE?oc=5",
@@ -2056,13 +2077,6 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業が設計施工した日本生命保険の木造オフィス利用開始 ～木質感あふれた空間でCO₂排出量も削減～ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVEpFS29NVVF1ZW1HVlFrUWMxNDBUYnZJYnl5QkRPVXAzcFNxTk1QV1otMFNWYUFLdWxBV2xpZXJGQnluWFVVZ2Q2clN2Tzh3eW9pWVMtUlp2NEJodkhmd2JUdzNZNFRnQkE?oc=5",
-            "published": "2026-04-30T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "延床約13万㎡・1フロア約1,100坪 次代をひらく大規模ビジネスタワー「淀屋橋ゲートタワー」7月9日(木)グランドオープン（ニュースレター） - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81YVpWM3BmOEZaMmVySUViWFlOZjVZZE5LTldsZnh3cjU1WWxMTkZZa0lzVFNQZG1WZXZ1RmxaY2JaazdGMTVXSU5ZbjM4WFFIUjZNTlpxTi12WEt2X0dQZWtLWTlkb2lmV0E?oc=5",
             "published": "2026-04-30T16:00:00+09:00",
             "source": "PR TIMES"
         },
@@ -2121,6 +2135,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSTm1OU0tKbjlOa09zVTBocjJQZnMzS3BFblo4ek0yVkpja3NpU1N0WDZrQUZGTUM5SzkwV3B5YjNOSWJkU3B6SEMycGlTN1NzZlFSTUo3WUEyNC1EZi03UUhIOEM3SV80Y2c?oc=5",
             "published": "2026-04-30T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホームと和田興産、絶景オーシャンビュー＆客室温泉完備の拠点を着工 - CLASSY.[クラッシィ]",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90a3JQQ1lrVU00aTdiMkphaWhLRUVrSU04bmQzbVJaZXk4TzdPZUF5YkZwWWdZV3pqMmxmYndudktLTm4yWmU4OFpEVlk3VVRKRlFGY1ppYmpzZlky?oc=5",
+            "published": "2026-04-30T16:00:00+09:00",
+            "source": "CLASSY.[クラッシィ]"
         },
         {
             "company_id": "mitsui_home",
@@ -2289,13 +2310,6 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM19uYV9lYjZhMm56Rlcxc3IwN0xqTDhLZi1URjA3RWhnQk9ERlljT1hKTTV0V0w1VWs4blRMY1hndHpUcTViSV9iUjBDb1ppRmJpWXJFVUhhWm16R0ZhWXBkenVpc2dIOVY4WWMzczZLSXcxc1Jnc1NzV25UenVlUg?oc=5",
             "published": "2026-04-30T07:00:00+09:00",
             "source": "建通新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "大阪･関西万博の樹木が横浜･GREEN EXPO 2027へ！JR貨物×住友林業が、万博の樹木を鉄道輸送する「緑配便」プロジェクトを完遂 - ｄメニューニュース",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxpMDFvS3d1VzNJRUpWMFhHdHhOMDlGenByYkFlQUxWSDFuR0w2eUpJa0JmWkdqZmVlZmdIemRrZFNuamJLUUxEWmNnNmg0aXRLTE1xSlF3V3hJaUEzZGhzOGN0T2NoSlZ0Z2YtTlM5UzJwQXVSZWoyUFFjd09xU0t3X0VtWDJvWHYw0gGHAUFVX3lxTE1sRGJJUEw2ZWs0ZzFsN3ZGYmZsU1ZXbWZlVjl3dC1Gb2RCZE1nSlVVcGswcmJGdWVkbTdRZVZpOHBTZHdBR3ZSdUlpeUo2T2NMRUphYjhsRGNwMkEwdkNmZ2V2Ty05R05DX0hCcW1seTNWMGJlSV84eU1uRDhJcGV5SDZYbU85cw?oc=5",
-            "published": "2026-04-29T23:38:19+09:00",
-            "source": "ｄメニューニュース"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4308,17 +4322,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmlLcXptbkoxNGhZSVh5LUFNM19MeUQtTzlaWVc5SWF4SE9FUF9EQTlmVHd2ZEQ4MV9NVkhicGljM2NQSjREeDRGV0pZa3JkNUIzR3VxT1dhVXBJOFlYUFRJaWxybGtTS3FVYm9Wck1CZjZUSnBQSS1wbEpBWEk4RnEwM2ZmMFFGSUVJZkJn?oc=5",
-            "published": "2026-04-08T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 - 47NEWS",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qRmRYbW9pbDNrN1ZaRVU0Wk00NzdiQUh1X2dJWmNHOUVlb1RCX0txMXdBYVlKSkh3aVFEUmNzbzlTUUg2aW1QSjY0cw?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "47NEWS"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmlLcXptbkoxNGhZSVh5LUFNM19MeUQtTzlaWVc5SWF4SE9FUF9EQTlmVHd2ZEQ4MV9NVkhicGljM2NQSjREeDRGV0pZa3JkNUIzR3VxT1dhVXBJOFlYUFRJaWxybGtTS3FVYm9Wck1CZjZUSnBQSS1wbEpBWEk4RnEwM2ZmMFFGSUVJZkJn?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "hebel_haus",
@@ -5180,13 +5194,6 @@
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tUlNPUTRDa0xjdXl5TGVsdG9UVkI2cjdYOFFqVWhmZDRWSjNlcXhOa1pPYUNmLTFoV1ZxS05yWENVT0YxcmhtX1Jybm55MVplVWg4QmRRN3pGQ0FnRW5TUVZxYkxTQVBvQ1JoUkw3YlY?oc=5",
             "published": "2026-03-31T00:36:49+09:00",
             "source": "Fathom Journal"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "人事・機構改革 旭化成ホームズ - jutaku-s.com",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZTXdhekpjNTdxTXZjYk8wNG0ySFNzTElVWTdFY1VTWDJSZTVqTmtHT3QzNzhKaE5wZFdKQ2EzNXQ0bG55RGd0eE5zT2xaNjEwcjRqWkFhQQ?oc=5",
-            "published": "2026-03-31T00:00:00+09:00",
-            "source": "jutaku-s.com"
         },
         {
             "company_id": "panasonic_homes",
@@ -6286,13 +6293,6 @@
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTh1LXhoeVVHMVMwQ21SQVdtZkFmcmFsVnFEeTIwSEoybWtmX1dGWnVuRERGNkdvVzl3a0t2akRtX1JDOWVuZUFsT3FWRU5reEZyNFpVWXZPdF9iOUNpQWQtVm9JRV9PUVpJVTg4RFdPNXY0dDd5QVNFenhBcHdjLU1mZFkwYUlYeFFFZzlR?oc=5",
             "published": "2026-02-27T17:00:00+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "アメーバピグ上の部屋をミサワホームが再現 「実際に住んでみたいお部屋コンテスト」結果発表 - MarkeZine",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vVlFVa1lDUVE1c2EtdWU2N2RvbDR4Z1NaelRhcUhTT1BzeWVFN28yOEY4QkpFbmtJQnF6cmd4V0JfQXYzcGRzUV9nOFRscWs?oc=5",
-            "published": "2026-02-27T16:34:24+09:00",
-            "source": "MarkeZine"
         },
         {
             "company_id": "panasonic_homes",
