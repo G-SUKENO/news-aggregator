@@ -1,11 +1,25 @@
 {
-    "generated_at": "2026-05-15T18:44:20.426241+09:00",
+    "generated_at": "2026-05-15T20:52:08.757020+09:00",
     "articles": [
+        {
+            "company_id": "hebel_haus",
+            "title": "旭化成ホームズがアルミ回収、LIXILが再生 住宅サッシに - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wSDNKeWFXdmtadjFocUJ0SWNWZWxiQ1ZhaTI3YUVCMzJzRVo2cTFSWnUxdkhYUGVuUzUxYWFNcTYxMFJCaWRnVW84M1liVVRSSlRzWVgyb1VCWnE2MGtxYW03Q1lYQURHTjhTZw?oc=5",
+            "published": "2026-05-15T19:05:45+09:00",
+            "source": "日本経済新聞"
+        },
         {
             "company_id": "misawa_home",
             "title": "ミサワホームリフォーム、駒沢公園リフォームギャラリーをオープン - リフォーム産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yRzdBTFVWZjd6dklFaWlxVDJwQlFqRnU4MDJuQnktSTB6YTYxMVFBcEZVU3JnMl9JRHI5VW1HOFZQeTJqU25HMWxrUjkxRUxGTlhlcWJGZGN0aWV4QzZleFd4V0J4Zw?oc=5",
             "published": "2026-05-15T17:38:05+09:00",
+            "source": "リフォーム産業新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "セキスイハイム東北、新築・リフォーム・不動産対応の相談施設開設 - リフォーム産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43cmE1aDE1YlJSNkdER3AtMWxKZUdBd1VRUnBlQ0VkWG5SVFk5dmZEVzZPUUtMbGlweU4tb041T1g1eC1nOFpUQU1pb2x3U1J6SG1mVHhUbXk5Tk44WC1ObXpEenpNUQ?oc=5",
+            "published": "2026-05-15T17:17:56+09:00",
             "source": "リフォーム産業新聞"
         },
         {
@@ -535,10 +549,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業【1925】、今期経常は40％減益、実質増配へ | 決算速報 - 株探ニュース - 株探",
+            "title": "大和ハウス工業【1925】、今期経常は40％減益、実質増配へ | 決算速報 - 株探ニュース - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZXlzYUI3d2x0V19SY0M0QjFfMElPNUZCcFZHR3N6WXN2bFVoQ1lOYnZ0dEstdDRpazhxREUxMkI4aHJCbG1MVlluMVZDYUFmMkE?oc=5",
             "published": "2026-05-13T15:30:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "daiwa_house",
@@ -1375,10 +1389,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探",
+            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWEJzV2VvdGtuRVZUM0xPcndudzNCenk0WUhKazJraThsMUwxWGdVSGw2UTMzTVFFbUhmNVBRV3hyT040UVJ2aHpqc2twQll5ZkE?oc=5",
             "published": "2026-05-07T15:30:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1703,18 +1717,18 @@
             "source": "家サイト"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店、「断熱等級7」を標準化=主力商品2商品で、独自技術を組み合わせ - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVzUxekQwX0FMVml2NEdmYTF4ZUgtRmllRFJsVnJuNThBWkNfSDlRTDhuX1gzOGpoNFp3ZklRWHFmTkZoOEtJVHpybE3SAUxBVV95cUxNSVc1MXpEMF9BTFZpdjRHZmExeGVILUZpZURSbFZybjU4QVpDX0g5UUw4bl9YMzhqaDRad2ZJUVhxZk5GaDhLSVR6cmxN?oc=5",
+            "published": "2026-05-04T16:00:00+09:00",
+            "source": "住宅産業新聞"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "ライジングゼファー福岡が16日に参加型スポーツフェス ホームの照葉積水ハウスアリーナで開催【Bリーグ】 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQkJxcUVyUFVRWkdKV0tWLTlfUnM2ZGhvUG1pRXZ6WDA3QlhnaUpHM1VCcFlrZHJWUFdvLTd2VEdaVl9HV0hGSV9scnJzbGtTdE1zWnVESVQ2akV4YV9QX1V0Z3FSRHdJTEE1dkRJNDk0a01neWVPcG9mOWd4RzA?oc=5",
             "published": "2026-05-04T11:33:54+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店、「断熱等級7」を標準化=主力商品2商品で、独自技術を組み合わせ - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVzUxekQwX0FMVml2NEdmYTF4ZUgtRmllRFJsVnJuNThBWkNfSDlRTDhuX1gzOGpoNFp3ZklRWHFmTkZoOEtJVHpybE3SAUxBVV95cUxNSVc1MXpEMF9BTFZpdjRHZmExeGVILUZpZURSbFZybjU4QVpDX0g5UUw4bl9YMzhqaDRad2ZJUVhxZk5GaDhLSVR6cmxN?oc=5",
-            "published": "2026-05-04T09:35:13+09:00",
-            "source": "住宅産業新聞"
         },
         {
             "company_id": "hebel_haus",
@@ -2179,6 +2193,13 @@
             "source": "クレアウェブ"
         },
         {
+            "company_id": "hebel_haus",
+            "title": "神奈川エリアで本格展開する分譲戸建プロジェクトの第一弾「港北ニュータウン北山田プロジェクト（※1）」スタート - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abE0wZ016dFZBNE0tQlFHYWxTZjMzR0hJVU1kOFAtbkZxNVZ2amhIVHpITTR2bEpHbklVTXB0Mjl1c2g4MFNvc0hhYTVIYUVkU2J4NGlyMG9tam0wdVp1MzhnNmhHeEJoZFE?oc=5",
+            "published": "2026-04-30T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "misawa_home",
             "title": "ミサワホームと和田興産、絶景オーシャンビュー＆客室温泉完備の拠点を着工 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FWTRyeGFwM1NsenFiZTdYRi11TWJTSE91b3gyaF9oWWhNdGdjNm9vV1NyU0M5V0NmU0JiSFBpWFE1dVpJSUdLLU91c2pWMmRFQTRHMnJUN2dZMWt3TmNoY0hVcVFoT3V2TWc?oc=5",
@@ -2198,13 +2219,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90a3JQQ1lrVU00aTdiMkphaWhLRUVrSU04bmQzbVJaZXk4TzdPZUF5YkZwWWdZV3pqMmxmYndudktLTm4yWmU4OFpEVlk3VVRKRlFGY1ppYmpzZlky?oc=5",
             "published": "2026-04-30T16:00:00+09:00",
             "source": "CLASSY.[クラッシィ]"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "神奈川エリアで本格展開する分譲戸建プロジェクトの第一弾「港北ニュータウン北山田プロジェクト（※1）」スタート - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abE0wZ016dFZBNE0tQlFHYWxTZjMzR0hJVU1kOFAtbkZxNVZ2amhIVHpITTR2bEpHbklVTXB0Mjl1c2g4MFNvc0hhYTVIYUVkU2J4NGlyMG9tam0wdVp1MzhnNmhHeEJoZFE?oc=5",
-            "published": "2026-04-30T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -2788,18 +2802,18 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "misawa_home",
-            "title": "ミサワホーム、総合不動産ブランド「MISAWA RELAY」開始 - リフォーム産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYnotbENITGs1eEdEZkVUUUpwQzFFQlEyMzVkelNPQXhSdUtlYkxWUmNxcVdla2dJcUJ6bVZ1bDlUdGU2MmtOOU1Na2xlTDFnMkx3UGx1SF9wVC1IcU9uQmhreGY?oc=5",
-            "published": "2026-04-27T16:00:00+09:00",
-            "source": "リフォーム産業新聞"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "ペット共生社会実現を目指す商品・サービスの新商標「PAWTNER（※1）（パウトナー）」誕生 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTzNmOTItZmZKcVgwdTEzakVLLUNUV20yekRNdnhQNmtyR0NsTFNwa0w3dl9nUkRydk1nbXVLMV9XVVNVQ2stdDczV0tic2dONnlaY2hMbmd4MmJYVWZCLThTVkR0NUxBSHc?oc=5",
             "published": "2026-04-27T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "駅徒歩20分の賃貸住宅でも“あえて”選びたくなる理由。「超高断熱」×「小さなお店が開ける家」の狙い 店舗兼用住宅・横浜市「榧日（ひび）」 (SUUMOジャーナル) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlJLSkVuaVRqVTl0SkhzR1ZscDcyQlc1ZFdiUi1Ub0Nyd0htOU1kc0N3WDBrU2ZJTXlkYU16QVZHZ3Y0QlFuZ0J6M2pQMVJHTjVDY2ViWmd0alpsUmt0SmxwVVBLRHo5b3lhSnlmNUhlU3dtaWtIc2g2a1ZBSmJVRUZMdWNoaFRYdnhPN0Vn?oc=5",
+            "published": "2026-04-27T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "hebel_haus",
@@ -2828,6 +2842,13 @@
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmpwNTNiOEZKRUI4eVJsOGJmb1A2anhDZVRmS0R3WU1RRjdVeFdDYXdiUnh2X0FnaUJJZEJnRi1Ed2xWQWZrYXdYMlUyeERldE1VZDctcGF5bzVSXzhsd0JhMzQ2MUJENmZ1MzNEX00tdlZ2SzdNTG5fR0huZklESmhPOU5TZGpSYm9WTGJn?oc=5",
             "published": "2026-04-27T16:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、総合不動産ブランド「MISAWA RELAY」開始 - リフォーム産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYnotbENITGs1eEdEZkVUUUpwQzFFQlEyMzVkelNPQXhSdUtlYkxWUmNxcVdla2dJcUJ6bVZ1bDlUdGU2MmtOOU1Na2xlTDFnMkx3UGx1SF9wVC1IcU9uQmhreGY?oc=5",
+            "published": "2026-04-27T16:00:00+09:00",
+            "source": "リフォーム産業新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2926,13 +2947,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nVXZKd01LeGhkdjJZUmN1YnBlZ1A1QUtySEFSYW1QcTlnQk1wcGhtTDJpaWtMOU04VnZ6dWMzcXpOSHVSLUtBT0x1Vk1EaVJ1TUZNYQ?oc=5",
             "published": "2026-04-27T08:25:51+09:00",
             "source": "kabu-ir.com"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "駅徒歩20分の賃貸住宅でも“あえて”選びたくなる理由。「超高断熱」×「小さなお店が開ける家」の狙い 店舗兼用住宅・横浜市「榧日（ひび）」 (SUUMOジャーナル) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlJLSkVuaVRqVTl0SkhzR1ZscDcyQlc1ZFdiUi1Ub0Nyd0htOU1kc0N3WDBrU2ZJTXlkYU16QVZHZ3Y0QlFuZ0J6M2pQMVJHTjVDY2ViWmd0alpsUmt0SmxwVVBLRHo5b3lhSnlmNUhlU3dtaWtIc2g2a1ZBSmJVRUZMdWNoaFRYdnhPN0Vn?oc=5",
-            "published": "2026-04-27T08:05:43+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "hebel_haus",
@@ -3551,6 +3565,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "hebel_haus",
+            "title": "マンション・街の住人向けコミュニティ醸成サービス「GOKINJO」新機能「管理機能（ご意見箱・連絡箱）」提供開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeE5ra0o0cGp2bkp3YmFaQjhJMExCYXdadi13bHF2ZjB6S3laRExkdjVsLTJmVjNSdUUxY2U1NXVIbm5Za2dlMk1GSjFaaTNVSE1QWjNWRGhfZ1JZbnVJNV90d2FzNmRwc2c?oc=5",
+            "published": "2026-04-21T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "misawa_home",
             "title": "合人社計画研究所 ミサワホームと共同出資会社 - ひろしま企業図鑑",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nMTBsbFdudUdzbEJEUGw5TG5HZVF5UlE0OUJWMU1XQVFObmxFQm5TckxsbjdDVmFXQUFoXzVmRnZuV1RqTjY3cTFLd1lKQ1l5Qm1XYnRDRUcwVTIxalE?oc=5",
@@ -3570,13 +3591,6 @@
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PbHNodUw2ZkowTjZSOVFaVXl0TVY5OHVDLUFRWG5YcGFKTG1Hc3NBNWZKSS0zRWtRWWh0X1JzdFhIb1puanZxMWJkd19iMHJwcnVxZDhkMA?oc=5",
             "published": "2026-04-21T16:00:00+09:00",
             "source": "jutaku-s.com"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "マンション・街の住人向けコミュニティ醸成サービス「GOKINJO」新機能「管理機能（ご意見箱・連絡箱）」提供開始 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeE5ra0o0cGp2bkp3YmFaQjhJMExCYXdadi13bHF2ZjB6S3laRExkdjVsLTJmVjNSdUUxY2U1NXVIbm5Za2dlMk1GSjFaaTNVSE1QWjNWRGhfZ1JZbnVJNV90d2FzNmRwc2c?oc=5",
-            "published": "2026-04-21T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_heim",
@@ -3871,13 +3885,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsVUhxUU9xQkVfS3FFUklrN1prYndGdnFDTWNEOUk0Y0dXMUw0RUxQeTUzV19wcG0yYnpHX2RQU2dUVWhmZWxrNF9zNEMxZnM?oc=5",
             "published": "2026-04-18T16:00:00+09:00",
             "source": "journal-one.net"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "【平屋の展示場を660万円でお譲りします！】 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZWNQYUp5N2tIaGM3WGNOUjJRMGZta0I3N0ZVMEwyTDFXb3FwamRVbi1nWVg3S2EydFY3TWZ0RWZkU3M3Qkw5LU1VMDhLZEhWeG5YZDV5Nzh3dUFpN0NwSzJuVXpOZ0U?oc=5",
-            "published": "2026-04-18T16:00:00+09:00",
-            "source": "家サイト"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4349,23 +4356,9 @@
             "source": "ｄメニューニュース"
         },
         {
-            "company_id": "misawa_home",
-            "title": "AIで太陽光パネルの不具合を自動検知 ミサワホームが技術開発 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ybUtsbXZOMXU0TGhKRmZGYzNDNmc5Sm45OU9XaDc2Sk1ici10ZDJlSU4zOUg3LU1PUDRrWmk5d3hQT2lUelM2czA4ZnR5TzE0ZVE?oc=5",
-            "published": "2026-04-08T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEo3bkRkZERFcUdCQ0U3bjRDUW43S2ZyVG40TDZ4ZTNDdi1VelRiWFVRd0ZGVUh2TGJLaGNkRnFrS2xzTXVjX0lxWmJwYWJTVUItWUM1Qm9UUGFtLW9nWGJfTHB6cFFOcW9HVmp5RkNTS0RKVHdDMWJMdi1wRWJ2QnhENkxRM1pNeEhHa2hn?oc=5",
-            "published": "2026-04-08T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmlLcXptbkoxNGhZSVh5LUFNM19MeUQtTzlaWVc5SWF4SE9FUF9EQTlmVHd2ZEQ4MV9NVkhicGljM2NQSjREeDRGV0pZa3JkNUIzR3VxT1dhVXBJOFlYUFRJaWxybGtTS3FVYm9Wck1CZjZUSnBQSS1wbEpBWEk4RnEwM2ZmMFFGSUVJZkJn?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "Yahoo!ニュース"
         },
@@ -4375,6 +4368,13 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qRmRYbW9pbDNrN1ZaRVU0Wk00NzdiQUh1X2dJWmNHOUVlb1RCX0txMXdBYVlKSkh3aVFEUmNzbzlTUUg2aW1QSjY0cw?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "47NEWS"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmlLcXptbkoxNGhZSVh5LUFNM19MeUQtTzlaWVc5SWF4SE9FUF9EQTlmVHd2ZEQ4MV9NVkhicGljM2NQSjREeDRGV0pZa3JkNUIzR3VxT1dhVXBJOFlYUFRJaWxybGtTS3FVYm9Wck1CZjZUSnBQSS1wbEpBWEk4RnEwM2ZmMFFGSUVJZkJn?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "hebel_haus",
@@ -4431,6 +4431,13 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFWU90RnI1aDFiUVMtY2NYQkd2Ny1IOHJXTExQdHd6dUk3R3VkU2QzWVZSbWtDQzVBN3FVMGRQaE1kc3JnZjZtekxSRjl0NGJRWFUxcDBTZGJiQU41N2c?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "ライブドアニュース"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "AIで太陽光パネルの不具合を自動検知 ミサワホームが技術開発 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ybUtsbXZOMXU0TGhKRmZGYzNDNmc5Sm45OU9XaDc2Sk1ici10ZDJlSU4zOUg3LU1PUDRrWmk5d3hQT2lUelM2czA4ZnR5TzE0ZVE?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4517,13 +4524,6 @@
             "source": "rakumachi.jp"
         },
         {
-            "company_id": "misawa_home",
-            "title": "2026年新入社員メッセージ・ミサワホーム社長 作尾徹也 - 建設通信新聞Digital",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbDNXdmtCdXNnTE50cmlQS2lSYUdYSXFMM1dBOHUtWGhQY1g0MzItbGJSdjc3SC1OSlhQaVhMdEM5U3QwczNEMzBqNEQ0WV9RWVF3T0tTV3Y?oc=5",
-            "published": "2026-04-07T16:00:00+09:00",
-            "source": "建設通信新聞Digital"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "麻布大学と旭化成ホームズ 寄附講座「ペットと人の共生社会 for LONGLIFE」の中間報告会を開催 - 大学ジャーナルオンライン",
             "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJZDhWbnNYSndmc0VzbDlrWjQyZzJaZFVEZmY3MTRSaHI2emhXMENzcWVZNDVSTkNYekdTbE9YWF9qR2U2ekE?oc=5",
@@ -4536,6 +4536,13 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81RDJYSnV4QnlaRmFMdHZMYnJVRWFWblc0T0doNXptZVdKM1lBVXFCb096OVMzTllJVnhDdmd0bVpwbWt4aFo2eWVQWE94MldLQkcyU2MzWjNCekRvUXJN0gFkQVVfeXFMT2I0Y2hDVndWQjNtemRLWmIxaFk0aTU5djhtQkJUaUg5UXlqYUtBSGpZdU9mQzJFRjFZYS1IY1FfU3FJbERpNFJXWk02WmJmVl9PTEJCQlBHOVZBWHBmNVp6TDV6bQ?oc=5",
             "published": "2026-04-07T16:00:00+09:00",
             "source": "千葉テレビ放送"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "2026年新入社員メッセージ・ミサワホーム社長 作尾徹也 - 建設通信新聞Digital",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbDNXdmtCdXNnTE50cmlQS2lSYUdYSXFMM1dBOHUtWGhQY1g0MzItbGJSdjc3SC1OSlhQaVhMdEM5U3QwczNEMzBqNEQ0WV9RWVF3T0tTV3Y?oc=5",
+            "published": "2026-04-07T16:00:00+09:00",
+            "source": "建設通信新聞Digital"
         },
         {
             "company_id": "mitsui_home",
@@ -4601,13 +4608,6 @@
             "source": "re-port.net"
         },
         {
-            "company_id": "misawa_home",
-            "title": "総合不動産ブランド「MISAWA RELAY」を展開 | ミサワホーム株式会社のプレスリリース - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ub0otLVVVUVBsVkFzaFdtT0Fma3VfWlVvZWIweGZyTDFJcWpDeThuSktKSVQtbi0xRmxDNk9IZEdXRlltMDZMcHlzSGdZNnd2ZkJMTVBsWUcwNVEyNWtfLTNEakpnTHd1bXc?oc=5",
-            "published": "2026-04-06T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "子育て中の親のくらしと意識に関する調査 | 旭化成ホームズ株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuNDdLWjlFUDFqRnY1cUFJTWxlbHpwSEJBWmY0MGZBbXo1clFqbUxoRVFVSTFEam16bXlMRlRmQkJ0dC14aVp2ZHFXM0FDVWpORFU1S2Mzb2k0NTJ2d0dZcWxaYWU5SEtoQ0E?oc=5",
@@ -4620,6 +4620,13 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBReHhjYlJ6NDVDa05xV182TDFfdDZtdTRVMmdtN0ROb1gyR2NBNVE2TmZHWC0xTFZGbXE0c1pFTmJqNXgwbGlfQmt1UVhlcEc2UDZmWnZR?oc=5",
             "published": "2026-04-06T16:00:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "総合不動産ブランド「MISAWA RELAY」を展開 | ミサワホーム株式会社のプレスリリース - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ub0otLVVVUVBsVkFzaFdtT0Fma3VfWlVvZWIweGZyTDFJcWpDeThuSktKSVQtbi0xRmxDNk9IZEdXRlltMDZMcHlzSGdZNnd2ZkJMTVBsWUcwNVEyNWtfLTNEakpnTHd1bXc?oc=5",
+            "published": "2026-04-06T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -5014,6 +5021,20 @@
             "source": "Yahoo!ニュース"
         },
         {
+            "company_id": "hebel_haus",
+            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入（オーヴォ） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZSGJjUHctaFlzRTZFakVoVGMtTnhWM1B5dmljeVp0YXFFSkZsTnFueU8zVFh6dElkMm5tRXZmOWFPNmZUZ2l0NjdtLTNGLU94WG5xbVA4WjZzZDJVY3dXb0xQbm9Ca1RyNjFQWTVVamtTdnNGeE5Xem9kcUt3Wmc?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入 (オーヴォ) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2tmUHh5amRrTy1WMjM3VUJXZFFUMWR1S3dfQkd4S05aSXdVX0NMZ0lRRUZ4NjQ2RWw4S1FrTkMwOFRSWnliWGZqbHFGU3JFZmxaV1BhSVVycXdwZ19QM0s1aUppd05hcGpBaGltU1V2c0dDWnpCMG53WE56LUlFVTBCb0JQUlkxRVhJS3Z3?oc=5",
+            "published": "2026-03-31T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
             "company_id": "misawa_home",
             "title": "データとAIで支える、住まいの『健康診断』 | ミサワホーム株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTEppN1BDZURfRmk4cWFLaVN0WWF1TmhxN0JHZHVISjFxcHoyRDhQTnl3NzFJSGxmZVBHZTR6dG9qdVJHdmstcnFSRmlMR0N3YUlHRGlQajdGTWtnclBJREFRZS1IMGVRMkE?oc=5",
@@ -5047,27 +5068,6 @@
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56M3dSUlByZUQ1NHZXOFJ4eXlWQm52SFNaeThGMUxWcnAxMElSSzQ2ZjBIczRINzFpcjQtXzRrQ01FbU40bzR3VEkxeXZlM1dYektmX3Z6SQ?oc=5",
             "published": "2026-03-31T16:00:00+09:00",
             "source": "jutaku-s.com"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入（オーヴォ） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZSGJjUHctaFlzRTZFakVoVGMtTnhWM1B5dmljeVp0YXFFSkZsTnFueU8zVFh6dElkMm5tRXZmOWFPNmZUZ2l0NjdtLTNGLU94WG5xbVA4WjZzZDJVY3dXb0xQbm9Ca1RyNjFQWTVVamtTdnNGeE5Xem9kcUt3Wmc?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入 (オーヴォ) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2tmUHh5amRrTy1WMjM3VUJXZFFUMWR1S3dfQkd4S05aSXdVX0NMZ0lRRUZ4NjQ2RWw4S1FrTkMwOFRSWnliWGZqbHFGU3JFZmxaV1BhSVVycXdwZ19QM0s1aUppd05hcGpBaGltU1V2c0dDWnpCMG53WE56LUlFVTBCb0JQUlkxRVhJS3Z3?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "海外事業のさらなる拡大とグローバル人材育成を推進 旭化成ホームズ、英語力強化プログラム本格導入 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsODYyTmFmZDlBSjNRZzhqcVVNUWM0cUppclVyMXZlSng1WkM1dEpKVGFEajRkYm5HZ0M2cHRITGtoQTJxNkZJUnc3Zw?oc=5",
-            "published": "2026-03-31T16:00:00+09:00",
-            "source": "47NEWS"
         },
         {
             "company_id": "ichijo_komuten",
