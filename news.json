@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-05-21T02:52:48.663220+09:00",
+    "generated_at": "2026-05-21T05:09:24.600253+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -28,6 +28,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxeGlXTmdtQ2xPM1IzUTVLanJsV1NiVUpKYUlJTi1ZR3YtQjZyRllDQnZkRWM5bXFVbjVCV3VycUpwUlFzVGhjbjNpeGphZmo2eHhVT3lnMnZYZDlWb1J5cUpB?oc=5",
             "published": "2026-05-20T16:38:27+09:00",
             "source": "日経不動産マーケット情報"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業 駿河区小黒１丁目ＰＪ新築 - 建通新聞",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1lMUlo5TGJqNlBZWFlzWWRiVVJackJkR0RJb19IX2M5eWlJeWhkZUZmQUdZeVE2UXdVc0U2WkdTenQ3Ml9POEhmM0hWdWpkMTRYVXhzdExZQ2NCQ2UycUtTMFFyb25rcUk2WGQ3UVlIQkJLVTI0ZzJta0RpVVBNeA?oc=5",
+            "published": "2026-05-20T16:30:00+09:00",
+            "source": "建通新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -382,7 +389,7 @@
         {
             "company_id": "daiwa_house",
             "title": "大和ハウス 中東情勢の影響で7月以降の住宅引き渡し遅れる可能性も - TBS NEWS DIG",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1dKNTdSdUNFOWRTb2NOSzNzRmszQzFxUzQ0UDdJRGgtN1NoU2tFdGdBVnZQbUtNcmg2ajNuUkNSRDA4MUlXanRiZkRQbmxId3NMTktEODRaN1kyTmRKRUZIejNXaWt5VUxrbWgzWXZKZEpHSTh2Vllod2VVa3JSSg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWNrLWlESFhrRVZiR0FtckFNR1BreEJRZmRYVG1EZElDRE1JN1A2Zjg2SzdBX2N3XzZ6ZFF5dmtRZWc4QmZqNElaZVFzLUs2d09Md0NldWNCeXdHYmNUbmJGMEE3SFVtQlNtNnIwTHMxRWpVZ09Td0UzclltWUJabmd6SUZWaTMyV29XUg?oc=5",
             "published": "2026-05-19T04:20:34+09:00",
             "source": "TBS NEWS DIG"
         },
@@ -396,7 +403,7 @@
         {
             "company_id": "daiwa_house",
             "title": "大和ハウス 中東情勢の影響で7月以降の住宅引き渡し遅れる可能性も - TBS NEWS DIG",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWNrLWlESFhrRVZiR0FtckFNR1BreEJRZmRYVG1EZElDRE1JN1A2Zjg2SzdBX2N3XzZ6ZFF5dmtRZWc4QmZqNElaZVFzLUs2d09Md0NldWNCeXdHYmNUbmJGMEE3SFVtQlNtNnIwTHMxRWpVZ09Td0UzclltWUJabmd6SUZWaTMyV29XUg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1dKNTdSdUNFOWRTb2NOSzNzRmszQzFxUzQ0UDdJRGgtN1NoU2tFdGdBVnZQbUtNcmg2ajNuUkNSRDA4MUlXanRiZkRQbmxId3NMTktEODRaN1kyTmRKRUZIejNXaWt5VUxrbWgzWXZKZEpHSTh2Vllod2VVa3JSSg?oc=5",
             "published": "2026-05-19T04:20:34+09:00",
             "source": "TBS NEWS DIG"
         },
@@ -1480,10 +1487,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス、今期経常は40％減益、実質増配へ - 株探(かぶたん)",
+            "title": "大和ハウス、今期経常は40％減益、実質増配へ - 株探",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZXlzYUI3d2x0V19SY0M0QjFfMElPNUZCcFZHR3N6WXN2bFVoQ1lOYnZ0dEstdDRpazhxREUxMkI4aHJCbG1MVlluMVZDYUFmMkE?oc=5",
             "published": "2026-05-13T15:30:00+09:00",
-            "source": "株探(かぶたん)"
+            "source": "株探"
         },
         {
             "company_id": "daiwa_house",
@@ -1638,13 +1645,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hMldxTTJxejlHbW9RQmJ0UG1semlJanNrU2lGM2RBbi1NY0M4Q0UxQWZiWTVraThNS3AwWHM3VF9tNW9GVzZVTV93TWJBOXpCUmprZA?oc=5",
             "published": "2026-05-12T16:19:00+09:00",
             "source": "流通ニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスリート投資法人[8984]：「Dow Jones Best-in-Class Asia Pacific Index」構成銘柄選定に関するお知らせ 2026年5月12日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OMTZYRDhCUjhXVlZxNFF0SDlaLU41RDJMQ0hiMXkwNzdNRUxPVHlGWWVWVjl1aURsWmJVNjF5YnlNR3ZiOUFNT09LVGE2bGZfa1VzaUd6TXRkYkV6NWdDVloyemFJeW1fa0E?oc=5",
-            "published": "2026-05-12T15:30:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2082,22 +2082,22 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探(かぶたん)",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GakszdjdIT0dyR3lfWFZmaDlPMmN1b3k1LXRjMFdNaTBjSE94RWZ6eEpLbldJNHRkUWxzNm1YbEVDenVaSVB2Q2otSEtLdF84ZTlUYUhrMHU0cGZIYy1GWA?oc=5",
-            "published": "2026-05-08T16:00:00+09:00",
-            "source": "株探(かぶたん)"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "【アナリスト評価】住友林業、レーティング強気を継続、目標株価2,140円に引下げ（日系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDNxLXAxSTJsc2xFdjNFMlBodGFyNUVIR2ZsR3VuUS01WFNmMXlqVkhwQjFncFhaS0NVU2YwTlVMX2E4MUU4N2N0UmZuWVhTMTUxWVRJSkJzZ1hiWGs4Y3c5MFMtSG13SXppUUZaZHpub0RVVGFpeThjQV9pN2t1N0Z5emxyQUk?oc=5",
+            "title": "住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ(フィスコ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWZLMXQ1bnFmcVBLYzkyZE1hcTJ0dDEwZEZZNndrcGVjNWlOREh4LUl2RVBONlo0cHR4YlU1R19aN1RjUHBMNEkzTUVzbUxWOWFRa01BSEdNQ1BiMmpnUC1zOTU3aE1HUDhYX1hVZHlSZUtOSTFLTEx5b0dUU0h5WXZ6X1pVYzg?oc=5",
             "published": "2026-05-08T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ(フィスコ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWZLMXQ1bnFmcVBLYzkyZE1hcTJ0dDEwZEZZNndrcGVjNWlOREh4LUl2RVBONlo0cHR4YlU1R19aN1RjUHBMNEkzTUVzbUxWOWFRa01BSEdNQ1BiMmpnUC1zOTU3aE1HUDhYX1hVZHlSZUtOSTFLTEx5b0dUU0h5WXZ6X1pVYzg?oc=5",
+            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GakszdjdIT0dyR3lfWFZmaDlPMmN1b3k1LXRjMFdNaTBjSE94RWZ6eEpLbldJNHRkUWxzNm1YbEVDenVaSVB2Q2otSEtLdF84ZTlUYUhrMHU0cGZIYy1GWA?oc=5",
+            "published": "2026-05-08T16:00:00+09:00",
+            "source": "株探"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【アナリスト評価】住友林業、レーティング強気を継続、目標株価2,140円に引下げ（日系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDNxLXAxSTJsc2xFdjNFMlBodGFyNUVIR2ZsR3VuUS01WFNmMXlqVkhwQjFncFhaS0NVU2YwTlVMX2E4MUU4N2N0UmZuWVhTMTUxWVRJSkJzZ1hiWGs4Y3c5MFMtSG13SXppUUZaZHpub0RVVGFpeThjQV9pN2t1N0Z5emxyQUk?oc=5",
             "published": "2026-05-08T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -2278,10 +2278,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探(かぶたん)",
+            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWEJzV2VvdGtuRVZUM0xPcndudzNCenk0WUhKazJraThsMUwxWGdVSGw2UTMzTVFFbUhmNVBRV3hyT040UVJ2aHpqc2twQll5ZkE?oc=5",
             "published": "2026-05-07T16:00:00+09:00",
-            "source": "株探(かぶたん)"
+            "source": "株探"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3188,10 +3188,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化、今期経常は3％減益、1円増配へ - 株探(かぶたん)",
+            "title": "積水化学工業【4204】、今期経常は3％減益、1円増配へ | 決算速報 - 株探ニュース - 株探",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSVVIMGpEWWIwaU95V1o5SklQS1Z3WkR2VU91eXZoVy1JdGJfc0s4VUFfLWRzZzB5R21DQ1dHaDNtOGEyN1ZMeTVBNmRLLXk0OGc?oc=5",
             "published": "2026-04-28T16:00:00+09:00",
-            "source": "株探(かぶたん)"
+            "source": "株探"
         },
         {
             "company_id": "sekisui_heim",
@@ -4630,17 +4630,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmlLcXptbkoxNGhZSVh5LUFNM19MeUQtTzlaWVc5SWF4SE9FUF9EQTlmVHd2ZEQ4MV9NVkhicGljM2NQSjREeDRGV0pZa3JkNUIzR3VxT1dhVXBJOFlYUFRJaWxybGtTS3FVYm9Wck1CZjZUSnBQSS1wbEpBWEk4RnEwM2ZmMFFGSUVJZkJn?oc=5",
-            "published": "2026-04-08T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 - 47NEWS",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qRmRYbW9pbDNrN1ZaRVU0Wk00NzdiQUh1X2dJWmNHOUVlb1RCX0txMXdBYVlKSkh3aVFEUmNzbzlTUUg2aW1QSjY0cw?oc=5",
             "published": "2026-04-08T16:00:00+09:00",
             "source": "47NEWS"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "長く住める住宅目指す、旭化成ホームズ ドイツ・ヘーベル社の技術取り入れ誕生【経済トレンド】 (共同通信) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmlLcXptbkoxNGhZSVh5LUFNM19MeUQtTzlaWVc5SWF4SE9FUF9EQTlmVHd2ZEQ4MV9NVkhicGljM2NQSjREeDRGV0pZa3JkNUIzR3VxT1dhVXBJOFlYUFRJaWxybGtTS3FVYm9Wck1CZjZUSnBQSS1wbEpBWEk4RnEwM2ZmMFFGSUVJZkJn?oc=5",
+            "published": "2026-04-08T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "hebel_haus",
