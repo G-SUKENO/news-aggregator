@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-05-21T05:09:24.600253+09:00",
+    "generated_at": "2026-05-21T07:22:42.891068+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -35,6 +35,13 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1lMUlo5TGJqNlBZWFlzWWRiVVJackJkR0RJb19IX2M5eWlJeWhkZUZmQUdZeVE2UXdVc0U2WkdTenQ3Ml9POEhmM0hWdWpkMTRYVXhzdExZQ2NCQ2UycUtTMFFyb25rcUk2WGQ3UVlIQkJLVTI0ZzJta0RpVVBNeA?oc=5",
             "published": "2026-05-20T16:30:00+09:00",
             "source": "建通新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
+            "published": "2026-05-20T16:12:44+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -205,11 +212,11 @@
             "source": "建通新聞"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "約60年後の夏、消費電力1.5倍に！ パナソニック ホームズ「全館空調システム『エアロハス』」 - Dtimes",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XUUZWb2V3T3pMQkFFTVFLVTE3eldhQVZGOW5ZWjFfSTZGbnJoRXZReUE3V0FONDJOZjluZDFYQU52ZXZvM3c?oc=5",
-            "published": "2026-05-19T17:00:00+09:00",
-            "source": "Dtimes"
+            "company_id": "daiwa_house",
+            "title": "ウクライナで最新技術のプレハブ型住宅、29年までに100世帯分 大和ハウスが提供へ - 産経ニュース",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWnVVdG45X09oR2tWT3dDMTAtRnBpWDlTdTZTUEw2TmdOTUJoZUo3ZEJpbHlTaVFQZ0c0bGhEYWxXbmszZEpLRlR3dGJIaERyVjJVYXB1U2ZBdy1tS29ndzROMVRVY1NWMXItdkdWV2FvQ2x6OHc?oc=5",
+            "published": "2026-05-19T17:39:09+09:00",
+            "source": "産経ニュース"
         },
         {
             "company_id": "panasonic_homes",
@@ -217,6 +224,13 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWNk1xWG5QaXJsZHlMemdIZWVYRE5WNWxyYi03aGNfMUk2MjdRaVBuMVZhcWs4cDdjYk50bFN3SnVuVmljYVA0c05rclZBSm9HaHNBOVVTaXVLcTVaTlhj?oc=5",
             "published": "2026-05-19T17:00:00+09:00",
             "source": "ライブドアニュース"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "約60年後の夏、消費電力1.5倍に！ パナソニック ホームズ「全館空調システム『エアロハス』」 - Dtimes",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XUUZWb2V3T3pMQkFFTVFLVTE3eldhQVZGOW5ZWjFfSTZGbnJoRXZReUE3V0FONDJOZjluZDFYQU52ZXZvM3c?oc=5",
+            "published": "2026-05-19T17:00:00+09:00",
+            "source": "Dtimes"
         },
         {
             "company_id": "panasonic_homes",
@@ -389,7 +403,7 @@
         {
             "company_id": "daiwa_house",
             "title": "大和ハウス 中東情勢の影響で7月以降の住宅引き渡し遅れる可能性も - TBS NEWS DIG",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWNrLWlESFhrRVZiR0FtckFNR1BreEJRZmRYVG1EZElDRE1JN1A2Zjg2SzdBX2N3XzZ6ZFF5dmtRZWc4QmZqNElaZVFzLUs2d09Md0NldWNCeXdHYmNUbmJGMEE3SFVtQlNtNnIwTHMxRWpVZ09Td0UzclltWUJabmd6SUZWaTMyV29XUg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1dKNTdSdUNFOWRTb2NOSzNzRmszQzFxUzQ0UDdJRGgtN1NoU2tFdGdBVnZQbUtNcmg2ajNuUkNSRDA4MUlXanRiZkRQbmxId3NMTktEODRaN1kyTmRKRUZIejNXaWt5VUxrbWgzWXZKZEpHSTh2Vllod2VVa3JSSg?oc=5",
             "published": "2026-05-19T04:20:34+09:00",
             "source": "TBS NEWS DIG"
         },
@@ -403,7 +417,7 @@
         {
             "company_id": "daiwa_house",
             "title": "大和ハウス 中東情勢の影響で7月以降の住宅引き渡し遅れる可能性も - TBS NEWS DIG",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1dKNTdSdUNFOWRTb2NOSzNzRmszQzFxUzQ0UDdJRGgtN1NoU2tFdGdBVnZQbUtNcmg2ajNuUkNSRDA4MUlXanRiZkRQbmxId3NMTktEODRaN1kyTmRKRUZIejNXaWt5VUxrbWgzWXZKZEpHSTh2Vllod2VVa3JSSg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWNrLWlESFhrRVZiR0FtckFNR1BreEJRZmRYVG1EZElDRE1JN1A2Zjg2SzdBX2N3XzZ6ZFF5dmtRZWc4QmZqNElaZVFzLUs2d09Md0NldWNCeXdHYmNUbmJGMEE3SFVtQlNtNnIwTHMxRWpVZ09Td0UzclltWUJabmd6SUZWaTMyV29XUg?oc=5",
             "published": "2026-05-19T04:20:34+09:00",
             "source": "TBS NEWS DIG"
         },
@@ -525,13 +539,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GTlozdmZjRlJVQkFVTTVIRXVfVXlxVm0xNnNhUG1URnc5M293bm1OYkt2ckZOVzI2WU9xOHY4UGFROEtMdElSdjh2TVA4M1lUenZON1RIczhXOTRLRDZFcUYyNUU2Z1VwQnJYVA?oc=5",
             "published": "2026-05-18T16:50:25+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
-            "published": "2026-05-18T16:14:19+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -669,14 +676,14 @@
         {
             "company_id": "sekisui_heim",
             "title": "積水化学工業が現在進行中のDXを解説、基幹系の刷新後に進める次の挑戦 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNT3JfVXFHeFdVUjUwSTRtUDFGQjF4T0xyZTdrOWZMXzhSczB1SmlJUkY0dlQtQ3JqTjN1VkdHZnlJTFhGbnVpalNYNi1LeWx0ckFOQm4yM2hVNTFObUoyZWgyQnNVb0U2SHl3eg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSTkxc09PVHQ2d3YyZHdrQXZDX2JPMnFHc2ZOZTZkc0FJQ3dJT3ZsTEp3SFlFcER5TTI2SGFqZ0hRbEE5aFFmVDczUDBmaTZFWjNsczk0VDhOamtMVk1ZQUk3NkU4V1lDOWljSlc4UmtDUU1OTzEtUGJSaE5FZ3pScndXMi1LM0VMcHhvN25pWW8?oc=5",
             "published": "2026-05-18T05:00:00+09:00",
             "source": "日経クロステック"
         },
         {
             "company_id": "sekisui_heim",
             "title": "積水化学工業が現在進行中のDXを解説、基幹系の刷新後に進める次の挑戦 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSTkxc09PVHQ2d3YyZHdrQXZDX2JPMnFHc2ZOZTZkc0FJQ3dJT3ZsTEp3SFlFcER5TTI2SGFqZ0hRbEE5aFFmVDczUDBmaTZFWjNsczk0VDhOamtMVk1ZQUk3NkU4V1lDOWljSlc4UmtDUU1OTzEtUGJSaE5FZ3pScndXMi1LM0VMcHhvN25pWW8?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNT3JfVXFHeFdVUjUwSTRtUDFGQjF4T0xyZTdrOWZMXzhSczB1SmlJUkY0dlQtQ3JqTjN1VkdHZnlJTFhGbnVpalNYNi1LeWx0ckFOQm4yM2hVNTFObUoyZWgyQnNVb0U2SHl3eg?oc=5",
             "published": "2026-05-18T05:00:00+09:00",
             "source": "日経クロステック"
         },
@@ -1487,10 +1494,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス、今期経常は40％減益、実質増配へ - 株探",
+            "title": "大和ハウス、今期経常は40％減益、実質増配へ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZXlzYUI3d2x0V19SY0M0QjFfMElPNUZCcFZHR3N6WXN2bFVoQ1lOYnZ0dEstdDRpazhxREUxMkI4aHJCbG1MVlluMVZDYUFmMkE?oc=5",
             "published": "2026-05-13T15:30:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "daiwa_house",
@@ -1640,13 +1647,6 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス／神奈川県に「COTOE橋本」5月29日オープン、ヤオコーなど32店舗出店 - 流通ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hMldxTTJxejlHbW9RQmJ0UG1semlJanNrU2lGM2RBbi1NY0M4Q0UxQWZiWTVraThNS3AwWHM3VF9tNW9GVzZVTV93TWJBOXpCUmprZA?oc=5",
-            "published": "2026-05-12T16:19:00+09:00",
-            "source": "流通ニュース"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業、GX志向型対応の子育て世帯向け賃貸を市場投入 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94WVNwc2t6SjE4enRKMjlXN3hBc09aM1kzSlRfQ2NvTGhGRXJMbnIwWUdFeGdCTER4N1d3VUliX0dUNFN2TFp3NzlabnRudjl0eHhma3dB?oc=5",
@@ -1768,14 +1768,14 @@
         {
             "company_id": "sekisui_house",
             "title": "積水ハウス、積水ハウス建設 3年連続100名超えとなる112名のクラフターが入社 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ODIwUzBIalY0M3J3aXJDTTFqbkxUYkI0VHY1RzlCcE1hZmpoUTJkYWpvWEhuSVZxWUVYd29TRy0xaVNwZWM3a0hpclZXWXRlQm1jb0pHZFlIS055dERTcGJlSEtEQ0FP?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaUVKWUwyelBydlhycjdzZUpqR0d5UzNsdTZUYTAtbTViaFgybWpqNVlNUndlaVlVMl9GNnl5Nmtkdnd1ZmJZMXdtb2dYR3J4UHNiXzdabGdJU28?oc=5",
             "published": "2026-05-11T14:02:41+09:00",
             "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "sekisui_house",
             "title": "積水ハウス、積水ハウス建設 3年連続100名超えとなる112名のクラフターが入社 - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaUVKWUwyelBydlhycjdzZUpqR0d5UzNsdTZUYTAtbTViaFgybWpqNVlNUndlaVlVMl9GNnl5Nmtkdnd1ZmJZMXdtb2dYR3J4UHNiXzdabGdJU28?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ODIwUzBIalY0M3J3aXJDTTFqbkxUYkI0VHY1RzlCcE1hZmpoUTJkYWpvWEhuSVZxWUVYd29TRy0xaVNwZWM3a0hpclZXWXRlQm1jb0pHZFlIS055dERTcGJlSEtEQ0FP?oc=5",
             "published": "2026-05-11T14:02:41+09:00",
             "source": "共同通信PRワイヤー"
         },
@@ -2075,13 +2075,6 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業の株価、年初来安値 米住宅不振で1~3月純利益19%減 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rQWFGdk1ZNldpcm4zdzQzQXZZVkZ3Nl9IRnd3NFZWdzNIZmZlMnc5NGI3Q3RFUjJ6UjRaVHlxek5HeEM2Ym9UdGs2SWxFbXY2X0t1TlhpWklQaUlBT09GV1pWcHUzYlpLYXNqaw?oc=5",
-            "published": "2026-05-08T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ(フィスコ) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWZLMXQ1bnFmcVBLYzkyZE1hcTJ0dDEwZEZZNndrcGVjNWlOREh4LUl2RVBONlo0cHR4YlU1R19aN1RjUHBMNEkzTUVzbUxWOWFRa01BSEdNQ1BiMmpnUC1zOTU3aE1HUDhYX1hVZHlSZUtOSTFLTEx5b0dUU0h5WXZ6X1pVYzg?oc=5",
             "published": "2026-05-08T16:00:00+09:00",
@@ -2089,10 +2082,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - 株探",
+            "title": "住友林業の株価、年初来安値 米住宅不振で1~3月純利益19%減 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rQWFGdk1ZNldpcm4zdzQzQXZZVkZ3Nl9IRnd3NFZWdzNIZmZlMnc5NGI3Q3RFUjJ6UjRaVHlxek5HeEM2Ym9UdGs2SWxFbXY2X0t1TlhpWklQaUlBT09GV1pWcHUzYlpLYXNqaw?oc=5",
+            "published": "2026-05-08T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "【材料】 住友林業---大幅続落、第1四半期業績は市場予想を大きく下振れ - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GakszdjdIT0dyR3lfWFZmaDlPMmN1b3k1LXRjMFdNaTBjSE94RWZ6eEpLbldJNHRkUWxzNm1YbEVDenVaSVB2Q2otSEtLdF84ZTlUYUhrMHU0cGZIYy1GWA?oc=5",
             "published": "2026-05-08T16:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2271,17 +2271,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
+            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - かぶたん",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWEJzV2VvdGtuRVZUM0xPcndudzNCenk0WUhKazJraThsMUwxWGdVSGw2UTMzTVFFbUhmNVBRV3hyT040UVJ2aHpqc2twQll5ZkE?oc=5",
+            "published": "2026-05-07T16:00:00+09:00",
+            "source": "かぶたん"
+        },
+        {
+            "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ 2026年5月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zTk9oQU81S3dSbGxxbXJkSWdFS01ycnQ5dGpveTFZUVZkLTU0NXVnTDZBRjNWak1Ld0xZbXlWRF9KeGVuMjk3ejQtQlJLWjhmZ3dHWXZxaVJXdUd1eWZOUXEtQ3dUU0Q3S2c?oc=5",
             "published": "2026-05-07T16:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業【1911】、1-3月期(1Q)経常は42％減益で着地 | 決算速報 - 株探ニュース - 株探",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWEJzV2VvdGtuRVZUM0xPcndudzNCenk0WUhKazJraThsMUwxWGdVSGw2UTMzTVFFbUhmNVBRV3hyT040UVJ2aHpqc2twQll5ZkE?oc=5",
-            "published": "2026-05-07T16:00:00+09:00",
-            "source": "株探"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3132,17 +3132,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス[1928]：コーポレート・ガバナンスに関する報告書 2026/04/28 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TVhNWmE0MExtWDViTEQzNWlhNENWNUQwNDJTbl9HYmp3Z2w3dWFaa2VzVU5zUEdSdGN2NjVERHJFeGVBXzlOVmxaX29KcEZpc2o1M0hwRkg4elRJYWFfamQ3Z1I5Zmp5OFE?oc=5",
-            "published": "2026-04-28T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス・アセットマネジメントに、サステナビリティ情報開示支援クラウド「SmartESG」とAIによる回答案生成サービス「Answer Ease」を提供 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kSWRkQ3VpY3doeWlnbUpuakl5M3BGM1JCdHVHejJ1V0xsTExfZVJ2aU4xaGItSVJmWERza1ZyNmRmSGc4Vk1CV29oc3NWc0dmUDBweVE1VXpLUTFVbTlVd1d3LThfY1I1T1E?oc=5",
             "published": "2026-04-28T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス[1928]：コーポレート・ガバナンスに関する報告書 2026/04/28 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TVhNWmE0MExtWDViTEQzNWlhNENWNUQwNDJTbl9HYmp3Z2w3dWFaa2VzVU5zUEdSdGN2NjVERHJFeGVBXzlOVmxaX29KcEZpc2o1M0hwRkg4elRJYWFfamQ3Z1I5Zmp5OFE?oc=5",
+            "published": "2026-04-28T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -3188,22 +3188,15 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業【4204】、今期経常は3％減益、1円増配へ | 決算速報 - 株探ニュース - 株探",
+            "title": "積水化学工業【4204】、今期経常は3％減益、1円増配へ | 決算速報 - 株探ニュース - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSVVIMGpEWWIwaU95V1o5SklQS1Z3WkR2VU91eXZoVy1JdGJfc0s4VUFfLWRzZzB5R21DQ1dHaDNtOGEyN1ZMeTVBNmRLLXk0OGc?oc=5",
             "published": "2026-04-28T16:00:00+09:00",
-            "source": "株探"
+            "source": "かぶたん"
         },
         {
             "company_id": "sekisui_heim",
             "title": "積水化学工業[4204]：自己株式取得に係る事項の決定及び自己株式の消却に関するお知らせ 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43MDBEc3E5dnEtSnR4c2tyVjliYW9jc1N1SUpkUGtNRHhVTVY4VHpPMkVwRjVNcFRucWozZ1FoaUJIOG92SHg2QXd3bzBoYWZIS0JyMzRIS0JwdkN6LWNXNHZtQjBhUnJ4SkE?oc=5",
-            "published": "2026-04-28T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業[4204]：2026年３月期 決算短信〔日本基準〕（連結） 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TYU5INklaX2ZQVnNaTUdGckhXZEtLM2tuUWo2U2wzWVpCeGw1dkhTWnlaS1NHV0VKczBKMTV5ck1CeWc0ekxweXd4M1VXNF94NmNqWWVrOWE1RlVHem1pTV8yNElVLWJzVkE?oc=5",
             "published": "2026-04-28T16:00:00+09:00",
             "source": "日本経済新聞"
         },
@@ -3220,6 +3213,13 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFZUOEdSeEI3Z3diUVZDczcxUFZnakNMaW9HQzNkVnJwX2x3VWxtWWNVYXZJRG5YNGpBcDhUSkREZUdaSGk3QTVESUdvXzdzSnJQc1dOTEk2TmJTTFJVQkNHLU0wdWNfbUpBcGctRW96ZWJhbWd3UTBoTktyR2ZpaFRSczdVUjQ?oc=5",
             "published": "2026-04-28T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業[4204]：2026年３月期 決算短信〔日本基準〕（連結） 2026年4月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TYU5INklaX2ZQVnNaTUdGckhXZEtLM2tuUWo2U2wzWVpCeGw1dkhTWnlaS1NHV0VKczBKMTV5ck1CeWc0ekxweXd4M1VXNF94NmNqWWVrOWE1RlVHem1pTV8yNElVLWJzVkE?oc=5",
+            "published": "2026-04-28T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
