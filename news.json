@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-06-05T23:42:04.086619+09:00",
+    "generated_at": "2026-06-06T02:13:25.592285+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -30,10 +30,24 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "【セキスイハイム】家族で楽しむ住まい体感フェア - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmWG92Rzh1ZkxrRlVZZ3Blcll6aFBqOGt0c1prZkhKaTc2WjMwRDhNVURoZUlGNzdzLVVuczBoVXp4RnlGV0pDLXBQYUZJVm5BMU5PZEVjQTBWNXc?oc=5",
+            "published": "2026-06-05T16:45:56+09:00",
+            "source": "朝日新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
             "published": "2026-06-05T16:07:37+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSnVPT3BiOWRaMG1rQi00THZ1RnIyR1V5NEhxSG1QUi16dFdFQzFibDJ6cVZOUDRkQjZ4UjVYYXhmR0hraGNJdHJsNjhES3VLakZqRURSbnRTWXBnMVJN?oc=5",
+            "published": "2026-06-05T15:56:58+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -109,6 +123,13 @@
         {
             "company_id": "misawa_home",
             "title": "ミサワホームの木質パネル、南極で46年使用でも耐久性を保持 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCdlhxUC10Qk9YSU5KQ2hheXM3ZzhNNkZVSV83SXZ2cGhwTXFhckV2NzlPc1JPQlZweG5WLUlTelpaaHNEcUFoQ2gzd3RmZEpZVklmVlY1SW9KT0hRY21RQkdaRTTSAWRBVV95cUxQQnZYcVAtdEJPWElOSkNoYXlzN2c4TTZGVUlfN0l2dnBocE1xYXJFdjc5T3NST0JWcHhuVi1JU3paWmhzRHFBaENoM3d0ZmRKWVZJZlZWNUlvSk9IUWNtUUJHWkU0?oc=5",
+            "published": "2026-06-05T12:44:23+09:00",
+            "source": "千葉テレビ放送株式会社"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホームの木質パネル、南極で46年使用でも耐久性を保持 | チバテレ＋プラス - 千葉テレビ放送株式会社",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LaDduX1Q0MFBreGs2MDBvYVZOdmNEeHN4UWYxWGVmZ0ktZkpTNjhCcG1vRTlBWWZOUk5uOGdaX2lWejV5X2xvQjJ4aUpRMEp4U1AzdXNuSnhmakplS3Rz0gFkQVVfeXFMUEJ2WHFQLXRCT1hJTkpDaGF5czdnOE02RlVJXzdJdnZwaHBNcWFyRXY3OU9zUk9CVnB4blYtSVN6Wlpoc0RxQWhDaDN3dGZkSllWSWZWVjVJb0pPSFFjbVFCR1pFNA?oc=5",
             "published": "2026-06-05T12:44:23+09:00",
             "source": "千葉テレビ放送株式会社"
@@ -142,13 +163,6 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業(株)【4204】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSnVPT3BiOWRaMG1rQi00THZ1RnIyR1V5NEhxSG1QUi16dFdFQzFibDJ6cVZOUDRkQjZ4UjVYYXhmR0hraGNJdHJsNjhES3VLakZqRURSbnRTWXBnMVJN?oc=5",
-            "published": "2026-06-05T11:56:59+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "大和ハウス 渋谷区東に店舗、事務所を - 建通新聞",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUl0anFtVURIRENnOGtob1AzUk96cmtzZlRNS0xZUUVzZ2xMRmZqdVNPa3Q5VHdvR3otUWt4cDVkbGJoOXc1LUZhWnppZDVhVHYyQmNZa0MzaFBFSWNhS1BlWFU2Xzhpclg1UEJsZ2R1emtiNTVOdm1tekZEa0Rldw?oc=5",
@@ -166,6 +180,13 @@
             "company_id": "sekisui_house",
             "title": "積水ハウス（1928）の株価、3か月間でどう動いたか？【2026年6月4日】（LIMO） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JU05fd1dDbkgxYjBCUWlJbVA2T0prWE1QUU1ENDVRZmxPbmpXX3RYcmZtZFdfZnVaem9qTmxWdGZYUmlaUFZMWENNWjZZN3ZiUUNGYU5URHJ5TjVZTWF6QjNCUk1rYU1OdDcxeTg2a0VmZVA5V1AtaVFsbmh3RXc?oc=5",
+            "published": "2026-06-05T10:55:49+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス（1928）の株価、3か月間でどう動いたか？【2026年6月4日】 (LIMO) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGtYT2t1XzkwVTR6X3o0WGliUDk0Yzg0Ni1sNHZsMC1RanJNY2hxXzNPenE1N0pqV1FaTlBid2FmeEYwaTdCUm14cFh0cVFzLVB6MkZzNHpaUnh0SWpxT0xNbmZINTFYS1dlXzc2Nm1FdkE5WnA0VzhLdzBCZ0ZTUHVEbUw0T2ZLczRnTGxB?oc=5",
             "published": "2026-06-05T10:55:49+09:00",
             "source": "Yahoo!ニュース"
         },
@@ -231,6 +252,13 @@
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFlocU1NUTJsZFJvanozS3JrRlpGcG1QUE9HaFNBTlVEaXpuSFd6ZGFMcWp3MEVXNXpUTDdsS1pGdkZETmRiQ1JyZEdFSUdXdDBmcmU0NEZtYjczb3lGZUc5SEFXSXNRMEVwQmpkZ2lwbXQ5NUgteDlKR1pEX3FqazdpalUyZEs1WUhmXzRZd1l2bjdRM0s0X3Z2TUdjd2xfT3c?oc=5",
             "published": "2026-06-05T03:40:22+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "【松本】セキスイハイム松本スタジアム（松本市野球場）の歩き方⚾NPB公式戦で最も標高の高い球場でホームランは出るか？！ Ferto (UtnNu1fuV8) - Mshale",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNjVaMjBnOGJwX1E0bkwxcVIwR2xuaGtFc0xGelR3WDQ2elA5OW5vRWdtOHFLVjNSNEZiYTFpbDRid2c4aHJYRzMwWFVscGExd0h0NVVzcTBJWHM?oc=5",
+            "published": "2026-06-05T00:27:25+09:00",
+            "source": "Mshale"
         },
         {
             "company_id": "sekisui_house",
@@ -465,7 +493,7 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス【1928】、2-4月期(1Q)経常は55％増益で着地 | 決算速報 - 株探ニュース - かぶたん",
+            "title": "積水ハウス【1928】、2-4月期(1Q)経常は55％増益で着地 | 決算速報 - かぶたん",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkZBNERJR0lUbDJpVGVnVXpqOVdRM0xSMFFEZzhpU3VCdzhadTEwZncxeThNaDFheTFtUVgxb3B6SDJFWGNGVXI4U1REM1BwUGc?oc=5",
             "published": "2026-06-04T12:00:00+09:00",
             "source": "かぶたん"
@@ -529,6 +557,13 @@
         {
             "company_id": "sekisui_heim",
             "title": "三井住友トラスト・アセットマネジメント株式会社が積水化学工業株式会社＜4204＞株式の変更報告書を提出（保有増加） - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajJ5Vk9CNkJWMjM0Z053c21IUGVJRXAtdGptRFRoWmNJNm5DWE5aUFF4Mld3VEk3VkhLeFZxOFN4bi1WNXBzaXVCb1lES2ZRUGFfOHhHd1VZaFVRR1JKSndLTWphSjBZcEF3UEZfSXlRckZMbDYyVGZxbDRDQXZsYmZROE7SAYoBQVVfeXFMUG1JalJibFFFcEJHelo5OXVOSEdCV2lXd0xsa0FKM2JUcFNYbFlkMlY3SWIyV3hEaWlHcWV4NUdReFdkYWtsVENtQkR2bkx2ZU80NFdaQnZxNWNrbkMyYmp5RDVHQWp2MWNtQzVfaG5CbEFxWGhpR0U4cmVGN1JxbGFoRUlWMGZmYlhB?oc=5",
+            "published": "2026-06-04T09:20:00+09:00",
+            "source": "ｄメニューニュース"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "三井住友トラスト・アセットマネジメント株式会社が積水化学工業株式会社＜4204＞株式の変更報告書を提出（保有増加） - ｄメニューニュース",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUlqUmJsUUVwQkd6Wjk5dU5IR0JXaVd3TGxrQUozYlRwU1hsWWQyVjdJYjJXeERpaUdxZXg1R1F4V2Rha2xUQ21CRHZuTHZlTzQ0V1pCdnE1Y2tuQzJianlENUdBanYxY21DNV9obkJsQXFYaGlHRThyZUY3UnFsYWhFSVYwZmZiWEHSAYoBQVVfeXFMUG1JalJibFFFcEJHelo5OXVOSEdCV2lXd0xsa0FKM2JUcFNYbFlkMlY3SWIyV3hEaWlHcWV4NUdReFdkYWtsVENtQkR2bkx2ZU80NFdaQnZxNWNrbkMyYmp5RDVHQWp2MWNtQzVfaG5CbEFxWGhpR0U4cmVGN1JxbGFoRUlWMGZmYlhB?oc=5",
             "published": "2026-06-04T09:20:00+09:00",
             "source": "ｄメニューニュース"
@@ -539,13 +574,6 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wemwzZnVqVFRnSkNGT21TeDctMlFDWDNubmR4UTh2ZGtzOE1SNlBtTXFBOTVDM0g1aGdENVNUTTEzdFc5alRnbGRTbGMtZ2NlbGp6dVQxUHFxWV9pZ1g3cXBEalR1anFNNzFj?oc=5",
             "published": "2026-06-04T09:20:00+09:00",
             "source": "Excite エキサイト"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "三井住友トラスト・アセットマネジメント株式会社が積水化学工業株式会社＜4204＞株式の変更報告書を提出（保有増加） - ｄメニューニュース",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajJ5Vk9CNkJWMjM0Z053c21IUGVJRXAtdGptRFRoWmNJNm5DWE5aUFF4Mld3VEk3VkhLeFZxOFN4bi1WNXBzaXVCb1lES2ZRUGFfOHhHd1VZaFVRR1JKSndLTWphSjBZcEF3UEZfSXlRckZMbDYyVGZxbDRDQXZsYmZROE7SAYoBQVVfeXFMUG1JalJibFFFcEJHelo5OXVOSEdCV2lXd0xsa0FKM2JUcFNYbFlkMlY3SWIyV3hEaWlHcWV4NUdReFdkYWtsVENtQkR2bkx2ZU80NFdaQnZxNWNrbkMyYmp5RDVHQWp2MWNtQzVfaG5CbEFxWGhpR0U4cmVGN1JxbGFoRUlWMGZmYlhB?oc=5",
-            "published": "2026-06-04T09:20:00+09:00",
-            "source": "ｄメニューニュース"
         },
         {
             "company_id": "daiwa_house",
@@ -633,17 +661,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "明日の決算発表予定 積水ハウス、泉州電など5社 (6月3日) (2026年6月3日掲載) - ライブドアニュース",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWEtMcnIzQ1pPSnhNN1c5WnRPVHhzQVA3UHZCZ0hSa2t3VHIwZTNpc3FDbjdGMDV1RWU2UGtBa1lsZFNwNXp2WFlpMkZQcDFRazhPMUlDaThCbTNrb2c?oc=5",
-            "published": "2026-06-03T15:41:00+09:00",
-            "source": "ライブドアニュース"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "明日の決算発表予定 積水ハウス、泉州電など5社 (6月3日)(株探ニュース) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEFIZkZGTGpuXy1qNk1Gejc4YnB3YWFIZ01zN0RxZy11MnJMTW05MnJMR1U2dHZGWWJQUjk1cnhSbTdiM2VUajNsNllZRVZZdEVCRUVnU1p5TDItZTVGUWJYdXA5d3p4U3RaTmVCWVpoUG5fZVc2YzJnWHJfNFFvbHlXS015LWlkdE85YllQRWs1QU5maDJLTl9BYw?oc=5",
             "published": "2026-06-03T15:41:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "明日の決算発表予定 積水ハウス、泉州電など5社 (6月3日) (2026年6月3日掲載) - ライブドアニュース",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWEtMcnIzQ1pPSnhNN1c5WnRPVHhzQVA3UHZCZ0hSa2t3VHIwZTNpc3FDbjdGMDV1RWU2UGtBa1lsZFNwNXp2WFlpMkZQcDFRazhPMUlDaThCbTNrb2c?oc=5",
+            "published": "2026-06-03T15:41:00+09:00",
+            "source": "ライブドアニュース"
         },
         {
             "company_id": "sekisui_house",
@@ -983,15 +1011,15 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "畑岡奈紗、大和ハウス工業と契約「長年の目標であるメジャー制覇に向け」（my caddie） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RbWhMc1V0TVhKZmlHWDc1RlBreFBrcjhyV2sxeU5JX2UxTU9pMHdWcGxSQVR6V2JYZG1GQmkwSnJ4UmlIVlJfeTlNZGZUcEF4eGZ5TklhVGRVT1V3TWpEb2M5R0VQQ3kybU5QZ01ZMFlGOXpjVlc5S0hwS0ZLczg?oc=5",
+            "title": "畑岡奈紗、大和ハウス工業と契約「長年の目標であるメジャー制覇に向け」 (my caddie) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHhtS3NQZ2xPMDQzRVpFZWg4WncxbWVIVHJCRDVFeWF3ZmlUSWQ5SXV1eHJuSmFLR3BxYXhCOFdCbm1WMUtZemM5N1IzclZJRGZHdHM0VWZhWDlTWlE3ZFBkRXJYUWtnS0xkYWllZzRPQ2YwZEFvOGZTNFNvVm54Z0gwTHRKMTRWTHhyM0l3?oc=5",
             "published": "2026-06-01T14:36:23+09:00",
             "source": "Yahoo!ニュース"
         },
         {
             "company_id": "daiwa_house",
-            "title": "畑岡奈紗、大和ハウス工業と契約「長年の目標であるメジャー制覇に向け」 (my caddie) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHhtS3NQZ2xPMDQzRVpFZWg4WncxbWVIVHJCRDVFeWF3ZmlUSWQ5SXV1eHJuSmFLR3BxYXhCOFdCbm1WMUtZemM5N1IzclZJRGZHdHM0VWZhWDlTWlE3ZFBkRXJYUWtnS0xkYWllZzRPQ2YwZEFvOGZTNFNvVm54Z0gwTHRKMTRWTHhyM0l3?oc=5",
+            "title": "畑岡奈紗、大和ハウス工業と契約「長年の目標であるメジャー制覇に向け」（my caddie） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RbWhMc1V0TVhKZmlHWDc1RlBreFBrcjhyV2sxeU5JX2UxTU9pMHdWcGxSQVR6V2JYZG1GQmkwSnJ4UmlIVlJfeTlNZGZUcEF4eGZ5TklhVGRVT1V3TWpEb2M5R0VQQ3kybU5QZ01ZMFlGOXpjVlc5S0hwS0ZLczg?oc=5",
             "published": "2026-06-01T14:36:23+09:00",
             "source": "Yahoo!ニュース"
         },
@@ -1885,6 +1913,13 @@
             "source": "SBSマイホームセンター"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、長崎・佐賀で1億円の分譲戸建て 共働きに的 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JVzNTVDJLQ25UWGh1RGlubTJZYWNNNEhqV2tUYW52dWQ3XzlzcTNUaVBHeFJBMDlvNEFEM01wem9KOXc3N0piSm85bkVmRzlicDhxRk96N0xlenRvUEJBeTVDMUNJSnN3QVNzUA?oc=5",
+            "published": "2026-05-28T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VWEdnWTRlSXhYRUZmS0JVSE5CYTZEdkFoYXJFT3YycEpmdjBQUGs3cE92M3NGN1M0Ym80LWFUaWxQWXVxVzkwNkxMcEJaR3paS1JsTlMtNVJfcmFUSzdr?oc=5",
@@ -2032,13 +2067,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスとの協業が生んだ次世代の木造住宅『IDEA（イデア）』５月16日 広島市佐伯区にモデルハウスオープン - イザ！",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZYjBFLVE1Z3E1VXBVUnRHdWRWYUV5MUR1Tk1hcWpfczJQVFZyZUdKbGNYNDFQSE56MWp6Qk5fUmpRcXpFeDlIMWVMcWRmZXlRX29fSFNjbkx3T0hWbllWdjdjSjk1UTV5NjBna3BnT3hJR0gzdWhiczFn?oc=5",
-            "published": "2026-05-28T10:00:00+09:00",
-            "source": "イザ！"
-        },
-        {
             "company_id": "misawa_home",
             "title": "ミサワホーム、リフォーム営業向けインテリア画像の自動生成アプリ - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVmd6N1ZJbnYxc09EN2dWY1AycldMZ2t6b1c1bmlqRUZBaVV1cUF4ZXY5aUFHSE9WOGZXRERyZ1gxSlYzcnJmbFFSR1pxdFNJZGc?oc=5",
@@ -2058,13 +2086,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LQ1I1M0Z0YzR3QUlwSjhYUnRfbnd5QXduOEV5TXloTkFzN1l2ZGVhVURXbDNfRGI0c19CMUl5a1E3MHJwR1l3LTVET3ZhQmRw?oc=5",
             "published": "2026-05-28T08:07:55+09:00",
             "source": "Biz/Zine"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【2026最新】積水ハウス Vs 住友林業 徹底比較！ #ハウスメーカー選び Rennes - Paris (MPEsRla5dj) - Mshale",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLR0lhUXBSd3pVOXhLa3UyVU1SZEpiY0h5S0U4dVdpOTZ6UHczUzBDR2tobWJkWGNDZ1VJbk9PdUZJXzdrMGRkMzgxZ3pkTDFELTFZeDdrang5NTQ?oc=5",
-            "published": "2026-05-28T02:03:13+09:00",
-            "source": "Mshale"
         },
         {
             "company_id": "ichijo_komuten",
@@ -3098,6 +3119,13 @@
         {
             "company_id": "sekisui_heim",
             "title": "積水化学工業株価が安値 「ペロブスカイト太陽電池」報道に反応限定 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzNSbHJ4TElZYm1wT2xOQ1VoRWNIUzdtd1c3RU5TVDI3YzFIVXZuM19ZcmNUSGhTaHZCMVJsckcyZWtsY2xQXzg1MXhLd1F4dlhYVWhuWGhJSExZcmprLUxWd1NBNS1oQnE1Mm5RWUNEcjJYbGM3NTR3d241VkFiTmxUVmgyQmNMcWQ1Rno4RFhLWGs3NWpGYldLZlNMSlFpLWc?oc=5",
+            "published": "2026-05-20T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業株価が安値 「ペロブスカイト太陽電池」報道に反応限定 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNzQ3VTR0R1AzYVVHRm9OSlhtdWw5eUVFUDIydk1MZnZvUUVncVI5V0VObWlLanZDRmdfeG94QXZsaXhGQVpQeXk4amp0N3hWZEtITFFZQ1dHM004MG13X1cyT3RUZzRfai1NZQ?oc=5",
             "published": "2026-05-20T16:00:00+09:00",
             "source": "日本経済新聞"
@@ -3199,13 +3227,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMkc4bklEYXNOT1RyMXNYaWoteFJEU2JmN3NGQVdfTk1Vc0g4c0JDa0RFQnBDbG5pVFl5dVZaZnBPcGRTaHZyVURRVExkc3dXVmVwRFhSSm9nd0pOZWtHV0xpeW9ESGdKd2FQZHRpQ2ozVDN5MHlBWjNLc2J5MF80bV9SbnY1S3M?oc=5",
             "published": "2026-05-20T11:30:00+09:00",
             "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業株価が安値 「ペロブスカイト太陽電池」報道に反応限定 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzNSbHJ4TElZYm1wT2xOQ1VoRWNIUzdtd1c3RU5TVDI3YzFIVXZuM19ZcmNUSGhTaHZCMVJsckcyZWtsY2xQXzg1MXhLd1F4dlhYVWhuWGhJSExZcmprLUxWd1NBNS1oQnE1Mm5RWUNEcjJYbGM3NTR3d241VkFiTmxUVmgyQmNMcWQ1Rno4RFhLWGs3NWpGYldLZlNMSlFpLWc?oc=5",
-            "published": "2026-05-20T10:26:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -3741,10 +3762,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "旭化成ホームズ・旭化成リフォーム・LIXILが協業 使用済みアルミ部材を再生する資源循環スキームを構築 - tv-tokyo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyOFpwbG1IX3Y3QW5zcUVjRTFyRGxLY3N3N1ZQZ0hBa1ZNRlVNb1ZjTkJMMGJGZlVvZ3ZwZEJPSnZXNFVhQ3ItMnh3emJ2ODgwVXNfMnA5NFZNcUczM04wUi1QeUZEMGxaNWxMTE9B?oc=5",
+            "title": "LIXILと旭化成ホームズ・旭化成リフォームが協業、使用済みアルミ部材を再生する資源循環スキームを構築 - Digital PR Platform",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pZHgyZ2loaWFKNXRTUHZ4LURYdFl4QnZ0ODlvYzJkcGhlTWE0ZGlIa0IxX09EQ2VDOEhiXzlTdk9xdEk?oc=5",
             "published": "2026-05-15T16:00:00+09:00",
-            "source": "tv-tokyo.co.jp"
+            "source": "Digital PR Platform"
         },
         {
             "company_id": "hebel_haus",
@@ -3755,10 +3776,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "LIXILと旭化成ホームズ・旭化成リフォームが協業、使用済みアルミ部材を再生する資源循環スキームを構築 - Digital PR Platform",
-            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pZHgyZ2loaWFKNXRTUHZ4LURYdFl4QnZ0ODlvYzJkcGhlTWE0ZGlIa0IxX09EQ2VDOEhiXzlTdk9xdEk?oc=5",
+            "title": "旭化成ホームズ・旭化成リフォーム・LIXILが協業 使用済みアルミ部材を再生する資源循環スキームを構築 - tv-tokyo.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyOFpwbG1IX3Y3QW5zcUVjRTFyRGxLY3N3N1ZQZ0hBa1ZNRlVNb1ZjTkJMMGJGZlVvZ3ZwZEJPSnZXNFVhQ3ItMnh3emJ2ODgwVXNfMnA5NFZNcUczM04wUi1QeUZEMGxaNWxMTE9B?oc=5",
             "published": "2026-05-15T16:00:00+09:00",
-            "source": "Digital PR Platform"
+            "source": "tv-tokyo.co.jp"
         },
         {
             "company_id": "hebel_haus",
@@ -3922,11 +3943,11 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "No.28228 2463でポジションとりました… - 積水化学工業(株)【4204】の掲示板 2026/04/15〜2026/04/30 - 株式掲示板 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0UwdnpucjFNZTJpRWJVeWJkczI0Ykt3bV9DMEhCdEppckJsRTNVRDNOdDRIWmpHbE1RREx0YTkzWWxnZ0hxMUp5SlZKUnphUXlxVGgyYWVDZnMzMTM5em1WRS1EMmVoUWc0OUVyMThCMnAzMHNEVmdxXzBRZm50YnpIVQ?oc=5",
-            "published": "2026-05-14T13:22:05+09:00",
-            "source": "Yahoo!ファイナンス"
+            "company_id": "hebel_haus",
+            "title": "大和ハウス、旭化成ホームズと茨城県つくば市で分譲マンション「プレミストつくば研究学園」を販売開始 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fWGh1WFhVN3BxczhMeU4ycy1VZEZDMG15RVNzTjJBSzlrSHFfTll4R3ZrdTNHM0VSeFg3MUJkOW5WWjhUdFRpc1hKVHZzcndOVWF4Rko2REM2T045alJLYmhQcldBUlpvS0JmZQ?oc=5",
+            "published": "2026-05-14T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -4018,13 +4039,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Kd3Z0M3REYUdpRzJtZk56WEdMSHpkbHBBZmp2T0g1cW9YemdyQ0IzQ2pDZlU3Vmxzd2JsNlVKQWU3cG5BR1Byak1fMkMyZnpKZEhINHdRMEt4SjQya0p0OWRCTk44RDNpUlE?oc=5",
             "published": "2026-05-13T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業、GX志向型対応の子育て世帯向け賃貸を市場投入 | チバテレ＋プラス - 千葉テレビ放送株式会社",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS0poallzbU5EY2g5VVhoX3NySXJVQlc3Y09pdm5aQlJXX0VIX0UtcWFYSjFMdmttakdUNWQzMEZLLVJMbmZhak1BeHZZdlRtdW81dVcxV1pnUnB3Q0xB0gFkQVVfeXFMT0ZDTlF5V0JWeEJhM0xiRXdCRmlOTC12S1UwYk9vVXF5U0JaSW1SR1ZvaW9kZlhkQk9vOVE5MG9TNWRKV3BxLXVXVGxmT21xM2kyUHFfWnNja1RzbU5uTXI4RnlVcg?oc=5",
-            "published": "2026-05-13T14:14:59+09:00",
-            "source": "千葉テレビ放送株式会社"
         },
         {
             "company_id": "hebel_haus",
@@ -4403,13 +4417,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90a3JQQ1lrVU00aTdiMkphaWhLRUVrSU04bmQzbVJaZXk4TzdPZUF5YkZwWWdZV3pqMmxmYndudktLTm4yWmU4OFpEVlk3VVRKRlFGY1ppYmpzZlky?oc=5",
             "published": "2026-04-30T16:00:00+09:00",
             "source": "CLASSY.[クラッシィ]"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "神奈川エリアで本格展開する分譲戸建プロジェクトの第一弾「港北ニュータウン北山田プロジェクト（※1）」スタート - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9abE0wZ016dFZBNE0tQlFHYWxTZjMzR0hJVU1kOFAtbkZxNVZ2amhIVHpITTR2bEpHbklVTXB0Mjl1c2g4MFNvc0hhYTVIYUVkU2J4NGlyMG9tam0wdVp1MzhnNmhHeEJoZFE?oc=5",
-            "published": "2026-04-30T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "mitsui_home",
@@ -6188,13 +6195,6 @@
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9malNZUXZpelNfVF9wQVY5a1R3cElUV0N3WUs2aTZibXhNeTY5aGdxb1F1UHJPVWJLaUdHZVVfdFUwTDJHSlk5am5SRFNoQkxBbU5ILVBNTnVyTU9kY2hsMDBmLTJBeTQ1Sk1tQ3AyTQ?oc=5",
             "published": "2026-03-25T14:44:43+09:00",
             "source": "ニフティニュース"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "ミサワホームと合人社計画研究所、マンション管理の合弁会社を設立 建物の適正管理から地域コミュニティの活性化まで一気通貫で支援 - 産経ニュース",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRmNPV1dhRlFvREsyaWxwaE1XV0IwLUVFQ0dFS2wtWk5lWTdLOXhnYWd1aTVPUnFLdVcwalZmX2l5U1ZCTmlKczNpTlZBRTF3Y2hBZGJHTGZLaWk3aFdPLVZmeWtza1JoZkxpejhoUTA5ejVuUk85cllXYw?oc=5",
-            "published": "2026-03-25T13:00:00+09:00",
-            "source": "産経ニュース"
         },
         {
             "company_id": "ichijo_komuten",
