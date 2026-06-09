@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-06-09T07:23:01.575819+09:00",
+    "generated_at": "2026-06-09T09:02:23.471286+09:00",
     "articles": [
         {
             "company_id": "sekisui_heim",
@@ -899,17 +899,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス、2-4月期(1Q)経常は55％増益で着地 - 株探",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkZBNERJR0lUbDJpVGVnVXpqOVdRM0xSMFFEZzhpU3VCdzhadTEwZncxeThNaDFheTFtUVgxb3B6SDJFWGNGVXI4U1REM1BwUGc?oc=5",
-            "published": "2026-06-04T12:00:00+09:00",
-            "source": "株探"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：決算情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16N2JaR1psZ25hcEdzRHVjMzlIcUNMYTRRcXhsZkM5ZDZybnVfZU8xbXhKYTRpd0c1MWFCMlRScG5tUnM0V3p5VHhCZmF1VUhIbndZNDljVXZkUHNFdGRxNg?oc=5",
             "published": "2026-06-04T12:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、2-4月期(1Q)経常は55％増益で着地 - 株探",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkZBNERJR0lUbDJpVGVnVXpqOVdRM0xSMFFEZzhpU3VCdzhadTEwZncxeThNaDFheTFtUVgxb3B6SDJFWGNGVXI4U1REM1BwUGc?oc=5",
+            "published": "2026-06-04T12:00:00+09:00",
+            "source": "株探"
         },
         {
             "company_id": "sekisui_house",
@@ -1262,6 +1262,13 @@
             "source": "中国新聞デジタル"
         },
         {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、リフォーム営業と電話対応にAI導入 | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WdkhLblFWSTcwNGw4ay1pcEM4cTF5UEduRzlNTC14NFgwT0owS0tCdVFRZlduNHZDbFQ5U2QzcjNxTnNYcG1nYWpLUXJQcGRvVXJWQnNNVTk0SW45ZHVN0gFkQVVfeXFMUDhJbVpoblBWUjlnSWJjZk11c1g5Z1FsQkRwUEVRUGlUZ3hVY2dzY0w2SjRKbzVjMkdraFRmTG1DVjZ6WmtfbUJveFg5M05neU9xbGlFTjRVSzNMdWJsSkV2Y3NTQw?oc=5",
+            "published": "2026-06-02T09:14:27+09:00",
+            "source": "千葉テレビ放送"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "関東財務局／国家公務員宿舎跡地（茨城県つくば市）／売却先は大和ハウス工業 - 日刊建設工業新聞",
             "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SbmthTlpHSk50b3Mtbm1RRzh6RFZMbDh5dDMwMkNLRDA5OC1vb2NQS1lLMy1tb2t5UUs2ZEo5Q3p2NG9pNnI4?oc=5",
@@ -1302,13 +1309,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SYnlVSFRJQkhVeF9naXdmV0dNVEkzLWtfSXkyeGFBRnhEcXJmdVdrcExKcTRMWEljUGdRM1pwZHJ2VXQ3WFFWZlJGRW8?oc=5",
             "published": "2026-06-01T21:18:11+09:00",
             "source": "ye-live.com"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "ミサワホーム、リフォーム営業と電話対応にAI導入 | チバテレ＋プラス - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WdkhLblFWSTcwNGw4ay1pcEM4cTF5UEduRzlNTC14NFgwT0owS0tCdVFRZlduNHZDbFQ5U2QzcjNxTnNYcG1nYWpLUXJQcGRvVXJWQnNNVTk0SW45ZHVN0gFkQVVfeXFMUDhJbVpoblBWUjlnSWJjZk11c1g5Z1FsQkRwUEVRUGlUZ3hVY2dzY0w2SjRKbzVjMkdraFRmTG1DVjZ6WmtfbUJveFg5M05neU9xbGlFTjRVSzNMdWJsSkV2Y3NTQw?oc=5",
-            "published": "2026-06-01T21:14:29+09:00",
-            "source": "千葉テレビ放送"
         },
         {
             "company_id": "hebel_haus",
@@ -1843,6 +1843,13 @@
             "source": "山陽新聞"
         },
         {
+            "company_id": "misawa_home",
+            "title": "「家族の絵コンクール」 重松依奈ちゃん（鹿島市）が最優秀賞、藤﨑さくらさん（佐賀市）がミサワホーム佐賀賞 - 佐賀新聞",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43eWVEMjNhSEVEMTA3ME4tWHl0UHdnTlZKbE1oNFVuNk1sendTaVNuNWVqV0pLNkhpNlVTQlZvTUstdmx1YzdpUE1sY2ZSWGRlSGFKdDhn?oc=5",
+            "published": "2026-05-30T16:00:00+09:00",
+            "source": "佐賀新聞"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業 平井氏に聞く、グローバルで勝つ組織の共通言語「CQ」と現場発のリーダー育成システム - Biz/Zine",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EQ2w2TW0wcGNyYnlMTzNpWG9hQ3BxNUQ2TUN1NEFKYkJuYUtLamU0cXRVSXFsNTRaNkFjQ3o0TDBhUkhlVmJwY3JxVXkwX1dt?oc=5",
@@ -1953,13 +1960,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZ245a2FkVllQODBXQUlmemFiOTBjZ3YzMTQxLXBFc0JMdGZMWGc2QTNRUnFISksxTFFwWFloRzFfUnFibV83R1pMTUZaVUFTRkhEc2ZaV1BoRzkwNzRVVzdvOE94dE0?oc=5",
             "published": "2026-05-29T20:20:54+09:00",
             "source": "福島民報デジタル"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "「家族の絵コンクール」 重松依奈ちゃん（鹿島市）が最優秀賞、藤﨑さくらさん（佐賀市）がミサワホーム佐賀賞 - 佐賀新聞",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43eWVEMjNhSEVEMTA3ME4tWHl0UHdnTlZKbE1oNFVuNk1sendTaVNuNWVqV0pLNkhpNlVTQlZvTUstdmx1YzdpUE1sY2ZSWGRlSGFKdDhn?oc=5",
-            "published": "2026-05-29T20:05:57+09:00",
-            "source": "佐賀新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2558,15 +2558,15 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホームが「MOCX WALL」初採用の3.5億円モデルハウス公開 大開口で示す次世代木造邸宅：新工法（1/2 ページ） - ITmedia",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTG9JU1ZoLXViTUNHQXZaZDFZOGc4RVdabWMtemdlc2V2SHN0RDJpTF80NmhncFRiVnp5bnNXeUJZQmVDa3JsTm1aSVBFd1FDOXRPcmFxUXFDUjhXdTJvUUNEQWYtV3A1Ym8tcA?oc=5",
+            "title": "三井ホームが「MOCX WALL」初採用の3.5億円モデルハウス公開 大開口で示す次世代木造邸宅：新工法（2/2 ページ） - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jaXFSQjdsd25ObkphVld3UjlxOHNNUXctV3FLMDFmM21tSlg4NTZadDhGNU5MUEFaSEhCU2Z1bDlya0pBdzJYZnNmTkFQWExVNEFGX0ZwNHZ3blZycXlfbmJSRkN2RzFqOFNnU1JjYw?oc=5",
             "published": "2026-05-26T20:42:00+09:00",
             "source": "ITmedia"
         },
         {
             "company_id": "mitsui_home",
-            "title": "三井ホームが「MOCX WALL」初採用の3.5億円モデルハウス公開 大開口で示す次世代木造邸宅：新工法（2/2 ページ） - ITmedia",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jaXFSQjdsd25ObkphVld3UjlxOHNNUXctV3FLMDFmM21tSlg4NTZadDhGNU5MUEFaSEhCU2Z1bDlya0pBdzJYZnNmTkFQWExVNEFGX0ZwNHZ3blZycXlfbmJSRkN2RzFqOFNnU1JjYw?oc=5",
+            "title": "三井ホームが「MOCX WALL」初採用の3.5億円モデルハウス公開 大開口で示す次世代木造邸宅：新工法（1/2 ページ） - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTG9JU1ZoLXViTUNHQXZaZDFZOGc4RVdabWMtemdlc2V2SHN0RDJpTF80NmhncFRiVnp5bnNXeUJZQmVDa3JsTm1aSVBFd1FDOXRPcmFxUXFDUjhXdTJvUUNEQWYtV3A1Ym8tcA?oc=5",
             "published": "2026-05-26T20:42:00+09:00",
             "source": "ITmedia"
         },
@@ -3727,17 +3727,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業[4204]：剰余金の配当に関するお知らせ 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BUExhWXJfNm9ITC02MHg5cjlwbVlNTFlxU1EwbEpITEhQSHRJaUtwZk42RGZkSmlZUzR1eWh3RW42LVRJNTlDdHRKREtwU0hESjBodDRMZjd6ZEJ3Qk0zMTIyZkpUeHd5OFE?oc=5",
-            "published": "2026-05-18T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "セキスイハイム東北、新築・リフォーム・不動産をワンストップで対応 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13THd4T25wTGZ2LWJsVnJwY2kyTVR1emM0WDE5bWJrZ2xfbjRTTmRUdy1RYW0zU2c0OHdYeDd4SDRuVXNFWlN5UnVTUmY1Y1I5Nmc?oc=5",
             "published": "2026-05-18T16:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業[4204]：剰余金の配当に関するお知らせ 2026年5月18日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BUExhWXJfNm9ITC02MHg5cjlwbVlNTFlxU1EwbEpITEhQSHRJaUtwZk42RGZkSmlZUzR1eWh3RW42LVRJNTlDdHRKREtwU0hESjBodDRMZjd6ZEJ3Qk0zMTIyZkpUeHd5OFE?oc=5",
+            "published": "2026-05-18T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -3979,10 +3979,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "旭化成ホームズ・旭化成リフォーム・LIXILが協業 使用済みアルミ部材を再生する資源循環スキームを構築 - tv-tokyo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyOFpwbG1IX3Y3QW5zcUVjRTFyRGxLY3N3N1ZQZ0hBa1ZNRlVNb1ZjTkJMMGJGZlVvZ3ZwZEJPSnZXNFVhQ3ItMnh3emJ2ODgwVXNfMnA5NFZNcUczM04wUi1QeUZEMGxaNWxMTE9B?oc=5",
+            "title": "LIXILと旭化成ホームズ・旭化成リフォームが協業、使用済みアルミ部材を再生する資源循環スキームを構築 - Digital PR Platform",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pZHgyZ2loaWFKNXRTUHZ4LURYdFl4QnZ0ODlvYzJkcGhlTWE0ZGlIa0IxX09EQ2VDOEhiXzlTdk9xdEk?oc=5",
             "published": "2026-05-15T16:00:00+09:00",
-            "source": "tv-tokyo.co.jp"
+            "source": "Digital PR Platform"
         },
         {
             "company_id": "hebel_haus",
@@ -3993,10 +3993,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "LIXILと旭化成ホームズ・旭化成リフォームが協業、使用済みアルミ部材を再生する資源循環スキームを構築 - Digital PR Platform",
-            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pZHgyZ2loaWFKNXRTUHZ4LURYdFl4QnZ0ODlvYzJkcGhlTWE0ZGlIa0IxX09EQ2VDOEhiXzlTdk9xdEk?oc=5",
+            "title": "旭化成ホームズ・旭化成リフォーム・LIXILが協業 使用済みアルミ部材を再生する資源循環スキームを構築 - tv-tokyo.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyOFpwbG1IX3Y3QW5zcUVjRTFyRGxLY3N3N1ZQZ0hBa1ZNRlVNb1ZjTkJMMGJGZlVvZ3ZwZEJPSnZXNFVhQ3ItMnh3emJ2ODgwVXNfMnA5NFZNcUczM04wUi1QeUZEMGxaNWxMTE9B?oc=5",
             "published": "2026-05-15T16:00:00+09:00",
-            "source": "Digital PR Platform"
+            "source": "tv-tokyo.co.jp"
         },
         {
             "company_id": "hebel_haus",
