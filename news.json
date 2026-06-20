@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-06-20T19:11:57.126055+09:00",
+    "generated_at": "2026-06-20T21:25:07.382416+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -12,7 +12,7 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス工業 ＩＣ・駅近の物流施設「ＤＰＬ仙台長町II」着工｜物流ニュース - 物流ウィークリー",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IU3c1MjlwdVFYRWRWeHB4QWM0WFY1YTY3eFFmbWhSUFZlamhJZTMzRUR3YXE0OGtsMDJ1bmRVdHpsZjUwVFp1Z2E4OEZ1QQ?oc=5",
-            "published": "2026-06-20T09:55:28+09:00",
+            "published": "2026-06-20T13:56:08+09:00",
             "source": "物流ウィークリー"
         },
         {
@@ -1339,6 +1339,13 @@
             "source": "ニュースイッチ by 日刊工業新聞社"
         },
         {
+            "company_id": "mitsui_home",
+            "title": "三井ホームが開拓した新たな選択肢「木造マンション」が、100棟（※１）受注を達成 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSnpBWWV6Q2JpRTBwVDQxOTNaRTNVUlNMa2xiWEVYTDQ3QTNvbGZaeHJ6R0I0akNjSWt0aVpuMzNsT1JPUk93TDZBM1d6VTVlaGp4S29FUm1RMi1jMjB0REN0cldVeC1zWEE?oc=5",
+            "published": "2026-06-10T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業（1911）5月度受注速報を更新しました - 四季報オンライン",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QYUxOS0VWQmxXTVE5Vkd2eEcxbzZKaFpLTXRyZGdkZ0V3QS1scExnMHI1TS1jU2NncnRzZlJuRzlQaTBIREl0Q1RBNmpPVXlxQzViaURacw?oc=5",
@@ -1398,13 +1405,6 @@
             "company_id": "hebel_haus",
             "title": "マンション敷地売却と等価交換による高経年借地権マンション再生 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZVB0VWU3X3FaZjhmYXdmc2tJeEVRMnVvNjhTR0RFemVPWUdxVDRjNmFMWUF2SkM2MmdXSDFkMlJHWFVpbmtlNUpZNGJKUUJYNzZYWVV5ak8zb3ZCYkZicEpXSkthdzBTakE?oc=5",
-            "published": "2026-06-10T14:00:02+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "三井ホームが開拓した新たな選択肢「木造マンション」が、100棟（※１）受注を達成 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSnpBWWV6Q2JpRTBwVDQxOTNaRTNVUlNMa2xiWEVYTDQ3QTNvbGZaeHJ6R0I0akNjSWt0aVpuMzNsT1JPUk93TDZBM1d6VTVlaGp4S29FUm1RMi1jMjB0REN0cldVeC1zWEE?oc=5",
             "published": "2026-06-10T14:00:02+09:00",
             "source": "PR TIMES"
         },
@@ -2207,6 +2207,13 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム、生成AI要約支援でオペレーター事務負担を大幅削減 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qT1Rmb2N2ZjE4NFlKQVVYUFVkUmNxNHY1Tlp6cjN5VnN0Yndtc1d5dko3cmp1ZXZ5MkJvdmprQWM0U1J0ekNqVkJadmI3UE1sdHc?oc=5",
+            "published": "2026-06-05T16:00:00+09:00",
+            "source": "新建ハウジング"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "⭐未来を夢見る１ヶ月⭐GO！GO！フェスタ開催中！「家は、性能。」その本当の意味を五感で感じて確かめてみませんか？【参加費無料・予約制】 - SBSマイホームセンター",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mSXl5NFBTMU5QMXg4T181bS1rNHV2aG84dHhBMEVUQW5kTHBkV1hITmZmaFA5bGd0Q0tJcHYxSFQzSlJZdzd6clFfQjk2RUJj?oc=5",
@@ -2219,13 +2226,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yOEhJZkZmbjFmVHZ5QzBEQlVpdEotOWt0LWlKNjlva0pTRWRFcmFyQm51aVhibHlGUmlSWThxUDYwX0ZmRVNYUG4wanpuMmVMTGc?oc=5",
             "published": "2026-06-05T15:28:29+09:00",
             "source": "SBSマイホームセンター"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "ミサワホーム、生成AI要約支援でオペレーター事務負担を大幅削減 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qT1Rmb2N2ZjE4NFlKQVVYUFVkUmNxNHY1Tlp6cjN5VnN0Yndtc1d5dko3cmp1ZXZ5MkJvdmprQWM0U1J0ekNqVkJadmI3UE1sdHc?oc=5",
-            "published": "2026-06-05T15:24:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "sekisui_heim",
@@ -2782,17 +2782,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "「メジャー制覇に向け、日々挑戦」 畑岡奈紗が大和ハウス工業とスポンサー契約（ゴルフダイジェスト・オンライン（GDO）） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWWJDb2NtRUR3a05XZTJEUzRBZnZmQ3VXZWczdG93ZGVGdy0xX1RTcWNaSDRhdHRiRDBLNEZqRVRxYU5CeHJjWko1c1FpMHZSbWRJaGNmUXJMUm5MUG9WQURzTFhuWlQ2M3VBV3EzU1ZTSEtBNGQ4eEY0V2R6LTA?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "「メジャー制覇に向け、日々挑戦」 畑岡奈紗が大和ハウス工業とスポンサー契約 - GDOゴルフニュース",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6N0RyOE5TYWJ3NkZ3ZjVGTmFjY1l1WURBMmJLc0JKVE1kblJZR3Vwdm12M2JkQkszYUFIb2tXU1FLaVVWblJ6OVVDeDk3YWpQaVhieFR4MU1WWWptc0E2WVV1S2NTaXE10gF8QVVfeXFMTnlhM2RLUlFuQjJmY3d4SHhoNGY3MDFQRktSdjE0UTJjZlpGUk1ESEttamRRZkhNVmV2REM2d0g1cEpTcWlxeHFVNWdZQ1RIRzhNZmg0elFLN0s3LUZudUpuT0g4ZFJ6X3duWUt1bGhqck9RR0ZGcUI3ZTN5Rw?oc=5",
             "published": "2026-06-01T16:00:00+09:00",
             "source": "GDOゴルフニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "「メジャー制覇に向け、日々挑戦」 畑岡奈紗が大和ハウス工業とスポンサー契約（ゴルフダイジェスト・オンライン（GDO）） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWWJDb2NtRUR3a05XZTJEUzRBZnZmQ3VXZWczdG93ZGVGdy0xX1RTcWNaSDRhdHRiRDBLNEZqRVRxYU5CeHJjWko1c1FpMHZSbWRJaGNmUXJMUm5MUG9WQURzTFhuWlQ2M3VBV3EzU1ZTSEtBNGQ4eEY0V2R6LTA?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "daiwa_house",
@@ -3916,15 +3916,15 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "愛犬の「車内放置」や「熱中症」を防ぐ！旭化成ホームズ×おでかけわんこ部、スマートドッグハウス「WanPod」普及プロジェクトで連携スタート - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90YUIxNTBCVHJYSVEtdEt5al9FNG1KNW0zZVQ1YjY1RVlXbGZjamFacXpZVmtTRGhlMGN4b1ZPaXlEeTViVWtfYklxc0QyTF9MaGQ3VEozVVFmY2w3TEVKcXJNUmJsZUdiRGc?oc=5",
+            "title": "元気なシニア向け安心賃貸住宅「ヘーベルVillage」「ヘーベルVillage 世田谷砧～Music～」が完成 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kaXRTbEtNajlyZ2dzWEVMemk0alBwQ0tSY3VpOGZKY0I4SmtkTGVzZlMydTFVcEtPUVBxbXk4LVhfTVpZU0lIZUFaRjdDeHo3dEUxbEltMVV2Q1FpWVJmcWh3WGZzSmpJVGc?oc=5",
             "published": "2026-05-22T16:00:00+09:00",
             "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
-            "title": "元気なシニア向け安心賃貸住宅「ヘーベルVillage」「ヘーベルVillage 世田谷砧～Music～」が完成 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kaXRTbEtNajlyZ2dzWEVMemk0alBwQ0tSY3VpOGZKY0I4SmtkTGVzZlMydTFVcEtPUVBxbXk4LVhfTVpZU0lIZUFaRjdDeHo3dEUxbEltMVV2Q1FpWVJmcWh3WGZzSmpJVGc?oc=5",
+            "title": "愛犬の「車内放置」や「熱中症」を防ぐ！旭化成ホームズ×おでかけわんこ部、スマートドッグハウス「WanPod」普及プロジェクトで連携スタート - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90YUIxNTBCVHJYSVEtdEt5al9FNG1KNW0zZVQ1YjY1RVlXbGZjamFacXpZVmtTRGhlMGN4b1ZPaXlEeTViVWtfYklxc0QyTF9MaGQ3VEozVVFmY2w3TEVKcXJNUmJsZUdiRGc?oc=5",
             "published": "2026-05-22T16:00:00+09:00",
             "source": "PR TIMES"
         },
