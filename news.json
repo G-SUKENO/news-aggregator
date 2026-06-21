@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-06-21T20:42:36.984326+09:00",
+    "generated_at": "2026-06-21T23:01:19.450631+09:00",
     "articles": [
         {
             "company_id": "ichijo_komuten",
@@ -9,7 +9,7 @@
             "source": "joetsutj.com"
         },
         {
-            "company_id": "sumitomo_forestry",
+            "company_id": "daiwa_house",
             "title": "「積水・住友林業・大和ハウス…自由設計ならどこも同じ？」→住宅のプロが12社を比べて見えた意外な差 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakpQUFFVR1YzOXVKeV83M1kxYUdUcHdHNF9DanJGbXJHcEZnbURZYjVYbFFjb0VyZTBmSGhVLWpQdGRhV0Rpald0d3l4a3RFc3hZUnE1VFduWG00TGRTbUtBYkZDdUtXR1VpeUw0MU1ZSVBfWkQ3bU9CNEt4WW1oV04yT3A4SGtsVHE5UmpB?oc=5",
             "published": "2026-06-21T07:15:02+09:00",
@@ -23,7 +23,7 @@
             "source": "Yahoo!ニュース"
         },
         {
-            "company_id": "sumitomo_forestry",
+            "company_id": "daiwa_house",
             "title": "「積水・住友林業・大和ハウス…自由設計ならどこも同じ？」→住宅のプロが12社を比べて見えた意外な差 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2VoR29SZ0ZEZEJieDlJUzRjeTQxSldUaDdYSUxnWktsRklmTVQ4VEZTN2lDWFZma1cwcHJ6czNXMjREaWNzREZPNFRUUWJXOHpaNFk4YkxrQ0ljZ0JQTl9uLUMtcVFFT0x1QkVBQ3M3d0lla2lidDRnLTBnUm9zQ0hQQ0JtSnNx?oc=5",
             "published": "2026-06-21T06:00:35+09:00",
@@ -177,9 +177,16 @@
             "source": "山陽新聞"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：掲示板 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMkUtWjFpU3RmWDJVYm9DRGk5X25YLXM5bVVMTWN1MUlxLUNxcDRodDFCV0pITDdndXpXbm1Sb1VwYnk5blJCWEh6M3ZiV0RsREVfYjBobEJSUQ?oc=5",
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FY1NWVklDa1JOMnJlVHhQcDZuZ3E0b3FoNk0tR215VzQ0dzYzejV6aDBjYndGUlBrZkNiMjVadlh1MjJyWGRQeTZYOUlia3ViWk1HSXZ0V3k5QQ?oc=5",
+            "published": "2026-06-19T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：配当情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkNReDdnRGlSR21TaUJYVTF0TlZMMi10WHc0Z2duT2hfb2dqcVp2NTFHZ1Y3T1p5M2RsdDU2aUJuOGxtU1VXbWFNRnNKMFQzQzRhWkdwcThIeXZTVmc?oc=5",
             "published": "2026-06-19T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -187,6 +194,13 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jay1ranFOdUo2Y00tVkJJVnJXczFyaWdaRVlhNWNISlRUcUJlelhsMlQwaFNsTXZBczd2SmlQaE5JUU91RmUya2JaQXlpNjZaTFZKc2xZY0djZw?oc=5",
+            "published": "2026-06-19T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMkUtWjFpU3RmWDJVYm9DRGk5X25YLXM5bVVMTWN1MUlxLUNxcDRodDFCV0pITDdndXpXbm1Sb1VwYnk5blJCWEh6M3ZiV0RsREVfYjBobEJSUQ?oc=5",
             "published": "2026-06-19T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -325,10 +339,24 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "【地面師事件】獄中の“黒幕”が明かした、積水ハウスから詐取した55億円の行方 「刑事事件になることを確信していたから、アドバイスと手配に徹した」（マネーポストWEB） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycG84c0hyX242TjVvQnowM3dNdUJoMFlWajFUVW11TmlOeGd1anc0cElLS1lvUkk1clh3WVNJbWQ3ZzBZd2YzT0s4RlNEMm81QUJtV1pubFZsLTJVUzVKSWJGNnN2MG9fX0dYY09hYUNzQ0dBRDg2TmpWTV83VE0?oc=5",
+            "published": "2026-06-19T07:02:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "【地面師事件】獄中の“黒幕”が明かした、積水ハウスから詐取した55億円の行方 「刑事事件になることを確信していたから、アドバイスと手配に徹した」 (マネーポストWEB) - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkxzMDhLT25ncG9EaVUxbEMxU3llLWd2TUhYSEI3Q1IydEljQjBZRFhIOVFLeTJYRW54Tl9NU0JjVy16VVRBdXVzTS15bElJQ0dVNERaN2RNa043ZWVzdDhTXzhCQWdPNEJLZWtFNGsxSVI1YU5JVkdBemVUY2Nxc0VRN1otb1NiMTVtajNR?oc=5",
             "published": "2026-06-19T07:02:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "「積水・住友林業・大和ハウス…自由設計ならどこも同じ？」→住宅のプロが12社を比べて見えた意外な差 - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BX0Q1SENIb3hPQ2d0LWVaNlFxYnFXX0NYVjFsb1ExTDcwYi1KeUVXZFBJb2dPelkxZWJQaHg3M19tZWpJZnpyb0NRcDkwM1EycklOdFh3?oc=5",
+            "published": "2026-06-19T06:00:00+09:00",
+            "source": "ダイヤモンド・オンライン"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -341,13 +369,6 @@
             "company_id": "sumitomo_forestry",
             "title": "「積水・住友林業・大和ハウス…自由設計ならどこも同じ？」→住宅のプロが12社を比べて見えた意外な差 - ダイヤモンド・オンライン",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZTkJPcG5IOXJMU2YtaGprTVZUM1NGaC10WnZ4LWxSRDVTWmxLTnFaUVVpbGxxVE9NdTV2NWZDblNVMC1jR0QzMUhhN25rN3pvNGhtaEJ3?oc=5",
-            "published": "2026-06-19T06:00:00+09:00",
-            "source": "ダイヤモンド・オンライン"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "「積水・住友林業・大和ハウス…自由設計ならどこも同じ？」→住宅のプロが12社を比べて見えた意外な差 - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BX0Q1SENIb3hPQ2d0LWVaNlFxYnFXX0NYVjFsb1ExTDcwYi1KeUVXZFBJb2dPelkxZWJQaHg3M19tZWpJZnpyb0NRcDkwM1EycklOdFh3?oc=5",
             "published": "2026-06-19T06:00:00+09:00",
             "source": "ダイヤモンド・オンライン"
         },
@@ -1444,20 +1465,6 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業（1911）5月度受注速報を更新しました - 四季報オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QYUxOS0VWQmxXTVE5Vkd2eEcxbzZKaFpLTXRyZGdkZ0V3QS1scExnMHI1TS1jU2NncnRzZlJuRzlQaTBIREl0Q1RBNmpPVXlxQzViaURacw?oc=5",
-            "published": "2026-06-10T16:00:00+09:00",
-            "source": "四季報オンライン"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "“住居・賃貸・店舗…木造1棟に、住友林業、「木造多用途住宅」投入 - ニュースイッチ by 日刊工業新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xbkhRUjJrX05OU096ZEpKclotN2Y1cW1UakhULUxkazRtOHVlWnRBSWZFWHFJTmgtTXpMbkRJc2RzTHhoVDhJ?oc=5",
-            "published": "2026-06-10T16:00:00+09:00",
-            "source": "ニュースイッチ by 日刊工業新聞社"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "無類の集中力で初防衛 大和ハウス囲碁十段戦 芝野虎丸十段就位式「一局ずつ自分なりに」（産経新聞） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWTBWTDBSeTdIc0RBWFJRbDg5enQ5NEZjanYtRmExcE1rQmV5T1dUYzUwVHB0amhFRGJYRDE4RE8tOVMwUTRVenhFQkNsem5YQjIyZDU2aS1QVnFZaW13bC1ZNVBQNzEzR1Q3eHJocFlxZE9rQllaaWdvWkhXT2s?oc=5",
@@ -1491,6 +1498,20 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3IybHd6LUxVYXBmTzVoSnUxbWs5aTlfbm1lUGl6XzNvUjNlMVRETW1qbzJKMWk3X2tZd1VHaTdfRE9zdF9GUHNiY0EzSmYtMDV4VFdEMndRYWIySzFxVHdxRlE2TEY5MHYzTXZMRWlfdlpraWdSWGdsUk12clBxNXV4MTVPcUk?oc=5",
             "published": "2026-06-10T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業（1911）5月度受注速報を更新しました - 四季報オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QYUxOS0VWQmxXTVE5Vkd2eEcxbzZKaFpLTXRyZGdkZ0V3QS1scExnMHI1TS1jU2NncnRzZlJuRzlQaTBIREl0Q1RBNmpPVXlxQzViaURacw?oc=5",
+            "published": "2026-06-10T16:00:00+09:00",
+            "source": "四季報オンライン"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "“住居・賃貸・店舗…木造1棟に、住友林業、「木造多用途住宅」投入 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xbkhRUjJrX05OU096ZEpKclotN2Y1cW1UakhULUxkazRtOHVlWnRBSWZFWHFJTmgtTXpMbkRJc2RzTHhoVDhJ?oc=5",
+            "published": "2026-06-10T16:00:00+09:00",
+            "source": "ニュースイッチ by 日刊工業新聞社"
         },
         {
             "company_id": "mitsui_home",
@@ -2039,25 +2060,11 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uWDlpOS0wRUctUmtKckVTTzV6MXVPeHBpbjR2NTVyaUJneHF4NjVrYmw4OTNia3c4TXVTdk5rZmFDbzM2NHJNN3dMdnRsZWdWWUZWT0RxaDhkT2ptQjdzOElRWEJDaUFxUjRXX2lB?oc=5",
-            "published": "2026-06-08T16:13:28+09:00",
-            "source": "河北新報オンライン"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "「10年遅れ」のBIMを建築系部門に2年で全社展開 大和ハウス工業がデータとAIの活用で乗り越える“建設の常識” - JBpress",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VOTRLZ2t4UjRlcG5JZHBIVmljaDZuYXlSNkVvRzRqTU1uZ3FsVnlQY1lWajdFMGVBN2tMajZvYkdEb295VlczQkVXYXJmdk1PN3ZBaUxn?oc=5",
             "published": "2026-06-08T16:00:00+09:00",
             "source": "JBpress"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "写真：積水ハウス、「現場クールプロジェクト」 建設現場の熱中症対策を強化～エアコン付き休憩スペース「ひんやりBOX」を全国で展開し、建設現場での快適な休憩環境づくりを推進～ - 沖縄タイムス社",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uRkU0NjN5aWxqc2tpUE03OGl4TTZIemItbEVOUmFfdXg1QmNKdmItQXBWRVY1NjBaSGxQLVdNZm9idjk4cUdWakwtVHVSdHlqQUtfQzUyT1B0ZW5WODhSb2QzcGJ1dw?oc=5",
-            "published": "2026-06-08T16:00:00+09:00",
-            "source": "沖縄タイムス社"
         },
         {
             "company_id": "sekisui_heim",
@@ -2893,69 +2900,6 @@
             "source": "ジモッシュ！"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZDZjTGhialNiQ2lna25FdXRwanFGZUJPd1JMZnVPanhrS1NsLWdCSE90aWFuWDFURkN6c2R2T0lqOXktam5GMTVrN0JObkVNNWdiNzFqSHJSUEU?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "人口減少下でもシェア拡大の住友林業、光吉敏郎社長が語る国内市場縮小への対応策とグローバル住宅事業の戦略軸 - JBpress",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11eXBrZXRpbUpVVFlBS2FKV2JTS3pZTU42THRhY3B0U0I0VmR6Zk9UZktkQnJZTTk3T0dqdmQ3cTYzUkk5cjA0MmRXaDBMQVBZaFZYa21R?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "JBpress"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - GISELe(ジゼル)",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ckZQODNrQ2JTcEx5bmg5RXZnWFlVWFpZVnRRdVJKVjJ4WXZLY0w5a3I1NDZVZGhCUUh2X3FfTTRLZFpGZkg3ZGRVUFNXSW9RZHRzTw?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "GISELe(ジゼル)"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - kochinews.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcUxoZndPcWF1RllzbUZzcGNUUVIyNWdfWml1TUI5dmRoQWM3QzVyZnB4MklUbUk0dkVoalp4RTd4eFJnd182VW9IS1R1SEdQQjlqUG85RU9IZml4RGVj?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "kochinews.co.jp"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1reUotQ2phbF90UXlHSkVELXUxZzBfZ1k2dTJidVpRMWpTenpndUNUamI2NG9oTEY0VHJhQWNHUHVSWXRmcWM4QlJwVQ?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "47NEWS"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 秋田魁新報電子版",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PdEZBV213YjB0U2p2N3pCRzFvdlNnTXl3UGpPYUlPMW9qSTVwWUx0ZmUwZmM1d2hqRVBydzFnMGlVbGc1ZUpmaUJhTTVCQ09VUkVEa0x4eUZKZHdoWEVBU2RB?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "秋田魁新報電子版"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 沖縄タイムス社",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzVHBoME9yVFBZNTZrQnRaNGRDdk1KYXhSZmk2VmRuWHRaUFFHQ2ZUTGZFbmRSQ1h4OUtvZWhtYVVsS0FIcWUwb2sya2Z5SEtaMk5ncnh4QTYzOEE1cnc?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "沖縄タイムス社"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - Mantan Web",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFBEN0tQT1ZIUVJSWW5UTUVJZEhRVWp4WldZTG84SEtITnFLSWFRZERkVVVkUXB4RjJFams4REFmXzBqd0VLUElfekVvLU5qS3dacGVHaHU0RURBZGpDX1MtQTBWUmpaY0p4aWtkSjlKWEsyVXJScmhnOWdRY2UxdmJrRnpLbFJs?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "Mantan Web"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - Mantan Web",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gd0FVa3B6UVI2c24zdjUzM2RJTHVwQTZadlRFN3Rqa0pJYy0zZHJlR0lLOGg1WERNMS1ibnZuTXFBamtoZ1V6VjNSWGNFLVVpSDVoTG40RWIxTzdCSWJLVlN1UlNjNjZ2R25TcWdad2FZRWRxeXc?oc=5",
-            "published": "2026-06-01T16:00:00+09:00",
-            "source": "Mantan Web"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "大和ハウス会長「シニアは戦力、支援相手にあらず」 経験と執念が武器 - 日経ビジネス電子版",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiM3hwSFljMDMwa1BnSE1oSkFXT2RPb0tEM0ZySlB1Z0NUZHNPUkt0YlNxd0o5RVhjWno3S0xBREFFYWlBYkdyTlhkd2t6amQwbW9BeHhfdlN4U1QtNkRKLUY4RElnbTg?oc=5",
@@ -3024,6 +2968,69 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRN21IdUhTZHBKRjYtT2M0ZDJzNGtnYjBVa1RXbkMtSnZJUzJSbGFGY2ZDbXViUkh2WDcwb0ZROEVBUDJ3MXZMUnpZQWxpTncyR0psWTlB?oc=5",
             "published": "2026-06-01T16:00:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZDZjTGhialNiQ2lna25FdXRwanFGZUJPd1JMZnVPanhrS1NsLWdCSE90aWFuWDFURkN6c2R2T0lqOXktam5GMTVrN0JObkVNNWdiNzFqSHJSUEU?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "人口減少下でもシェア拡大の住友林業、光吉敏郎社長が語る国内市場縮小への対応策とグローバル住宅事業の戦略軸 - JBpress",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11eXBrZXRpbUpVVFlBS2FKV2JTS3pZTU42THRhY3B0U0I0VmR6Zk9UZktkQnJZTTk3T0dqdmQ3cTYzUkk5cjA0MmRXaDBMQVBZaFZYa21R?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "JBpress"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - GISELe(ジゼル)",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ckZQODNrQ2JTcEx5bmg5RXZnWFlVWFpZVnRRdVJKVjJ4WXZLY0w5a3I1NDZVZGhCUUh2X3FfTTRLZFpGZkg3ZGRVUFNXSW9RZHRzTw?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "GISELe(ジゼル)"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - kochinews.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcUxoZndPcWF1RllzbUZzcGNUUVIyNWdfWml1TUI5dmRoQWM3QzVyZnB4MklUbUk0dkVoalp4RTd4eFJnd182VW9IS1R1SEdQQjlqUG85RU9IZml4RGVj?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "kochinews.co.jp"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1reUotQ2phbF90UXlHSkVELXUxZzBfZ1k2dTJidVpRMWpTenpndUNUamI2NG9oTEY0VHJhQWNHUHVSWXRmcWM4QlJwVQ?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "47NEWS"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 秋田魁新報電子版",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PdEZBV213YjB0U2p2N3pCRzFvdlNnTXl3UGpPYUlPMW9qSTVwWUx0ZmUwZmM1d2hqRVBydzFnMGlVbGc1ZUpmaUJhTTVCQ09VUkVEa0x4eUZKZHdoWEVBU2RB?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "秋田魁新報電子版"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾～ - 沖縄タイムス社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzVHBoME9yVFBZNTZrQnRaNGRDdk1KYXhSZmk2VmRuWHRaUFFHQ2ZUTGZFbmRSQ1h4OUtvZWhtYVVsS0FIcWUwb2sya2Z5SEtaMk5ncnh4QTYzOEE1cnc?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - Mantan Web",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFBEN0tQT1ZIUVJSWW5UTUVJZEhRVWp4WldZTG84SEtITnFLSWFRZERkVVVkUXB4RjJFams4REFmXzBqd0VLUElfekVvLU5qS3dacGVHaHU0RURBZGpDX1MtQTBWUmpaY0p4aWtkSjlKWEsyVXJScmhnOWdRY2UxdmJrRnpLbFJs?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "Mantan Web"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「住友林業の家」と調和するオリジナルチェアを発売 ～計7種の仕様を展開、「Germoglio」シリーズ第3弾 - Mantan Web",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gd0FVa3B6UVI2c24zdjUzM2RJTHVwQTZadlRFN3Rqa0pJYy0zZHJlR0lLOGg1WERNMS1ibnZuTXFBamtoZ1V6VjNSWGNFLVVpSDVoTG40RWIxTzdCSWJLVlN1UlNjNjZ2R25TcWdad2FZRWRxeXc?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "Mantan Web"
         },
         {
             "company_id": "misawa_home",
@@ -3397,18 +3404,25 @@
             "source": "LIMO | くらしとお金の経済メディア"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、神奈川・寒川町で8.9万㎡のマルチ型物流施設着工 - LOGI-BIZ online",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1POVpNbTNFRjh4eWxGLTNXRGRNTEZLbjA3MGRLVFJPb2JIdXB5dXNTRlVIV0V1bHN2alRFOXN1UGJvTjhsRnZMakxVcw?oc=5",
-            "published": "2026-05-29T17:45:29+09:00",
-            "source": "LOGI-BIZ online"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業、つくばみらい市のまちづくりへ参画『みらい平東土地区画整理事業』業務代行委託契約締結 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wV3oxUGgyWVdiVk4yOElBRkJvUjM1NFUxajlZaE9hWlpUNDRSZHdVR1AwTUthT0hQZ0xaMHhreW5IZDc2cWxQWGdTc2c4NnlrSHRQOVpkMUpMVjZtYV9pNVNyX1ZPLXQtWmc?oc=5",
             "published": "2026-05-29T16:00:01+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "経済産業省「ダイバーシティ経営」実践事例集に積水化学の取り組みが掲載 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jOHlhZENzcXF6cTd4Sml2WldBRGpEOHBod0tVSFRQWThlTlUzMFpYbllNX2lEZ2E0VE45a0dBMlI1UlNUQlptRXpxaldMNXl5S1F4RlhVVHF5NFdYazh6cWJEbkhhamJLMnc?oc=5",
+            "published": "2026-05-29T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：企業情報（決算時期や平均年収、代表者名など） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZeWhDSXBKR1lEZFZUdmx2NnJTbkdTN2pIaWpJSjliV2pyRWQ4SDJhbGVPYXQtN0hDbUVfT0poWW1VcFYxcS1JRVRqYXZRUDhQNHVmLXRxT19wbUZS?oc=5",
+            "published": "2026-05-29T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3451,27 +3465,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XRWthc3ZvVnZiZlkzVm1aWHRWM0ZQVTF2QWdUUFRXLTJVeUdWQ3k0Z2I4VjUtNmZYSlR2cGZacjV1dUZuWl9SREFVbkU5dHN4YjRrOXJ5ZUFpeS1jUjg4YmRVeHBMdEhHLWZydQ?oc=5",
             "published": "2026-05-29T16:00:00+09:00",
             "source": "福島民友新聞社"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業／神奈川県寒川町に8.9万m2のマルチテナント型物流施設を着工 - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GbEZ4UnRSbngyaTFWZ0Vuc0JCUmxQbElFbkxtLUN0cGpRNWR6WUNqaHVTMWJqN2VKYkxvaUxqcTUyTHJOS2ZBRUVnT0cyZ0RwTkRYSA?oc=5",
-            "published": "2026-05-29T16:00:00+09:00",
-            "source": "物流ニュースのLNEWS"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "経済産業省「ダイバーシティ経営」実践事例集に積水化学の取り組みが掲載 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jOHlhZENzcXF6cTd4Sml2WldBRGpEOHBod0tVSFRQWThlTlUzMFpYbllNX2lEZ2E0VE45a0dBMlI1UlNUQlptRXpxaldMNXl5S1F4RlhVVHF5NFdYazh6cWJEbkhhamJLMnc?oc=5",
-            "published": "2026-05-29T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業(株)【4204】：企業情報（決算時期や平均年収、代表者名など） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZeWhDSXBKR1lEZFZUdmx2NnJTbkdTN2pIaWpJSjliV2pyRWQ4SDJhbGVPYXQtN0hDbUVfT0poWW1VcFYxcS1JRVRqYXZRUDhQNHVmLXRxT19wbUZS?oc=5",
-            "published": "2026-05-29T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "misawa_home",
@@ -3537,13 +3530,6 @@
             "source": "SBSマイホームセンター"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、木の効果の研究成果をウェブサイトで公開 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVHIzT25CWDhyUXVyVkRPeFJjMFVqMTRUUjlBRGI0YkF2UE1zcnhPdWpLWGk3RnRRenAzS3RFQmFaN2NpUXZwemNyR1VzRTd5S1E?oc=5",
-            "published": "2026-05-28T16:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "グローバル社について、旭化成ホームズは保有割合が5％未満に減少したと報告 [変更報告書No.2] - 株探",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xTEtIak5UUXlaWi1OR3l4NldvUTdaNDRDdHhqRXRiSTFJQ21nOWtTcE5MWi1xb2d6ekVnMVMxSGdneVZlZkFpTVVJMGNkSHNSX2N5OWpvSG1Ea1ZVNkM3Tw?oc=5",
@@ -3563,6 +3549,13 @@
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjFFbGt4MkpZcGVvZXdLVVQ5WTFRT1p5N3htblEzN3ZKcUVmbFZaMGtKalVDVWR3bUpaVDVHUktzSVBNLXdYUV82SkVETzQxT1A3Q3RLQVV5YzZTeFFpU2tvYzU0LVpTUEVHU195MWFWa0R4bC1NUlQ3QjRDU1VERmJwZXnSAYoBQVVfeXFMTXlwNi1McUtqT3hHU1dWRGlGMEQ0U1F0MEo2SlJQcTFhTmJZZHI1TDFJZVQ2M1pQT1M0WVRrVUIyYnkyNWZEMFZ5TDU3UXJVMGlPRndwSEVyUGtBcURNOXk1YUhaS2g2MHlPS2ZlQlBNYVVNRDF6cDhrSlBOYkxVaHBBNW9CSTVSQ3d3?oc=5",
             "published": "2026-05-28T16:00:00+09:00",
             "source": "ｄメニューニュース"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、木の効果の研究成果をウェブサイトで公開 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVHIzT25CWDhyUXVyVkRPeFJjMFVqMTRUUjlBRGI0YkF2UE1zcnhPdWpLWGk3RnRRenAzS3RFQmFaN2NpUXZwemNyR1VzRTd5S1E?oc=5",
+            "published": "2026-05-28T16:00:00+09:00",
+            "source": "新建ハウジング"
         },
         {
             "company_id": "misawa_home",
@@ -3740,13 +3733,6 @@
             "source": "新建ハウジング"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "「八王子 子安 つなぎの丘」のまちびらきセレモニー開催 | 大和ハウス工業のプレスリリース - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Z28ycTdvZzM0b0kyYzR4RWF1ZFpjZ2NUb2V1UjFkOV9GWkN3OWtILTdXckZBdm5BWEZTYWxfS0xtc1g4NzJqRHJkMmtfdVdQLTZmOTFMZTZxODg?oc=5",
-            "published": "2026-05-26T16:00:00+09:00",
-            "source": "共同通信PRワイヤー"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ／旭化成リフォーム／ＬＩＸＩＬ 使用済みアルミ部材の資源循環スキーム構築 - カーゴニュースオンライン",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93UWpTLWdmM1NQSjdSYTVBQzJIRnY5RzBhbVFhZS1IenUweEZxZzdsb051ZktnbFExdWFBNW5zemtOSDlDUzNjZE1LeUxpdTR1QmVfdjZ6UWI4ZmpnNGVN?oc=5",
@@ -3887,18 +3873,18 @@
             "source": "Komachi Web"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "★★ イベント開催 ★★ ５月のイベントを一挙公開！！ - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YWVhDTWlmSlc2Z05oNGUyV1puWXZ3Rk5DQTlEbVdNc2ZOLTRoYVU3TnoyNmFMdXFPTFNONlprbUV6TG8wTEd5YUJZTXY5ZGFvYkEtQ2N5cFlnVzM5cW1OZEpvRDR0MjRqTDUyVVln?oc=5",
-            "published": "2026-05-24T16:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "$積水化学工業 (4204.JP)$ - Moomoo",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1FYRlNpM1FWUnFvR1BRS1ZjSXI5bEdRa2VYamV4ZmZ5R1J5cldCS09NaGNCOXZmMUtuODZlbTFVUjdoWUgxRHlKakJocW1yYlVuZWgyVjQ3cEZXSEhvZDJLR19TMDhQTnpRdWg2STlHTnBVV3RRUWxTTWpUWHRYZ0xQNmR0Mkk?oc=5",
             "published": "2026-05-24T16:00:00+09:00",
             "source": "Moomoo"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "★★ イベント開催 ★★ ５月のイベントを一挙公開！！ - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YWVhDTWlmSlc2Z05oNGUyV1puWXZ3Rk5DQTlEbVdNc2ZOLTRoYVU3TnoyNmFMdXFPTFNONlprbUV6TG8wTEd5YUJZTXY5ZGFvYkEtQ2N5cFlnVzM5cW1OZEpvRDR0MjRqTDUyVVln?oc=5",
+            "published": "2026-05-24T16:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "mitsui_home",
@@ -3999,20 +3985,6 @@
             "source": "家サイト"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "木の効果の研究成果が分かるWebサイト開設 ～木材の幅広い活用や快適でぬくもりのある木の空間の普及へ～ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQTRxMkNPNDB5cjhERzBrbThYN0lxSjNheGd2bnN1TzJoWkpKNE4za2NMcXBod3hpYkdsOWxHVlJJUVFGa0JVSGdha0tZaExhYVJjUnFWOXFVYWlQZ2Y0clRaWnFNSVJWMlE?oc=5",
-            "published": "2026-05-22T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "「奇跡の一本松」後継樹の種子を英国キュー王立植物園へ寄贈 ～駐日英国大使館の協力を得て、震災の記憶を未来へ継承～ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVHgxZTRaLWVVMUUwb2luVlNnNDZ1eDY4Y25DZkIxOHBPNWExWFpvRElUS3B6elROYU1jakxzWmI0VkNxc0JHVE9ZQUZGZkZoUlJtSmZ0emFuT3h6NDJlZ014ZjlkQmh1YlE?oc=5",
-            "published": "2026-05-22T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "愛犬の「車内放置」や「熱中症」を防ぐ！旭化成ホームズ×おでかけわんこ部、スマートドッグハウス「WanPod」普及プロジェクトで連携スタート - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90YUIxNTBCVHJYSVEtdEt5al9FNG1KNW0zZVQ1YjY1RVlXbGZjamFacXpZVmtTRGhlMGN4b1ZPaXlEeTViVWtfYklxc0QyTF9MaGQ3VEozVVFmY2w3TEVKcXJNUmJsZUdiRGc?oc=5",
@@ -4032,6 +4004,20 @@
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aOWs2aTlYLUdENXVXZVNEbHZpajlkaVI5UmZqVnM3MEVxN29yalFNYnlFSjVEWVdoV0pFMl9RTU9hM1RtQnIxeUQ0Y2NYRjVucmhvR3FXdjJTTEdVa29ZbDlxeXptTWczNVFmc2VReW9xRkQzcDlpZWp5cw?oc=5",
             "published": "2026-05-22T16:00:00+09:00",
             "source": "産経ニュース"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "木の効果の研究成果が分かるWebサイト開設 ～木材の幅広い活用や快適でぬくもりのある木の空間の普及へ～ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQTRxMkNPNDB5cjhERzBrbThYN0lxSjNheGd2bnN1TzJoWkpKNE4za2NMcXBod3hpYkdsOWxHVlJJUVFGa0JVSGdha0tZaExhYVJjUnFWOXFVYWlQZ2Y0clRaWnFNSVJWMlE?oc=5",
+            "published": "2026-05-22T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "「奇跡の一本松」後継樹の種子を英国キュー王立植物園へ寄贈 ～駐日英国大使館の協力を得て、震災の記憶を未来へ継承～ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVHgxZTRaLWVVMUUwb2luVlNnNDZ1eDY4Y25DZkIxOHBPNWExWFpvRElUS3B6elROYU1jakxzWmI0VkNxc0JHVE9ZQUZGZkZoUlJtSmZ0emFuT3h6NDJlZ014ZjlkQmh1YlE?oc=5",
+            "published": "2026-05-22T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "panasonic_homes",
@@ -4102,6 +4088,20 @@
             "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDV3NFZUbDM5Mmt5dmhrZHoyVmlyZ1Axd1VTVDZVdUQ3X0hMS21ZcjNNZGF4QnRNRXM0QlpXUC1jNTJIRklsalNPM0ZnOENuZ1JQMy1SQXpTUkdheUJ5ZHRtWWt4ODludEtrdUZtZGxmNENSWE1CY09IQjluMXZfY3NBVWxxMW4yUEMwN0dQTEdnQ3lpWFFoWmc3cDBlLThINTBUeXpB?oc=5",
             "published": "2026-05-21T16:08:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業－大幅反発 米長期金利低下を好感 ＤＲホートンなど急騰(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGpWRVJTLUJ5c1AtT0IyOV9TUnJMN2dSOUVzUzM5VDA1SG83aFJhOFZqTW15QzhIbG5ycmNIUXBKMGF6V2l4MTBrQmpRXzFMb095a2RsZHEwVHRLWVFPWS1Hei1nckIybXA3MFpxaERnUG1mYnU0MlVnOE5OZ090cUlNTGVEbU0?oc=5",
+            "published": "2026-05-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "複合型賃貸併用住宅 「FOREST MAISON PORT (フォレストメゾンポート)」 発売 ～住まいと賃貸事業を両立し、資産価値を高める土地活用を提案～ - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsQThvcW82cTlvcE1ObkFjWjN5LXVSQ2dQaVkxQ21xelIxa2tYUDF5X09FN0k4WHlSM2RDUVJQSGhtTnFqbmlkcTh4SFZPbG9VV2d3dG1RSzdxVEROSU91UUI4eW4yNzkxcHc?oc=5",
+            "published": "2026-05-21T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "misawa_home",
