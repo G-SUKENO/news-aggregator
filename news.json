@@ -1,11 +1,18 @@
 {
-    "generated_at": "2026-06-24T19:19:30.551857+09:00",
+    "generated_at": "2026-06-24T22:18:13.871402+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "東京電力ホールディングスと大和ハウス工業、 系統用蓄電所の共同開発に関する業務提携契約を締結 - LOGI-BIZ online",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83UDNlOExzczZsQW05S1YweGl1RDNKWFJhZHhRdk1PUzRuT1pER1puWEZHSGVJT0JRRUVwclhQdXV4THBLcVhvRW1zZw?oc=5",
+            "published": "2026-06-24T21:25:47+09:00",
+            "source": "LOGI-BIZ online"
+        },
         {
             "company_id": "daiwa_house",
             "title": "系統用蓄電所で東電・大和ハウスが提携 外部投資も受け入れ全国1GW開発へ - kankyo-business.jp",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SaWVOajYxU09ObXJKc3NQcmdMLTlLNldOWmpsMGtTV2VIYlpSY1pyVW9KaE16SndKYUx2Q3R3bTF5VTJZb0lQdGRNX194QkV0enUwNHZiRHdyam1WRFhiV1Zmdk5qMmE1M2kzVEUwUUY2MHZGZGswa2JkNDg?oc=5",
-            "published": "2026-06-24T15:01:32+09:00",
+            "published": "2026-06-24T15:04:49+09:00",
             "source": "kankyo-business.jp"
         },
         {
@@ -19,7 +26,7 @@
             "company_id": "sekisui_house",
             "title": "積水ハウスと博報堂、学びの新サービス「PLATFORM HOUSE NOZOKKU」α版を公開 - MarkeZine",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeW94ZTdvRXI4eW9ZZVlMOHFxUzRQQWVBSkoxaXJIR3JhSWpzSlBXYzRMUWQ0dFBPXzdWV2k1R1Z2aWFNNEFxTnZKQWtPUkxVNUln?oc=5",
-            "published": "2026-06-24T13:15:00+09:00",
+            "published": "2026-06-24T13:27:48+09:00",
             "source": "MarkeZine"
         },
         {
@@ -146,6 +153,13 @@
             "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
             "published": "2026-06-23T16:09:19+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kZHBULXB5RmdtWm1OUFhaMjgySVRfZ2MtbFgxcVVob0hSdHVBQlFUWm1DWmdMV1REN3N5YlNIcExIajJ0RU5YdTZaUjV1elF2UDFraUhSWjJ2NkRMWmlJ?oc=5",
+            "published": "2026-06-23T15:59:16+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -835,13 +849,6 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kZHBULXB5RmdtWm1OUFhaMjgySVRfZ2MtbFgxcVVob0hSdHVBQlFUWm1DWmdMV1REN3N5YlNIcExIajJ0RU5YdTZaUjV1elF2UDFraUhSWjJ2NkRMWmlJ?oc=5",
-            "published": "2026-06-19T15:59:59+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tTmR6dWZuaUF6UEQxcTZVblhhMzdqd2l0eE43OURLakJveTNwUjdWbFZfNTBGR1BDb2dvSG1CdVpHNk5CSzRnc1pEUGRDNnFJUXl2ZnhQUjYxU3R0TlRr?oc=5",
@@ -1074,10 +1081,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "札幌「大和ハウスプレミストドーム」 運営会社が３期ぶりの営業黒字に コンサート利用増や命名権で増収に - HTB北海道テレビ",
+            "title": "札幌「大和ハウスプレミストドーム」 運営会社が３期ぶりの営業黒字に コンサート利用増や命名権で増収に - HTB 北海道テレビ",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TG53aWVBc3ZuNWhnb2w0Njd6dG02VExJQlhxaVdWRW5mS3Q5cjlYUDJKRzhNWkRBYTlCbDRFM1dZeUthNUhpREFibW04NUJHaDFxemZVUzhoZw?oc=5",
             "published": "2026-06-18T17:47:00+09:00",
-            "source": "HTB北海道テレビ"
+            "source": "HTB 北海道テレビ"
         },
         {
             "company_id": "sekisui_house",
@@ -1085,6 +1092,13 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSRWtKbHZPZk9oTmtOOTlwRGVtd0JxMlRMMWNrcjdCSE84UzIteGN6UXdVRXZ0M2I5cmlNRWRVajFfSFAzNDVDalVQZUozNkpNeTNNeDRBOGhQcnpNVm0wMXhIY3lJemw4ektvN0FR?oc=5",
             "published": "2026-06-18T17:46:18+09:00",
             "source": "河北新報オンライン"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "高速道路初※ E1東名 EXPASA足柄（下り） でスマートドッグハウス「WanPod」シェアリングサービスの無料提供を開始 - at-s.com",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05SnNMd01meVczWFlHdGZWdHU2NFhJUWhPUnp6ZmpVVmxkckxBcUZnTUhGRXZiaFFDRS1yZ1l0TXFYaW9ualJ2cXpRTXVHc3RRUlE5Vk52VHlGem5SN2VXbzBnazd1dw?oc=5",
+            "published": "2026-06-18T17:32:50+09:00",
+            "source": "at-s.com"
         },
         {
             "company_id": "sekisui_house",
@@ -1669,17 +1683,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "816万円のお家が当たる！？【リユースハイムキャンペーン】 - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSUdMUGNIZFNzeVExd1Vpb0xsVktHOGVVNXhlUmlUQ0dfbldJcjVOSjQxaUFrbzR2Ml8wNHM3SHQ4WEoxOXUxcmhXdzQ5ZlplUGhSa2c5eGZYSWdUZW0wbVpDRWM1Mk1fNWZN?oc=5",
-            "published": "2026-06-13T16:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "新築・リフォーム・不動産、何でも相談を セキスイハイム東北が青森など5カ所に施設開設 - 河北新報オンライン",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQWhmZFFtYnJjeTZOSHZ0ZHp3SmxZcHUwbUhEb29hakY3eVQtS3FjS0hST20yRTd6ZXZTU1dVcnZ3YkItaEZKdGRSVld6OG1ubmJvZFVqa2RWYW9sZ2lTQg?oc=5",
             "published": "2026-06-13T16:00:00+09:00",
             "source": "河北新報オンライン"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "816万円のお家が当たる！？【リユースハイムキャンペーン】 - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSUdMUGNIZFNzeVExd1Vpb0xsVktHOGVVNXhlUmlUQ0dfbldJcjVOSjQxaUFrbzR2Ml8wNHM3SHQ4WEoxOXUxcmhXdzQ5ZlplUGhSa2c5eGZYSWdUZW0wbVpDRWM1Mk1fNWZN?oc=5",
+            "published": "2026-06-13T16:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "daiwa_house",
@@ -3201,13 +3215,6 @@
             "source": "kankyo-business.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "神奈川・寒川町に大型物流施設「DPL寒川Ⅰ」着工、圏央道ICから0.5kmの好立地…大和ハウス工業 - レスポンス（Response.jp）",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXNzBrT0ljMk1MTkNrZUVLV1FLcXhBd3VvUU1IdmtDaHRrWElPMUJuTHMxUXpXXzl4OTIwYVRQa0RjamxuN3hKbFBQT3Y1bC1Kek9jY1hhRXp2bDhXQ2VJ?oc=5",
-            "published": "2026-06-02T15:45:04+09:00",
-            "source": "レスポンス（Response.jp）"
-        },
-        {
             "company_id": "panasonic_homes",
             "title": "平成13年築 パナホーム施工 一棟アパート 利回り7.02％ - rakumachi.jp",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHRjV1NYYmE1V3VTMmZSbkxwcjJyQ29MdldPSGZ4OWtIdl9GeV8zUEZiZlZCQU1yX2RSb2VQVUZ6VGdzZjZieElzYTFJSlhoUllsWVBBaTBnS1VIX3A1LXB2N2pMRDdUOXFqSFBseXFUanVnZkpIZWRUT2dod0dGZGFzV3I?oc=5",
@@ -4681,13 +4688,6 @@
             "company_id": "hebel_haus",
             "title": "大和ハウス、旭化成ホームズと茨城県つくば市で分譲マンション「プレミストつくば研究学園」を販売開始 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVJtWjM5TzIxTDZvaW1TMVYyY3lZdmdkbFZYUHFmdmNSQ2ROcGpyVE80UnNYcENFVVFBT1VZLUxLRUdnX3NVaDRlM0JwS0FETmxzdHZydExMc1ZFam9lRUJaaVRYNm9jY3paaDBzaFY4YUJCMF9BbERLa3dFTk43bklVY05zVkFEd0VMVTdnWDhNY3JjZ3R0a3VtRkFpMkNfOUVJ?oc=5",
-            "published": "2026-05-14T16:59:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "大和ハウス、旭化成ホームズと茨城県つくば市で分譲マンション「プレミストつくば研究学園」を販売開始 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYl92MjB4cUxLeTc5akZwTHVYWE8yLUZPaXhIRmxKRTFWVlFPaGN4cUJFYklzdEdRUzEzVmhJM2thQ1NGLXVDVTRoLTQzSjVBWmI2RFJJbGpzSlhnSGZSMExWWHVXUnNENktTZ3c1QWJGVVkwRkNIQkZtR0E2cFdKNDY1Y3AtLVJFaHVLYUVtb0JXM3lvbHRodmp4NWdhZE1ZNUVXQTNCb3NLUQ?oc=5",
             "published": "2026-05-14T16:59:00+09:00",
             "source": "日本経済新聞"
         },
