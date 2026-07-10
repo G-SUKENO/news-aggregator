@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-11T01:21:34.414605+09:00",
+    "generated_at": "2026-07-11T03:20:02.437178+09:00",
     "articles": [
         {
             "company_id": "hebel_haus",
@@ -129,6 +129,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "エアコンなくても涼しい 湿気除いた外気を部屋に 積水ハウスとパナソニックが開発 - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11aXVkRTZJampvTjA5UmFwOGN3ZVpWXzl4bEUzNm13WEV0OXhCbDhid1NzdzRvUGZKZVdXOWY0cEVuQVRYd1JwMkFKSVktYl9GSGVYQWdTemlFRFU?oc=5",
+            "published": "2026-07-10T10:36:36+09:00",
+            "source": "ABEMA"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "エアコンなくても涼しい 湿気除いた外気を部屋に 積水ハウスとパナソニックが開発 - テレ朝NEWS",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxMEJFYl9NWWdQSUM0YndPM1V3VGdwMlRxdzQ3MERfeDNpLU1vRFhnemhjMHF2d0gxWm9oNlo4VEplS1NITGo2bVBkVFVfQ21uUGdrQnVIamR0MkkzejJGWWRaZ2FDRGF6ci1RSGx2X0UxQQ?oc=5",
             "published": "2026-07-10T10:12:54+09:00",
@@ -164,17 +171,24 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "大成建設の撮り下ろし講演ほか、竹中工務店、大和ハウス工業、東北アライアンス建設らの好評再配信動画も多数 - JBpress",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tSnlUQlFGLVV2T281NkJLMG80elY1bXJ2UnJzTTB6N1d6V2l0azJiRUdEdExCOThucWs5ZEt3UmNWMlJ1eUtDLXZZVkZsaXd5UzM4TFBn?oc=5",
+            "published": "2026-07-10T05:00:00+09:00",
+            "source": "JBpress"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "大和ハウス工業はDC全国展開に意欲、データセンター事業本部長に直撃 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PeERKYS0yUXhqNWU3SmYtN1NTUngxQVpaejZuUWN1Wk9wcDZhUzNsaFVZQ0pqRWZtZjJNTGVSemY1ZlQwVEdGQUV5QUZqS2djQ2JibE9xQmRFdTcwUS1peWJLUC1LOU1Kd0YyeQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkxKWi1PQ3ZabUl4WUJJdnpkMWdXalZrZkQ5eVlRV18zUzNUT2p2cDljWmRGenp2Rko2TjBsNTNhUWZyZkxKSmZvVDg4MlMyRjM1UjFXcjFpY3F0Q2dIa0g4RmpvOVNVMklGM0VOekdzYVlFaEc3bUdiemMzOU9rc2loVHZKeWtyR2gwYQ?oc=5",
             "published": "2026-07-10T05:00:00+09:00",
             "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
-            "title": "大成建設の撮り下ろし講演ほか、竹中工務店、大和ハウス工業、東北アライアンス建設らの好評再配信動画も多数 - JBpress",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tSnlUQlFGLVV2T281NkJLMG80elY1bXJ2UnJzTTB6N1d6V2l0azJiRUdEdExCOThucWs5ZEt3UmNWMlJ1eUtDLXZZVkZsaXd5UzM4TFBn?oc=5",
+            "title": "大和ハウス工業はDC全国展開に意欲、データセンター事業本部長に直撃 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PeERKYS0yUXhqNWU3SmYtN1NTUngxQVpaejZuUWN1Wk9wcDZhUzNsaFVZQ0pqRWZtZjJNTGVSemY1ZlQwVEdGQUV5QUZqS2djQ2JibE9xQmRFdTcwUS1peWJLUC1LOU1Kd0YyeQ?oc=5",
             "published": "2026-07-10T05:00:00+09:00",
-            "source": "JBpress"
+            "source": "日経クロステック"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -905,7 +919,7 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "sekisui_house",
+            "company_id": "daiwa_house",
             "title": "着工戸数は減少続く…大和ハウス・積水ハウス・住友林業など、住宅「高付加価値」に活路 - ニュースイッチ by 日刊工業新聞社",
             "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MNkNYdlhYYVRUbVlWZGlVb2xReVU4NkhCQjFaNkNTNTBHT1pCbzBoTDlRcXlFMU9rTmhPQ2NKanZwdFlsUGpJ?oc=5",
             "published": "2026-07-06T06:26:30+09:00",
@@ -1885,6 +1899,13 @@
             "source": "PR TIMES"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "持続可能な施工体制の確保に向け、「北海道セキスイハイム建設株式会社」を設立 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zRkZQdUk4Nl9SN1EzN0xwaFcyeDd4NGp6aHpnenQwMDlGX29BSjBic1ZxWWhtU0Z6WEZubjlNdWE1ZmQxR2ctTmlFOUh6MWZ6SmhTTGhpQmx4SFBVNU5TR0l2bV8tU0V5Z2c?oc=5",
+            "published": "2026-07-01T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "「住友林業の家」のCO2排出削減量からJ－クレジットを創出 ～売却益を定期的にオーナーに還元する「住友林業省エネ住宅倶楽部」発足～ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BTUJody1INDdqNjFnTEVhR2M4QngzV21TY0FNSnNMNlNvazREV1dLWFBIbFFBX1kyNnBWcHdpZGxBUXVTNHlqNWxvWDlFMi1POTlQMHZuRWRTNUlhdHMtc2pIdHRESUh2MWc?oc=5",
@@ -1938,13 +1959,6 @@
             "title": "一条工務店、初の北欧コンセプト住宅「Naturia（ナチュリア）」を2026年7月1日から全国で正式発売 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUUXJ0NXVqVFlzQ3NpWTJUbFVKYWYzRWpFQm1BUURRWDdYdVJ3aGZqbC1lOEhIVjhjMFN4VkZheWtoZnJxTW13WldqTEl0R29SeGNTb0YyYlg1cDQ0QmhXaGRwSEJJTVZmSXc?oc=5",
             "published": "2026-07-01T13:00:02+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "持続可能な施工体制の確保に向け、「北海道セキスイハイム建設株式会社」を設立 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zRkZQdUk4Nl9SN1EzN0xwaFcyeDd4NGp6aHpnenQwMDlGX29BSjBic1ZxWWhtU0Z6WEZubjlNdWE1ZmQxR2ctTmlFOUh6MWZ6SmhTTGhpQmx4SFBVNU5TR0l2bV8tU0V5Z2c?oc=5",
-            "published": "2026-07-01T11:00:03+09:00",
             "source": "PR TIMES"
         },
         {
@@ -3040,13 +3054,6 @@
             "source": "Housing Tribune Online"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "「2026 トラベラーズチョイス ベスト・オブ・ザ・ベスト ホテル」日本のホテル人気部門4位に「MIMARU東京 銀座EAST」が選出(ニュースリリース) - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhFaG5fRVo3WWFKcGNlUzlnZ3EtUWNEREwwUVF6Z2o5V2VsQzlTTmZ1NFpOS1gyZWliUldIdGVidDhHYWhXYWUzVjU1V3JoWDlGNlhkSVB5M3Z1cXFuYXRoWFlTck9GeHc?oc=5",
-            "published": "2026-06-24T14:09:19+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウスと博報堂、学びの新サービス「PLATFORM HOUSE NOZOKKU」α版を公開 - MarkeZine",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeW94ZTdvRXI4eW9ZZVlMOHFxUzRQQWVBSkoxaXJIR3JhSWpzSlBXYzRMUWQ0dFBPXzdWV2k1R1Z2aWFNNEFxTnZKQWtPUkxVNUln?oc=5",
@@ -3066,13 +3073,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LR2NIWGZPTGxmXzRObHhfVFBHeEtMRDdmR0JoM1hHNDlmNjVRM3VEODEyZ1BIbEYzNGF5UXUwWnl0ZU5kTFBPZ3FZeU5uNmE3anlEM1Fn?oc=5",
             "published": "2026-06-24T11:51:12+09:00",
             "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "【トレンドナビ】大和ハウス工業のビズリブネス=既存店舗を再生、コスト低減・機会損失最小化 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XcXJjRU9HSUtHcmM0TElhc0JFbVh3NWRuWkZsRm5oV3RPSF8yd1dCY3lWckJNZVRLaERhX09EV1JiVDRycVdydVM2NTTSAUxBVV95cUxNV3FyY0VPR0lLR3JjNExJYXNCRW1YdzVkblpGbEZuaFd0T0hfMndXQmN5VnJCTWVUS2hEYV9PRFdSYlQ0cnFXcnVTNjU0?oc=5",
-            "published": "2026-06-24T11:31:16+09:00",
-            "source": "住宅産業新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -3153,17 +3153,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス、AIを活用した学びサービス「PLATFORM HOUSE NOZOKKU」α版を公開 - 下野新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HZEZ4RzI0V0ZwVkFub3c2aVl5dGJMUmlaR2FyRVR4eVVjek16bWFTYXFzMjNYWXEzYVlmM0RfekhBUXRrVUEwQnpzckhadXNqUHhEV20xSEx5VTg?oc=5",
-            "published": "2026-06-23T16:00:00+09:00",
-            "source": "下野新聞社"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス、AIを活用した学びサービス「PLATFORM HOUSE NOZOKKU」α版を公開 積水ハウス株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MHNtbVZSZTRMR2MwYWlwazFUblFQQ1lEOVB1Y0NLMHRfdVIyUm9JeWgzYnFvLVExcTQwaWRDdXdCbTN0NGVMRkhrZ1ZPU2ZRYW5YUWN6TmhwM2g4c2c?oc=5",
             "published": "2026-06-23T16:00:00+09:00",
             "source": "新潟日報"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、AIを活用した学びサービス「PLATFORM HOUSE NOZOKKU」α版を公開 - 下野新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HZEZ4RzI0V0ZwVkFub3c2aVl5dGJMUmlaR2FyRVR4eVVjek16bWFTYXFzMjNYWXEzYVlmM0RfekhBUXRrVUEwQnpzckhadXNqUHhEV20xSEx5VTg?oc=5",
+            "published": "2026-06-23T16:00:00+09:00",
+            "source": "下野新聞社"
         },
         {
             "company_id": "sekisui_house",
