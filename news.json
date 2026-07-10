@@ -1,6 +1,20 @@
 {
-    "generated_at": "2026-07-10T15:40:49.386962+09:00",
+    "generated_at": "2026-07-10T19:20:13.153272+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスシャーメゾンPM関西社長に鈴木敏司氏 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44SzRjb2FuZjhlc3plZEdDTjVadnd4ZlBTOWg3elB4bmRoVmpodDMtdDl1UkNMQU5pSzk0Nklaakt5bUs5d3NoYmNlUXI0Z25pMkFsWV9qaFJuWEZJMjRMWXJLY1EzdnVYeG9KYg?oc=5",
+            "published": "2026-07-10T18:10:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
+            "published": "2026-07-10T16:00:23+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
         {
             "company_id": "sekisui_house",
             "title": "【積水ハウス】コモンステージ大南分譲地見学会開催 - 朝日新聞",
@@ -19,6 +33,13 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業グループ、大阪に新たな滞在型ホテル2軒を開業、全室キッチン付きの滞在型（トラベルボイス） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NnI1X1hqTzUzWEs3eEpwN3VRcU1FekNYbkJfRUo2N2tiZGMwbUp4VGVPWC15Sk1nZm1nTEpfMURGTW1IZWhUYjIzRXNKbmNPd0hCM1ZZbWstSGtKLUZWNUZmTlRfXzkyQk5XRmkzeFp4cjY5OUx0X2ppVVlyajQ?oc=5",
+            "published": "2026-07-10T13:10:28+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業グループ、大阪に新たな滞在型ホテル2軒を開業、全室キッチン付きの滞在型 (トラベルボイス) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmJJT0hmRHJSWWw4UVJKSzl5c1Z5MFlHN2lwQkxZalVsbVpLT3lwMGRwTEZweW4yVjZJemJXdms0dC0zd3dpSVhuVXB6enI5eDc4OFd6YXhSN09EQVh2SDhoM192XzVNWGtkbVVJNVg5SDBEMVV6R0Itb0VDa25fa1otbkY0cURNeVFEeDlB?oc=5",
             "published": "2026-07-10T13:10:28+09:00",
             "source": "Yahoo!ニュース"
         },
@@ -195,13 +216,6 @@
             "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
             "published": "2026-07-09T16:01:45+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
-            "published": "2026-07-09T16:00:31+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -611,18 +625,18 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 山陽新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZOW5wNGduZ3d1QU5tdFBXTWxEUEtncl9DejNnMjFJUmx3bFk4QzByNmNwV3hLSEloZUktVnNraXN5REo3RXN6TGs5cEw0bEhobXBMb2hmRDFnS25sakI3bF9IVEJJNnc?oc=5",
-            "published": "2026-07-07T16:00:00+09:00",
-            "source": "山陽新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "大阪で滞在型ホテル２棟を同時開業 「HOTEL 」自社運営を開始 住友林業株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvcHFfY3l2NGxMc3A1RlhvTzZwaFZDOEQ5dUt6UFhRcFd0T2RqalFTaVhodVNpNE1ncFhHMDFGT2Zsc3U5cHZjUlo2b1g4dUVUS212dU11RWdBS0YtZmc?oc=5",
             "published": "2026-07-07T16:00:00+09:00",
             "source": "新潟日報"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZOW5wNGduZ3d1QU5tdFBXTWxEUEtncl9DejNnMjFJUmx3bFk4QzByNmNwV3hLSEloZUktVnNraXN5REo3RXN6TGs5cEw0bEhobXBMb2hmRDFnS25sakI3bF9IVEJJNnc?oc=5",
+            "published": "2026-07-07T16:00:00+09:00",
+            "source": "山陽新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1235,6 +1249,13 @@
         },
         {
             "company_id": "panasonic_homes",
+            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 河北新報オンライン",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0YWFfemZGSThsQXlTeG5SVDVlMzQ2Q21qam5Da3dFV3pUdWMwQS14M0hGZFFiR3F3THFlZ09nVnBKRGlGYlF3bWtEdjlmRndvQVZ3M2hPOElvS3puaWh5a1R2c2VWcEtUNFp2OUxIOGx3VEcwYXRlLWVySXMzQQ?oc=5",
+            "published": "2026-07-03T17:24:07+09:00",
+            "source": "河北新報オンライン"
+        },
+        {
+            "company_id": "panasonic_homes",
             "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 秋田魁新報電子版",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ETlBKQUF2bWt5bWV0RklHNnVtS1JQUUx6YU9Uak9hTlJiYWpiVDlYSDFaQUZiU180X2xTV2MyOFphNjR4YzBKeUczR3psQ2VUQ2phbW5NWW5CMDdFNDdtSGJR?oc=5",
             "published": "2026-07-03T17:24:07+09:00",
@@ -1242,17 +1263,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 河北新報オンライン",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNEZxcFA2ZXJEZTVpQnJQME5YZzUwWE83ZHpmaW9CYkJEbUJFYTk4MmRlaXFUVGRqRkFsNmUxTTlDTmZ1bW91WTdJUTE1WmE1a1NBU2l5U2czZ0pEWEo2eGJJU05JNDBkT1ZPZXlONmNOYTF6?oc=5",
-            "published": "2026-07-03T17:24:07+09:00",
-            "source": "河北新報オンライン"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "【写真】パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 南日本新聞",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTVJHWTFLUXlCMXVCVzQxLXN2NXFSazYwUW5sLXpMaUlhX3dzSTZ5ZEFHZjVnTXA5T0lLLTVMN1d4V3h5N2pyM3pBWF9zd3N6dlFoZGg1ZGFFWXlqSng1STBQZW9oYXM?oc=5",
             "published": "2026-07-03T17:24:07+09:00",
             "source": "南日本新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 河北新報オンライン",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNEZxcFA2ZXJEZTVpQnJQME5YZzUwWE83ZHpmaW9CYkJEbUJFYTk4MmRlaXFUVGRqRkFsNmUxTTlDTmZ1bW91WTdJUTE1WmE1a1NBU2l5U2czZ0pEWEo2eGJJU05JNDBkT1ZPZXlONmNOYTF6?oc=5",
+            "published": "2026-07-03T17:24:07+09:00",
+            "source": "河北新報オンライン"
         },
         {
             "company_id": "panasonic_homes",
@@ -1274,13 +1295,6 @@
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvU0FwcU9GX25GVDRreTBuRGdvdnZmMmNSNVN3OFM4d2dBME1NUlF1MzA0RUVGU1NPSlhtenB5cmtOSVVPMFRya3haODlBLTNzeHA3ZEVDNzNkMzdid0ptSWwwUlIwZW9DSkdtd291SXY4NmN1X1hucVhsa2pvNlU?oc=5",
             "published": "2026-07-03T17:24:07+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "パナホームズ、賃貸住宅事業に力 30年度事業売上高、45％増 - 西日本新聞me",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlYVNjY0JqQTllV0llYXhCV1YtMl9pQ3Nmc1k2WUc3NXBraUZKcDF3MFJ3LWhWekRHaWlzSlpBOXZhMnduVDMwRVZlazNOY1RMX3JYVHFB?oc=5",
-            "published": "2026-07-03T17:24:06+09:00",
-            "source": "西日本新聞me"
         },
         {
             "company_id": "panasonic_homes",
@@ -1316,6 +1330,13 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwcjRoQnM3NDFxLUhVNHZ2SzFDcXRwaXhuTVEwck04SzBTeDk0YUlQekk3ejBTWGNveU1GZDRIeVhtZl82LVVkWmdBVnJrdWFWLVZPZ09US08?oc=5",
             "published": "2026-07-03T17:24:06+09:00",
             "source": "東奥日報社"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナホームズ、賃貸住宅事業に力 30年度事業売上高、45％増 - 西日本新聞me",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlYVNjY0JqQTllV0llYXhCV1YtMl9pQ3Nmc1k2WUc3NXBraUZKcDF3MFJ3LWhWekRHaWlzSlpBOXZhMnduVDMwRVZlazNOY1RMX3JYVHFB?oc=5",
+            "published": "2026-07-03T17:24:06+09:00",
+            "source": "西日本新聞me"
         },
         {
             "company_id": "panasonic_homes",
@@ -3097,6 +3118,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス、AIを活用した学びサービス「PLATFORM HOUSE NOZOKKU」α版を公開 - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DM0JneHRqMDhQSUFHeXdNTTVjcW1NbzNDa3l4Zm9PTGRGeW40RFZ2dUpueXRDdW1maGRSWnRTWFFfbFkxaEp1bGFfOA?oc=5",
+            "published": "2026-06-23T16:00:00+09:00",
+            "source": "47NEWS"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス、AIを活用した学びサービス「PLATFORM HOUSE NOZOKKU」α版を公開 - 下野新聞社",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HZEZ4RzI0V0ZwVkFub3c2aVl5dGJMUmlaR2FyRVR4eVVjek16bWFTYXFzMjNYWXEzYVlmM0RfekhBUXRrVUEwQnpzckhadXNqUHhEV20xSEx5VTg?oc=5",
             "published": "2026-06-23T16:00:00+09:00",
@@ -3299,6 +3327,13 @@
             "source": "ダイヤモンド・オンライン"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業株式会社と「高知県県有林J-クレジット共同創出事業」に関する協定を締結しました - pref.kochi.lg.jp",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Pc0tFME52TzMtYXlaVlhfeGE4b0FwOHcwRXhpMWJGamt3c0FqaTl4eHpDRW8tU0VIbzNsUjJ3aTlqem1yeVpaRUtiNmRqdTRRZFlZZjY0OU5UV28?oc=5",
+            "published": "2026-06-22T16:00:00+09:00",
+            "source": "pref.kochi.lg.jp"
+        },
+        {
             "company_id": "panasonic_homes",
             "title": "パナソニックホームズ、平屋新商品で受注強化=3つの特徴的な中庭を提案 - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BWWIzSmx4T1k3YjJPa3d3VFVqY2N5LWtBYXhLOHhjdmhXMzJVWmFTU3hlM0k1anQ2T1V0Z1RtZDlFZ3B3MkZuNGNNR1fSAUxBVV95cUxNQVliM0pseE9ZN2IyT2t3d1RVamNjeS1rQWF4Szh4Y3ZoVzMyVVphU1N4ZTNJNWp0Nk9VdGdUbWQ5RWdwdzJGbjRjTUdX?oc=5",
@@ -3311,13 +3346,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83TzFYU3ZmdWdNMnNxSGJHenB5U25tM2l0OU12MHhoUlNuTmFxZFoyZG5sbUQwQi1CNEhWWlVmTS1iVjJiWjJzNkVGV19jb2x1?oc=5",
             "published": "2026-06-22T16:00:00+09:00",
             "source": "文化放送"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業株式会社と「高知県県有林J-クレジット共同創出事業」に関する協定を締結しました - pref.kochi.lg.jp",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Pc0tFME52TzMtYXlaVlhfeGE4b0FwOHcwRXhpMWJGamt3c0FqaTl4eHpDRW8tU0VIbzNsUjJ3aTlqem1yeVpaRUtiNmRqdTRRZFlZZjY0OU5UV28?oc=5",
-            "published": "2026-06-22T16:00:00+09:00",
-            "source": "pref.kochi.lg.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -3479,20 +3507,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fU0k0bURXWk1EVElYazlILUU0NG1uWXBGOGE2emlnb01HSmVrU19GVGNqR1NaSS1Pc0ZQZE91bFJBSEN0UHlpRDdYRXByZTZnVmUxUjN6U2o?oc=5",
             "published": "2026-06-20T16:00:00+09:00",
             "source": "全国賃貸住宅新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【床全面タイル】積水ハウスのフルスペック40坪の家がヤバすぎる・・・ Consiglio Nazionale Forense (fEFrWhM6TH) - Mshale",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52aUY1WkxUUU54b003N1JFd0ZwQlc3ay1IT3pjcDVmNkRWc0lWVlR5Q3U4WDZaQXg2ZVBXLTZXQjhMeFVfTjVZYWNMMl94S1c2SzNnOVZmVnplbmc?oc=5",
-            "published": "2026-06-20T15:52:49+09:00",
-            "source": "Mshale"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "地面師たちに透ける“罪の意識の薄さ” 「人を騙す前に自分を騙す」実行犯たちが赤裸々に明かした、再び犯罪に手を染める理由【積水ハウス55億円詐欺事件】（マネーポストWEB） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56LUJNZzF6V3NNSVNVQWMwU1RMaURTcjdJRklaeXkwbU51VkhnRUl6aXV4elVsZ0l4clBHRWhmOUQ2ZE1MUllud1BicTZJcWRHbHp3aFBWRkljSkdPWXVaRE5hWVI0cG9zM0c4OU14OUNyZHcwNHBlNDlQdm9zY2s?oc=5",
-            "published": "2026-06-20T15:03:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "misawa_home",
@@ -3859,18 +3873,18 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "panasonic_homes",
-            "title": "【パナソニックホームズ】全館空調『エアロハス』で真夏も快適 - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bHlQT3FIWVVUNUpxWWw1OFJXNXlWNjJYNWdUSDA4MC1WRGNPV1EyeXV6QXVDU2FyWTlZcUt1MDVUUmtqVTdsME54TVdCZGhRQ3RiazRnNFVKenN0?oc=5",
-            "published": "2026-06-16T16:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "なぜ住友林業の注文住宅が売れているのか⁉ - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rQmJOUC1vZ19iWUlURlU0aEUtdklWbGo2U0dNZEVzMi1DSFN0anBoSEI5MUNraWFILUc1Q3l1cFV4RGhEd1RtSzJZWVFZTk9pQ3c?oc=5",
             "published": "2026-06-16T16:00:00+09:00",
             "source": "Housing Tribune Online"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "【パナソニックホームズ】全館空調『エアロハス』で真夏も快適 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bHlQT3FIWVVUNUpxWWw1OFJXNXlWNjJYNWdUSDA4MC1WRGNPV1EyeXV6QXVDU2FyWTlZcUt1MDVUUmtqVTdsME54TVdCZGhRQ3RiazRnNFVKenN0?oc=5",
+            "published": "2026-06-16T16:00:00+09:00",
+            "source": "朝日新聞"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4319,13 +4333,6 @@
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QYUxOS0VWQmxXTVE5Vkd2eEcxbzZKaFpLTXRyZGdkZ0V3QS1scExnMHI1TS1jU2NncnRzZlJuRzlQaTBIREl0Q1RBNmpPVXlxQzViaURacw?oc=5",
             "published": "2026-06-10T16:00:00+09:00",
             "source": "四季報オンライン"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "“住居・賃貸・店舗…木造1棟に、住友林業、「木造多用途住宅」投入 - ニュースイッチ by 日刊工業新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Hck5rMnlaSGVEOFJ1dU9DcXJVLXJfdE9jWTJGdDJISVA1LVZoSEFGb2ZMUlhaMWF4X1V0eFozX21DQQ?oc=5",
-            "published": "2026-06-10T16:00:00+09:00",
-            "source": "ニュースイッチ by 日刊工業新聞社"
         },
         {
             "company_id": "hebel_haus",
@@ -6018,13 +6025,6 @@
             "company_id": "panasonic_homes",
             "title": "宝塚市とパナソニック ホームズ、ニュータウン再生に向けた組織を設立｜新・公民連携最前線｜PPPまちづくり - 日経BP",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTNrY2JDWGJvYzZKVDV1dGtHa1BzMk1ydUpmSzRuNXJoVWVOTTlaSHlJTG1ZYU9QbGhOUlIwdmF0eTFkRUhwcHlpcHhUaUpwODNGZV9uZzcxVHQwVl9aeUJaRFEwbU42RlRybEZYSE9td3p1cmpYV3FtbTRja2xacGl4RGtTNGxBU09FV3h4aw?oc=5",
-            "published": "2026-04-24T06:14:35+09:00",
-            "source": "日経BP"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "宝塚市とパナソニック ホームズ、ニュータウン再生に向けた組織を設立｜新・公民連携最前線｜PPPまちづくり - 日経BP",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2E1Y3NfMTd3bzU3alFhUDNjQl9Bd3VxNjZ6Nld4YnB3dFF0YVZVaEJxeHk0Z19JQmtMRTh3cTJ0V2dqQ3BnVVJ2X0pqSlhOOF8tRkEzUFozNlRxWkxJTU8zT2d2TW9OZ01vR25ocU1JdFFBR3BDRS1wVUhSaTVUbHlhNnJsenpBY3RaQ0c5cw?oc=5",
             "published": "2026-04-24T06:14:35+09:00",
             "source": "日経BP"
         },
