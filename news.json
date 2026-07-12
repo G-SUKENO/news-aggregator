@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-13T01:56:23.569044+09:00",
+    "generated_at": "2026-07-13T02:57:16.282954+09:00",
     "articles": [
         {
             "company_id": "panasonic_homes",
@@ -101,13 +101,6 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
-            "published": "2026-07-10T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：配当情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkNReDdnRGlSR21TaUJYVTF0TlZMMi10WHc0Z2duT2hfb2dqcVp2NTFHZ1Y3T1p5M2RsdDU2aUJuOGxtU1VXbWFNRnNKMFQzQzRhWkdwcThIeXZTVmc?oc=5",
             "published": "2026-07-10T16:00:00+09:00",
@@ -117,6 +110,13 @@
             "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOWd6ZnNuWWdsMTVHcW5KaHpUZGtWREwtSXhtN25xem9qclZuTzFMblpmNU5jOU02YjVLS0d3dlk4TW5ReDNzWFh6SGVuRkNtOFRiRkd6bm5tQQ?oc=5",
+            "published": "2026-07-10T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
             "published": "2026-07-10T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -318,17 +318,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業はDC全国展開に意欲、データセンター事業本部長に直撃 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkxKWi1PQ3ZabUl4WUJJdnpkMWdXalZrZkQ5eVlRV18zUzNUT2p2cDljWmRGenp2Rko2TjBsNTNhUWZyZkxKSmZvVDg4MlMyRjM1UjFXcjFpY3F0Q2dIa0g4RmpvOVNVMklGM0VOekdzYVlFaEc3bUdiemMzOU9rc2loVHZKeWtyR2gwYQ?oc=5",
-            "published": "2026-07-10T05:00:00+09:00",
-            "source": "日経クロステック"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "大成建設の撮り下ろし講演ほか、竹中工務店、大和ハウス工業、東北アライアンス建設らの好評再配信動画も多数 - JBpress",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tSnlUQlFGLVV2T281NkJLMG80elY1bXJ2UnJzTTB6N1d6V2l0azJiRUdEdExCOThucWs5ZEt3UmNWMlJ1eUtDLXZZVkZsaXd5UzM4TFBn?oc=5",
             "published": "2026-07-10T05:00:00+09:00",
             "source": "JBpress"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業はDC全国展開に意欲、データセンター事業本部長に直撃 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkxKWi1PQ3ZabUl4WUJJdnpkMWdXalZrZkQ5eVlRV18zUzNUT2p2cDljWmRGenp2Rko2TjBsNTNhUWZyZkxKSmZvVDg4MlMyRjM1UjFXcjFpY3F0Q2dIa0g4RmpvOVNVMklGM0VOekdzYVlFaEc3bUdiemMzOU9rc2loVHZKeWtyR2gwYQ?oc=5",
+            "published": "2026-07-10T05:00:00+09:00",
+            "source": "日経クロステック"
         },
         {
             "company_id": "daiwa_house",
@@ -1031,7 +1031,7 @@
             "source": "Housing Tribune Online"
         },
         {
-            "company_id": "sumitomo_forestry",
+            "company_id": "daiwa_house",
             "title": "着工戸数は減少続く…大和ハウス・積水ハウス・住友林業など、住宅「高付加価値」に活路 (ニュースイッチ) - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFdWUE1jQUF6bmRoSVJJTDI2T1F4SXNmNlVVX0EtbTJpYnVpekZoNWZIXzJGUTZzSFJJODF2ZjdvRi1OVE1xMzN5LXN2R2ItdlZUVTVDaE9iN2xRVHVDVC1rQ2F3aUlEOXdkVnplTDFNMk9uT2dRLUhjTzBNZ002ZmMzZ3M1N1RYSDg4REt3?oc=5",
             "published": "2026-07-06T11:20:17+09:00",
@@ -3404,13 +3404,6 @@
             "source": "PR TIMES"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "埼玉で物流施設伸び盛り 群抜く「地の利」、大和ハウスは60棟目 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tM2V4d00yN3pEbGEzMFFOTWlGeThVZXlicEhJbXl6N0stbHAwLVN3WXZyNGRfMVo1U2pjZW9jdGt1RjVLWElWNHY3UkFnX1J4WF9faUtsRkFxYWxRN0I5SlJSR08wazJ5U0hWUQ?oc=5",
-            "published": "2026-06-23T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、博報堂と協業しAIを活用した学びサービス「PLATFORM HOUSE NOZOKKU（α版）」を公開 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXFlQVRTNmUydnNQYzkyVFk0eDJuQXVGSzlLSm9QTUhkVXRCRDUzRElTY2tRWGwxcEFjeDY0MGttdzZmMFJJb0wzb0dDeVBBbFZNQXhPNHBRMDkwRmJ2Z0pMT3lHTkh1T2Z0RnJJTzFPRjVBUEpobjNrZUZYVWFXcFpDOUVWZmQzR295QThBUUdQRmhUNGVpWkp3d25wS01MSTBMS25EUl9Vdw?oc=5",
@@ -4902,6 +4895,13 @@
             "source": "リフォーム産業新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "人口減少下でもシェア拡大の住友林業、光吉敏郎社長が語る国内市場縮小への対応策とグローバル住宅事業の戦略軸 - JBpress",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11eXBrZXRpbUpVVFlBS2FKV2JTS3pZTU42THRhY3B0U0I0VmR6Zk9UZktkQnJZTTk3T0dqdmQ3cTYzUkk5cjA0MmRXaDBMQVBZaFZYa21R?oc=5",
+            "published": "2026-06-01T16:00:00+09:00",
+            "source": "JBpress"
+        },
+        {
             "company_id": "misawa_home",
             "title": "「家族の絵コンクール」 重松依奈ちゃん（鹿島市）が最優秀賞、藤﨑さくらさん（佐賀市）がミサワホーム佐賀賞 - 佐賀新聞",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVFZXZVRzVEVuT2VlRi1qRVB4dnFBcVdwams1X3dRR1NmVWtUTXFDZjMxTW0xZTZJak5uV01CQjNIM1R6ZTZFbDdjWUF1bWJXS1BmdmU2M291aVZaQ0E?oc=5",
@@ -5099,10 +5099,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "「パナソニック ホームズ関東支社 プレゼンツ サッカー教室」 実施レポート - RB大宮アルディージャ",
+            "title": "「パナソニック ホームズ関東支社 プレゼンツ サッカー教室」 実施レポート - 大宮アルディージャ",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vNHBaUDlFVkYxdHhEQVUyNHpheEZjakFsdXFXVkhxdk55YlVmMGtGMVozSkwtd2ctU2ZBeVY0RWwtM09kc2xmb29XMFMyRmlmTkUzcGR1bw?oc=5",
             "published": "2026-05-27T17:04:26+09:00",
-            "source": "RB大宮アルディージャ"
+            "source": "大宮アルディージャ"
         },
         {
             "company_id": "panasonic_homes",
