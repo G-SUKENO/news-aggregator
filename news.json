@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-15T19:10:04.766076+09:00",
+    "generated_at": "2026-07-15T21:11:34.387844+09:00",
     "articles": [
         {
             "company_id": "sumitomo_forestry",
@@ -3195,6 +3195,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウスと博報堂、AI活用の学びサービスを公開 - 新建ハウジング",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYmE1M0tfVGp6a2ZORFZqWEVxWklLXzB5d1kxMEZWSl8ydnZqMmtodlUxVjV2aE13ZmgwalQ2ZjE1S1paVzZEUEdfVno2NW5qRXc?oc=5",
+            "published": "2026-06-26T16:00:00+09:00",
+            "source": "新建ハウジング"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：企業情報（決算時期や平均年収、代表者名など） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45dUltc2lDMU9vX2JOSlVwX08zRDlBR3BTN055Y1BGcXlJN3MwbmkwS2V4TWMtaFd5cThzSWMzUzhhcW82UHpzUFFIcTZNMVRvaUFuRWdHVjBVWVlN?oc=5",
             "published": "2026-06-26T16:00:00+09:00",
@@ -3269,13 +3276,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QllnOUFCMlBJMndtTW1pZnJwOHctdXE0VFFsc3lYeVNPaVRFTGlESjd5eG1RQ2VabnZHSzVMcnp5ZjJDWHVnWVhlU1o5N3BMckNVNGZaSUlmckkxYkZr0gFkQVVfeXFMTW5VbENOZG82WWNvbk1NN2Q5dzlicUNvcEljaEU2eUJnTWxISGJ2NG1LSnUtMWRBNDU3QXJRaFhZQTlyRm5mTFNITzFTdWttSkJIR0UtWW1EVFE2aWZMaWVoUkpscw?oc=5",
             "published": "2026-06-26T09:17:32+09:00",
             "source": "千葉テレビ放送株式会社"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスと博報堂、AI活用の学びサービスを公開 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYmE1M0tfVGp6a2ZORFZqWEVxWklLXzB5d1kxMEZWSl8ydnZqMmtodlUxVjV2aE13ZmgwalQ2ZjE1S1paVzZEUEdfVno2NW5qRXc?oc=5",
-            "published": "2026-06-26T09:05:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "hebel_haus",
@@ -3398,17 +3398,17 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム・経営方針発表会、6つの資本で価値創出=市場規模に応じて組織再編 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hZWpPN1NMdTdXNG02OGRTMS0zVHlFejVfM3BpZm9ZazI0ejhIellWclQ2ZU9uTXcxeGtQYlVoWllVNmtJT2dDaXVzSXLSAUxBVV95cUxNYWVqTzdTTHU3VzRtNjhkUzEtM1R5RXo1XzNwaWZvWWsyNHo4SHpZVnJUNmVPbk13MXhrUGJVaFpZVTZrSU9nQ2l1c0ly?oc=5",
-            "published": "2026-06-25T16:00:00+09:00",
-            "source": "住宅産業新聞"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "対面会話解析AI「MiiTel RecPod」、AIビジネスアシスタント「MiiTel Synapse」がミサワホーム北越に導入 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LblRFMzE0dk16WHNxd1BuNTBsY295bGwzQm9rdkhfT2FMYXdfSEh2STF1bHdjMTBZU0lHbmhfVDVfbndmWXZCSWp5TURkX2pCSjNteDR4RUNPdnN2cTlwUjJiOG1iX25nZkE?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム・経営方針発表会、6つの資本で価値創出=市場規模に応じて組織再編 - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hZWpPN1NMdTdXNG02OGRTMS0zVHlFejVfM3BpZm9ZazI0ejhIellWclQ2ZU9uTXcxeGtQYlVoWllVNmtJT2dDaXVzSXLSAUxBVV95cUxNYWVqTzdTTHU3VzRtNjhkUzEtM1R5RXo1XzNwaWZvWWsyNHo4SHpZVnJUNmVPbk13MXhrUGJVaFpZVTZrSU9nQ2l1c0ly?oc=5",
+            "published": "2026-06-25T16:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "misawa_home",
