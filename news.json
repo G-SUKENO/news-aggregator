@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-16T15:21:22.063097+09:00",
+    "generated_at": "2026-07-16T18:09:46.431432+09:00",
     "articles": [
         {
             "company_id": "panasonic_homes",
@@ -1465,6 +1465,13 @@
             "source": "山陽新聞"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "一条工務店、初の北欧コンセプト住宅を本格展開 - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yUjdFV2hJMDh2R3FkeVFkSGVnbThyTDRVaEJNNWs3cWRPS1JQckI5eXlRZUxCbWxDdjdkSlBqZkVHaXpwY3dDc1drLUdkNWZoN0VESWc1T3Mxekl3emhN?oc=5",
+            "published": "2026-07-07T16:00:00+09:00",
+            "source": "千葉テレビ放送"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "大阪で滞在型ホテル２棟を同時開業 「HOTEL 」自社運営を開始 住友林業株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvcHFfY3l2NGxMc3A1RlhvTzZwaFZDOEQ5dUt6UFhRcFd0T2RqalFTaVhodVNpNE1ncFhHMDFGT2Zsc3U5cHZjUlo2b1g4dUVUS212dU11RWdBS0YtZmc?oc=5",
@@ -1538,13 +1545,6 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業、北海道エリアの施工体制を統合 - 千葉テレビ放送",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYZ0xOMFpPWUZWSGUtZXdDclY0N2FydUxkalVYVWVUaWlpWDluZzJrVVdWc3pFSEg3OXp6WGlyUERiZUN6V3FQbWtRck1XUVYtcHNVR3BmUmFKb1lWVzBR?oc=5",
-            "published": "2026-07-07T09:16:15+09:00",
-            "source": "千葉テレビ放送"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "一条工務店、初の北欧コンセプト住宅を本格展開 - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yUjdFV2hJMDh2R3FkeVFkSGVnbThyTDRVaEJNNWs3cWRPS1JQckI5eXlRZUxCbWxDdjdkSlBqZkVHaXpwY3dDc1drLUdkNWZoN0VESWc1T3Mxekl3emhN?oc=5",
             "published": "2026-07-07T09:16:15+09:00",
             "source": "千葉テレビ放送"
         },
@@ -4308,10 +4308,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "RC造を木造で挟んだ混構造の集合住宅、住友林業が中層マンション攻略 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOU1rQkJBNEZrR19Tb0Q1VGxUSGFBb3NHd0JmN1dzSmw2bDhhb1pFWndmYnJNRDN4dUF0YXlJb29jSERSTUhsYW5ibnRlYm1iUG4yNko2V0ZCMFAzS25hSUNEM2tyWmVTeVNHRw?oc=5",
+            "title": "住友林業、京大発スタートアップ企業と協業加速=高効率木質バイオマス発電の社会実装目指す - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qalp5YnRFUzBKSnV5eWRTdWZIa1JQVUY1M3E1eE85eXFyZk5RclY3OTlUQ0VfZkkyVGkzRTN0N0NCYjdGQmJKWGJ1VTPSAUxBVV95cUxPampaeWJ0RVMwSkp1eXlkU3VmSGtSUFVGNTNxNXhPOXlxcmZOUXJWNzk5VENFX2ZJMlRpM0UzdDdDQmI3RkJiSlhidVUz?oc=5",
             "published": "2026-06-17T16:00:00+09:00",
-            "source": "日経クロステック"
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "misawa_home",
