@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-16T08:01:24.164159+09:00",
+    "generated_at": "2026-07-16T09:05:24.276120+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -133,6 +133,13 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Vc0V2VVJaWXVVTGM3R0tuOGxUQ1k2U3Q2Yk83NWhhcVZHQU8zdmY2Ti03a0V1QThOcVl6ejBkVVEwTUtTQjBFS1dnMkFycjJWRDcwclRHLUNGLXJuRzVDMXl0bXg1ZFkxOTdv?oc=5",
             "published": "2026-07-14T23:40:00+09:00",
             "source": "時事ドットコム"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "生成AIが最も多く紹介するハウスメーカーは？Optyino.aiがAI回答29,089件を分析、一条工務店は68.0%で首位 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OaTBYT0hwcU9qT19LUDlNSGR2TXRrdTZvYWdPYkpxTmZ4eGItVl94Yl9acklodXB1aHJ2Szd0a3RqVWJzTnd1NnZNamEtZW1ZT0pfeEExcDZ6YnZaa0F1a01oblhOWjhXamJTalNCU2tuOXczeHFyUjlhVQ?oc=5",
+            "published": "2026-07-14T21:06:04+09:00",
+            "source": "ニコニコニュース"
         },
         {
             "company_id": "daiwa_house",
@@ -793,7 +800,7 @@
             "source": "SBSマイホームセンター"
         },
         {
-            "company_id": "misawa_home",
+            "company_id": "daiwa_house",
             "title": "【ハウスメーカー】他社牽制力ランキング2025 トップ3は大和ハウス工業、ミサワホーム、トヨタホーム - ドリームニュース",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zSDVYNm80dFNzYTVncWdleXMxTFlFS3B0UWN4WnJUMHlPSW9rV2hoTkRoRUV3OGV4RVl5QnJSUzZCaUFXbDZRRkNiVVdaOHNnbEZV?oc=5",
             "published": "2026-07-10T11:30:00+09:00",
@@ -1106,6 +1113,13 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NQjJLR0pWdzJRZ3Z5eENKMzlRa1IxM0NPS1VGd05oMUh2c3RKdWQ1OGtlWTB4eHg5MkxHTFFEWkJ5b3FUbmRoTlRPWlFXN1k4LUlpTg?oc=5",
             "published": "2026-07-09T10:46:50+09:00",
             "source": "トラベルボイス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "熱中症対策に新発想 外気の取り込み時に湿度調整、住宅内で循環 積水ハウスとパナソニックが共同開発（2026年7月8日掲載） - 日テレNEWS NNN",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRT25PQk9BQTM4R3VuSUNtRXRPSUM1dldlOXFfTHA3c3BQS0FFR3gtTzZqRkJ2aHJWNWRXb1R0Tmp5NHJMNU0wUmFBSlNDdjdmTTBUMUZXWF9FLUFHcVUxWWFMTHBwVHNPS0hucEkzYV9heWhNU1lEbU5QaHh0YzQ?oc=5",
+            "published": "2026-07-09T08:34:00+09:00",
+            "source": "日テレNEWS NNN"
         },
         {
             "company_id": "sekisui_house",
@@ -1556,18 +1570,18 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "着工戸数は減少続く…大和ハウス・積水ハウス・住友林業など、住宅「高付加価値」に活路 (ニュースイッチ) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFdWUE1jQUF6bmRoSVJJTDI2T1F4SXNmNlVVX0EtbTJpYnVpekZoNWZIXzJGUTZzSFJJODF2ZjdvRi1OVE1xMzN5LXN2R2ItdlZUVTVDaE9iN2xRVHVDVC1rQ2F3aUlEOXdkVnplTDFNMk9uT2dRLUhjTzBNZ002ZmMzZ3M1N1RYSDg4REt3?oc=5",
-            "published": "2026-07-06T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "着工戸数は減少続く…大和ハウス・積水ハウス・住友林業など、住宅「高付加価値」に活路 - ニュースイッチ by 日刊工業新聞社",
             "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBJYzlvb0JMdXUyVnp2WGZxa1hVLUk4SGVDOUN1Y3lGZTkySlJZY1VDVlZYSHVVbWo2aDAzcVBwckd0Zw?oc=5",
             "published": "2026-07-06T16:00:00+09:00",
             "source": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "着工戸数は減少続く…大和ハウス・積水ハウス・住友林業など、住宅「高付加価値」に活路 (ニュースイッチ) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFdWUE1jQUF6bmRoSVJJTDI2T1F4SXNmNlVVX0EtbTJpYnVpekZoNWZIXzJGUTZzSFJJODF2ZjdvRi1OVE1xMzN5LXN2R2ItdlZUVTVDaE9iN2xRVHVDVC1rQ2F3aUlEOXdkVnplTDFNMk9uT2dRLUhjTzBNZ002ZmMzZ3M1N1RYSDg4REt3?oc=5",
+            "published": "2026-07-06T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2796,6 +2810,13 @@
         },
         {
             "company_id": "ichijo_komuten",
+            "title": "一条工務店、初の北欧コンセプト住宅「Naturia（ナチュリア）」を2026年7月1日から全国で正式発売 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EQWRZb3ZoX0owWlFaVFFyZzhBZWpiNEhjcHdJUUxmLVEzVHZyYy00dE85RWFzUTRwQ0x3VHAxYlZ3b2c1NUNrcGpQekNiWXRLUVpKSg?oc=5",
+            "published": "2026-07-01T16:00:00+09:00",
+            "source": "ニコニコニュース"
+        },
+        {
+            "company_id": "ichijo_komuten",
             "title": "一条工務店、初の北欧コンセプト住宅「Naturia（ナチュリア）」を2026年7月1日から全国で正式発売 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUUXJ0NXVqVFlzQ3NpWTJUbFVKYWYzRWpFQm1BUURRWDdYdVJ3aGZqbC1lOEhIVjhjMFN4VkZheWtoZnJxTW13WldqTEl0R29SeGNTb0YyYlg1cDQ0QmhXaGRwSEJJTVZmSXc?oc=5",
             "published": "2026-07-01T16:00:00+09:00",
@@ -3398,6 +3419,13 @@
         },
         {
             "company_id": "hebel_haus",
+            "title": "応用技術、旭化成ホームズの住宅施工DXを推進したWeb仮設計画システムの事例を公開 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nd3dTRUF2eUNPY2VCY3Q5NUlOaTMxZ1p6UTVUdkRaLVRwSk5mM3FxalpxaTY2U0UwQ1JFZmhYRXRtbVk0YnNTeE9saE5JaWx0aEU0VzB3S2hFMUJVb09GaTJQN0pyeTRoWEE?oc=5",
+            "published": "2026-06-25T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "hebel_haus",
             "title": "応用技術、旭化成ホームズの住宅施工DXを推進したWeb仮設計画システムの事例を公開 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sTmhVMzZPeHd1QVpDVEdPN1VSX0hVS0ZVZFdEemNfNWNaSmg2STNwN2tnNTRRN2dha05PSlR3enNBMlZYbTF0RUpyUlRFLWZJTXVSRkN5dWE1OXM?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
@@ -3409,13 +3437,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mdXljdjBkSGM4ZTFiXzBJaHNyVGw3dUhKUmE4eWtqUXpRWGpyUnFDdUFYWGd2a3dEUENSUG9IZnh1M3Y0M3o5VmdXUFV0RUlZUnB0ME16Q2VCeC1MeDIw?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
             "source": "千葉テレビ放送"
-        },
-        {
-            "company_id": "hebel_haus",
-            "title": "応用技術、旭化成ホームズの住宅施工DXを推進したWeb仮設計画システムの事例を公開 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nd3dTRUF2eUNPY2VCY3Q5NUlOaTMxZ1p6UTVUdkRaLVRwSk5mM3FxalpxaTY2U0UwQ1JFZmhYRXRtbVk0YnNTeE9saE5JaWx0aEU0VzB3S2hFMUJVb09GaTJQN0pyeTRoWEE?oc=5",
-            "published": "2026-06-25T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "hebel_haus",
@@ -3689,20 +3710,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wcldSaGF4bWFZcnlURUI3aGQ1T016SjduczZ6dGtvZlduVzI3bDlDNl80VVhtdjZKazFrQWtrcFZoOS1vM2t5Z3ZZZ2pRT3dsYmNBN2hiNGlJWndyN2Zn0gFkQVVfeXFMTkRCbjJDbFhWVzR1ZzdoZGo1ZFpnOTRVdlB1dW5oX2g5S2pmNUFvMTRqd1JSUWw3Sm5VWF9DX2ppUlR2a1FNaXVlVWc2bjRVTUszS213eXdXaU43LUNkV3NteXJoWQ?oc=5",
             "published": "2026-06-23T21:16:32+09:00",
             "source": "千葉テレビ放送株式会社"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、自身の興味・関心との出会いを通じて、ありたい自分への一歩を踏み出すきっかけを作る AIを活用した学びサービス「PLATFORM HOUSE NOZOKKU」α版を公開 - 紀伊民報AGARA",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZX3F1UDh0bnFzU01zQjNMQ2V2ZXBUZ2puZmlseUNRY3BiTDUyMndzeVRPOFhHUVdoUGszN3FTemJSMThFZl9xaUlTdm5VRkU?oc=5",
-            "published": "2026-06-23T17:51:10+09:00",
-            "source": "紀伊民報AGARA"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "「家に帰れば、積水ハウス。」に異変 まさかの「家から飛び立つ」新CM、その“逆転”の裏側、ティファニー ナオミも初起用 - AdverTimes.（アドタイ） by 宣伝会議",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCZzNjclpvTEtwWUp3d1dpa040UmVhTlZCd292cHc1c0QwNkdzLU1PWlVpWnZWZzVnUVNHbVJ4OXZnWTJtdTdrTWtHRFZVNHpza29PWVk5V2poajgwb3VR?oc=5",
-            "published": "2026-06-23T16:00:00+09:00",
-            "source": "AdverTimes.（アドタイ） by 宣伝会議"
         },
         {
             "company_id": "sekisui_heim",
@@ -5938,6 +5945,13 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "misawa_home",
+            "title": "ミサワホームと和田興産、絶景オーシャンビュー＆客室温泉完備の拠点を着工 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FWTRyeGFwM1NsenFiZTdYRi11TWJTSE91b3gyaF9oWWhNdGdjNm9vV1NyU0M5V0NmU0JiSFBpWFE1dVpJSUdLLU91c2pWMmRFQTRHMnJUN2dZMWt3TmNoY0hVcVFoT3V2TWc?oc=5",
+            "published": "2026-04-30T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "mitsui_home",
             "title": "成蹊大初の教育寮建設に参画 三井ホーム 木造技術「MOCX」採用 | 産業別動向記事 | プレミアム - nikkinonline.com",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54X2NxYWc2NTBsS1VEcy10M2ZGMlZtMmJ6ZDJUaDRYSm5BbjlGWFI5RUVsQWgxQVpHbGk1eVNMREQ2Vl9vU0t2ZWRqQmNmZ0l3bXVpbFpSSUlJUjFkUmZ0d1FFbnA?oc=5",
@@ -6286,20 +6300,6 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4aWJyX0pKeERadHVnb0FjZTBFWHJrMzIyTl93WGVsZ2d6clRzN3lEQlZNUkhHNlJoNlRCLW9XMWJ2N0hwTmE2Zkp0VTZlbFJ2aHVQdnJwRllBZWcwWFUyS1VhOHZiaXJHbDViMER3?oc=5",
             "published": "2026-04-10T15:16:26+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【値上げ一覧】”ナフサショック”で相次ぐ大幅値上げ - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYXJuV293VE9FOVZRWk12S2xJa253bjlvQWstR1hKcnVMZ1RKSE9HZkxyOGQxUngzNW5wdEoyVVBwVlpLOWowdzdmUVNUOXZZaXc?oc=5",
-            "published": "2026-04-10T08:00:00+09:00",
-            "source": "新建ハウジング"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【一条工務店】平屋住宅相談会開催中！～段差なし、温度差なし！この上ない平屋ライフを～ - SBSマイホームセンター",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45S2Y4RDBud2hwbGVpT3FucGtFSGlVdHloV0R0MUxvLWdaU2VSR2FWSDBKUjB5WWVad29IU0dPY2JDV09YQ09iR0VEVF9zbXdXX3c?oc=5",
-            "published": "2026-04-09T20:28:21+09:00",
-            "source": "SBSマイホームセンター"
         }
     ]
 }
