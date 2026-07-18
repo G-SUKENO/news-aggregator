@@ -1,6 +1,27 @@
 {
-    "generated_at": "2026-07-18T11:04:18.180710+09:00",
+    "generated_at": "2026-07-18T14:03:37.734711+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "災害時支援で協定 伊達市と大和ハウス工業など - 福島民報デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tSE5mM3RzcWVWRzZBTjJISlVGemV1VHA5ZlEwaTJ5RDhyelE4WEgwZGlMUWFvandJdkItNExRLWltWl9IcmgxNXJrYmZiazQ?oc=5",
+            "published": "2026-07-18T11:00:00+09:00",
+            "source": "福島民報デジタル"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "災害時支援で協定 伊達市と大和ハウス工業など - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90a3pEVVVDMmlaZlM2SnVRYU1DRzFZRXZzQXhWMDlKSV9CQ1hrZ01BUnFKSEhQcVJUWGpNWnROcnVWRm9Oc0g5V1Bpcw?oc=5",
+            "published": "2026-07-18T11:00:00+09:00",
+            "source": "47NEWS"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZmlJbk9DdU9YYVFPRVB6MFQ0bEEwZV9fcHNpU1FldVVmZHlUVTRQSGZxSXJCOE1Md1RUOU5xc1dhb1hoSm85SFFkM09MZkFPRFZMMlVNdzRKYjRJQ1NrZ1RjN0I5RUJrX0FXQ1hB?oc=5",
+            "published": "2026-07-18T02:08:55+09:00",
+            "source": "河北新報オンライン"
+        },
         {
             "company_id": "mitsui_home",
             "title": "最高高さ10m以下の規制エリアでも「３階の限界」を超える。三井ホームと銘建工業が共同で木造４階建ての可能性を広げる遮音 - ニコニコニュース",
@@ -273,6 +294,13 @@
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRFNKYmgtV1dxa05fNTBsOTU1VjI3aV9vUWpkeTkzN2ZZTTM1OC0xRS1PSUktUFQyZWI1R2I1SXdybXhQTjMwd3BfcTA3bXgzYmJLbmltMA?oc=5",
             "published": "2026-07-15T15:40:00+09:00",
             "source": "四季報オンライン"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスグループ、大分市で展開する「ダイワロイネットホテル大分」をリニューアルし新設した3タイプの客室を提供開始 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByMzlvVjUyN3FpZmNMWE9HTkl4OTBqaGVLdE5BUWNvdDhNUlJ4cGhjSGVFUzNDa3RKRWQwcmZaUUlGdTFCZkVBOEpGcGdqNGJxWWRUaDVoX1Uya1VRMWZfLUlPd1ZUR1VUaWpUWA?oc=5",
+            "published": "2026-07-15T15:39:23+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -616,6 +644,13 @@
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWktORGs1d19sRWZLUWRVUjRoX1RoWnlVa2JsaXNWUmhfUzVvemFNZ0dSUWV2NnhzQ3BON2hpT09ETmdrMHltTmREdWNJYWE4ZS1wb043VUVyQkVINTd0N3V1OVVCRDJ1bDNkUHY4RnlocUNNeXJMM0lrV3hGYl8zWm1mVVE?oc=5",
             "published": "2026-07-13T17:53:38+09:00",
             "source": "rakumachi.jp"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、東京ディズニーランドのパレード「ザ・ヴィランズ・ハロウィーン\"Into the Frenzy\"」に協賛 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QX19CNWZCcXdPWUlFelJCTjdEOTd5eTRjUTNHd0FvYU9TUWlaaVM5R1ZIQ1Fva0VVUVI5Z3dCaFV4QkJtXzNDUTFXR0hXX0gwa3g5YjlFeTZxYktfMThHVThBS2VyTGpLRnc5SQ?oc=5",
+            "published": "2026-07-13T17:19:11+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -1438,10 +1473,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 旅行新聞",
+            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 株式会社旅行新聞新社",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rU2QyZGJWUzR1WjltZFdiLWZPNFU5V2M5c3NlcXBzSDBNTXhraGRUOFdKeElSc1RWMkF2TGd2VFB6eE10U1BGV3N5LWczQQ?oc=5",
             "published": "2026-07-08T13:51:20+09:00",
-            "source": "旅行新聞"
+            "source": "株式会社旅行新聞新社"
         },
         {
             "company_id": "sekisui_house",
@@ -1780,18 +1815,18 @@
             "source": "日本経済新聞"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "駒沢公園ハウジングギャラリーステージ２ - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXQWV6WTQtdWswYWxIMW5NbU1jTDNHRWZlMGJ5eDNjTG5IVFZEYW9NdU1peGFpdlpDdTVDalFmX0l5MXpzSjJJWGNxbDAtZmdrVXdVYW9Yck93ZFlGcHF6VTNrWHVEZDlnWkRoeHdR?oc=5",
-            "published": "2026-07-06T16:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、戸建て住宅のクレジット売却益 ポイント還元 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EX1Y1c1NKb3VqWHdYT0VWenR5N2dHbWZfNHRlYVFpOVRKajZjREtQVnRRX0dwcDEzalBxV3gxQk1DUk03eks4RzJkcm5ZbjRaal9fZEVzX253YU9Vd3lxRVdhSkJnd3o5M2ViSFdNeUxQVzlYSzM4?oc=5",
             "published": "2026-07-06T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "駒沢公園ハウジングギャラリーステージ２ - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXQWV6WTQtdWswYWxIMW5NbU1jTDNHRWZlMGJ5eDNjTG5IVFZEYW9NdU1peGFpdlpDdTVDalFmX0l5MXpzSjJJWGNxbDAtZmdrVXdVYW9Yck93ZFlGcHF6VTNrWHVEZDlnWkRoeHdR?oc=5",
+            "published": "2026-07-06T16:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "sekisui_house",
@@ -2060,13 +2095,6 @@
             "source": "47NEWS"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "【横須賀市】三井ホームが横須賀市で「秋谷葉山国際学園」新築工事に着手！木造トラス採用の大規模インターナショナルスクール - 湘南人",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nNG4ydkFvUmEwazJ1WHM2cWpVbDRFalNnOE5SbHN1UVRyTG91Rmd0NVFNSHlHSjlxSWxkc01nWFVWOGxfT3dpQW9hSzRFSXJWNXlIc0FWOHJiM0JKN1RGald6bFhNWElkbkg1bFVNa1ZtdE1vM0lCd0R3?oc=5",
-            "published": "2026-07-04T16:00:00+09:00",
-            "source": "湘南人"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "北間楼跡、大和ハウスが取得 金沢、片町スクランブル交差点近く 積水ハウスから、ホテル中心に検討 （北國新聞社） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UVWMzVnNHenYxMVMzV0h5QXpfLVNidGxzYzJPRDBQcWdVcE50SUJncm5teC1RNnF6UGY4WlBUaUtCYVpIclh5VkswR25Id3hDTlJfVTctdXFBRS16Q2paVkd6cWhIQlFCZ3JjQ3lxZDZXRXg5VHJRZWpPVTM2S00?oc=5",
@@ -2079,6 +2107,13 @@
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpWTBMWHY2cGxnWXlSY2dqZTlhUkxGQXdYUGhWX2NaN0Jua1NqTW1PWUJJZTF2NnRoanhUSHFMV0I4LU5abnNyOTB1WjY5NnJidVBDZ282UEk2a0xCSTd0d1pBeWJxSlljRkMxdmVUX0c1NXQ5TVhLeUQwRHZaOEU?oc=5",
             "published": "2026-07-04T16:00:00+09:00",
             "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "【横須賀市】三井ホームが横須賀市で「秋谷葉山国際学園」新築工事に着手！木造トラス採用の大規模インターナショナルスクール - 湘南人",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nNG4ydkFvUmEwazJ1WHM2cWpVbDRFalNnOE5SbHN1UVRyTG91Rmd0NVFNSHlHSjlxSWxkc01nWFVWOGxfT3dpQW9hSzRFSXJWNXlIc0FWOHJiM0JKN1RGald6bFhNWElkbkg1bFVNa1ZtdE1vM0lCd0R3?oc=5",
+            "published": "2026-07-04T16:00:00+09:00",
+            "source": "湘南人"
         },
         {
             "company_id": "misawa_home",
@@ -2494,13 +2529,6 @@
             "source": "新建ハウジング"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "札幌、恵庭市に木造交番5棟完成/三井ホーム北海道 - 建設通信新聞Digital",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQ3YzOFM4TEFHbkFmVlJ1Tzd6U3pfYmM1LW5FeFdvVDdWWXdGRUduWXg3elJxMWNHeThBZlBXNUVVNHEyajNiRzJnY1B5Z0prNy02WHhHMEw?oc=5",
-            "published": "2026-07-03T16:00:00+09:00",
-            "source": "建設通信新聞Digital"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "AI需要拡大に商機探る大和ハウス…芳井会長が「宝物」と表現する切り札は - 読売新聞",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ERGI1bm5yYTUxeW5Jc2tyelUwTXVBd1ZjdWd5bkVCakFmV25sWGdCd1JSUFRUQXlZTjNxMnJyMHJ6S3I0YWFZRjZnamNXMkFDTkJxbzR3ZnlQb0VXUmFDUno5Z2c?oc=5",
@@ -2527,6 +2555,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VUpvRUVnWnBvaTJXclhDWEZpb0x3OV9fTnFoLUo0cHA3Vk1YV0RlaUR5LXlQMUplTnlyajM3LUw5VEVkX01xa2RWQWFZU0NLRkxIdTVRQmdyNnBlVHZhMg?oc=5",
             "published": "2026-07-03T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "札幌、恵庭市に木造交番5棟完成/三井ホーム北海道 - 建設通信新聞Digital",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQ3YzOFM4TEFHbkFmVlJ1Tzd6U3pfYmM1LW5FeFdvVDdWWXdGRUduWXg3elJxMWNHeThBZlBXNUVVNHEyajNiRzJnY1B5Z0prNy02WHhHMEw?oc=5",
+            "published": "2026-07-03T16:00:00+09:00",
+            "source": "建設通信新聞Digital"
         },
         {
             "company_id": "panasonic_homes",
@@ -2697,13 +2732,6 @@
             "source": "物流ニュースのLNEWS"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "北海道札幌市と恵庭市に「木造交番」が5箇所完成‐三井ホームグループで初 - マイナビニュース",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Tb0xKVUNSSnRoMmJVQUxjbTR0QmVLZE5uUlhZeUdDN0lXTmJoTjJqdGp2N2JJMWxtRlRQb3JUSm9hZG5Md05CS1J0OFhrdzlKR19EMXd4d0pZM1Z0?oc=5",
-            "published": "2026-07-02T16:00:00+09:00",
-            "source": "マイナビニュース"
-        },
-        {
             "company_id": "daiwa_house",
             "title": "大和ハウスの展示場・分譲地来場キャンペーン『夏の住宅フェア』開催！ 大和ハウス工業株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzN1pCTXNEVzdRZTY5MkRMMWt4UnY5SmVxdnRVYlZ4R2RrVlRnRkdDOE9ZN3NqYnFNUXRDQ1pzR0hFQTZmbWkxTTBrQXNNcndNQmRia084aEVLWFJsYVE?oc=5",
@@ -2723,6 +2751,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWGhIak85UEdWTXZaTjBsS2dvTnZQeHpETkVkZHRGQ0k4eHBnZV9QUkJXdUZZMGNjbFRacUFqX3QxWWVDTG1YelJDTEhaZWl2TzN6LVRBeDJYZUY5SHFQTzJjVlI4ZW5QZnVuRg?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "北海道札幌市と恵庭市に「木造交番」が5箇所完成‐三井ホームグループで初 - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Tb0xKVUNSSnRoMmJVQUxjbTR0QmVLZE5uUlhZeUdDN0lXTmJoTjJqdGp2N2JJMWxtRlRQb3JUSm9hZG5Md05CS1J0OFhrdzlKR19EMXd4d0pZM1Z0?oc=5",
+            "published": "2026-07-02T16:00:00+09:00",
+            "source": "マイナビニュース"
         },
         {
             "company_id": "misawa_home",
@@ -2816,13 +2851,6 @@
             "source": "ニコニコニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "「不動産税務相談会」を実施 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DcWpjbFdKaEFna0tsRXJCa1Y4TGhDczR5bkhZOVRFRlJidFVJeWduUUd2UFNhYk5TVXcyUDRtb1NaRUdicjJabldobjRoQkRqdjhSaEVJTDgtaXdOcHN6b21Fc3hkR1pMVFE?oc=5",
-            "published": "2026-07-02T10:00:02+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "hebel_haus",
             "title": "第1号不動産私募ファンド運用開始について - ニコニコニュース",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSaC12ZWR2Q0NPSElvWVU3REJEanY1RUJNeE9tUmN3TVBtbTBab1dhTGpZTHloY0pRZjVid2N2TC0weUhRQWp2MGp3UkNvbmJWNklWZVRONFU0X1dUYUIwMi12SnNfNWFTMFdHXzNLOHBRWFk5aEdqRkZmWQ?oc=5",
@@ -2886,25 +2914,11 @@
             "source": "JAcom 農業協同組合新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス系、借り上げ社宅専用マンション満室に 255室3社で分け合う - 日経ビジネス電子版",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUVINEs0NFVzemszN1k2V0p5M202OUtoamZwSnFNNWxnYlVILUJteWIxRkN4eTZybzlsZUdacGx4cU5ucEM4LVpEMi1CR1FnYmFpNUljYUNsaDZlVlJrdFBpaVp6aWFjZlprTjhoQmRDSDBtemRILVZ5QkFtZGduZE9uRXJRdzk2?oc=5",
-            "published": "2026-07-02T05:17:19+09:00",
-            "source": "日経ビジネス電子版"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "高校球児の気分はメジャー？ セキスイハイム松本スタジアムの芝模様をドジャースタジアム風に - 市民タイムス",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wMFFIRXR5Zk53Y3FiQ2o3andfRWFQaUJ6ak1oaFhXbEFXWnpfd1JWb051WU5DRXhKSFVCLWFadGNmRjFhc0ZId3Q5a25FWkk4Z3JfVDZoR3I3LVFQY1dLMDN6Zk8?oc=5",
             "published": "2026-07-02T05:04:02+09:00",
             "source": "市民タイムス"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業 「ＤＰＬ寒川I」竣工、広域配送に適した立地 - 物流ウィークリー",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iMWZKYlJZSlQtWnFDTEpDRmJtY3dkXzhzMGdILXpWd2s4QTgxei12ZTJGSzFJRHVGZVdjSjhpRFlIeEptVVZsY1M3NXBadw?oc=5",
-            "published": "2026-07-02T00:03:43+09:00",
-            "source": "物流ウィークリー"
         },
         {
             "company_id": "panasonic_homes",
@@ -2975,13 +2989,6 @@
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsRVVxdGVYZlBmZC1lV3NPTHNqZVRQTnVLOUp6bTc5ZnRoTFhjWGV3Z1ZEanBQQi12UzE2b25uYzJyZFZicE4zRHNLaktQdVl6QnRWalJJNVY2bzJKX2VVc0NRdDJHVldVWWI1Ti0zWlNVbUdXNjRBRg?oc=5",
             "published": "2026-07-01T16:16:08+09:00",
             "source": "RBB TODAY"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "事業本部を新設し用地取得から開発、運営まで…大和ハウス工業がデータセンター市場に参入する必然的な理由 - JBpress",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aWdaN1VlUHVfY1hUNnJ3b00yMEZnd0l1TnNZV1JQMm9iakhrdmkybmFBbTlYTzNKTVRoOG10V2YyU0NPRkZQNDcwX21zNVp1dGdUdHJR?oc=5",
-            "published": "2026-07-01T16:00:00+09:00",
-            "source": "JBpress"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3201,20 +3208,6 @@
             "source": "乃木坂46公式サイト"
         },
         {
-            "company_id": "mitsui_home",
-            "title": "「秋谷葉山国際学園」新築工事に着手 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XcXZzQnlTeGZlcjUtT1VYTUZPYkgxc1pOMWVtcE91d1gySjNRbVBuUFJMS3NpOEVVUDhvLXlZRTdETHNzZkZJVnNDMmcxYUo0empLeldPYUxPWEg0LTFBdFZ1dmlrSk5SWkE?oc=5",
-            "published": "2026-06-30T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "mitsui_home",
-            "title": "「秋谷葉山国際学園」新築工事に着手 - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZzFwYU9xVnNBeGhjbG80WnU1WjZDczA0NVNHZmdYZzRGalN3S2F0bHNHaFB5YVFpREpKdDhYbXc4SkwwVE5VTmp5TmlSNV91YTE3UXB0RnRkUk0?oc=5",
-            "published": "2026-06-30T16:00:00+09:00",
-            "source": "朝日新聞"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業「6人のAI」が住宅の間取り熟議 5分で提案 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHVLRXJpY1VOaHNBOWJFZlJSNXIxRVZtelZ3Mm1KRE9CT2hCM0R2Zzk3TXI4Y2xIejFxRnNFQWZ5RUFEWlFIX2tFSmlyV1hlQm54ajRvNnlhSDd2M3lpZXJpVDl1ZG80S1hhVXU2SnZUZ1o0YXk5SU5vTTVpRlJMeHdhVU02NWpKbmI0Qw?oc=5",
@@ -3239,6 +3232,20 @@
             "company_id": "sumitomo_forestry",
             "title": "【住友林業】子育て応援グッズプレゼント！ - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fQUU2N1Fua1UzRDh4Mi04aWY4ZlRnQzRKekhFNjZKZ2cwejF3V2lpZnRrSTYyakJGd0lJYmdSTklpWkhTZXExbXVPSWEzYWJ5R05sTmRZTkJZWFVV?oc=5",
+            "published": "2026-06-30T16:00:00+09:00",
+            "source": "朝日新聞"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「秋谷葉山国際学園」新築工事に着手 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XcXZzQnlTeGZlcjUtT1VYTUZPYkgxc1pOMWVtcE91d1gySjNRbVBuUFJMS3NpOEVVUDhvLXlZRTdETHNzZkZJVnNDMmcxYUo0empLeldPYUxPWEg0LTFBdFZ1dmlrSk5SWkE?oc=5",
+            "published": "2026-06-30T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "mitsui_home",
+            "title": "「秋谷葉山国際学園」新築工事に着手 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZzFwYU9xVnNBeGhjbG80WnU1WjZDczA0NVNHZmdYZzRGalN3S2F0bHNHaFB5YVFpREpKdDhYbXc4SkwwVE5VTmp5TmlSNV91YTE3UXB0RnRkUk0?oc=5",
             "published": "2026-06-30T16:00:00+09:00",
             "source": "朝日新聞"
         },
@@ -4226,13 +4233,6 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業(株)【1911】：株価チャート - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44OG5naXg2elladEFGSUtFRFc4WE5aRW1xVHBoVEVXMTNaTEt5VlJjZl9Wa0RyNGlfenRveW11ZXljUHdrWmlqNVZnUVZuRV9SUXdhaDN0d1RMZw?oc=5",
-            "published": "2026-06-19T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株主優待 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5leGhDT19MNUxzdXBBdUNHcURXQWZfTDk5Qk5uenkwTzNJdkJrbjFlREJ3SWdoOWhQeHlvZUhLejJ2U0pZcWNWaTN3Ykc2LUV4SERKVWRNaElIRGVuN3hz?oc=5",
             "published": "2026-06-19T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
