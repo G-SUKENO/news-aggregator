@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-07-18T23:47:33.025179+09:00",
+    "generated_at": "2026-07-19T00:52:20.396686+09:00",
     "articles": [
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業とマゼックス、林業向け運搬ドローンの普及を加速 - 北海道新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTlHX0gzVURLTlRKVmxuQ0tEdGVVeGE3cjktbzhNNXlleTBNb3JrN0ttakxxako1MDFDV1ZEVGZYbzJUMVFxc25SYVU0dFZwZVU4ZmwxTlowanVUOGtjZlBsVlhOZnVfTFE5a0FNdUY3UkRGZjRIaUtQSXZlUDFPeXhKMDVQMmxG?oc=5",
+            "published": "2026-07-18T22:20:29+09:00",
+            "source": "北海道新聞デジタル"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウス工業(株)【1925】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
@@ -877,6 +884,20 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMkUtWjFpU3RmWDJVYm9DRGk5X25YLXM5bVVMTWN1MUlxLUNxcDRodDFCV0pITDdndXpXbm1Sb1VwYnk5blJCWEh6M3ZiV0RsREVfYjBobEJSUQ?oc=5",
+            "published": "2026-07-10T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
+            "published": "2026-07-10T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "東京ディズニーランド®ハロウィーンパレード「ザ・ヴィランズ・ハロウィーン“Into the Frenzy”」協賛 - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TTkhBNGdNTk5vMHBZd1pFRU5HTTZzMDI5b0FJUVI2bDEtU3pxemhtQmFRVHYyakkyQXpDUU1OUUEzcEt5a2lvTlladWtTaUNTUTZfY1JzSzFhemc?oc=5",
@@ -901,20 +922,6 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス工業(株)【1925】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RnRlSVBqVUVBTGZ4dEd0d0lSYTJWcTItQVFjRktudUxfR3gtUGtKSVdQUmFyb3M4TmRvNmFOeVU2QTN5T3VNcTcxMVo1bmFfNnc?oc=5",
-            "published": "2026-07-10T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：掲示板 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMkUtWjFpU3RmWDJVYm9DRGk5X25YLXM5bVVMTWN1MUlxLUNxcDRodDFCV0pITDdndXpXbm1Sb1VwYnk5blJCWEh6M3ZiV0RsREVfYjBobEJSUQ?oc=5",
-            "published": "2026-07-10T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
             "published": "2026-07-10T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -1221,17 +1228,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "エアコンをつけずに室内の熱中症対策が可能に！？ 積水ハウスとパナソニックが新たな装置を開発 - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0s0eUwtVlZ1MkYxSmhFaXdZRURSUzRVXzRWZE5wdl9CNmhDaWJGb2Zyem15bk9kUFJVU1JRMUFpOWJjUk42Vkp0NllkWGU4YmNJUmRNU1BXSGhjTUJLa2F4NGw2NVQ5YlF5VVdjZGJVa09zdlZ1ZmI5bjBMRFM5aXN5TjZuenFUWGg1TXdR?oc=5",
-            "published": "2026-07-09T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "夏の湿気を取り込まない換気システム、パナと積水ハウス共同開発 - 家電 Watch",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yVmY2Smxtemc5RFR5SG9UWWFEd0JHb3JwZE1yQXFiMEFwOWYyOEIwVGR5YjREcWN2RER3c3RmbFJnNmlnZHBNMHVDZHZFNzFyS3lEVUozekNObWxLX3FSa2Zua0J6N3M?oc=5",
             "published": "2026-07-09T16:00:00+09:00",
             "source": "家電 Watch"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "エアコンをつけずに室内の熱中症対策が可能に！？ 積水ハウスとパナソニックが新たな装置を開発 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0s0eUwtVlZ1MkYxSmhFaXdZRURSUzRVXzRWZE5wdl9CNmhDaWJGb2Zyem15bk9kUFJVU1JRMUFpOWJjUk42Vkp0NllkWGU4YmNJUmRNU1BXSGhjTUJLa2F4NGw2NVQ5YlF5VVdjZGJVa09zdlZ1ZmI5bjBMRFM5aXN5TjZuenFUWGg1TXdR?oc=5",
+            "published": "2026-07-09T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_house",
@@ -1487,10 +1494,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 旅行新聞",
+            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 株式会社旅行新聞新社",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rU2QyZGJWUzR1WjltZFdiLWZPNFU5V2M5c3NlcXBzSDBNTXhraGRUOFdKeElSc1RWMkF2TGd2VFB6eE10U1BGV3N5LWczQQ?oc=5",
             "published": "2026-07-08T13:51:20+09:00",
-            "source": "旅行新聞"
+            "source": "株式会社旅行新聞新社"
         },
         {
             "company_id": "sekisui_house",
@@ -2543,20 +2550,6 @@
             "source": "新建ハウジング"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "AI需要拡大に商機探る大和ハウス…芳井会長が「宝物」と表現する切り札は - 読売新聞",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ERGI1bm5yYTUxeW5Jc2tyelUwTXVBd1ZjdWd5bkVCakFmV25sWGdCd1JSUFRUQXlZTjNxMnJyMHJ6S3I0YWFZRjZnamNXMkFDTkJxbzR3ZnlQb0VXUmFDUno5Z2c?oc=5",
-            "published": "2026-07-03T16:00:00+09:00",
-            "source": "読売新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "災害時に物流拠点提供 大和ハウスと伊達市協定締結:地域ニュース - 福島民友新聞社",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JWTFBdlNjOGtmTHhtbjJTX0NyNzNvQ1Vvd0FteGJ1czhMRUVWemdSR29pVUR5UTFJd0ZTV0xBSXpDRldrUnlTeXJ4czJ6UjZKQlcwMmJTSjYzWXNvOVpfZ2FZNFR0UXdy?oc=5",
-            "published": "2026-07-03T16:00:00+09:00",
-            "source": "福島民友新聞社"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業(株)【1911】：企業情報（決算時期や平均年収、代表者名など） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0dVJialFHUTB1N1AwUlpWSnZWV3pWUldSa0FvS1hJbXpVVVQzSG5ZTWtsWl9KeHZKQnFwOU5JOC01UTBwaElmY3ZNZk9yeVNlTG81d2NZQkdkbThQ?oc=5",
@@ -2569,6 +2562,20 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VUpvRUVnWnBvaTJXclhDWEZpb0x3OV9fTnFoLUo0cHA3Vk1YV0RlaUR5LXlQMUplTnlyajM3LUw5VEVkX01xa2RWQWFZU0NLRkxIdTVRQmdyNnBlVHZhMg?oc=5",
             "published": "2026-07-03T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "AI需要拡大に商機探る大和ハウス…芳井会長が「宝物」と表現する切り札は - 読売新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ERGI1bm5yYTUxeW5Jc2tyelUwTXVBd1ZjdWd5bkVCakFmV25sWGdCd1JSUFRUQXlZTjNxMnJyMHJ6S3I0YWFZRjZnamNXMkFDTkJxbzR3ZnlQb0VXUmFDUno5Z2c?oc=5",
+            "published": "2026-07-03T16:00:00+09:00",
+            "source": "読売新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "災害時に物流拠点提供 大和ハウスと伊達市協定締結:地域ニュース - 福島民友新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JWTFBdlNjOGtmTHhtbjJTX0NyNzNvQ1Vvd0FteGJ1czhMRUVWemdSR29pVUR5UTFJd0ZTV0xBSXpDRldrUnlTeXJ4czJ6UjZKQlcwMmJTSjYzWXNvOVpfZ2FZNFR0UXdy?oc=5",
+            "published": "2026-07-03T16:00:00+09:00",
+            "source": "福島民友新聞社"
         },
         {
             "company_id": "mitsui_home",
@@ -2746,6 +2753,13 @@
             "source": "物流ニュースのLNEWS"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業[1911]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWGhIak85UEdWTXZaTjBsS2dvTnZQeHpETkVkZHRGQ0k4eHBnZV9QUkJXdUZZMGNjbFRacUFqX3QxWWVDTG1YelJDTEhaZWl2TzN6LVRBeDJYZUY5SHFQTzJjVlI4ZW5QZnVuRg?oc=5",
+            "published": "2026-07-02T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウスの展示場・分譲地来場キャンペーン『夏の住宅フェア』開催！ 大和ハウス工業株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzN1pCTXNEVzdRZTY5MkRMMWt4UnY5SmVxdnRVYlZ4R2RrVlRnRkdDOE9ZN3NqYnFNUXRDQ1pzR0hFQTZmbWkxTTBrQXNNcndNQmRia084aEVLWFJsYVE?oc=5",
@@ -2758,13 +2772,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvQ0FHRl9hc01NVlFBd0RjMGszUEtwckVzRHg2SVdwdFU4amszaUFuN0R2Y1ZMT1RBVWEwWkMtZ1o4bzNpQzFEa3RMaDJsWVAzVm9uWXNYSXItX1V5ZXFwWXUwYjVJODhma2c?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業[1911]：発行登録書（株券､社債券等） (有価証券報告書) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWGhIak85UEdWTXZaTjBsS2dvTnZQeHpETkVkZHRGQ0k4eHBnZV9QUkJXdUZZMGNjbFRacUFqX3QxWWVDTG1YelJDTEhaZWl2TzN6LVRBeDJYZUY5SHFQTzJjVlI4ZW5QZnVuRg?oc=5",
-            "published": "2026-07-02T16:00:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "mitsui_home",
@@ -3223,17 +3230,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "人事、住友林業 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGhqTDZCRkpsYWdvOVBFUk1DRDNGVUF5bk9BSzM1V2lHUVktRmJLdDRXbXN5OXZDVnR2RlNjSU9aMVpJSXE3dXhRMkFiVDNMdmJ0c2JrTGtaVVN0VUEyVDNGV3VJNnVuOUpCTGdCdGJucU1YQVRJVTZMYjdsZTh0VFRaQUlmZk1RWDVXSThreEpLbkNiZjlvT0dhSXhrMC0tNEdLUlJ6Sm0?oc=5",
-            "published": "2026-06-30T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "「統合報告書 2026」公開 ～木の可能性を社会と未来へ拡張するための重点施策を特集～ | 住友林業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxRWlMSnFNc0xqY0J3Qmw5bGc1V2pSZ1VFWG1QeU53Q1RvSi1nb1V6bTBUbWhiZzF0QzFWTGRGc0hLRnJPMzktSzB5Ty1oQ1JsLXFlSmdsT2psQXhPeHFlVUhkbWJQelJ2OVE?oc=5",
             "published": "2026-06-30T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "人事、住友林業 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGhqTDZCRkpsYWdvOVBFUk1DRDNGVUF5bk9BSzM1V2lHUVktRmJLdDRXbXN5OXZDVnR2RlNjSU9aMVpJSXE3dXhRMkFiVDNMdmJ0c2JrTGtaVVN0VUEyVDNGV3VJNnVuOUpCTGdCdGJucU1YQVRJVTZMYjdsZTh0VFRaQUlmZk1RWDVXSThreEpLbkNiZjlvT0dhSXhrMC0tNEdLUlJ6Sm0?oc=5",
+            "published": "2026-06-30T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -4228,13 +4235,6 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10dTFMd1lpUlZKYjZhNEs1cnVTdGhQVW81XzVqSHRVY3RTc21aU0FaTF9jYUZWQ281TXFyVEZCblRvZGNoN3ZfU1Bzbw?oc=5",
             "published": "2026-06-19T16:00:00+09:00",
             "source": "47NEWS"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株価チャート - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44OG5naXg2elladEFGSUtFRFc4WE5aRW1xVHBoVEVXMTNaTEt5VlJjZl9Wa0RyNGlfenRveW11ZXljUHdrWmlqNVZnUVZuRV9SUXdhaDN0d1RMZw?oc=5",
-            "published": "2026-06-19T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_heim",
