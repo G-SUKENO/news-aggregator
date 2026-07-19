@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-19T19:23:28.910390+09:00",
+    "generated_at": "2026-07-19T20:53:42.634286+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -105,6 +105,20 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
             "published": "2026-07-17T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOWd6ZnNuWWdsMTVHcW5KaHpUZGtWREwtSXhtN25xem9qclZuTzFMblpmNU5jOU02YjVLS0d3dlk4TW5ReDNzWFh6SGVuRkNtOFRiRkd6bm5tQQ?oc=5",
+            "published": "2026-07-17T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "セキスイハイム東海presents ティラノがやってくる！ しずおか恐竜王国2026 - テレビ静岡",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjQ21MOEJXZHFnUllSXzJOeFVtdDF2cEdiOWZBVnI1UmdMTHRMTnlsZkpUN0lvcE56YmdqbmFnclR0bzhmMk1EaW14ZzNiYndHOGJWNWU4OF9heVI4M3g1LQ?oc=5",
+            "published": "2026-07-17T16:00:00+09:00",
+            "source": "テレビ静岡"
         },
         {
             "company_id": "sekisui_heim",
@@ -1003,13 +1017,6 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：掲示板 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOWd6ZnNuWWdsMTVHcW5KaHpUZGtWREwtSXhtN25xem9qclZuTzFMblpmNU5jOU02YjVLS0d3dlk4TW5ReDNzWFh6SGVuRkNtOFRiRkd6bm5tQQ?oc=5",
-            "published": "2026-07-10T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lVndKa2pldllKbFFQQUFTMXNaX1lJNUhGRTg3RVhsSTFBNkpVS1dFR2t1Um54bzlXLUNoeXlWaG8tRmFWVklhU1I1TU44Rjk1d1V2cmRUZnJEZllhMDh3?oc=5",
@@ -1536,10 +1543,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 株式会社旅行新聞新社",
+            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 旅行新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rU2QyZGJWUzR1WjltZFdiLWZPNFU5V2M5c3NlcXBzSDBNTXhraGRUOFdKeElSc1RWMkF2TGd2VFB6eE10U1BGV3N5LWczQQ?oc=5",
             "published": "2026-07-08T13:51:20+09:00",
-            "source": "株式会社旅行新聞新社"
+            "source": "旅行新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -2172,6 +2179,20 @@
             "source": "Yahoo!ニュース"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "北間楼跡、大和ハウスが取得 金沢、片町スクランブル交差点近く 積水ハウスから、ホテル中心に検討 - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43dGt0bVl2S1BvLXoyYXJvSjU2VU9qRWFkOS1iMHdaNFJNVE92VWxuekdwaml3cmFMSUlVNTFyUnRKMm1RX0RzOGlfOA?oc=5",
+            "published": "2026-07-04T16:00:00+09:00",
+            "source": "47NEWS"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "北間楼跡、大和ハウスが取得 金沢、片町スクランブル交差点近く 積水ハウスから、ホテル中心に検討 ｜経済｜石川のニュース - 北國新聞",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93UGxYQ0tnZ181Q1ZvZ1F3T1VYNmRIaWhkTFZDWUE1d0ltb193YzNkTjdqVzFFQ3IzLXJmdGs5RWQ5dVBPdFlrSEpYdW42ejhQT1lZb0tTMA?oc=5",
+            "published": "2026-07-04T16:00:00+09:00",
+            "source": "北國新聞"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "夏の高校野球長野大会が開幕 全69チーム参加しセキスイハイム松本スタジアムで開会式（信濃毎日新聞デジタル） - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJeUxteE9oRXdrWGE5bXlWZHpxdHI1NVBtcjZnaUFySXIxVFZvRlJ4WjZtTzJlRF8wSkhkSjZuZVkyS1NhRGVxUnY3aWQ1NWJjREFxU0pGVjhnT3JxbFVaZ2ZDY3E5LUhwejY1eWJFVmxzQ2pEanh1LXY5Z19ZLWc?oc=5",
@@ -2261,20 +2282,6 @@
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFdwWDZ3TXRuLVFrc3BoaDgyOXpVb05LYlN1d29UUkE2WFZLTkpMX29SOW16Y3ZBSWpTa0czbFlQZ0w3el8xV2ViN2JENjlNZUs4NFkzemRaSF9yWldSQ1gwZDlobFRCYVIwT3ZXNENFS09CTDM2ZDg4bm95Wkp4a0lxRU8xcUNGTW53dXlR?oc=5",
             "published": "2026-07-04T05:36:41+09:00",
             "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "北間楼跡、大和ハウスが取得 金沢、片町スクランブル交差点近く 積水ハウスから、ホテル中心に検討 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43dGt0bVl2S1BvLXoyYXJvSjU2VU9qRWFkOS1iMHdaNFJNVE92VWxuekdwaml3cmFMSUlVNTFyUnRKMm1RX0RzOGlfOA?oc=5",
-            "published": "2026-07-04T05:04:20+09:00",
-            "source": "47NEWS"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "北間楼跡、大和ハウスが取得 金沢、片町スクランブル交差点近く 積水ハウスから、ホテル中心に検討 ｜経済｜石川のニュース - 北國新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93UGxYQ0tnZ181Q1ZvZ1F3T1VYNmRIaWhkTFZDWUE1d0ltb193YzNkTjdqVzFFQ3IzLXJmdGs5RWQ5dVBPdFlrSEpYdW42ejhQT1lZb0tTMA?oc=5",
-            "published": "2026-07-04T05:00:00+09:00",
-            "source": "北國新聞"
         },
         {
             "company_id": "daiwa_house",
@@ -2802,11 +2809,11 @@
             "source": "新潟日報"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスの展示場・分譲地来場キャンペーン『夏の住宅フェア』開催！ - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvQ0FHRl9hc01NVlFBd0RjMGszUEtwckVzRHg2SVdwdFU4amszaUFuN0R2Y1ZMT1RBVWEwWkMtZ1o4bzNpQzFEa3RMaDJsWVAzVm9uWXNYSXItX1V5ZXFwWXUwYjVJODhma2c?oc=5",
+            "company_id": "sekisui_heim",
+            "title": "高校球児の気分はメジャー？ セキスイハイム松本スタジアムの芝模様をドジャースタジアム風に 長野県松本市 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qa2g2UVBsZHRpRk1oQkI3N0d4dkYwdTh5N0QzWXhndXFTN0FLeHVtb1VUNTF0M2Rwc0FQQi1ZaFJaaDFLUW9QV1RhcW9oaE92T2ZrTXJRaXRuZFRTb1haSjY3cS02TFNjOVRYcjV6UTlIMW8tMDNhcWpTRlNzeGM?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
-            "source": "PR TIMES"
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_heim",
@@ -2819,13 +2826,6 @@
             "company_id": "sekisui_heim",
             "title": "高校球児の気分はメジャー？ セキスイハイム松本スタジアムの芝模様をドジャースタジアム風に 長野県松本市 - Yahoo!ニュース",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlkxZmhFY3VhMmlTWVpIdmxyZ2NMUUdWdkpDRGdhbmtlVUpldERvLWUzRWN6eEY3MUV2b192cmZ1OWlaeEVVdFBJNWs2b2JLZjlaU1ZkT1J1NXJpb3lkdENXQUQwR1M1OWh4Zm1KQlk3MEc2OURNRnJacjBFT3lQcEc0U09oNGk5WHdQWnpR?oc=5",
-            "published": "2026-07-02T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "高校球児の気分はメジャー？ セキスイハイム松本スタジアムの芝模様をドジャースタジアム風に 長野県松本市 - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qa2g2UVBsZHRpRk1oQkI3N0d4dkYwdTh5N0QzWXhndXFTN0FLeHVtb1VUNTF0M2Rwc0FQQi1ZaFJaaDFLUW9QV1RhcW9oaE92T2ZrTXJRaXRuZFRTb1haSjY3cS02TFNjOVRYcjV6UTlIMW8tMDNhcWpTRlNzeGM?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
             "source": "Yahoo!ニュース"
         },
@@ -3915,6 +3915,13 @@
             "source": "朝日新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "「家に帰れば、積水ハウス。」に異変 まさかの「家から飛び立つ」新CM、その“逆転”の裏側、ティファニー ナオミも初起用 - AdverTimes.（アドタイ） by 宣伝会議",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCZzNjclpvTEtwWUp3d1dpa040UmVhTlZCd292cHc1c0QwNkdzLU1PWlVpWnZWZzVnUVNHbVJ4OXZnWTJtdTdrTWtHRFZVNHpza29PWVk5V2poajgwb3VR?oc=5",
+            "published": "2026-06-23T16:00:00+09:00",
+            "source": "AdverTimes.（アドタイ） by 宣伝会議"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "日本最大級の車SNSサイト「みんカラ パーツオブザイヤー2026上半期」で第1位・第4位を同時受賞しました！ - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tSDdZVlVrTTRKc0NlZEd1TTF1NmZhRGp4MGR0ckNVbjVoSkMxUGFPM3hHb2gtSkwxX3RWZlllTlJjY041clBueWp5dDRTRC1iaks4aElIT05KUWlzUzJ0LTgwOFlVckxobXc?oc=5",
@@ -4304,13 +4311,6 @@
             "title": "積水化学工業－丸三が目標株価引き下げ 適用バリュエーションを修正 - Moomoo",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xQ0NTeTQ0aUhNYjFBcUxkYWktZVgwQUhLUHplNnNUaEpqTmZLbFVjTzJoUERBZVVSTlFVcUg1eThLb3RTZlRIUnhRRlhUSERiQy1KY0VRRQ?oc=5",
             "published": "2026-06-19T13:34:20+09:00",
-            "source": "Moomoo"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業－丸三が目標株価引き下げ 適用バリュエーションを修正 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0dyOGF0MXlhNVVBN05obW1Wakxrem53X1Vxc0Jla0RhTkFCSUtzNGxCWGh6dFVYcTRxNGl5Ny1jdHVIU0ItdkdxcUJDdWsxbE5RSW54UzRJTnB3b0dHVy1TOVNDN1RIMm9HXzFUVW85cTktRU1rZ2xaaWcyR24xTldQRWFqZw?oc=5",
-            "published": "2026-06-19T13:26:44+09:00",
             "source": "Moomoo"
         },
         {
