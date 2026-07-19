@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-20T01:53:34.306023+09:00",
+    "generated_at": "2026-07-20T02:54:55.822665+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -387,6 +387,13 @@
             "source": "物流ニュースのLNEWS"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "「DPL大阪南港Ⅰ」を竣工(ニュースリリース) - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTWxZT05iemZyNzlzczFKcXhia3JSMEhfWmxwTHFWdzhremctQU9EUlJ1V3hQeXhyRFBIdjVxSS1iSkVrbDNFdERCWEpIcHpWRHR2R2pHVXFrT2VLVmJPMFptdEtwOTh1SEE?oc=5",
+            "published": "2026-07-15T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "sekisui_heim",
             "title": "ESGを中期経営計画の「稼ぎ頭」に（2ページ目） | 日経ESG - 日経BP",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2UmJzUjdSTjNfRHhRVWJ5by1nTW9STHNxanNvdmZ1N0JaMC1vS1UzUWZ0czluQWt4Vk1uZDA0QXlfZ1ZuUm9HMVZCb3ZwaVVRTDJNM0M4Z1ZzeHBEVlZ0N3pCR0hXZE1TWUpOYm9nYzllMkx3bnc?oc=5",
@@ -574,13 +581,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiYlo2M1Bxc3k2NVE2ZkdHV1ZCc2toWU9aS0ozYnhFNVY5V2k1WVVSTHV0ZXpORkFKN3ExMHRUZm1fb2FaODB6allnS0ZkN1YxTkJKelhmRVhPZ08zaUE?oc=5",
             "published": "2026-07-14T14:11:00+09:00",
             "source": "新潟日報"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "「DPL大阪南港Ⅰ」を竣工(ニュースリリース) - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTWxZT05iemZyNzlzczFKcXhia3JSMEhfWmxwTHFWdzhremctQU9EUlJ1V3hQeXhyRFBIdjVxSS1iSkVrbDNFdERCWEpIcHpWRHR2R2pHVXFrT2VLVmJPMFptdEtwOTh1SEE?oc=5",
-            "published": "2026-07-14T14:10:35+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -1543,10 +1543,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 株式会社旅行新聞新社",
+            "title": "住友林業グループのLeTech、大阪で滞在型ホテル2棟を開業 自社運営を開始 - 旅行新聞",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rU2QyZGJWUzR1WjltZFdiLWZPNFU5V2M5c3NlcXBzSDBNTXhraGRUOFdKeElSc1RWMkF2TGd2VFB6eE10U1BGV3N5LWczQQ?oc=5",
             "published": "2026-07-08T13:51:20+09:00",
-            "source": "株式会社旅行新聞新社"
+            "source": "旅行新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -2803,10 +2803,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスの展示場・分譲地来場キャンペーン『夏の住宅フェア』開催！ - 共同通信PRワイヤー",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIWkNzTzhDdmNVN2QxN2JBb2ptUWJkODlTOUZ6ZExKREVINjN6QzhYb1FsUFNPMVpWZ1pWbkJrRk9iY0poNW1JRUZSV0NRY0VMaTdRWnlIV2o4QkU?oc=5",
+            "title": "大和ハウスの展示場・分譲地来場キャンペーン『夏の住宅フェア』開催！ 大和ハウス工業株式会社 - 新潟日報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzN1pCTXNEVzdRZTY5MkRMMWt4UnY5SmVxdnRVYlZ4R2RrVlRnRkdDOE9ZN3NqYnFNUXRDQ1pzR0hFQTZmbWkxTTBrQXNNcndNQmRia084aEVLWFJsYVE?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
-            "source": "共同通信PRワイヤー"
+            "source": "新潟日報"
         },
         {
             "company_id": "sekisui_heim",
@@ -3713,10 +3713,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム・経営方針発表会、6つの資本で価値創出=市場規模に応じて組織再編 - 住宅産業新聞",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hZWpPN1NMdTdXNG02OGRTMS0zVHlFejVfM3BpZm9ZazI0ejhIellWclQ2ZU9uTXcxeGtQYlVoWllVNmtJT2dDaXVzSXLSAUxBVV95cUxNYWVqTzdTTHU3VzRtNjhkUzEtM1R5RXo1XzNwaWZvWWsyNHo4SHpZVnJUNmVPbk13MXhrUGJVaFpZVTZrSU9nQ2l1c0ly?oc=5",
+            "title": "対面会話解析AI「MiiTel RecPod」、AIビジネスアシスタント「MiiTel Synapse」がミサワホーム北越に導入 - 株式会社RevComm",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcFNYQXNGc3I3MEV3T3hLWHlPLXZWelA5amxjdGVHaGtrVUhldWJNQkd6bWdqMkduYVc4TUthMmg4LVBoYzlTeW9abi01elJZS0FPSFdoY0piUldFdXNxUFZNT2M?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
-            "source": "住宅産業新聞"
+            "source": "株式会社RevComm"
         },
         {
             "company_id": "misawa_home",
@@ -3724,6 +3724,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LblRFMzE0dk16WHNxd1BuNTBsY295bGwzQm9rdkhfT2FMYXdfSEh2STF1bHdjMTBZU0lHbmhfVDVfbndmWXZCSWp5TURkX2pCSjNteDR4RUNPdnN2cTlwUjJiOG1iX25nZkE?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "ミサワホーム・経営方針発表会、6つの資本で価値創出=市場規模に応じて組織再編 - 住宅産業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hZWpPN1NMdTdXNG02OGRTMS0zVHlFejVfM3BpZm9ZazI0ejhIellWclQ2ZU9uTXcxeGtQYlVoWllVNmtJT2dDaXVzSXLSAUxBVV95cUxNYWVqTzdTTHU3VzRtNjhkUzEtM1R5RXo1XzNwaWZvWWsyNHo4SHpZVnJUNmVPbk13MXhrUGJVaFpZVTZrSU9nQ2l1c0ly?oc=5",
+            "published": "2026-06-25T16:00:00+09:00",
+            "source": "住宅産業新聞"
         },
         {
             "company_id": "misawa_home",
@@ -3766,13 +3773,6 @@
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1GcG5vbnUwSncyd0toRGFJN2QtQWM3MFJVS0tESHBDTUhScUxIamtYWWdXdzV0bDVGOUUwZzl4UE1lQlU?oc=5",
             "published": "2026-06-25T11:05:43+09:00",
             "source": "Digital PR Platform"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "対面会話解析AI「MiiTel RecPod」、AIビジネスアシスタント「MiiTel Synapse」がミサワホーム北越に導入 - 株式会社RevComm",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcFNYQXNGc3I3MEV3T3hLWHlPLXZWelA5amxjdGVHaGtrVUhldWJNQkd6bWdqMkduYVc4TUthMmg4LVBoYzlTeW9abi01elJZS0FPSFdoY0piUldFdXNxUFZNT2M?oc=5",
-            "published": "2026-06-25T11:01:17+09:00",
-            "source": "株式会社RevComm"
         },
         {
             "company_id": "hebel_haus",
