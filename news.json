@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-07-20T05:09:52.027968+09:00",
+    "generated_at": "2026-07-20T06:47:17.096457+09:00",
     "articles": [
         {
             "company_id": "hebel_haus",
@@ -605,17 +605,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス、大和証が「２」に格下げ(ウエルスアドバイザー) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcE5DcFcyS3ZMYjYzYm9YQjA4WWlRZTZ3Q0RTZEI3S05yZTVaMVZ2a0Fkbmd1M19Vd1hxdW5VRVhmLU9QTEdoRFBrMHFLRnlqeU1qeTJIUGFXSm5tb05paFYzQ2oxU1hwalBfOEhvR1NxOFNBUVdxbjR5b1pxOHJKZEdXelNVNGc?oc=5",
-            "published": "2026-07-14T14:02:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス、大和証が「２」に格下げ 速報 - kabushiki.jp",
             "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95RE5NZnUxNTllOHItRWtDTkZ1RVdoWFdpeFUteFR3Slp3NW1xLXdickpGS21zQ1dQWjZEa2RGNFgxMktXX29F?oc=5",
             "published": "2026-07-14T14:02:00+09:00",
             "source": "kabushiki.jp"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、大和証が「２」に格下げ(ウエルスアドバイザー) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcE5DcFcyS3ZMYjYzYm9YQjA4WWlRZTZ3Q0RTZEI3S05yZTVaMVZ2a0Fkbmd1M19Vd1hxdW5VRVhmLU9QTEdoRFBrMHFLRnlqeU1qeTJIUGFXSm5tb05paFYzQ2oxU1hwalBfOEhvR1NxOFNBUVdxbjR5b1pxOHJKZEdXelNVNGc?oc=5",
+            "published": "2026-07-14T14:02:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "ichijo_komuten",
@@ -3727,13 +3727,6 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "対面会話解析AI「MiiTel RecPod」、AIビジネスアシスタント「MiiTel Synapse」がミサワホーム北越に導入 - 株式会社RevComm",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcFNYQXNGc3I3MEV3T3hLWHlPLXZWelA5amxjdGVHaGtrVUhldWJNQkd6bWdqMkduYVc4TUthMmg4LVBoYzlTeW9abi01elJZS0FPSFdoY0piUldFdXNxUFZNT2M?oc=5",
-            "published": "2026-06-25T16:00:00+09:00",
-            "source": "株式会社RevComm"
-        },
-        {
-            "company_id": "misawa_home",
             "title": "対面会話解析AI「MiiTel RecPod」、AIビジネスアシスタント「MiiTel Synapse」がミサワホーム北越に導入 - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LblRFMzE0dk16WHNxd1BuNTBsY295bGwzQm9rdkhfT2FMYXdfSEh2STF1bHdjMTBZU0lHbmhfVDVfbndmWXZCSWp5TURkX2pCSjNteDR4RUNPdnN2cTlwUjJiOG1iX25nZkE?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
@@ -3745,6 +3738,13 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hZWpPN1NMdTdXNG02OGRTMS0zVHlFejVfM3BpZm9ZazI0ejhIellWclQ2ZU9uTXcxeGtQYlVoWllVNmtJT2dDaXVzSXLSAUxBVV95cUxNYWVqTzdTTHU3VzRtNjhkUzEtM1R5RXo1XzNwaWZvWWsyNHo4SHpZVnJUNmVPbk13MXhrUGJVaFpZVTZrSU9nQ2l1c0ly?oc=5",
             "published": "2026-06-25T16:00:00+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "対面会話解析AI「MiiTel RecPod」、AIビジネスアシスタント「MiiTel Synapse」がミサワホーム北越に導入 - 株式会社RevComm",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcFNYQXNGc3I3MEV3T3hLWHlPLXZWelA5amxjdGVHaGtrVUhldWJNQkd6bWdqMkduYVc4TUthMmg4LVBoYzlTeW9abi01elJZS0FPSFdoY0piUldFdXNxUFZNT2M?oc=5",
+            "published": "2026-06-25T16:00:00+09:00",
+            "source": "株式会社RevComm"
         },
         {
             "company_id": "misawa_home",
