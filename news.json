@@ -1,12 +1,33 @@
 {
-    "generated_at": "2026-07-28T17:26:54.953023+09:00",
+    "generated_at": "2026-07-28T20:13:19.915977+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業が奈良県と包括連携協定 スポーツ振興などで地域活性化 - 奈良新聞",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqXzM1d25BbF9MdkZTcUF1Y0phTTlySmd1S1NiMzE1SzJjOUR5U1ZLeWhqVW5EOWpaTzVxcGp3c0dOakx5UDg1TUtWSFF2OVMwNGMzX0sxbWlTdGNvRGxN?oc=5",
+            "published": "2026-07-28T19:52:16+09:00",
+            "source": "奈良新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業が奈良県と包括連携協定 スポーツ振興などで地域活性化 - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2U09BS3dVVjItWlJpS3dSSHNsd25XRU9aeEZ6TVlkejdvODROM1hGeXM3YmVMd01WeThQcFNqR2JvTDJrbHNramwySQ?oc=5",
+            "published": "2026-07-28T16:43:27+09:00",
+            "source": "47NEWS"
+        },
         {
             "company_id": "daiwa_house",
             "title": "「ダイワロイネットホテル松江駅前」、8月6日(木)いよいよオープン (ニュースリリース) - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nMjY4NzVMZFdWQkxMWl9oTEVkQkQ5SlR5UnFxeVhqMDAzMkxDWHNaRTNITzBYcGE5aVNxN202VEQ0SmRZZl9GRFRqUmhPendwdjg4QlhUVHVrVWpJdkE2WGJxc3piOHdsLXc?oc=5",
             "published": "2026-07-28T13:53:40+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tTmR6dWZuaUF6UEQxcTZVblhhMzdqd2l0eE43OURLakJveTNwUjdWbFZfNTBGR1BDb2dvSG1CdVpHNk5CSzRnc1pEUGRDNnFJUXl2ZnhQUjYxU3R0TlRr?oc=5",
+            "published": "2026-07-28T11:55:36+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -249,14 +270,14 @@
         {
             "company_id": "mitsui_home",
             "title": "三井ホーム「注文住宅から木造建築へ」社長が語る展望――牛舎や茶工場、交番や病院…非住宅建築で全国展開 - 南日本新聞",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2MHhBbjIxTF9JOEdhcUtwSkliQzc0ejBlTmNTbFpVUTRoRU1BeVNaODNTODREUWp5TEpJZlVKMmxoX2ctR1dHN3pWTC1KR04tOHd3Yjh6OWo?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YT3dMcTRnN0o1aE9vUklqQ3JGemhJZC1WRjZ0aUZZUnoxbWJtMFRySWpEWEpTQmdmZmlYOU1UQ18xN2ZGejZaN1l0NlUxSjRLRW5qaHJfWQ?oc=5",
             "published": "2026-07-26T16:30:00+09:00",
             "source": "南日本新聞"
         },
         {
             "company_id": "mitsui_home",
             "title": "三井ホーム「注文住宅から木造建築へ」社長が語る展望――牛舎や茶工場、交番や病院…非住宅建築で全国展開 - 南日本新聞",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YT3dMcTRnN0o1aE9vUklqQ3JGemhJZC1WRjZ0aUZZUnoxbWJtMFRySWpEWEpTQmdmZmlYOU1UQ18xN2ZGejZaN1l0NlUxSjRLRW5qaHJfWQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2MHhBbjIxTF9JOEdhcUtwSkliQzc0ejBlTmNTbFpVUTRoRU1BeVNaODNTODREUWp5TEpJZlVKMmxoX2ctR1dHN3pWTC1KR04tOHd3Yjh6OWo?oc=5",
             "published": "2026-07-26T16:30:00+09:00",
             "source": "南日本新聞"
         },
@@ -727,13 +748,6 @@
             "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncEZpdVVfdUZOMWx5VlhiaXA5LUEwNXZXVkRXbXprZTVsNGlKWi1GQWFmZWpPaThMZ043aGk2QVQ1LVlrUUw4Q01RdkQ2ampQYXpPNjhFVnRPMTkxekFn?oc=5",
             "published": "2026-07-24T15:58:13+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tTmR6dWZuaUF6UEQxcTZVblhhMzdqd2l0eE43OURLakJveTNwUjdWbFZfNTBGR1BDb2dvSG1CdVpHNk5CSzRnc1pEUGRDNnFJUXl2ZnhQUjYxU3R0TlRr?oc=5",
-            "published": "2026-07-24T15:55:47+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -1801,13 +1815,6 @@
             "source": "47NEWS"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "災害時支援で協定 伊達市と大和ハウス工業など - 福島民報デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tSE5mM3RzcWVWRzZBTjJISlVGemV1VHA5ZlEwaTJ5RDhyelE4WEgwZGlMUWFvandJdkItNExRLWltWl9IcmgxNXJrYmZiazQ?oc=5",
-            "published": "2026-07-18T11:00:00+09:00",
-            "source": "福島民報デジタル"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZmlJbk9DdU9YYVFPRVB6MFQ0bEEwZV9fcHNpU1FldVVmZHlUVTRQSGZxSXJCOE1Md1RUOU5xc1dhb1hoSm85SFFkM09MZkFPRFZMMlVNdzRKYjRJQ1NrZ1RjN0I5RUJrX0FXQ1hB?oc=5",
@@ -1829,18 +1836,18 @@
             "source": "ニコニコニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "北海道コンサドーレ札幌 - Ｊリーグ公式サイト",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93dTNDRmRkLVg3NllWRXFoZnFEZDlueDJuQWdXM3hTM2syX1B2ZnFNLUJ5bHJ1dHhoekJlSTNHZnJIUkhMdVJ5NGFZamk?oc=5",
-            "published": "2026-07-17T22:05:00+09:00",
-            "source": "Ｊリーグ公式サイト"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "マゼックス、住友林業との連携により林業向け運搬ドローンの普及を加速 - フーズチャネル",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVaEUtZU9vd1JneklUWjRJYmVHRFBpRm02aHVWU3M1WjAzbVBKSldZYTJ5aUM2Q3BYMDVlckNudEtfdDlTRlUyT2Uxc3ZNMHJDeDJYcVpn?oc=5",
             "published": "2026-07-17T16:45:16+09:00",
             "source": "フーズチャネル"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
+            "published": "2026-07-17T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1874,13 +1881,6 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業(株)【1911】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
-            "published": "2026-07-17T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
             "published": "2026-07-17T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -2123,13 +2123,6 @@
             "source": "SBSマイホームセンター"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、VARIETASの「AI面接官」を導入 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1leUVJWktmY2JYSktZdUd5YWgyTXBsTnc5WDFXT3RQSjE5M01ZQmRFTE5CWEI2UFpUN2tRMXc2TExiXzNPSkYxbHRIM0lmRWhSMWhvdGRONU1HRnp0a2t0cmZ4OE80aWFmbUE?oc=5",
-            "published": "2026-07-14T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "レーティング変更観測＞新規・九州電／さくら格上げ、積水ハウス格下げなど(ウエルスアドバイザー) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEs1TExIVmVGNlZOZ0xMcDIzakV2d09mZy1lZ0xxRm9UUUJTMm5Qd2x4bms4WWxpN1k2X0FJLVNVM1lkSGllNzlPbGc0bTNjRUVkWVlCQ012X0pJSTZPWjZrVFdMeUEwSXJid2dqcUs4WGZmdjJXalFqbFlZVzZJU1FLYnMxVkE?oc=5",
@@ -2145,13 +2138,6 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス、生物多様性に配慮した積水ハウスの庭づくり「５本の樹」計画 25年間の成果をまとめたホワイトペーパーを7月14日より公開 - 沖縄タイムス社",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xeGNPaDg5VzJFZzRfbmpqQW5vZE1xMGpXcWlmcUZndndDY2gtYkNiT1gzV01BLVZHR2JIUlpaNlh6czc1Sm5UQWJtZnlhcjNSQkRZb01ScVZwQ2tUSHc?oc=5",
-            "published": "2026-07-14T16:00:00+09:00",
-            "source": "沖縄タイムス社"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "前場コメント No.4 プレイド、積水ハウス、ブックオフＧＨ、キオクシアＨＤ、良品計画、ｍｏｎｏＡＩ(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzhvRk03YTdBS3FJbmZUNllNN0I2SnFTc3BxYnVJNlM4OV9mVUhiLVoyVkdyb0dmUFhwRzZldUMtU2xoX0dpLWc2cFl4WUhIamRlbXV2Q2podGZadzVNVUdoODZOU0xtRTN4Nlp4bzhvb0czUklzaHN5QmpCTktFMFZUZXkzSnM?oc=5",
             "published": "2026-07-14T16:00:00+09:00",
@@ -2159,10 +2145,24 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス、生物多様性に配慮した積水ハウスの庭づくり「５本の樹」計画 25年間の成果をまとめたホワイトペーパーを7月14日より公開 - 沖縄タイムス社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xeGNPaDg5VzJFZzRfbmpqQW5vZE1xMGpXcWlmcUZndndDY2gtYkNiT1gzV01BLVZHR2JIUlpaNlh6czc1Sm5UQWJtZnlhcjNSQkRZb01ScVZwQ2tUSHc?oc=5",
+            "published": "2026-07-14T16:00:00+09:00",
+            "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス－大和が投資判断を引き下げ 内外の不透明感や相対株価推移に注目〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEZISFpYcjc0Y3BrQ0tGV3lRT0pmSmdYQkZ6VnRjdlBHczJ1NjFtUFcxMk9fUzVRZ1hqbE9uX0hfeGJuakVwUkc4bkhBRENvckVCOUh3N0Fibmh5UGNjblk2NXpFVERkazBZV1YtZ0Joei0zaTVNbG9SVGZoV3JuUU5OWVBSTm8?oc=5",
             "published": "2026-07-14T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業、VARIETASの「AI面接官」を導入 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1leUVJWktmY2JYSktZdUd5YWgyTXBsTnc5WDFXT3RQSjE5M01ZQmRFTE5CWEI2UFpUN2tRMXc2TExiXzNPSkYxbHRIM0lmRWhSMWhvdGRONU1HRnp0a2t0cmZ4OE80aWFmbUE?oc=5",
+            "published": "2026-07-14T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "ichijo_komuten",
@@ -2445,20 +2445,6 @@
             "source": "東洋経済オンライン"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業グループ、大阪に新たな滞在型ホテル2軒を開業、全室キッチン付きの滞在型（トラベルボイス） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NnI1X1hqTzUzWEs3eEpwN3VRcU1FekNYbkJfRUo2N2tiZGMwbUp4VGVPWC15Sk1nZm1nTEpfMURGTW1IZWhUYjIzRXNKbmNPd0hCM1ZZbWstSGtKLUZWNUZmTlRfXzkyQk5XRmkzeFp4cjY5OUx0X2ppVVlyajQ?oc=5",
-            "published": "2026-07-10T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業グループ、大阪に新たな滞在型ホテル2軒を開業、全室キッチン付きの滞在型 (トラベルボイス) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmJJT0hmRHJSWWw4UVJKSzl5c1Z5MFlHN2lwQkxZalVsbVpLT3lwMGRwTEZweW4yVjZJemJXdms0dC0zd3dpSVhuVXB6enI5eDc4OFd6YXhSN09EQVh2SDhoM192XzVNWGtkbVVJNVg5SDBEMVV6R0Itb0VDa25fa1otbkY0cURNeVFEeDlB?oc=5",
-            "published": "2026-07-10T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "【積水ハウス】コモンステージ大南分譲地見学会開催 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwa1lXUW1SdkNWYkFDN3BFeUV0UGN1R25UZHlKTjZ3OFdReUxKd2xvTGVNRUxfRC1DelZ6U0FMVTVHanRuS0s4b3l1Z0lxQ2plbGs1R0ZNbG00Slo4VFU0NV9mcVo?oc=5",
@@ -2471,6 +2457,20 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16N2JaR1psZ25hcEdzRHVjMzlIcUNMYTRRcXhsZkM5ZDZybnVfZU8xbXhKYTRpd0c1MWFCMlRScG5tUnM0V3p5VHhCZmF1VUhIbndZNDljVXZkUHNFdGRxNg?oc=5",
             "published": "2026-07-10T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業グループ、大阪に新たな滞在型ホテル2軒を開業、全室キッチン付きの滞在型（トラベルボイス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56NnI1X1hqTzUzWEs3eEpwN3VRcU1FekNYbkJfRUo2N2tiZGMwbUp4VGVPWC15Sk1nZm1nTEpfMURGTW1IZWhUYjIzRXNKbmNPd0hCM1ZZbWstSGtKLUZWNUZmTlRfXzkyQk5XRmkzeFp4cjY5OUx0X2ppVVlyajQ?oc=5",
+            "published": "2026-07-10T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業グループ、大阪に新たな滞在型ホテル2軒を開業、全室キッチン付きの滞在型 (トラベルボイス) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmJJT0hmRHJSWWw4UVJKSzl5c1Z5MFlHN2lwQkxZalVsbVpLT3lwMGRwTEZweW4yVjZJemJXdms0dC0zd3dpSVhuVXB6enI5eDc4OFd6YXhSN09EQVh2SDhoM192XzVNWGtkbVVJNVg5SDBEMVV6R0Itb0VDa25fa1otbkY0cURNeVFEeDlB?oc=5",
+            "published": "2026-07-10T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_heim",
