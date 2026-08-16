@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-08-16T23:17:39.633037+09:00",
+    "generated_at": "2026-08-17T00:16:42.263250+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス、シンガポールで住宅・商業一体の大規模複合開発を始動 - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tV0dYaWxuMkIza3AyZFR2Tkt3ZWRwdTBxYWRJTktMRDluZ09OZ215ZUpOOUFNNWxWM2tLMmpvY09LZTc3SzVGRHdBVHBpWG4tekhUYzhyb3htVkx3aFpr?oc=5",
+            "published": "2026-08-16T21:19:24+09:00",
+            "source": "千葉テレビ放送"
+        },
         {
             "company_id": "sumitomo_forestry",
             "title": "住友林業/ホームエコ・ロジ 神奈川・厚木に初の自社運営物流施設 | ロジスティクス | ニュース - daily-cargo.com",
@@ -66,10 +73,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "〈令和8年熊本地震〉「耐震等級3だから安心」は危険…「大地震に強い家」の本当の条件とは？ - ダイヤモンド・オンライン",
+            "title": "〈令和8年熊本地震〉「耐震等級3だから安心」は危険…「大地震に強い家」の本当の条件とは？ - diamond.jp",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95TFNGUm5GNnBkYjhLRW9HN3M2WlN6QmFKRHI5MXRDb2tWNl9HLW9oWEd4RFYwVjhBUFJhTlZESVQ4YzFTMDdfWENnTzNaWDU0ZV9pc1FR0gFPQVVfeXFMT2ZXcElGT3N1UENvNklsRk1FTjVjY3FmeXI1MkdkVmJwUklPN1kwdUlFdUlTSFpFc0RfaFNfS0c3YU45a2xmNExuZkRnMWVCbw?oc=5",
             "published": "2026-08-15T06:00:00+09:00",
-            "source": "ダイヤモンド・オンライン"
+            "source": "diamond.jp"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -100,6 +107,27 @@
             "source": "Yahoo!ファイナンス"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：配当情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkNReDdnRGlSR21TaUJYVTF0TlZMMi10WHc0Z2duT2hfb2dqcVp2NTFHZ1Y3T1p5M2RsdDU2aUJuOGxtU1VXbWFNRnNKMFQzQzRhWkdwcThIeXZTVmc?oc=5",
+            "published": "2026-08-14T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOWd6ZnNuWWdsMTVHcW5KaHpUZGtWREwtSXhtN25xem9qclZuTzFMblpmNU5jOU02YjVLS0d3dlk4TW5ReDNzWFh6SGVuRkNtOFRiRkd6bm5tQQ?oc=5",
+            "published": "2026-08-14T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
+            "published": "2026-08-14T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業(株)【1911】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMkUtWjFpU3RmWDJVYm9DRGk5X25YLXM5bVVMTWN1MUlxLUNxcDRodDFCV0pITDdndXpXbm1Sb1VwYnk5blJCWEh6M3ZiV0RsREVfYjBobEJSUQ?oc=5",
@@ -124,27 +152,6 @@
             "company_id": "daiwa_house",
             "title": "大和ハウス工業(株)【1925】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FY1NWVklDa1JOMnJlVHhQcDZuZ3E0b3FoNk0tR215VzQ0dzYzejV6aDBjYndGUlBrZkNiMjVadlh1MjJyWGRQeTZYOUlia3ViWk1HSXZ0V3k5QQ?oc=5",
-            "published": "2026-08-14T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
-            "published": "2026-08-14T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：配当情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkNReDdnRGlSR21TaUJYVTF0TlZMMi10WHc0Z2duT2hfb2dqcVp2NTFHZ1Y3T1p5M2RsdDU2aUJuOGxtU1VXbWFNRnNKMFQzQzRhWkdwcThIeXZTVmc?oc=5",
-            "published": "2026-08-14T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：掲示板 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOWd6ZnNuWWdsMTVHcW5KaHpUZGtWREwtSXhtN25xem9qclZuTzFMblpmNU5jOU02YjVLS0d3dlk4TW5ReDNzWFh6SGVuRkNtOFRiRkd6bm5tQQ?oc=5",
             "published": "2026-08-14T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -374,10 +381,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "【写真・画像】ぬくもり伝わる家族の絵 ミサワホーム佐賀 | まちの話題 | 佐賀県のニュース - saga-s.co.jp",
+            "title": "【写真・画像】ぬくもり伝わる家族の絵 ミサワホーム佐賀 | まちの話題 | 佐賀県のニュース - 佐賀新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FVEV2SlU5ZVoyX29Dc3E3djJaNE5fSmtxSzc5U1czYTg0ZE05bmRaNDRxN1VTY1BYOERoRC02a3dYYTIydjU3YUl6VXgzX2lJbE5hZ3FlOGk1OGs?oc=5",
             "published": "2026-08-12T11:23:52+09:00",
-            "source": "saga-s.co.jp"
+            "source": "佐賀新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -843,10 +850,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "高校の閉庁日に学びを支援 ミサワホーム佐賀が高校生向け自習スペース開放【佐賀県】｜佐賀のニュース - サガテレビ",
+            "title": "高校の閉庁日に学びを支援 ミサワホーム佐賀が高校生向け自習スペース開放【佐賀県】｜佐賀のニュース - sagatv.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53SUlmSVp4YVR6NWkweHlZUUdRdFY5RlVkYWtOdWRoT2pMSldxQ1JVYkZnSFktVTBkTS1VX2NVWGRhUDg4eVJBZFVFbFlwVk5CRGxhNUpSVXFrdFRiYUxQZFlR?oc=5",
             "published": "2026-08-07T18:12:00+09:00",
-            "source": "サガテレビ"
+            "source": "sagatv.co.jp"
         },
         {
             "company_id": "misawa_home",
@@ -905,6 +912,13 @@
             "source": "全国賃貸住宅新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "実務家マーケターはAIをどこでどう使う？積水ハウス イノコム CROが実践する「5Sフレームワーク」 (1/3) - MarkeZine（マーケジン）",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04LUJxRzBOUHZ6RGE2aWx3enZ1LXg1cnJCNUZRR1RKaEZYdUNRb1NzdWZvQXdFUEF4YlFMdndVNGN3YUhQR18yYlkxY2VPckRxU0Nz?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "MarkeZine（マーケジン）"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：業績予想の修正に関するお知らせ 2026年8月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yM2hiYWNxVHZpQVgxUFNTYjdSREt3cHNJNUxOY0pndUN4eXdyVFBSbXBvYmtySGs0Z0lrZUpwTTRYMDJTeUkta3ZqVGpvSGl6OVo4ZmlNekc3RVZGSDQ3VmV0aHNMSFp5aFE?oc=5",
@@ -952,13 +966,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HMmp1U2N2ZXZPYkplWW1GdmdnYnUzQVh3bTcwV1k3Qm5nN3RCNERvWGQ5UUhXYzBRUDNsY2syTFNFeGgwRjd5aWRFTEpEUGxHRkZtOG9XY2l1X2N2TWtv?oc=5",
             "published": "2026-08-07T16:00:00+09:00",
             "source": "finance.yahoo.co.jp"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "実務家マーケターはAIをどこでどう使う？積水ハウス イノコム CROが実践する「5Sフレームワーク」 (1/3) - MarkeZine（マーケジン）",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04LUJxRzBOUHZ6RGE2aWx3enZ1LXg1cnJCNUZRR1RKaEZYdUNRb1NzdWZvQXdFUEF4YlFMdndVNGN3YUhQR18yYlkxY2VPckRxU0Nz?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "MarkeZine（マーケジン）"
         },
         {
             "company_id": "sekisui_heim",
@@ -1241,41 +1248,6 @@
             "source": "ニコニコニュース"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業／物流子会社が神奈川県厚木市に拠点開設、住宅建設資材の供給効率化へ - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13TGdHSEU4OFNBc29iVWhvRVI1cDk0czNDNGxRZ0NJQ2hnX1VUb21NNmZIUllIVWtvN0hFNUFZX3dmLWJRbFZxTjA2NklBLTAyRjlzTw?oc=5",
-            "published": "2026-08-06T16:00:00+09:00",
-            "source": "物流ニュースのLNEWS"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業が自社グループ運営の物流拠点 神奈川県に、建材を一括出荷 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUF9LRjROdzVSenZsalBlZTdtMnAyZmNNbmxhRW9CZUszSmh3X2N5NGhXS2tZWUNERnFsVjlBS192MjYtUnMtdklmSXpDS0Fta19MY2ZIeUcyUTB2YnpnbERRNjFva0duRFFpNQ?oc=5",
-            "published": "2026-08-06T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス子会社、12年半の不正で地盤調査816件を偽装 外構路盤が沈下 - business.nikkei.com",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vYjZrX0Q0MF82N1lmeHZDek51dFVRNVdUZVZ1MWxjYXUwQUJlQmRUbXJod3VsRDFrSXpkMkxGcWo3UlIzUXA2SmV6Vk5VcFpOaEhCQjhXcjdHWU9tb2lmSHY1N2d1LW8?oc=5",
-            "published": "2026-08-06T16:00:00+09:00",
-            "source": "business.nikkei.com"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、今期経常を18％上方修正、配当も1円増額 - 株探",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KMTlyaVhJdjdPY05qWEVQd0Z6WXVmdWJyUFRHc3hzVzZMRDZPWTJ2VHMzRmFRdExRSXBHeFFnVzFiVXg1RGJmLXliMDJFcTJnM0E?oc=5",
-            "published": "2026-08-06T16:00:00+09:00",
-            "source": "株探"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "業績修正（大引け後）－三菱マテリアル、ＪＸ金属、大和ハウス、楽天銀行など(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmltWVg5SGtkcDg0eU5hTjRPYzl5aFM2bHNmc1pvMmNOYVlnWFEwc3ZxbWJNNmcxUlFEOVEtdjJHR0o4LUY0emJKcjJvNWI3WlRTd1lWSjlTVjVxRjV4T0hhUTFlcjBUNktCZFA1MG15eTcyM2pnOGhiZjczS0Z1SXgwMHlYTlE?oc=5",
-            "published": "2026-08-06T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、ブラックロック・ジャパンと共同保有者の保有割合が７．７３％に上昇 速報 - kabushiki.jp",
             "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhWllVR0pMNGlVMUJQN2RCWjROQnFyZ3h1VndHRWxQRUdEUnpWOTFTdzN2ZjhITlNOLVNhWTVuZUJGS21iODE4?oc=5",
@@ -1302,6 +1274,41 @@
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lTFMyS0I4MjNuQnVZR2lwOUZ1R294aU5DaWtBM0xTeTNXcU1FVVEwNlZpMGYyRngzdXN5UlVJNWYtMmZNMDJDLTc0ZnlZcm54QW82bmttakRSMTQ0eExKVlV3ZjlHV3Br?oc=5",
             "published": "2026-08-06T16:00:00+09:00",
             "source": "毎日新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業／物流子会社が神奈川県厚木市に拠点開設、住宅建設資材の供給効率化へ - 物流ニュースのLNEWS",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13TGdHSEU4OFNBc29iVWhvRVI1cDk0czNDNGxRZ0NJQ2hnX1VUb21NNmZIUllIVWtvN0hFNUFZX3dmLWJRbFZxTjA2NklBLTAyRjlzTw?oc=5",
+            "published": "2026-08-06T16:00:00+09:00",
+            "source": "物流ニュースのLNEWS"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業が自社グループ運営の物流拠点 神奈川県に、建材を一括出荷 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUF9LRjROdzVSenZsalBlZTdtMnAyZmNNbmxhRW9CZUszSmh3X2N5NGhXS2tZWUNERnFsVjlBS192MjYtUnMtdklmSXpDS0Fta19MY2ZIeUcyUTB2YnpnbERRNjFva0duRFFpNQ?oc=5",
+            "published": "2026-08-06T16:00:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス子会社、12年半の不正で地盤調査816件を偽装 外構路盤が沈下 - 日経ビジネス電子版",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vYjZrX0Q0MF82N1lmeHZDek51dFVRNVdUZVZ1MWxjYXUwQUJlQmRUbXJod3VsRDFrSXpkMkxGcWo3UlIzUXA2SmV6Vk5VcFpOaEhCQjhXcjdHWU9tb2lmSHY1N2d1LW8?oc=5",
+            "published": "2026-08-06T16:00:00+09:00",
+            "source": "日経ビジネス電子版"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス、今期経常を18％上方修正、配当も1円増額 - 株探",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KMTlyaVhJdjdPY05qWEVQd0Z6WXVmdWJyUFRHc3hzVzZMRDZPWTJ2VHMzRmFRdExRSXBHeFFnVzFiVXg1RGJmLXliMDJFcTJnM0E?oc=5",
+            "published": "2026-08-06T16:00:00+09:00",
+            "source": "株探"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "業績修正（大引け後）－三菱マテリアル、ＪＸ金属、大和ハウス、楽天銀行など(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmltWVg5SGtkcDg0eU5hTjRPYzl5aFM2bHNmc1pvMmNOYVlnWFEwc3ZxbWJNNmcxUlFEOVEtdjJHR0o4LUY0emJKcjJvNWI3WlRTd1lWSjlTVjVxRjV4T0hhUTFlcjBUNktCZFA1MG15eTcyM2pnOGhiZjczS0Z1SXgwMHlYTlE?oc=5",
+            "published": "2026-08-06T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "daiwa_house",
@@ -1332,20 +1339,6 @@
             "source": "finance.yahoo.co.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業[1925]：2027年３月期業績予想・配当予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQ0doSVZVNFlnRW9NNWVHNkNVNjY4Nm9CckFkenlJelpzazM1clYwaWhYa29DM2ZOdTNsMk9DTHk5dXBqOUZPYXNvVXVGWHFibnNoVHJrNGNFOWt2ZXJlOHB3WDJSaEtTWHc?oc=5",
-            "published": "2026-08-06T15:30:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "ハウス - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1YzcFFSOTJnQzdRRHQwZ2dIU0JQZXBNWFk3TEo4SW1GcXl1UTFDMXpLd2xmVzFaZC1IcDdmR3l0LVV4MHNrMGZiSWZiMEhRVmlyYjhYNkJqOHk5UVNwZ0JuamJHZWVxdUE?oc=5",
-            "published": "2026-08-06T15:30:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "リスキリングを福利厚生で終わらせない。積水ハウスが目指す\"キャリア自律経営\"とは - 共同通信PRワイヤー",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42cWtyUlBKdEVKUF94TFQ2aW4xNlNYRzM4aUh1aTc5d01DYjU1VW5sYWVxaktQQjU1U081YjFDbG42STJ4dXlGWlkyNDg5NUhJMHRYS091QUg1Znc?oc=5",
@@ -1358,6 +1351,20 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HcWRobXZpdkREZGcxRS0tQVFGZjI2cHRqVmhRYm5GNUxRRnc2b25ZdWRkTVFYMG5nUDhTYzRMUmRCMndHZy1jWFdBc0hoTUEybzJfNVVFaXlkazF1QWc?oc=5",
             "published": "2026-08-06T15:30:00+09:00",
             "source": "新潟日報"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業[1925]：2027年３月期業績予想・配当予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQ0doSVZVNFlnRW9NNWVHNkNVNjY4Nm9CckFkenlJelpzazM1clYwaWhYa29DM2ZOdTNsMk9DTHk5dXBqOUZPYXNvVXVGWHFibnNoVHJrNGNFOWt2ZXJlOHB3WDJSaEtTWHc?oc=5",
+            "published": "2026-08-06T15:30:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "ハウス - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1YzcFFSOTJnQzdRRHQwZ2dIU0JQZXBNWFk3TEo4SW1GcXl1UTFDMXpLd2xmVzFaZC1IcDdmR3l0LVV4MHNrMGZiSWZiMEhRVmlyYjhYNkJqOHk5UVNwZ0JuamJHZWVxdUE?oc=5",
+            "published": "2026-08-06T15:30:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -1507,6 +1514,13 @@
             "source": "saitoshika-west.com"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスの住育エデュテイメント施設 「JUNOPARK（ジュノパーク）」が開業1周年 子どもたちの“好き”と感性を育む体験を約7万人に提供 - 北海道新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMeEtnLXhyWDRjazYzMVJjTGlxal9fOFdkaEdmUFpWYkxnc243eHJQWDNXRWhPMHFiN0UwQzg4Q19NZzh3UHM2NjFCelBTR1RKNlVBQVJmQnFkZw?oc=5",
+            "published": "2026-08-05T16:00:00+09:00",
+            "source": "北海道新聞デジタル"
+        },
+        {
             "company_id": "ichijo_komuten",
             "title": "一条工務店のリアルな評判・口コミと住宅性能を徹底解説 - マイナビニュース",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XNldxdmFvSnIzNTA2VnBjSUJtUmxuWDdzcE04dW9meDlCYmo3OTBMZ09qcURsOW04WW53cW5YR2l1elpRMm93Ny1QN3BLUVZCUjRxcVJhczNocEhNU3Z3RQ?oc=5",
@@ -1526,13 +1540,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96RjdRbU4zd2RlQmhtakFvdVFrT2xDTmRzb2NmYUpZV1JpMndzd2ZTVmREY0F6Qm9jOUdnWk9XRHc3WDVSRk1SdVBXcVFwS2xSbzVSaDB3MTcwSHlOb1k4MFRvUkk?oc=5",
             "published": "2026-08-05T16:00:00+09:00",
             "source": "文化放送"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウスの住育エデュテイメント施設 「JUNOPARK（ジュノパーク）」が開業1周年 子どもたちの“好き”と感性を育む体験を約7万人に提供 - 北海道新聞デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMeEtnLXhyWDRjazYzMVJjTGlxal9fOFdkaEdmUFpWYkxnc243eHJQWDNXRWhPMHFiN0UwQzg4Q19NZzh3UHM2NjFCelBTR1RKNlVBQVJmQnFkZw?oc=5",
-            "published": "2026-08-05T16:00:00+09:00",
-            "source": "北海道新聞デジタル"
         },
         {
             "company_id": "sekisui_heim",
@@ -1759,11 +1766,18 @@
             "source": "ライジングゼファー福岡"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "LIXILのリサイクル100％アルミ、積水ハウスの高断熱ドアに標準採用。住宅部材のアルミ水平リサイクルスキーム構築 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZSDJvdnNxN3BnSXhxaHV2SFBBYXZZMW16RE40QWVjYXVGd0NFMldoQV9ncGl3Z1U0S3V3eFl2dVM4S2JoT3BYQ2U4OWQ1dFJnMGRVWll6MkJoLUJjSjl6U0dPYTJwTkx6Q0EtOG90OGRLb3BUeHBQWGNuWDZTNmM?oc=5",
+            "published": "2026-08-04T16:00:00+09:00",
+            "source": "Yahoo!ニュース"
+        },
+        {
             "company_id": "sumitomo_forestry",
-            "title": "5期先の「割安株」ランキング【100銘柄】17位武蔵精密工業、15位住友林業、2位キオクシア、1位は？攻めにも守りにも強く株価が割安な株を選抜 - ダイヤモンド・オンライン",
+            "title": "5期先の「割安株」ランキング【100銘柄】17位武蔵精密工業、15位住友林業、2位キオクシア、1位は？攻めにも守りにも強く株価が割安な株を選抜 - diamond.jp",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51V0dOY0huY2hrd2ptUjRabnFaSlNfaG5hbnB6RFgxWlRBV1RsYkNjNFZwbG5zQm8xa1NhdjBHdERGVDQ0V0JCdmxyYUbSAU9BVV95cUxOcjh6a0xqN0V4TW91S21zMVpPM21QVHFvanoxSWdxbXNDR0tWb2tQTXg3bFJELTg0bzN0Rzk2VkJ3STNVTkZfQVR6aE9MN3BB?oc=5",
             "published": "2026-08-04T16:00:00+09:00",
-            "source": "ダイヤモンド・オンライン"
+            "source": "diamond.jp"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1778,13 +1792,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91YjdxYnotZVVnalpxd1p5Rk1pMS16X052WFpkcGJjUDRxU2VQbUFwOFFNX2VMdlJQNDNmUjhsUTY3NlZxTTlSQmxZTlZ3V1lkYnc?oc=5",
             "published": "2026-08-04T16:00:00+09:00",
             "source": "新建ハウジング"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "LIXILのリサイクル100％アルミ、積水ハウスの高断熱ドアに標準採用。住宅部材のアルミ水平リサイクルスキーム構築 - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZSDJvdnNxN3BnSXhxaHV2SFBBYXZZMW16RE40QWVjYXVGd0NFMldoQV9ncGl3Z1U0S3V3eFl2dVM4S2JoT3BYQ2U4OWQ1dFJnMGRVWll6MkJoLUJjSjl6U0dPYTJwTkx6Q0EtOG90OGRLb3BUeHBQWGNuWDZTNmM?oc=5",
-            "published": "2026-08-04T16:00:00+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_heim",
@@ -1913,18 +1920,18 @@
             "source": "全国賃貸住宅新聞"
         },
         {
-            "company_id": "ichijo_komuten",
-            "title": "【新商品】Naturia 200棟限定 先行販売開始！ - 家サイト",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03Um5PNFlQSDREU21LTTlLMXp5d1d3Sml3NlBOZXBiS3NGTzJtbXE4RmZiQnZIeU9ZRVB1UkpGVkhNUEZuclROaXdwWm8xU1pUZnRsUDY2ZkhjWGhLMEZmS1RDd0llRWkxVHJucDFR?oc=5",
-            "published": "2026-08-03T16:00:00+09:00",
-            "source": "家サイト"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウスが高断熱玄関ドアに、住宅向け製品として国内初、リサイクルアルミ使用比率100％のLIXIL循環型低炭素アルミ「PremiAL R100」を標準採用 | 株式会社LIXIL - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ZTR6bUN6YWJtNmE0SzQ4RDBuZGtrUmlBMm9tX2Joalh3N2pDQWVKSVFQdzdfcGFJVTVEbV8xRHlqZ3JDcXYtNFY0bkRNSG1Id3QzOHNycTNCSVFFTlZBZA?oc=5",
             "published": "2026-08-03T16:00:00+09:00",
             "source": "Digital PR Platform"
+        },
+        {
+            "company_id": "ichijo_komuten",
+            "title": "【新商品】Naturia 200棟限定 先行販売開始！ - 家サイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03Um5PNFlQSDREU21LTTlLMXp5d1d3Sml3NlBOZXBiS3NGTzJtbXE4RmZiQnZIeU9ZRVB1UkpGVkhNUEZuclROaXdwWm8xU1pUZnRsUDY2ZkhjWGhLMEZmS1RDd0llRWkxVHJucDFR?oc=5",
+            "published": "2026-08-03T16:00:00+09:00",
+            "source": "家サイト"
         },
         {
             "company_id": "sekisui_heim",
@@ -2116,18 +2123,18 @@
             "source": "Yahoo!ニュース"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "楽しみながら「環境」「SDGｓ」考えよう 大和ハウス プレミストDで「環境広場さっぽろ２０２６」 札幌市 - HTB 北海道テレビ",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVHdPZlU0bWxXTVYtYVVwQnpvUGlFYno1T2p5UGxqQ1RURmlQaExQZnR3ZEZZcHo5NnFoTlRmUE9IT2VmbmxSNGp2TDZ1Ujlld3dId1lzblMzZw?oc=5",
-            "published": "2026-08-01T16:00:00+09:00",
-            "source": "HTB 北海道テレビ"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "「もう犯罪はしない」積水ハウスをダマして2億円を手に…“地面師のパシリ”だった男が「警察にも話していない情報」を記者に明かした理由 - au Webポータル",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Z21qTzlFWVlOSVg3bi1kajNpanREeWhkeEJvUVNob3lOTXdpY3g0cnBacnVZZ1JudnBXalRyc0tScHdfRGR4b3lSOHB2VFVDa09NMnZrTGN0NDhhTlRiZmxXNF9tUEVOcUNxdFQyZVBlSFpxYVpnSS1DRQ?oc=5",
             "published": "2026-08-01T16:00:00+09:00",
             "source": "au Webポータル"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "楽しみながら「環境」「SDGｓ」考えよう 大和ハウス プレミストDで「環境広場さっぽろ２０２６」 札幌市 - HTB 北海道テレビ",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVHdPZlU0bWxXTVYtYVVwQnpvUGlFYno1T2p5UGxqQ1RURmlQaExQZnR3ZEZZcHo5NnFoTlRmUE9IT2VmbmxSNGp2TDZ1Ujlld3dId1lzblMzZw?oc=5",
+            "published": "2026-08-01T16:00:00+09:00",
+            "source": "HTB 北海道テレビ"
         },
         {
             "company_id": "daiwa_house",
@@ -2263,20 +2270,6 @@
             "source": "nikkei.com"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "中大規模木造建築ブランド「with TREE」×サンケイビル初の木造オフィスビルが竣工・開業 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xUzAtVXB4NWRfQ3RXSzlqZHUzWTVWejYwSzN1SEw0cFdUcDNodzV5eEFGUFhPVllJOXhXQkkwRDc3NVRLOFZYYWV4TQ?oc=5",
-            "published": "2026-07-31T16:00:00+09:00",
-            "source": "47NEWS"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズ藤井孝社長、転機の家まるごと戦略「グループで価値提案」 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbmZSWmpqUDNZYmhuR3VlZF9qeGszdHZTZnBPRXhPRjVHUWpReE52Ni1lRFY3WUlNZUQ4djlMWlNkY0ZlVDVOcnBsb0FRcF9jUXhtQ003NjNsVTNCY2VMaEt5YU8xT3B2blRNTQ?oc=5",
-            "published": "2026-07-31T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス建設、外構工事店202社と連携 8月1日本格開始 - 新建ハウジング",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rWncwWTMwR1UxXzdjQVp3Y2Z0ZWc1bzB3X25RQ0NPX0ltRk84SE9FWW5LNmxBNEgzdG1OOElwNWlHdXVPTEZUWm9JVXktNnd1SHc?oc=5",
@@ -2303,6 +2296,20 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NZnpXSEJFb3pmS2JPZDljNVJJTmluRHhfRFB6eVVfOERHVjBCWjVpbURzSkJuUVBwaEp4R1VjTmhscjZ2amFKNm5JTlJ0NzJPdlE?oc=5",
             "published": "2026-07-31T16:00:00+09:00",
             "source": "新建ハウジング"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "中大規模木造建築ブランド「with TREE」×サンケイビル初の木造オフィスビルが竣工・開業 - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xUzAtVXB4NWRfQ3RXSzlqZHUzWTVWejYwSzN1SEw0cFdUcDNodzV5eEFGUFhPVllJOXhXQkkwRDc3NVRLOFZYYWV4TQ?oc=5",
+            "published": "2026-07-31T16:00:00+09:00",
+            "source": "47NEWS"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズ藤井孝社長、転機の家まるごと戦略「グループで価値提案」 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbmZSWmpqUDNZYmhuR3VlZF9qeGszdHZTZnBPRXhPRjVHUWpReE52Ni1lRFY3WUlNZUQ4djlMWlNkY0ZlVDVOcnBsb0FRcF9jUXhtQ003NjNsVTNCY2VMaEt5YU8xT3B2blRNTQ?oc=5",
+            "published": "2026-07-31T16:00:00+09:00",
+            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_heim",
@@ -2334,10 +2341,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "アウトドアリビングフェア開催！ オリジナルプレゼント付き！ - SBSマイホームセンター",
+            "title": "アウトドアリビングフェア開催！ オリジナルプレゼント付き！ - sbs-mhc.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5faUNGSWZrYzgyci11blVxNDRvQlhEbTJEaVNWUzRGcF8tdThjMjVKekpiTG80R1VwR0x4QmxyRTJKN3ZmWHg0LXN1VE5hNFZxVlE?oc=5",
             "published": "2026-07-31T16:00:00+09:00",
-            "source": "SBSマイホームセンター"
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -2390,10 +2397,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "【一条工務店】8/8~16 藤枝市音羽町にて完成現場見学会を開催します★豪雨や洪水から暮らしを守る【耐水害住宅】★ - SBSマイホームセンター",
+            "title": "【一条工務店】8/8~16 藤枝市音羽町にて完成現場見学会を開催します★豪雨や洪水から暮らしを守る【耐水害住宅】★ - sbs-mhc.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5MGpJSTV3YTlUVDU4Smstc081NnhLSjJ4LTJEOGVwOER6QnRtcEh0NDUzOEZLaDF0UlBUbjFLai1LR00zeE1YaE9xSHdUYVZ5?oc=5",
             "published": "2026-07-31T10:44:44+09:00",
-            "source": "SBSマイホームセンター"
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "daiwa_house",
@@ -2446,10 +2453,10 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "「Brillia ist洗足池の杜」 東京建物・三井ホーム - クラフトバンク総研",
+            "title": "「Brillia ist洗足池の杜」 東京建物・三井ホーム - souken.craft-bank.com",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NTnBESFNvblI2SllWZHh4SGhIRk1xS1J2YThUel80Y1IyUk9XaGFFckE3emplYkx6ZEV2eWlBejFjbTZKMjhQU1ZLM3FUMHdBT1NqNmcweHNWLVNDOFoyYzVWNA?oc=5",
             "published": "2026-07-30T16:00:00+09:00",
-            "source": "クラフトバンク総研"
+            "source": "souken.craft-bank.com"
         },
         {
             "company_id": "sekisui_house",
@@ -3047,6 +3054,13 @@
             "source": "日本経済新聞"
         },
         {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス 日本金融教育支援機構との共創企画 “ご当地型金融教育ワークショップ”を開催 - 新潟日報",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CbUtUdVBUWUxNa2t2TVNXUVJrVXg4NEdMV2ZpdEZUQ2pJMEtuVVoydGRScTVSX3oxRFF0ZnJFMHdNbEhxYkwta3JwNGkweVhUemRVcUwwVG0xUVMzT2c?oc=5",
+            "published": "2026-07-24T16:00:00+09:00",
+            "source": "新潟日報"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "“ご縁をつなぐ”タレントプール採用が事業成長を加速させる―住友林業ホームテックの自社採用力強化への挑戦 - mytalent.jp",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMjU0WDdyZGNsSGFpd3Zja0hGYTZZUi11aTJ0NGw5MjJQUlpiUTdXSWZwTzFfZkZpamxXald3UjRhaVRzN3MzLVNVMUpXRURuVGc?oc=5",
@@ -3068,32 +3082,18 @@
             "source": "jutaku-s.com"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス 日本金融教育支援機構との共創企画 “ご当地型金融教育ワークショップ”を開催 - 新潟日報",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CbUtUdVBUWUxNa2t2TVNXUVJrVXg4NEdMV2ZpdEZUQ2pJMEtuVVoydGRScTVSX3oxRFF0ZnJFMHdNbEhxYkwta3JwNGkweVhUemRVcUwwVG0xUVMzT2c?oc=5",
-            "published": "2026-07-24T16:00:00+09:00",
-            "source": "新潟日報"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMXVGQmM1ZV9SZms3SEZfVzE0aGQzUlhjQURlYmhzbGR6Vk1zZExxcHRXclNRRUVldy1zTTVtTUdrVUtsSEdPS2NxMnNKaWkwdllfanVSYldkblNWZHZj?oc=5",
-            "published": "2026-07-24T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_heim",
-            "title": "積水化学・清水社長、ペロブスカイトで乾坤一擲 「中国にも勝てる」 - business.nikkei.com",
+            "title": "積水化学・清水社長、ペロブスカイトで乾坤一擲 「中国にも勝てる」 - 日経ビジネス電子版",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNc01hcjhSOUtmMWYzZUlVRXBPbnpWWms2NjVCMnpFbzlrMjJ1Wk15YWlOSFJ5MU9fOFBZZFhLSXhCVjRtY0Jqa3Rya0hzTExqN2pzaG5taXdyeXhZdVAxS1lR?oc=5",
             "published": "2026-07-24T16:00:00+09:00",
-            "source": "business.nikkei.com"
+            "source": "日経ビジネス電子版"
         },
         {
             "company_id": "sekisui_heim",
-            "title": "「真夏の全国ツアー2026」宮城公演 機材席開放につき7月24日(金)18時よりチケット販売開始 - nogizaka46.com",
+            "title": "「真夏の全国ツアー2026」宮城公演 機材席開放につき7月24日(金)18時よりチケット販売開始 - 乃木坂46公式サイト",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RExtUjBrT1lJT2dka0hBeGFPZm9FUUhkeFQtWHgzSHdJLUlwaGgtYlVyZlR4R0RnY2pRWWtnclNIZ0lJWlNiYVY1U3JzcVFaVngzLUtKUGhWMnlaMk5kUlpxVVZhcEVMQnNQYg?oc=5",
             "published": "2026-07-24T16:00:00+09:00",
-            "source": "nogizaka46.com"
+            "source": "乃木坂46公式サイト"
         },
         {
             "company_id": "sekisui_heim",
@@ -3307,17 +3307,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "【オフィシャルグッズ販売のお知らせ】「真夏の全国ツアー2026」宮城公演＠セキスイハイムスーパーアリーナ - nogizaka46.com",
+            "title": "【オフィシャルグッズ販売のお知らせ】「真夏の全国ツアー2026」宮城公演＠セキスイハイムスーパーアリーナ - 乃木坂46公式サイト",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2WGgtdE1TMUs3SG5zN3BFQ3FEMTQ5NDROdTVUWXRTcHFOZFNtaGFIOXZqZ2RQN2k3ZlBjMEgzemRRdVl5akpXTTRGSHplU085dGxkUWI2ako2eUY1d19Xa3VQS0RqcFdRTzJ3NUtNQ3NuaFZKUmVIOUxFWkM?oc=5",
             "published": "2026-07-22T16:00:00+09:00",
-            "source": "nogizaka46.com"
+            "source": "乃木坂46公式サイト"
         },
         {
             "company_id": "sekisui_heim",
-            "title": "セキスイハイムが福岡・大野城市に最高級鉄骨住宅モデルハウス - nishinippon.co.jp",
+            "title": "セキスイハイムが福岡・大野城市に最高級鉄骨住宅モデルハウス - 西日本新聞me",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rS1puSEwzeTZZVnc0R3BKNzNlTzZ5d1RZT1piSUdKUE1vTDRSZm5sNm9tc25DVkRONkQybG15T0dKTlVsbm1wbERSMTNlaGlacXRPQTZB?oc=5",
             "published": "2026-07-22T16:00:00+09:00",
-            "source": "nishinippon.co.jp"
+            "source": "西日本新聞me"
         },
         {
             "company_id": "sekisui_heim",
@@ -3776,10 +3776,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "【一条工務店】平屋住宅相談会開催中！～段差なし、温度差なし！ワンフロアで快適な暮らしが叶う平屋！～この上ない平屋ライフを～ - SBSマイホームセンター",
+            "title": "【一条工務店】平屋住宅相談会開催中！～段差なし、温度差なし！ワンフロアで快適な暮らしが叶う平屋！～この上ない平屋ライフを～ - sbs-mhc.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XTDA4SzA0RUs5Mm05MnFrYkR3b3dwZlBiSHEwUTc1RXhVTkQyZk0xTjc5Y1FwR2hEcnRBVDByaWFHVTg2b1QwcFppdWVpd0xXdlE?oc=5",
             "published": "2026-07-10T16:00:00+09:00",
-            "source": "SBSマイホームセンター"
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "panasonic_homes",
@@ -4028,10 +4028,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "【一条工務店】家づくり相談会開催中！理想の家づくり、まずは見て体感！身体で感じて、見て触れて、ご家族で楽しめる住まいの展示場へGO♪ - SBSマイホームセンター",
+            "title": "【一条工務店】家づくり相談会開催中！理想の家づくり、まずは見て体感！身体で感じて、見て触れて、ご家族で楽しめる住まいの展示場へGO♪ - sbs-mhc.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Yi00M1BjY25DaGw3R3l3TktNVXc5ZkpUY3dWX25BUXRkampiOXRlTHREcjhpNEhkRG9lMlBjZHYzN3hhOWl3RkxBR2NQWnluUGc?oc=5",
             "published": "2026-07-06T16:42:21+09:00",
-            "source": "SBSマイホームセンター"
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "ichijo_komuten",
@@ -4420,17 +4420,17 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 山陽新聞",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5abGVLaHBzeEhxelhMNVpBQmxHN29JYUdvWEgyVk5XZm9GTy1oNVcyTDNtVEJ4NDB6TDJPV0ZtUjRNcTRIa3RlSnhVMzJIUXZTc2RmWVdQaEN2Z0VVQXFQWWR0TjcwdkMtSnBVQkh0SQ?oc=5",
-            "published": "2026-07-03T16:00:00+09:00",
-            "source": "山陽新聞"
-        },
-        {
-            "company_id": "panasonic_homes",
             "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 沖縄タイムス社",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ZGRLQl8ybV83VUFvX2syTGVMc1lHYXdhUnZmOWlyOF80LUx2eEpZV184MWw2aTlBU3ZHS0xOWVJKUFk4cThXMkhJZHk3NU5sRlNKN1FQNk8tRzUyb1E?oc=5",
             "published": "2026-07-03T16:00:00+09:00",
             "source": "沖縄タイムス社"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナホームズ、賃貸住宅事業に力 ３０年度事業売上高、４５％増 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5abGVLaHBzeEhxelhMNVpBQmxHN29JYUdvWEgyVk5XZm9GTy1oNVcyTDNtVEJ4NDB6TDJPV0ZtUjRNcTRIa3RlSnhVMzJIUXZTc2RmWVdQaEN2Z0VVQXFQWWR0TjcwdkMtSnBVQkh0SQ?oc=5",
+            "published": "2026-07-03T16:00:00+09:00",
+            "source": "山陽新聞"
         },
         {
             "company_id": "panasonic_homes",
@@ -4518,10 +4518,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム佐賀が安全大会 南極での基地建設から安全管理体制学ぶ | 経済 | 佐賀県のニュース - saga-s.co.jp",
+            "title": "ミサワホーム佐賀が安全大会 南極での基地建設から安全管理体制学ぶ | 経済 | 佐賀県のニュース - 佐賀新聞",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55RFM3NVlMenJ5Q2V2Wk9jdTYxTTV2U2EzS1ZWRnVlbElCQ1hNUFQybUpweG9LMGdsRVlVd3h5dnpTdFFacVZuanQ0UVBscTFjOHpaTUlR?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
-            "source": "saga-s.co.jp"
+            "source": "佐賀新聞"
         },
         {
             "company_id": "misawa_home",
@@ -5358,10 +5358,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "【東部地区限定開催】パナソニック ホームズの平屋で豊かに暮らす こだわりの平屋モニター邸募集 - SBSマイホームセンター",
+            "title": "【東部地区限定開催】パナソニック ホームズの平屋で豊かに暮らす こだわりの平屋モニター邸募集 - sbs-mhc.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSzBTYmVrdXdVVUl4cEU5M2FwUGg3N1k5ZGRORUhETlNXcld0a0RhTF91d2RtZUROY1VBN3ZQZVZWQktJQ09xdEhEQ0pNUXZWT0E?oc=5",
             "published": "2026-06-13T20:57:23+09:00",
-            "source": "SBSマイホームセンター"
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "misawa_home",
@@ -5673,10 +5673,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "「家族の絵コンクール」展示 6月20日まで 佐賀市のミサワホーム佐賀 | まちの話題 | 佐賀県のニュース - saga-s.co.jp",
+            "title": "「家族の絵コンクール」展示 6月20日まで 佐賀市のミサワホーム佐賀 | まちの話題 | 佐賀県のニュース - 佐賀新聞",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OYnJkemNicGNXUzRfa2dUNG4wZnBBVmtGMWVaa25sa3FwSnJqRVExbFFaejdhTkVfZk12ZVdQOFNRTnVKdWsxNmUybTY3YzkwVzR5dzBn?oc=5",
             "published": "2026-06-07T16:00:00+09:00",
-            "source": "saga-s.co.jp"
+            "source": "佐賀新聞"
         },
         {
             "company_id": "misawa_home",
@@ -6149,10 +6149,10 @@
         },
         {
             "company_id": "ichijo_komuten",
-            "title": "【限定】新商品Naturia特別価格キャンペーン✨ - SBSマイホームセンター",
+            "title": "【限定】新商品Naturia特別価格キャンペーン✨ - sbs-mhc.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DcmoxMFY5MTdXYkFqa2ZveG5GbzRqU0duNXJ3LWl2RkxiYjU2ZkJWZjBiRi1uOE5UVjJLUFBheWR0ZGFkUGdUMzgzbC1ZVnU4Vnc?oc=5",
             "published": "2026-05-14T14:46:39+09:00",
-            "source": "SBSマイホームセンター"
+            "source": "sbs-mhc.co.jp"
         },
         {
             "company_id": "mitsui_home",
