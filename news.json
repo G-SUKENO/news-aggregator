@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-22T09:59:20.107030+09:00",
+    "generated_at": "2026-08-22T11:17:52.679796+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -17,7 +17,7 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "新松本工業団地を4.9ヘクタール拡張へ 大和ハウス工業を中心に民間主体で開発 - 信濃毎日新聞デジタル",
+            "title": "松本市の工業団地で初、民間主体の開発スタート 大和ハウス工業などの共同事業体 - 信濃毎日新聞デジタル",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95QmpZTldWdmpxc2xpODhZdi16WTF1UmlhVFhQeE9OdzFjUjNRVkFQc3RGZDF6QnJ1ZnhublRNMW00V3FpYmtGaGZzcDVxN0dTY2Z1X0JGZE5uVERENDRoeGI1cWVfN0FQY1VTX1FOUFI?oc=5",
             "published": "2026-08-21T19:06:00+09:00",
             "source": "信濃毎日新聞デジタル"
@@ -1339,6 +1339,13 @@
             "source": "住宅新報"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "鉄骨系集合住宅「ＮＥＷ レトア」新発売 セキスイハイム - 住宅新報",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mZzdHZUtiYVMzT3dwQjlCbW5Od0tFOVNtMnc5UmpWWUZDTy0zOHlab205OVpMV3hINlIxSHlXQWFOMF9RalRsNDdzaV9qclk?oc=5",
+            "published": "2026-08-16T05:15:00+09:00",
+            "source": "住宅新報"
+        },
+        {
             "company_id": "sumitomo_forestry",
             "title": "オーストラリアの木質ボードメーカーを買収 住友林業 - 住宅新報",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sMEduYndNVk5wNUg2WmdhNlNqeWc5aDE4YTluMmdmZmgza3lxY0V0NlByMU13WDBxOTBWQWdoa2ptd1ZrWTIwN29JV1lvd00?oc=5",
@@ -1406,6 +1413,13 @@
             "title": "木質部材で「FSC森林認証」取得 パナホームのNZ現地法人 - 住宅新報",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na01PUy12NFhZZGdHSUlBVWozMF9rSElqNVQ3TG0zSWlXa1hWTWtCblhrM0pIYVJ2dHlMeFlJeWJ0Tm50am1xR3dscWpaNVE?oc=5",
             "published": "2026-08-15T23:40:51+09:00",
+            "source": "住宅新報"
+        },
+        {
+            "company_id": "misawa_home",
+            "title": "「GENIUS（ジニアス）世代の家」を発売 ミサワホーム - 住宅新報",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxcEtYMVFYSEtKOXBIUmhzVTIyV2FXaUFhTUxyOFZfYVhYQXRWdkRuWmkwOFM0VEdsY1lQbHZXOS1oY0M1OFJtelMxR2tFMjQ?oc=5",
+            "published": "2026-08-15T22:18:54+09:00",
             "source": "住宅新報"
         },
         {
@@ -1822,6 +1836,13 @@
             "source": "Digital PR Platform"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業・光吉敏郎社長「木の循環で脱炭素社会の実現へ」 - 日経BP",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJQjFwNlFOQzRzdVl3OE5aZnl4YXl5bVlWOTFGNllOVVU2Z1NMTWhDOWVOTGo1Nm96Vzl5QUZxcndMWlpVZm5EVGh0R1VWbXhpM1hWcEhXU3cyX3hNQktKakJ1ck9OdkNVMHE0OEFQMjU?oc=5",
+            "published": "2026-08-13T16:00:00+09:00",
+            "source": "日経BP"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "ゲストは 旭化成ホームズ 住宅事業マーケティング本部 集合住宅事業推進部⻑ 福⽥浩司氏：8月13日（木）分 - radionikkei.jp",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yOWFBQzMxeHlGd1NERURBa3dxVVdubVNyeHp0empGQlR6VG9mUS0xRVhPS25TeFhHOUg5bkVOZ3dTeGh3VDVRUVMtdkZaNFhKakNzWmNlbHFxYTRwLUtucExLb3dGaXBIREE?oc=5",
@@ -1869,13 +1890,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tWXFEaGNFYVNsVEk3a3NMdGNpYWljdnM4QnFrZ3JBa2NqeDBnY0NfWEE3VWQ2SWFIbzgzU25wZ2ZDR2lXRTBXQ0Q1dGd1aFIxZUY4UFB3NHg?oc=5",
             "published": "2026-08-13T04:00:26+09:00",
             "source": "全国賃貸住宅新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業・光吉敏郎社長「木の循環で脱炭素社会の実現へ」 - 日経BP",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJQjFwNlFOQzRzdVl3OE5aZnl4YXl5bVlWOTFGNllOVVU2Z1NMTWhDOWVOTGo1Nm96Vzl5QUZxcndMWlpVZm5EVGh0R1VWbXhpM1hWcEhXU3cyX3hNQktKakJ1ck9OdkNVMHE0OEFQMjU?oc=5",
-            "published": "2026-08-13T00:03:14+09:00",
-            "source": "日経BP"
         },
         {
             "company_id": "mitsui_home",
@@ -4006,13 +4020,6 @@
             "source": "朝日新聞"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "【強化プラスチック複合管】積水化学工業、2026年10月1日出荷分より「エスロンRCP」値上げ - ctiweb.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaHUtd1EyUncyMHhkenRRajE4eDYwaXFkZUo5SnRTb2E1NFRTNnZ4QlpGRjhZX3l4NXI1NHAxb0QzQ3ZWd1ZUMUZKYlZSSEtGMDJqWDlxNERDcWotbTNsbmNNOUtkaklZMmRhblJfTWdpUTg4VVk4ZG8ybXoyYnpuZjJpX3hmckR0MXNFVjV5SjNoc1NpekF1NGFTUXBkY3lET25kTW03MFdKRVB1b0Z2WHpiblBjMHN2Rl9iNVhaU0Jxa1VobF9rckVHaE9QM0ZhamlrSjR2R0FIZm1WVGRycE5DRzZSVzNyY2RzTV85NkF3U0pVYXlKTW1MLVFqSjJFYUpRbEpkQkJySHBBMjI1ekpiUTc4QmJsTEdJa3FxWkpJMkNmbmZFUkplcGZKb2tCSEFJVjZGUHZRV05SV3c3b0JTb2duZUw5RGljTE9WLTZUUQ?oc=5",
-            "published": "2026-07-22T16:30:00+09:00",
-            "source": "ctiweb.co.jp"
-        },
-        {
             "company_id": "mitsui_home",
             "title": "三井ホームと銘建工業、高性能・薄型化を両立した遮音床構造を開発 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycjhtRU1ETXl2QnhuRTlwb0pHc1VZc2Fpd3MwYlR5b0sxN2taOUdmTkhWZDktMlFWUWV3S1JRUzhBT2pzRmwwSVUtS2VGelFLd29LYThn?oc=5",
@@ -6048,13 +6055,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNTGZjSzgtb2YybXB3c3FSN1VCOFlMbmI3cC0zTnlkOEo5ZjV0UmhXanpmUWN3S1AyTmM3UnFDX0NCZ2Job0JMclktOHFfNXJ5Q2c?oc=5",
             "published": "2026-06-07T17:12:40+09:00",
             "source": "SBSマイホームセンター"
-        },
-        {
-            "company_id": "misawa_home",
-            "title": "「家族の絵コンクール」展示 6月20日まで 佐賀市のミサワホーム佐賀 | まちの話題 | 佐賀県のニュース - 佐賀新聞",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OYnJkemNicGNXUzRfa2dUNG4wZnBBVmtGMWVaa25sa3FwSnJqRVExbFFaejdhTkVfZk12ZVdQOFNRTnVKdWsxNmUybTY3YzkwVzR5dzBn?oc=5",
-            "published": "2026-06-07T16:00:00+09:00",
-            "source": "佐賀新聞"
         },
         {
             "company_id": "mitsui_home",
