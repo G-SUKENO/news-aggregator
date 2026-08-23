@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-23T20:16:37.789431+09:00",
+    "generated_at": "2026-08-23T21:30:51.530057+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -21,6 +21,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpY1RwM2g5WDlkWW1BY0JPZzdyNmF5TXliTmF6cUJJRE40aEVmUXhfemhPSDlQNUoyc2s1NDRERGZRVVJ3MFFZSkVuQ1FuSW5teUN2LWFOTUVlcjUtbFhfd2p3bXZsSFR2bjdoQg?oc=5",
             "published": "2026-08-23T06:39:49+09:00",
             "source": "家サイト"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "購入者から「味が変」と申し出 大和ハウスプレミストドーム内で売られていた一部商品に品質不良 - プラメポータル",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQ1c4MlBXXzB3RThXbFdoSWw4QW5YdFlkYXF6SHg2RTdwQ0FVNWdCVjRwNGFJUWEzbHlEMDFnTy1RMExqWWJRc2NYNEpMM2VuRUs0RW9hS0lUb1Znc0gwTUxMWnZRLUZCbEFKSGVnVElRLUVLUnlPWlpjbGxySlU?oc=5",
+            "published": "2026-08-22T20:18:00+09:00",
+            "source": "プラメポータル"
         },
         {
             "company_id": "daiwa_house",
@@ -166,6 +173,13 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMHgyWUt2R1JvOFpYLW85VFNnX3lTWTNSU0VlWjAwLXBVQ1hzU0NLSUl5dXhyeXd5ZEZoRXpMV3N6TUd3RTBPQ2RtUGF4YTFNRnc?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jay1ranFOdUo2Y00tVkJJVnJXczFyaWdaRVlhNWNISlRUcUJlelhsMlQwaFNsTXZBczd2SmlQaE5JUU91RmUya2JaQXlpNjZaTFZKc2xZY0djZw?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -1858,13 +1872,6 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業(株)【4204】：掲示板 - finance.yahoo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jay1ranFOdUo2Y00tVkJJVnJXczFyaWdaRVlhNWNISlRUcUJlelhsMlQwaFNsTXZBczd2SmlQaE5JUU91RmUya2JaQXlpNjZaTFZKc2xZY0djZw?oc=5",
-            "published": "2026-08-14T16:00:00+09:00",
-            "source": "finance.yahoo.co.jp"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：ニュース・最新情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45bnJZc3NKa2JpTEt4TWItU19NbjRZcjEzLUEyaFlRampiMnpBODFuWnhDcGVxLWR4ZktZcnpYUXhHX21XbXIwRzVnY1pfanM4dUZPMTZnRnY?oc=5",
             "published": "2026-08-14T16:00:00+09:00",
@@ -2719,17 +2726,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：決算情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VUpvRUVnWnBvaTJXclhDWEZpb0x3OV9fTnFoLUo0cHA3Vk1YV0RlaUR5LXlQMUplTnlyajM3LUw5VEVkX01xa2RWQWFZU0NLRkxIdTVRQmdyNnBlVHZhMg?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：業績予想の修正に関するお知らせ 2026年8月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yM2hiYWNxVHZpQVgxUFNTYjdSREt3cHNJNUxOY0pndUN4eXdyVFBSbXBvYmtySGs0Z0lrZUpwTTRYMDJTeUkta3ZqVGpvSGl6OVo4ZmlNekc3RVZGSDQ3VmV0aHNMSFp5aFE?oc=5",
             "published": "2026-08-07T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：決算情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VUpvRUVnWnBvaTJXclhDWEZpb0x3OV9fTnFoLUo0cHA3Vk1YV0RlaUR5LXlQMUplTnlyajM3LUw5VEVkX01xa2RWQWFZU0NLRkxIdTVRQmdyNnBlVHZhMg?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2907,13 +2914,6 @@
             "source": "consadole-sapporo.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "【決算速報】大和ハウス---27年3月期1Qは増益、経常利益は9.9％増(フィスコ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDZoU0JyRFZCVzNNMVExTElOOVEzREh5NmtNdDZLVHJkRWwxUk5HN294LS1RYTdIb0ZwRTlRR0Z1MmgyZGJyNThUcWloNUxVdEZWZUgydDBhb3NzamFkZUxiaGZvM1FGQlBLaGthWm5FZU1aX3JSalhVSllScVlyWWpLV0EtbkE?oc=5",
-            "published": "2026-08-06T19:09:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、子会社ホームエコ・ロジスティクスが神奈川県厚木市に物流拠点「厚木DC」を開設し稼働開始 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUkZxM25lNUViMmFhM2FQVnMteWdZeEp6djZYbXg3NkQ5N2NDd1UyNnJDdnZtZG9xYXVoVlZ2OXlScWFhX2ZkTzR4Y3N6TW94TWZzU1Z1NHAxcHdYdGlUVEhlQVlScGRScFdNbw?oc=5",
@@ -2999,10 +2999,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業／物流子会社が神奈川県厚木市に拠点開設、住宅建設資材の供給効率化へ - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13TGdHSEU4OFNBc29iVWhvRVI1cDk0czNDNGxRZ0NJQ2hnX1VUb21NNmZIUllIVWtvN0hFNUFZX3dmLWJRbFZxTjA2NklBLTAyRjlzTw?oc=5",
+            "title": "住友林業が自社グループ運営の物流拠点 神奈川県に、建材を一括出荷 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUF9LRjROdzVSenZsalBlZTdtMnAyZmNNbmxhRW9CZUszSmh3X2N5NGhXS2tZWUNERnFsVjlBS192MjYtUnMtdklmSXpDS0Fta19MY2ZIeUcyUTB2YnpnbERRNjFva0duRFFpNQ?oc=5",
             "published": "2026-08-06T16:00:00+09:00",
-            "source": "物流ニュースのLNEWS"
+            "source": "日本経済新聞"
         },
         {
             "company_id": "misawa_home",
