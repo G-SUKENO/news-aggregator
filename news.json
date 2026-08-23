@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-24T06:16:30.383541+09:00",
+    "generated_at": "2026-08-24T07:16:56.401139+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -98,6 +98,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oWDVmQlZSdlN1S2wzZnZnWDBDZS1TSjlpSlJKM1lBajZBS19OamRRMUNpZ3BkbmJmS2VCckxwZnphRWpzT2l6X1pWY2hKUjZnUUE?oc=5",
             "published": "2026-08-22T18:42:53+09:00",
             "source": "山陽新聞"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "【オフィシャルグッズ販売のお知らせ】「真夏の全国ツアー2026」宮城公演＠セキスイハイムスーパーアリーナ - 乃木坂46公式サイト",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nVU1BdjBZQmJHRnNWQ0w3VHdSM3RyRVByZ0tlN2V5UEpfWHM1a09xY3J3dm8tWmkzYU1NOVFLZTNjRUdtMGYzZmFhMk0tZHFyb0N3cmZLcU9FNWU1N1hlekltaHJQc1AtZThvYg?oc=5",
+            "published": "2026-08-22T17:30:11+09:00",
+            "source": "乃木坂46公式サイト"
         },
         {
             "company_id": "sekisui_house",
@@ -229,6 +236,13 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jay1ranFOdUo2Y00tVkJJVnJXczFyaWdaRVlhNWNISlRUcUJlelhsMlQwaFNsTXZBczd2SmlQaE5JUU91RmUya2JaQXlpNjZaTFZKc2xZY0djZw?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：株主優待 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GdXViNDUwWGFfYnJ0cEp5Y1laV0o2ejBqWTZFWlB2ak8xRkRwalJsYWxydjJGOFRVVHQ1ZWk2dXhLYjdSdnVyVWZyTkQtQ1d3RFRkcU8wRVJ3NzM4YWVJ?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -3342,17 +3356,17 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業、住宅分野の26年度第1Qは減収減益も計画通り - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZUtSSzVMVzRFNkE1VERVY2Rwb3JSbWt0WFhYM0o0MkFBVXhJY2YzZUliU3QwX2Z5RVRqTW9aWXZpUXg2NlpDRU9uX05XOXZiRkhpaUFB?oc=5",
-            "published": "2026-08-03T16:00:00+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "sekisui_heim",
             "title": "【アナリスト評価】積水化学工業、レーティング中立を据置き、目標株価2,530円に引上げ（日系大手証券）(アイフィス株予報) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTlXZTBQMzRzTXRvYUpDeTAtYWlPdThNd2hTLWNsc0dxYV9QcUJNM1oyaVZ2TE91SVJKYnFuLVNFMHZDb3l0U3VwMldVRWNtWVFNMkljNEh1T1ZPVTN2RkMyeTRzbmdUbng1ZnRBT2tKcC1XQmhEYzBiNk5ZYVlpZkdxT0pvaVE?oc=5",
             "published": "2026-08-03T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業、住宅分野の26年度第1Qは減収減益も計画通り - Housing Tribune Online",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZUtSSzVMVzRFNkE1VERVY2Rwb3JSbWt0WFhYM0o0MkFBVXhJY2YzZUliU3QwX2Z5RVRqTW9aWXZpUXg2NlpDRU9uX05XOXZiRkhpaUFB?oc=5",
+            "published": "2026-08-03T16:00:00+09:00",
+            "source": "Housing Tribune Online"
         },
         {
             "company_id": "sekisui_heim",
@@ -4081,20 +4095,6 @@
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zc01BVWFyQ2RnQ2xKdXlYYlhmREhKNF9TckRzNmpZMU9yMHJ3eXRjd1JzUTMwbFc4Z2RGcV85YWRrRTZreFQwTVJUOC1wTzJFVEsyeWszaVdGQ2N5OXN2TVJUczNtb29yeGRoLWVUUmhIM2xHMnh6c3J5eTU?oc=5",
             "published": "2026-07-23T15:17:49+09:00",
             "source": "nogizaka46.com"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "戦略を読み解く（68）積水化学工業 積極投資で営業益1500億円 - 日刊工業新聞",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhaGhFZ1VobU1JWVRhbjh1VmxZOXhoeTh0dzZ3UHVXZTF6TFpLaDhoLWIyeVIwaGhKRVVGTFppZ1BURWRxMFcwZzBsSFMxZTRiWXpmaXpBSEwzUng2ejZhNld0NkxCMU5TRnpvdElnYzR4djJ5?oc=5",
-            "published": "2026-07-23T05:00:00+09:00",
-            "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "【オフィシャルグッズ販売のお知らせ】「真夏の全国ツアー2026」宮城公演＠セキスイハイムスーパーアリーナ - 乃木坂46公式サイト",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tQnVSN0FMbXFNY05JY045N3hvcGJVZmRRRk8xcGhFQU0zZHJJSXhNUEljMl9TRGtkWUhNbHhILUdzbnRsMGR5T0N4RzBSSHFZUWc4WXhnZzZkRGM4cV8xYmR3N1R0cHUtUUpzWXBlVU1TN1VuaVJUNUYySzM?oc=5",
-            "published": "2026-07-22T21:04:35+09:00",
-            "source": "乃木坂46公式サイト"
         },
         {
             "company_id": "mitsui_home",
