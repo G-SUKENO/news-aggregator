@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-08-24T05:17:01.781534+09:00",
+    "generated_at": "2026-08-24T06:16:30.383541+09:00",
     "articles": [
+        {
+            "company_id": "sekisui_house",
+            "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+            "published": "2026-08-24T06:05:54+09:00",
+            "source": "日刊建設工業新聞"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウスで着工/福井市にホテル/28年の春開業へ - 建設通信新聞Digital",
@@ -177,20 +184,6 @@
             "source": "ニュースイッチ by 日刊工業新聞社"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RnRlSVBqVUVBTGZ4dEd0d0lSYTJWcTItQVFjRktudUxfR3gtUGtKSVdQUmFyb3M4TmRvNmFOeVU2QTN5T3VNcTcxMVo1bmFfNnc?oc=5",
-            "published": "2026-08-21T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：掲示板 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FY1NWVklDa1JOMnJlVHhQcDZuZ3E0b3FoNk0tR215VzQ0dzYzejV6aDBjYndGUlBrZkNiMjVadlh1MjJyWGRQeTZYOUlia3ViWk1HSXZ0V3k5QQ?oc=5",
-            "published": "2026-08-21T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
@@ -208,6 +201,20 @@
             "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOWd6ZnNuWWdsMTVHcW5KaHpUZGtWREwtSXhtN25xem9qclZuTzFMblpmNU5jOU02YjVLS0d3dlk4TW5ReDNzWFh6SGVuRkNtOFRiRkd6bm5tQQ?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RnRlSVBqVUVBTGZ4dEd0d0lSYTJWcTItQVFjRktudUxfR3gtUGtKSVdQUmFyb3M4TmRvNmFOeVU2QTN5T3VNcTcxMVo1bmFfNnc?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：掲示板 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FY1NWVklDa1JOMnJlVHhQcDZuZ3E0b3FoNk0tR215VzQ0dzYzejV6aDBjYndGUlBrZkNiMjVadlh1MjJyWGRQeTZYOUlia3ViWk1HSXZ0V3k5QQ?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -380,13 +387,6 @@
             "source": "化学工業日報 電子版"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "中国総業 福山市紅葉町に事務所 大和ハウスで11月着工 - 建通新聞",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjVIRGtzZ3Y5alJwS0lxQkRUazdJclJsRjlOVi00S0w1cmdRcVBVM1FHM1o4Zm82S2hDa1VWeGVsZnIySU9Ncktybi10QWxGS0JpbWlJSVdQUFZiWmdMdEdqdWFVWVFmaVNMZDVhSUh0aTNocE10azhZbFBacGZLUA?oc=5",
-            "published": "2026-08-21T05:00:00+09:00",
-            "source": "建通新聞"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入 - 日経クロステック",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QT0RXM29YZVlnZjJsUV9oRWc1VldqNm55emNRa0FIcG1uMzZZcmFxWldrNVViZGpWUGlvQThpT1JNeFB0ak1aTy1CQ0VrVG13TC1HbTlEOGhsTkw0cktSR3ZWSG9zdkdOcC1KeQ?oc=5",
@@ -399,6 +399,13 @@
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFE0SGctRHlnd2xlcUMtaTFvbVlGdmVqYWpOZVNxbUJoM1p0TGJ1Q1FXRlJ5eHpiZnBoaUQybGMwM1o2TExsdWhEekNNUXZ1cjYyZHRoWG00VFJWZWRxZktURzJaZ19yU202c0FMc1Q3b3NTVmFuTXpGSWVZMThiR0E5d1pUVUZrSC1QNjNtaV9VRDJS?oc=5",
             "published": "2026-08-21T05:00:00+09:00",
             "source": "日経クロステック"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "中国総業 福山市紅葉町に事務所 大和ハウスで11月着工 - 建通新聞",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjVIRGtzZ3Y5alJwS0lxQkRUazdJclJsRjlOVi00S0w1cmdRcVBVM1FHM1o4Zm82S2hDa1VWeGVsZnIySU9Ncktybi10QWxGS0JpbWlJSVdQUFZiWmdMdEdqdWFVWVFmaVNMZDVhSUh0aTNocE10azhZbFBacGZLUA?oc=5",
+            "published": "2026-08-21T05:00:00+09:00",
+            "source": "建通新聞"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2669,41 +2676,6 @@
             "source": "全国賃貸住宅新聞"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業／大阪府茨木市で3.1万m2の物流施設着工へ、パナソニックの工場跡地 - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSc21RQWlpMFJfTU5fR3pFdU5fZTB2ZnJhMnl5aFZJZF9ac191cE9yLTU4Uzd1RzV3bFlLcmd4OUxaRlljckYtX1Z1cEQyWjloY1JpNg?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "物流ニュースのLNEWS"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "個別銘柄戦略: 大和ハウスや任天堂に注目 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoMElVSlg1T25Wd0RlNkZ6V2ViWEdZUVB3R2c5ZEpiR21JYUxyenBWbFlKckliVk5maEYzODM3djNCV24weTF1ZzVjaEg2MWVGOTZ2eFo1V040UzI2YWtrcERtWWh6enM?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "個別銘柄戦略: 大和ハウスや任天堂に注目(フィスコ) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjlfa1ZEUzQwTFZKV2JiU1NKNnltVlZmRXFkbERjcXlDZWRERlJPMFM1TkVqTGRGckxBRE96MnIteDR1YlpjWk5YR1lvTDg5TVk2UlB0cnktQlZ1R0lIZU9FNVpNcnk0YWxJMkNWMlJlU3JQdzU1QlY2SWYtZFhld1RDb1BwNVk?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業、大阪・茨木市の物流施設3.1万㎡をフジタで着工へ - 建設通信新聞Digital",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ocGJyVkh3eVozTHhDQ0ZHbmljQl81aklUbnJrZk9GeDRGeGNDMjE0cTlkbHZSSWZKUkRZRzd3X29GOW5zX0RxN1RQS1pCZUh2akV6RHNn?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "建設通信新聞Digital"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：現物信用売買内訳時系列 - finance.yahoo.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HMmp1U2N2ZXZPYkplWW1GdmdnYnUzQVh3bTcwV1k3Qm5nN3RCNERvWGQ5UUhXYzBRUDNsY2syTFNFeGgwRjd5aWRFTEpEUGxHRkZtOG9XY2l1X2N2TWtv?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "finance.yahoo.co.jp"
-        },
-        {
             "company_id": "sekisui_house",
             "title": "積水ハウス、シンガポール・ベイショア地区の大規模複合開発 - 千葉日報オンライン",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ib3poM1IyQzc0OFhTUXRtWE9YM3JUSVNwUGtKNDBXUzVacUptTmFBc1dPVkFSek53eW9XeGJiM0ZvVThkb0o2SXl4QTB2SWt1NjRCWXZB?oc=5",
@@ -2737,6 +2709,41 @@
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE41eHJqWmJSenhLV2o4bW00MTVnV004dEdiek5XNnZnUFRjdnpqRUdZMkw4RS1kZ2E1VGx0VVh2ZjVxY2c?oc=5",
             "published": "2026-08-07T16:00:00+09:00",
             "source": "Digital PR Platform"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業／大阪府茨木市で3.1万m2の物流施設着工へ、パナソニックの工場跡地 - 物流ニュースのLNEWS",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSc21RQWlpMFJfTU5fR3pFdU5fZTB2ZnJhMnl5aFZJZF9ac191cE9yLTU4Uzd1RzV3bFlLcmd4OUxaRlljckYtX1Z1cEQyWjloY1JpNg?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "物流ニュースのLNEWS"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "個別銘柄戦略: 大和ハウスや任天堂に注目 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoMElVSlg1T25Wd0RlNkZ6V2ViWEdZUVB3R2c5ZEpiR21JYUxyenBWbFlKckliVk5maEYzODM3djNCV24weTF1ZzVjaEg2MWVGOTZ2eFo1V040UzI2YWtrcERtWWh6enM?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "個別銘柄戦略: 大和ハウスや任天堂に注目(フィスコ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjlfa1ZEUzQwTFZKV2JiU1NKNnltVlZmRXFkbERjcXlDZWRERlJPMFM1TkVqTGRGckxBRE96MnIteDR1YlpjWk5YR1lvTDg5TVk2UlB0cnktQlZ1R0lIZU9FNVpNcnk0YWxJMkNWMlJlU3JQdzU1QlY2SWYtZFhld1RDb1BwNVk?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業、大阪・茨木市の物流施設3.1万㎡をフジタで着工へ - 建設通信新聞Digital",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ocGJyVkh3eVozTHhDQ0ZHbmljQl81aklUbnJrZk9GeDRGeGNDMjE0cTlkbHZSSWZKUkRZRzd3X29GOW5zX0RxN1RQS1pCZUh2akV6RHNn?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "建設通信新聞Digital"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：現物信用売買内訳時系列 - finance.yahoo.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HMmp1U2N2ZXZPYkplWW1GdmdnYnUzQVh3bTcwV1k3Qm5nN3RCNERvWGQ5UUhXYzBRUDNsY2syTFNFeGgwRjd5aWRFTEpEUGxHRkZtOG9XY2l1X2N2TWtv?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "finance.yahoo.co.jp"
         },
         {
             "company_id": "sekisui_heim",
@@ -3262,13 +3269,6 @@
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iaVU4WnlnNG5DRVBkY1R6SG9pMHVVbjd0S04ydmwwUUZSV0wyS3M2QUZpWHdsb2l5UWV0Vk8zQ2l6anY1RWFOZk9wVnRxVDNLWjd5Mlg2TTE0a3NwVk1fbjBSWms5a3VFMVJUWEdR?oc=5",
             "published": "2026-08-04T19:09:33+09:00",
             "source": "家サイト"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "“高除湿力”で猛暑でも快適 積水ハウスとパナソニックが次世代空調を発売：スマートハウス（1/2 ページ） - ITmedia",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd0M0b1hDSWQ5c1lQRWpjNHc4ZUZKZDFEZnRLX3BGMFpCeE1hN18tTEFZOGFUVjcwTkxCcEdCUXJkRG4tWTdyaVdBWVFqNU5mQ3RhT1lXVE5Jbmh2STRvN1R5ZDZHVmRJenJNYw?oc=5",
-            "published": "2026-08-04T17:35:00+09:00",
-            "source": "ITmedia"
         },
         {
             "company_id": "sekisui_heim",
