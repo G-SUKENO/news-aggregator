@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-24T08:16:20.297066+09:00",
+    "generated_at": "2026-08-24T10:01:50.149237+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -42,6 +42,13 @@
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnFKQTk2d0VHTlhXX3N0TzJIVkRFX1c2WVBheVdrZUQ3Wm8tRVJ5emFoUnZwVUVDZ0J6S0FscVEtQmlJaGxqZkR1NmVTQXRnM09OaFRpZ3JKRGtLQ0R5Znl6SVBaNUl4a0xWUThnRmctbTV5dGIzY1RUeXRaNlJKUGln?oc=5",
             "published": "2026-08-23T16:42:42+09:00",
             "source": "rakumachi.jp"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "“作って終わり”のその先へ──大和ハウス工業が事業成果までを追う「事業DXチーム」を発足 - EnterpriseZine",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IejltMV9BV1pLM2MyWGU0LVFwYkRJeGo5WlEzUmxqUTk4Q3hWNE1iYS1IOVc5QnZhbkhuellteklDdUJKLVQ2RWExRlhjT2xObTgyMEVaQm5vUQ?oc=5",
+            "published": "2026-08-23T15:40:54+09:00",
+            "source": "EnterpriseZine"
         },
         {
             "company_id": "sekisui_house",
@@ -192,13 +199,6 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
-            "published": "2026-08-21T16:00:00+09:00",
-            "source": "Yahoo!ファイナンス"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス(株)【1928】：配当情報 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkNReDdnRGlSR21TaUJYVTF0TlZMMi10WHc0Z2duT2hfb2dqcVp2NTFHZ1Y3T1p5M2RsdDU2aUJuOGxtU1VXbWFNRnNKMFQzQzRhWkdwcThIeXZTVmc?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
@@ -212,9 +212,9 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RnRlSVBqVUVBTGZ4dEd0d0lSYTJWcTItQVFjRktudUxfR3gtUGtKSVdQUmFyb3M4TmRvNmFOeVU2QTN5T3VNcTcxMVo1bmFfNnc?oc=5",
+            "company_id": "sekisui_house",
+            "title": "積水ハウス(株)【1928】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbEtBd25jQV85Tlg5bTRHemdLbWZwRnF6T3U4NEl0S1B6MFozTUZRdlV1ei1PZjBHNHF2U2h3YWtiQzVJaVZQcjdKbHZqd1dLQUE?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -226,9 +226,9 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "sekisui_heim",
-            "title": "積水化学工業(株)【4204】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMHgyWUt2R1JvOFpYLW85VFNnX3lTWTNSU0VlWjAwLXBVQ1hzU0NLSUl5dXhyeXd5ZEZoRXpMV3N6TUd3RTBPQ2RtUGF4YTFNRnc?oc=5",
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53RnRlSVBqVUVBTGZ4dEd0d0lSYTJWcTItQVFjRktudUxfR3gtUGtKSVdQUmFyb3M4TmRvNmFOeVU2QTN5T3VNcTcxMVo1bmFfNnc?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -236,6 +236,20 @@
             "company_id": "sekisui_heim",
             "title": "積水化学工業(株)【4204】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jay1ranFOdUo2Y00tVkJJVnJXczFyaWdaRVlhNWNISlRUcUJlelhsMlQwaFNsTXZBczd2SmlQaE5JUU91RmUya2JaQXlpNjZaTFZKc2xZY0djZw?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：決算説明会書き起こし - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sNy1YUG9GS0oyZXJoTEVKYTk2V1h2Zm1nWU5qX1haVVAwOXdUM1lVYkNKM2VtSlROYUJoMlBDdGlTU05HM3p0MkdRXzcyZXpLTGI4UlFRUl84dE5WTC1hUWc2UUNBaC1CYXVLdDBGbmhzMmljMjBfbw?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_heim",
+            "title": "積水化学工業(株)【4204】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMHgyWUt2R1JvOFpYLW85VFNnX3lTWTNSU0VlWjAwLXBVQ1hzU0NLSUl5dXhyeXd5ZEZoRXpMV3N6TUd3RTBPQ2RtUGF4YTFNRnc?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -255,6 +269,13 @@
         },
         {
             "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
+            "published": "2026-08-21T16:00:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sumitomo_forestry",
             "title": "住友林業(株)【1911】：掲示板 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMkUtWjFpU3RmWDJVYm9DRGk5X25YLXM5bVVMTWN1MUlxLUNxcDRodDFCV0pITDdndXpXbm1Sb1VwYnk5blJCWEh6M3ZiV0RsREVfYjBobEJSUQ?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
@@ -262,8 +283,8 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業(株)【1911】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bUJfR1A5VWdKakxRN0dJUzNqd3d6eGtaQzczNnZpc1pCZTgyYWNub0xpRzhBb2xCVHpfQlRpQkp1QVV1bkxfVTk5RXNSWjFNZUE?oc=5",
+            "title": "住友林業(株)【1911】：現物信用売買内訳時系列 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2SjU0R0NOZ3lmQ3J0TGVNNnRyMnAtdkJNaHdSWVFEcF9pS3l2cFdjZTZNUE00NFgwbmFETHhGQ3lZVlBtSFBJTURUVFRDdjdNRG1hYnNBcG4wX0M0UnFj?oc=5",
             "published": "2026-08-21T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -434,13 +455,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wdE5QX21FdUJfaEN2MEdycWd0NWF0bC1VUTloTGRWQnd0bTMtMF9mTmlQLXBJdFZ3T3haMkNRY0E4d3NNTlNnZmlYMVdlU1NKOGxLZUhES1hvYXBxdlVPNzJNaTIwbV9Eclpudg?oc=5",
             "published": "2026-08-21T02:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "“作って終わり”のその先へ──大和ハウス工業が事業成果までを追う「事業DXチーム」を発足 - EnterpriseZine",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IejltMV9BV1pLM2MyWGU0LVFwYkRJeGo5WlEzUmxqUTk4Q3hWNE1iYS1IOVc5QnZhbkhuellteklDdUJKLVQ2RWExRlhjT2xObTgyMEVaQm5vUQ?oc=5",
-            "published": "2026-08-21T00:10:02+09:00",
-            "source": "EnterpriseZine"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -3040,13 +3054,6 @@
             "source": "Housing Tribune Online"
         },
         {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業が自社グループ運営の物流拠点 神奈川県に、建材を一括出荷 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUF9LRjROdzVSenZsalBlZTdtMnAyZmNNbmxhRW9CZUszSmh3X2N5NGhXS2tZWUNERnFsVjlBS192MjYtUnMtdklmSXpDS0Fta19MY2ZIeUcyUTB2YnpnbERRNjFva0duRFFpNQ?oc=5",
-            "published": "2026-08-06T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
             "company_id": "misawa_home",
             "title": "ミサワホームなど、ＪＡＸＡと月面基地向け技術研究 - 化学工業日報 電子版",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbXZhSndIWEoxNEFsejlVQTdjLUt5ZTBxa181LUxKLURKNFlhY1ppaXpVU2JGZ3NRSnFPbkRTdHZGU3lpNXVWYzBTYnpobUZ3NUNn?oc=5",
@@ -4088,13 +4095,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ITF9QYjdDNFh2c0JtT0w5eWZ0d0ZSaUdJaVhlRlZFYy05SG5oUDMzMlFBUzVIZnJrTzVTa2RudkJWaTc0bnVOT3RLZFd4YURRU3BuSnUzd2lIOFJONklXTTM1WnB5eng2Qmc?oc=5",
             "published": "2026-07-23T16:00:00+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "【オフィシャルグッズ販売のお知らせ】「真夏の全国ツアー2026」宮城公演＠セキスイハイムスーパーアリーナ - nogizaka46.com",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zc01BVWFyQ2RnQ2xKdXlYYlhmREhKNF9TckRzNmpZMU9yMHJ3eXRjd1JzUTMwbFc4Z2RGcV85YWRrRTZreFQwTVJUOC1wTzJFVEsyeWszaVdGQ2N5OXN2TVJUczNtb29yeGRoLWVUUmhIM2xHMnh6c3J5eTU?oc=5",
-            "published": "2026-07-23T15:17:49+09:00",
-            "source": "nogizaka46.com"
         },
         {
             "company_id": "mitsui_home",
