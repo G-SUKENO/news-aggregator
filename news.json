@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-24T20:22:42.756310+09:00",
+    "generated_at": "2026-08-24T21:40:18.649191+09:00",
     "articles": [
         {
             "company_id": "mitsui_home",
@@ -40,7 +40,7 @@
             "company_id": "sekisui_house",
             "title": "「どんな住まいにしたいですか？」 ひとつの質問から始まった、家族の“秘密基地”の物語 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE13M3h0TmtBQW9TakMtb2NycFZQS3NwN2lFcjV5WUZ0X1FvZUJQSEZqaVBzN2dKLUVRQmNxOHM0N2szMWM?oc=5",
-            "published": "2026-08-24T15:13:15+09:00",
+            "published": "2026-08-24T15:15:15+09:00",
             "source": "Digital PR Platform"
         },
         {
@@ -1577,6 +1577,13 @@
             "source": "テレビ静岡"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "【PR】上越市富岡のオーナー住宅で新築完成見学会 一条工務店が8月22、23、29、30日開催 - 上越タウンジャーナル",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tR19XWEx1b2QzQlJWOXoyQ2tXcEM0ZlBsRGhJMUlLV3c3bFlvMGxVRXptUHcyejUxTEJMTXU3TXdfRVpQWDB1WUxCQ21BT2NnM3B3TA?oc=5",
+            "published": "2026-08-16T16:00:00+09:00",
+            "source": "上越タウンジャーナル"
+        },
+        {
             "company_id": "mitsui_home",
             "title": "全受託の約1割が定期借家採用 三井ホーム - 住宅新報",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rSWUxdnBCN2hpUTU5SThpRnhwYlZ5dzM3R29PU3h2V1pBcC1GVVk5Wl9GYlBQU1RwWDZla0tvWXVNNU1CaGVUUkk2RW1selk?oc=5",
@@ -1680,13 +1687,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fUFlyanZnUWNSbVpVRnVGOEJHY1hITmZ1WWQ5eEJ6aG1hbkE2MnVUeGRiTnBXdnd5TFdCaWJ5bHoyc1UzYkM4Rk9hQnRRSDA?oc=5",
             "published": "2026-08-16T10:04:52+09:00",
             "source": "住宅新報"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "【PR】上越市富岡のオーナー住宅で新築完成見学会 一条工務店が8月22、23、29、30日開催 - 上越タウンジャーナル",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tR19XWEx1b2QzQlJWOXoyQ2tXcEM0ZlBsRGhJMUlLV3c3bFlvMGxVRXptUHcyejUxTEJMTXU3TXdfRVpQWDB1WUxCQ21BT2NnM3B3TA?oc=5",
-            "published": "2026-08-16T10:00:00+09:00",
-            "source": "上越タウンジャーナル"
         },
         {
             "company_id": "mitsui_home",
@@ -2873,17 +2873,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業／大阪府茨木市で3.1万m2の物流施設着工へ、パナソニックの工場跡地 - 物流ニュースのLNEWS",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSc21RQWlpMFJfTU5fR3pFdU5fZTB2ZnJhMnl5aFZJZF9ac191cE9yLTU4Uzd1RzV3bFlLcmd4OUxaRlljckYtX1Z1cEQyWjloY1JpNg?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "物流ニュースのLNEWS"
-        },
-        {
-            "company_id": "daiwa_house",
             "title": "個別銘柄戦略: 大和ハウスや任天堂に注目 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoMElVSlg1T25Wd0RlNkZ6V2ViWEdZUVB3R2c5ZEpiR21JYUxyenBWbFlKckliVk5maEYzODM3djNCV24weTF1ZzVjaEg2MWVGOTZ2eFo1V040UzI2YWtrcERtWWh6enM?oc=5",
             "published": "2026-08-07T16:00:00+09:00",
             "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業／大阪府茨木市で3.1万m2の物流施設着工へ、パナソニックの工場跡地 - 物流ニュースのLNEWS",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSc21RQWlpMFJfTU5fR3pFdU5fZTB2ZnJhMnl5aFZJZF9ac191cE9yLTU4Uzd1RzV3bFlLcmd4OUxaRlljckYtX1Z1cEQyWjloY1JpNg?oc=5",
+            "published": "2026-08-07T16:00:00+09:00",
+            "source": "物流ニュースのLNEWS"
         },
         {
             "company_id": "daiwa_house",
@@ -3608,15 +3608,15 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "【決算速報】積水化学工業、1Q経常28,084百万。アナリスト予想を上回る(アイフィス株予報) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVhjdkVqa0lpVFpXNmwxTXVBT3JULWQ3QmNmSHFHZS1BQmdJakFtOXplYkh4bEhYR2pOSVpsY01wd2VpdktnaDJMQkY1VnR6azI3d29ES1RZSG9sVThWS2R1bDJuN2hqc2d6cXFhT1JzQmtGQ1drTXNQOE5uQjdHZ25pcDBLblk?oc=5",
+            "title": "積水化学工業(株)【4204】：決算情報 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ckVHZjE1TTdwc2hUNmFwOVViLU5sY0hzcWt2NW1DcGt3MWdQSjc1b1MxTGZTSkVmMWFDV3M0X1JENXdmNGxReHdaTDRBS3pzdE9PRjE5Z19STXl3T0lZcw?oc=5",
             "published": "2026-07-31T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_heim",
-            "title": "積水化学工業(株)【4204】：決算情報 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ckVHZjE1TTdwc2hUNmFwOVViLU5sY0hzcWt2NW1DcGt3MWdQSjc1b1MxTGZTSkVmMWFDV3M0X1JENXdmNGxReHdaTDRBS3pzdE9PRjE5Z19STXl3T0lZcw?oc=5",
+            "title": "【決算速報】積水化学工業、1Q経常28,084百万。アナリスト予想を上回る(アイフィス株予報) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVhjdkVqa0lpVFpXNmwxTXVBT3JULWQ3QmNmSHFHZS1BQmdJakFtOXplYkh4bEhYR2pOSVpsY01wd2VpdktnaDJMQkY1VnR6azI3d29ES1RZSG9sVThWS2R1bDJuN2hqc2d6cXFhT1JzQmtGQ1drTXNQOE5uQjdHZ25pcDBLblk?oc=5",
             "published": "2026-07-31T16:00:00+09:00",
             "source": "Yahoo!ファイナンス"
         },
@@ -5749,6 +5749,13 @@
             "source": "上越タウンジャーナル"
         },
         {
+            "company_id": "ichijo_komuten",
+            "title": "「積水・住友林業・大和ハウス…自由設計ならどこも同じ？」→住宅のプロが12社を比べて見えた意外な差 - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZTkJPcG5IOXJMU2YtaGprTVZUM1NGaC10WnZ4LWxSRDVTWmxLTnFaUVVpbGxxVE9NdTV2NWZDblNVMC1jR0QzMUhhN25rN3pvNGhtaEJ30gFPQVVfeXFMT0VzTTFDbTdVRDg5NE83WUJ2eWlFOXhmMy1GdThTX0REVV9nRUpZZkxSVmVMN1N1WDZ4MzUxQ2lsNGtqaktRVjBMQjQ2ZTk2Yw?oc=5",
+            "published": "2026-06-19T16:00:00+09:00",
+            "source": "ダイヤモンド・オンライン"
+        },
+        {
             "company_id": "hebel_haus",
             "title": "旭化成ホームズ、住まいのノウハウでホテル開発を強化　インバウンド拡大を追い風に住宅大手の参入相次ぐ | チバテレ＋プラス - 千葉テレビ放送株式会社",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SeUpKYm9YZW5Tcjd5anIxVGE5RnFodVdQLWt6UDB6MzhDYVktMnNjWml0aTZnS0VjZnRCdEhFT0djMUdYOWFhT1prYTg3Q0Nhay14X09KZ0VfNXFrSmxr0gFkQVVfeXFMUDlwdmRycWI1NjlvejdLOU1oMXNoVnlaMW0tcjF1bUJ1OGs5YUhiYVd2RkNyQlA1b3ZlTEdGMHpWVzdxaEF2M2NtT2Qtb2ZJcWEzalhldEZRb1lKWUViZFdXQzJoTg?oc=5",
@@ -6293,13 +6300,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05UnZIcjU5RFhjVUozYzFBaklzOXJwUlZZeU5TTDdNRU9ySkk4MzAyRHpBaEJYUndYclhzMjRGU3JoTmN0VFVWRnViSWlybWdCZWc?oc=5",
             "published": "2026-04-30T08:25:29+09:00",
             "source": "SBSマイホームセンター"
-        },
-        {
-            "company_id": "ichijo_komuten",
-            "title": "「子育てと住まいに関する意識調査2026」結果を発表 子育てをするうえで、現在の住まいに満足していない人は約7割。不満・不便な点1位は「収納スペースが足りない」。 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZ0NSLVhrU19uR0Y1WnBiZGRWM19FdGE4VUNiNHdVd3NjN3NLSThuczhOVzlCTU55VlJwc0JZQnZTMi1yWHdhekJ6a1FfYjhEZWtaUUZDUXBVQkpicFZqdnlwd1ZYaTRhRUE?oc=5",
-            "published": "2026-04-27T16:00:00+09:00",
-            "source": "PR TIMES"
         }
     ]
 }
