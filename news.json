@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-08-27T03:55:21.444944+09:00",
+    "generated_at": "2026-08-27T06:37:02.547697+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "山科区に有料老人ホームを計画／延床面積は２８００平方㍍、２７年２月に着工／大和ハウス工業 - 建設ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OMXhWVENZQ1Y3YjRQOWg2UHhhaVdqeHVrUHZBNTY5Um8yLXVFb3plb2t3LTZzb01mci1MWTU4c05aZTkxcmZCTjg5cw?oc=5",
+            "published": "2026-08-27T06:13:09+09:00",
+            "source": "建設ニュース"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大谷喜一（26） 似鳥さん 天然キャラと執念に感服 大和ハウス元会長から「君は何者」 - 日本経済新聞",
@@ -56,6 +63,13 @@
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TjE2QmltLUNvRVJudmJiQlk4bjhVblJWMjFjcmo4aWk3bDBtQVNIbkVpN2lhUVlQQXlqVm5HbHdiVndlVktnMGEtMThJT0x5?oc=5",
             "published": "2026-08-26T16:00:00+09:00",
             "source": "住宅新報"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
+            "published": "2026-08-26T15:58:51+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "misawa_home",
@@ -184,6 +198,13 @@
             "source": "日刊工業新聞"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "【売買】総額262億円の資産入れ替え、大和ハウスリート - 日経不動産マーケット情報",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xd09uald6LU9xNHliei1URV9jSWtLWkxxbDVNbHRaOEJVbU9GSkJwMklWYUJXRHI2Zm8yQkZPbzNsNHRUekUySnNjV0UtR0FsdnpHbnpjSjB4ZXJMTmVkdzBR?oc=5",
+            "published": "2026-08-26T06:03:21+09:00",
+            "source": "日経不動産マーケット情報"
+        },
+        {
             "company_id": "misawa_home",
             "title": "ミサワホーム、顧客との通話をAI要約 事務負担軽減 - 日刊工業新聞",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QRWpIZ1JVQzYwWVpsVHpRTWh2UWVlMEFfZ1ZDT2pVSEhuNzhEQjc5LVM2U0J3U2tOREg1VmVTeEFXWWVaclJnY3RXaFNueXFBZnVEeENGNDc?oc=5",
@@ -259,13 +280,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfNkI1N21icExBdXVpSmNLbnQ4TnltQ1FpOGVkUnpaMHIwM1BhbnlIVXpPbFdmLTdKelpvVkxTczBYakdSSmk0N2FmX3A2aDhGM0E?oc=5",
             "published": "2026-08-25T17:35:19+09:00",
             "source": "SBSマイホームセンター"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス工業(株)【1925】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jb3hFQTgzTTNKRmNUamxuZHFBN2RkcFg5UjBoMWNhcERJWTdVemluSGs0QnNhWExoeDM5NWpGSmFJTS02TDljRVF4cHVMeWdwZHlmWlFaNC1tM3hRYm80?oc=5",
-            "published": "2026-08-25T15:58:30+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -1508,17 +1522,17 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」 - スポニチ Sponichi Annex",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3Utd092R3pUTVI4MWZOUERHZ1l3cnRsZlFlZ3Zhak93ajBjRGk4T1VMSkNOSVZ5cnZvbUlNU3QyNlUtQmJyaXhEdVRULU00Ry1ERGI1ek83SUtKZWIwaVdzWXo3Tk5vb2ZCRmdJN20zQXRCNHVaeDdVd1JyNHNwRmluc2pmVVBXOUlxbkxXSUJNU3VsVVE?oc=5",
-            "published": "2026-08-18T16:00:00+09:00",
-            "source": "スポニチ Sponichi Annex"
-        },
-        {
-            "company_id": "sekisui_house",
             "title": "積水ハウス、従業員のウェルビーイング向上のため「幸せ健康経営」を推進 - Digital PR Platform",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tejhFVXNmUUVYT2pPMmRPS3FRb2dEdjFNYTlNWTZXR2VOLU9qQXY0dHNhNUxoUGd5WWlfNUg5RGZnaTQ?oc=5",
             "published": "2026-08-18T16:00:00+09:00",
             "source": "Digital PR Platform"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」 - スポニチ Sponichi Annex",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3Utd092R3pUTVI4MWZOUERHZ1l3cnRsZlFlZ3Zhak93ajBjRGk4T1VMSkNOSVZ5cnZvbUlNU3QyNlUtQmJyaXhEdVRULU00Ry1ERGI1ek83SUtKZWIwaVdzWXo3Tk5vb2ZCRmdJN20zQXRCNHVaeDdVd1JyNHNwRmluc2pmVVBXOUlxbkxXSUJNU3VsVVE?oc=5",
+            "published": "2026-08-18T16:00:00+09:00",
+            "source": "スポニチ Sponichi Annex"
         },
         {
             "company_id": "sekisui_house",
@@ -3178,20 +3192,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGQTVfWUFLWk9TU09sREhXbWRCV1dkRE9LZ3lNaVdIT0xBTl93dlZnNlpJMy1iWWxxUUJpVGtzU3dtc0JLQXZTSFg0WTlKX01JVFVGRzRiRmFJcWtUYk9SdUctd3pkdw?oc=5",
             "published": "2026-08-08T16:21:42+09:00",
             "source": "毎日新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "別大興産カップ第60回OBSおはよう野球 ダイワハウスロケッツが初優勝 - TBS NEWS DIG",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaYTdkdkNMeXJnR0JManpSZnQ2bURncUhXeFpiQWRjdldKMU9pR19ta05aaFFMamMyRWZGN3g0TWE5amdjeUlOT0U4Zll6OENWMnpRZS1sa0tfYUZCRmY5eWFtNTZqNkU?oc=5",
-            "published": "2026-08-08T16:00:00+09:00",
-            "source": "TBS NEWS DIG"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、奈良工場を改修 ショールームとして活用も - 朝日新聞",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sOVE3SXZGQXBiYmtvYk0xRVQ2Mk1ZVzFMQ3NmWEJOS2xCanVNSEQwQkVubE1FaHpmQ1NvY2J3bUxlTVMwYy15bTdSV2l2bHluUzRBQ2tXZW9yT3BlLVhWaXUySDBCMy1GMFY4Ym9n?oc=5",
-            "published": "2026-08-08T12:44:44+09:00",
-            "source": "朝日新聞"
         },
         {
             "company_id": "sumitomo_forestry",
