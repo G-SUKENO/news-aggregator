@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-26T17:37:16.088095+09:00",
+    "generated_at": "2026-08-26T18:35:48.358700+09:00",
     "articles": [
         {
             "company_id": "sekisui_house",
@@ -7,6 +7,13 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTliTjduV2JwNTJKOTZIdmxHb1JYUnZuRWgtb1J2Y0JjNEc3YVZUVk1zcFM4WFZSUmdnVWh2RlRGWUQxaWdEa3ZNdHZGVTRSQ2pfeVVqWkc1VVAyNXpIN1BETDNwQnVvd0VvdUljWWFYZ25mREY1dlJFLWF5MjdVZg?oc=5",
             "published": "2026-08-26T16:30:00+09:00",
             "source": "建通新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "広報とは、信頼を守る仕事。 - 共同通信PRワイヤー",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LY1NBeHZNWVVuQkFEWmVzWVlPb2JLWjBRdzRtUk1KSWoyWTg0eVBBaHBkZHBJUGw1b09jaFhxMmExbTVid2h6M0tyVldkd0k0SGNlQ0tadDJkbzA?oc=5",
+            "published": "2026-08-26T16:17:02+09:00",
+            "source": "共同通信PRワイヤー"
         },
         {
             "company_id": "daiwa_house",
@@ -73,17 +80,17 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "積水ハウス、若手営業社員の“相談できるつながり”を支える コミュニケーションツールを導入 - Digital PR Platform",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5lT2paOHJ1YWgtNzcyTTdEVklNMjlQdS02ZkVHa0szR0xyU2tXcVc4UzlWUHlnN3dNdk1iVk93SWEyUG8?oc=5",
+            "published": "2026-08-26T12:30:20+09:00",
+            "source": "Digital PR Platform"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス、若手営業社員の“相談できるつながり”を支える コミュニケーションツールを導入 積水ハウス株式会社 - 新潟日報",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLN3NsVWJud1hVS0ZyX1huaFBNZHdKU09CTF9LR2NMeUNXeXBuTjU4TWx1UGl4bWk0ckJWbVBKenRMM1Y3bDI5S2V1RTJLM0d6VTBZWTlGazZORGNwc1E?oc=5",
             "published": "2026-08-26T12:30:00+09:00",
             "source": "新潟日報"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "積水ハウス、若手営業社員の“相談できるつながり”を支える コミュニケーションツールを導入 - Digital PR Platform",
-            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5lT2paOHJ1YWgtNzcyTTdEVklNMjlQdS02ZkVHa0szR0xyU2tXcVc4UzlWUHlnN3dNdk1iVk93SWEyUG8?oc=5",
-            "published": "2026-08-26T12:29:20+09:00",
-            "source": "Digital PR Platform"
         },
         {
             "company_id": "sekisui_house",
@@ -947,6 +954,13 @@
             "source": "住宅産業新聞"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "経営ひと言／住友林業・光吉敏郎社長「リフォーム期待」 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMS1JoZV9pdXJhRWJZNG1IdHR0aHpnaHNZaTFGZ3RsUkRlSWVOZ2hzb04xVEZzYXdpUkVwTEVEV1ltVkZBNHBSbGx3Q0RmaC1vR2VFSlRfejQ0Y2lGaDlacE5ZaXU3MWhGVTJVZU9Vd2VnYUlU?oc=5",
+            "published": "2026-08-21T05:50:02+09:00",
+            "source": "日刊工業新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "大和ハウス、米ヒューストンで物流施設3棟開発 - LOGISTICS TODAY",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12UzZjSXlpRDRNSDRpUDAzb2ZjczZTX21Hakppa0JvN1Y3Q1FWM3NJc1NwNkoxaUpfZXBtWHctSUhYeHM0d2VlOQ?oc=5",
@@ -1452,6 +1466,13 @@
         },
         {
             "company_id": "sekisui_house",
+            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」 - スポニチ Sponichi Annex",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3Utd092R3pUTVI4MWZOUERHZ1l3cnRsZlFlZ3Zhak93ajBjRGk4T1VMSkNOSVZ5cnZvbUlNU3QyNlUtQmJyaXhEdVRULU00Ry1ERGI1ek83SUtKZWIwaVdzWXo3Tk5vb2ZCRmdJN20zQXRCNHVaeDdVd1JyNHNwRmluc2pmVVBXOUlxbkxXSUJNU3VsVVE?oc=5",
+            "published": "2026-08-18T16:00:00+09:00",
+            "source": "スポニチ Sponichi Annex"
+        },
+        {
+            "company_id": "sekisui_house",
             "title": "積水ハウス、従業員のウェルビーイング向上のため「幸せ健康経営」を推進 - tv-tokyo.co.jp",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42bzl4YlNuWmtGLTRmTVp2SlJkRlhjMXBXZGNwRzA3eWFoU1d6YnlfbFJTRzJvS1lsbWFvVnlxUjBnZWRwdXNHNTY5YUNLZm01Mi1ZclNqSTFxSzdWVWZ1QnctdW1uenRIMkt0VkdB?oc=5",
             "published": "2026-08-18T16:00:00+09:00",
@@ -1515,15 +1536,15 @@
         },
         {
             "company_id": "sekisui_house",
-            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」（スポニチアネックス） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QT2dHMUpMdVFzQUVBYllDZ2RnOFdmTzZ4YlpkbGw4b0hxWThaaUZVbVFWalE0a1FreXhsTHNtN2R2aEVZalVkTFlJUEJRV0pQU2hjc09halQyYUVzWlpPNHE4TUVjb2Jzd19TS0ItZ3NhUDNhd0VPUkhyUHZVaDg?oc=5",
+            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」 (スポニチアネックス) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjBUcDZ1Z0ZfRVEtaHRXWU90M3FqRU85ZE1EdHJVXzZhOTVfM0Fhbk5qaHpCajRUYjl5Y29PVi1KWFlSMkoyTFVEUWM2LVZpeDVfUXdQRVpFS1RJZDNKbWQxa3htTDlaY0lVZ21nZjQtd0tqN1daLUtDenZ6R25telJaWUw3azRqeW40WG1R?oc=5",
             "published": "2026-08-18T12:46:41+09:00",
             "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_house",
-            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」 (スポニチアネックス) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjBUcDZ1Z0ZfRVEtaHRXWU90M3FqRU85ZE1EdHJVXzZhOTVfM0Fhbk5qaHpCajRUYjl5Y29PVi1KWFlSMkoyTFVEUWM2LVZpeDVfUXdQRVpFS1RJZDNKbWQxa3htTDlaY0lVZ21nZjQtd0tqN1daLUtDenZ6R25telJaWUw3azRqeW40WG1R?oc=5",
+            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」（スポニチアネックス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QT2dHMUpMdVFzQUVBYllDZ2RnOFdmTzZ4YlpkbGw4b0hxWThaaUZVbVFWalE0a1FreXhsTHNtN2R2aEVZalVkTFlJUEJRV0pQU2hjc09halQyYUVzWlpPNHE4TUVjb2Jzd19TS0ItZ3NhUDNhd0VPUkhyUHZVaDg?oc=5",
             "published": "2026-08-18T12:46:41+09:00",
             "source": "Yahoo!ニュース"
         },
@@ -1533,13 +1554,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XVWhSS3otQXVGbDhoRkw4b1ViclFfclg0WmRKQ3Q0QlExdGgtcC1xUVAyNWROVWJmOFhPM2lvcXFOeWdPN0F1NEd1UmwzWkI0bzlqck50cDBacDMyMGlv?oc=5",
             "published": "2026-08-18T12:44:53+09:00",
             "source": "千葉テレビ放送"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "「積水ハウスの歌」南壽あさ子、第1子妊娠を発表「お仕事をマイペースにわたしらしく続けていけたら」 - スポニチ Sponichi Annex",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3Utd092R3pUTVI4MWZOUERHZ1l3cnRsZlFlZ3Zhak93ajBjRGk4T1VMSkNOSVZ5cnZvbUlNU3QyNlUtQmJyaXhEdVRULU00Ry1ERGI1ek83SUtKZWIwaVdzWXo3Tk5vb2ZCRmdJN20zQXRCNHVaeDdVd1JyNHNwRmluc2pmVVBXOUlxbkxXSUJNU3VsVVE?oc=5",
-            "published": "2026-08-18T12:35:00+09:00",
-            "source": "スポニチ Sponichi Annex"
         },
         {
             "company_id": "sekisui_house",
@@ -3152,13 +3166,6 @@
             "source": "news.yahoo.co.jp"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "別大興産カップ第60回OBSおはよう野球 ダイワハウスロケッツが初優勝（OBS大分放送） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pZEZBM3JQcW5rLVp3eEEtVzlkVUVqYzVVVF9JamxLUEhHaEcyeVNuMDNYbEtjOVBFU1FzclNZRGhEVGdPd2tlekhyQTFkRDlTcU96OHVEWC1Wc3RweERpSF85YlJwY0VCalFUNUt0VmNQVm5nc3lpYW5wSUw5MDg?oc=5",
-            "published": "2026-08-08T11:38:13+09:00",
-            "source": "Yahoo!ニュース"
-        },
-        {
             "company_id": "sumitomo_forestry",
             "title": "住友林業、ハイブリッド債2500億円程度－米住宅会社買収の借入金返済 - Bloomberg.com",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoX3gtY1MtRHpwcUYzaTRMWE5VWWF1MlA5eHNDdVBZdEo5MkpDWHlVRlZocXU3VVdiNmtzZDJTbXRjSTJPeVpva1Bzb2VnaUswY2xqUlVUVmNtUFU2cGhHdEYxNUhmQjR1UVh0Rm96eFR4enBrZ2NZ?oc=5",
@@ -3316,13 +3323,6 @@
             "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：業績予想の修正に関するお知らせ 2026年8月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yM2hiYWNxVHZpQVgxUFNTYjdSREt3cHNJNUxOY0pndUN4eXdyVFBSbXBvYmtySGs0Z0lrZUpwTTRYMDJTeUkta3ZqVGpvSGl6OVo4ZmlNekc3RVZGSDQ3VmV0aHNMSFp5aFE?oc=5",
-            "published": "2026-08-07T16:00:00+09:00",
-            "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業[1911]：2026年12月期第２四半期（中間期）決算短信〔日本基準〕（連結） 2026年8月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GWWhsZFlNNUc2XzlpbXVSOUMzSGp1LWRkMWNJU2loWndDN0V3YjNfOE1IY2o2WlJyeDJUVVp2a0VhREdKb0FzRm12Q0ZOWE5Oc19hd2hpS0NTbmR5dzVFSG9nQUNrTG1aaHc?oc=5",
             "published": "2026-08-07T16:00:00+09:00",
             "source": "日本経済新聞"
         },
