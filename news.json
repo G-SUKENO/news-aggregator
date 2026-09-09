@@ -1,12 +1,33 @@
 {
-    "generated_at": "2026-09-10T06:28:34.040441+09:00",
+    "generated_at": "2026-09-10T08:47:20.530934+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "今日の株価材料（新聞など、10日）大和ハウス、大和自に出資 銀座でホテル開発へ - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVTE1hcWROWG1Wb2l0Ynh3ODJpc3VHajU3eEt2Z1NaVU1BZHU4NlRiSU8yVkNkVTNzdzk4cEl3ZUdxN2drQVllcTVJMFIzeXhHdTBOSU1TRW9pTXpNSUd5NWNhZHZtUVVrT1RKSw?oc=5",
+            "published": "2026-09-10T07:17:57+09:00",
+            "source": "日本経済新聞"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和自動車交通、大和ハウス工業と資本業務提携、約１０億円第三者割当で不動産価値向上 - kabu-ir.com",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5UHE4VHBVdXk5SjYxNzBiVkJ5NzRxeE9xdUlKbVFHWXEybktzZFdwdUhmZUVHLTc2aVBBUjhON20yZ2dvOVhsd2NDa1dja3pneW5lcw?oc=5",
+            "published": "2026-09-10T06:45:13+09:00",
+            "source": "kabu-ir.com"
+        },
         {
             "company_id": "sekisui_house",
             "title": "本日の決算発表予定 … 積水ハウス、タイミー、３ＤＭなど 32社 (9月10日)(株探ニュース) - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMV95amNQT19ta1BLSEQzX2xzRGhiVnV2QXFFOTRvOUt3bXJfNC1EZHBWOTd5N2JYeHlHaHRnaGt6OUZNRjVBT2N3N2R5ZFFYa1FCRjZ1eVZLSW8zVDBXRVpoMGRvbThBR29lOERXeHJJSGtsc3BzXzNrWkpMbGpKQ2RRUG1nWjg?oc=5",
             "published": "2026-09-10T06:00:31+09:00",
             "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "本日の決算発表予定 … 積水ハウス、タイミー、３ＤＭなど 32社 (9月10日) - 株探",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FdmxobXhsZ3praUlKeTA1SVN6VjR3ZHZHcFN1R3BsSzI4YUdmLUREd0hRSy1VVk9DQlZDbXFkU1RNeU1lYk13ZURFSEtsQVZvc1A0bmRpVWc1aGlZdzFQdw?oc=5",
+            "published": "2026-09-10T06:00:00+09:00",
+            "source": "株探"
         },
         {
             "company_id": "misawa_home",
@@ -69,6 +90,13 @@
             "title": "積水化学工業(株)【4204】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSnVPT3BiOWRaMG1rQi00THZ1RnIyR1V5NEhxSG1QUi16dFdFQzFibDJ6cVZOUDRkQjZ4UjVYYXhmR0hraGNJdHJsNjhES3VLakZqRURSbnRTWXBnMVJN?oc=5",
             "published": "2026-09-09T15:55:00+09:00",
+            "source": "Yahoo!ファイナンス"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "明日の決算発表予定 積水ハウス、タイミーなど32社 (9月9日)(株探ニュース) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDJyUC1yRGVLSXBfVDFoQmhvUkFKZDdST1pWcXBacUxFempZT1RSWnd4VmhFM1oyakUyelJ5QjVGR3MwYzZpVkZFREtBNEpQOEhRRnB4UEZCRmREb0JTWUFFVmNtUnpNTndMWGdiRDFmUWg1TmRIODdzTWhNTkcyblRwM19LRDg?oc=5",
+            "published": "2026-09-09T15:41:39+09:00",
             "source": "Yahoo!ファイナンス"
         },
         {
@@ -157,10 +185,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業グループの社内報「樹海」を公式ホームページで公開 - hokkaido-np.co.jp",
+            "title": "住友林業グループの社内報「樹海」を公式ホームページで公開 - 北海道新聞デジタル",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmY3cVllM19LSmF0Wk1zRUs5d3VBeE45MVNhUjRXSFRuSUZoMU9OTmE4WjZLV2hNelMxLU1oTkF1MUFKb1N0QlBRMXRRMVBPZVdSMDIxRnd3WnNoUGZRS29VRW9rV1IwZmVzSDVrcC1ZaXE2RC1ialJmS3Zoc05jVDFUQzVjUGhS?oc=5",
             "published": "2026-09-09T05:18:55+09:00",
-            "source": "hokkaido-np.co.jp"
+            "source": "北海道新聞デジタル"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -388,10 +416,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウスPM／千葉県「DPL浦安III」内覧会とセミナーを10月16日に開催 - lnews.jp",
+            "title": "大和ハウスPM／千葉県「DPL浦安III」内覧会とセミナーを10月16日に開催 - 物流ニュースのLNEWS",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QX1BmOXBNVnJIQlBtcFd3S2JFTG9oa3ZpZGU2a3A4Z2t3dzF4QTduNzlZM2R3ZklrTjE5U2p0VU9saVBpZkFzYk9sYU5vU2R0TGw2ag?oc=5",
             "published": "2026-09-08T11:53:29+09:00",
-            "source": "lnews.jp"
+            "source": "物流ニュースのLNEWS"
         },
         {
             "company_id": "sekisui_house",
@@ -815,10 +843,10 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林業による「スミリンでんき一般家庭向けプラン（東京エリア）」の特徴｜電気料金プランDB - pps-net.org",
+            "title": "住友林業による「スミリンでんき一般家庭向けプラン（東京エリア）」の特徴｜電気料金プランDB - 新電力ネット",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fSXJUUmpCTW42bEV4YmJtc2RVdGU0cTdMcE1QQlY5MjBReU93NWIzWkxlNjltbktfUlJIRE5maTB6SGNQYjd2QVEyX2JmQQ?oc=5",
             "published": "2026-09-06T16:00:00+09:00",
-            "source": "pps-net.org"
+            "source": "新電力ネット"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -1080,6 +1108,13 @@
             "source": "Yahoo!ニュース"
         },
         {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスが見直す新築の全国展開 都市に集中、消費者の選択肢狭く - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81QTE3VXhZc2FfTElMeGhZOVNpZGlRLURvczhiOVBKWkJpQlNrcmJRTWU5aVJFYVIydzd1alZDVThveDRlWW16dWdpYzdUQWxHcGNLQWRtYllIcTBTZnBUNW5NUjFWcmNaTDJLZg?oc=5",
+            "published": "2026-09-04T16:30:00+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "sekisui_house",
             "title": "積水ハウスの米国での分譲地開発が国交省の国際賞で最優秀賞 災害への備えや環境配慮など評価 - 株式会社共同通信社",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUUko3VVVseXhJdVV3TWd3QUFtdmlLaEhwN0lxZG1HX0dlYkEwSkh5X0g5LVlBdWV1R3RSLWV1eElBWWtSOXFOYzBTZk9RZk9LNkFvZmNycS1teTkt?oc=5",
@@ -1099,13 +1134,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FN01laFc1X29zTzVqSGxsMTI3d3FXU1lGT1hYMG9icFEtUzlsSElNS04tYnQySmk0dWQ3U1FvcDNTYlFQYzhzNl9SeGMtT3RienM1eA?oc=5",
             "published": "2026-09-04T16:30:00+09:00",
             "source": "OVO [オーヴォ]"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウスが見直す新築の全国展開 都市に集中、消費者の選択肢狭く - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81QTE3VXhZc2FfTElMeGhZOVNpZGlRLURvczhiOVBKWkJpQlNrcmJRTWU5aVJFYVIydzd1alZDVThveDRlWW16dWdpYzdUQWxHcGNLQWRtYllIcTBTZnBUNW5NUjFWcmNaTDJLZg?oc=5",
-            "published": "2026-09-04T16:30:00+09:00",
-            "source": "日本経済新聞"
         },
         {
             "company_id": "sekisui_house",
@@ -1249,17 +1277,17 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業、２３道県から撤退 新築戸建ての事業で リフォームは強化へ：時事ドットコム - 時事ドットコム",
+            "title": "大和ハウス工業、２３道県から撤退 新築戸建ての事業で リフォームは強化へ：時事ドットコム - jiji.com",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wTmpxcXJleFBNWENHWDl6ZjNrUEMzSDZWUEVHM3JVLUg2eVY3ZXNSbE5GM1E1dDVfWmhZVEdJaU94UDZjVTY3TWtxblVVbmk4RENudHV6dEdlbDJMbjVYSU9jNA?oc=5",
             "published": "2026-09-04T15:05:00+09:00",
-            "source": "時事ドットコム"
+            "source": "jiji.com"
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス工業、２３道県から撤退 新築戸建ての事業で リフォームは強化へ - 時事ドットコム",
+            "title": "大和ハウス工業、２３道県から撤退 新築戸建ての事業で リフォームは強化へ - jiji.com",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOW1PZTI0ZlJFUFhKTUdZMlBiVWdCRWt0czFKRHE4UG0yMkFaVGladkhoSFRtZFVIbFR4UlRycVY4RUs3WEhPeWRLNTRQQ1ZfWk4teVAwMkNacnZfM1RtanU0LV9FSjdmb1FySW1KbFRIVVRfMXVlWGx2WlRDV2h6Qw?oc=5",
             "published": "2026-09-04T15:05:00+09:00",
-            "source": "時事ドットコム"
+            "source": "jiji.com"
         },
         {
             "company_id": "daiwa_house",
@@ -1459,6 +1487,13 @@
         },
         {
             "company_id": "daiwa_house",
+            "title": "大和ハウス工業 戸建て住宅事業を大幅縮小へ 需要減少などで都市部に集約｜Quebee キュエビー - QAB 琉球朝日放送",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JZjJEVlFnMl91VDRoeFJjWFN4WmFaaUtoSE9FMkIxdmxwd3pEMmlwam5ON3ZNYzFuWFpONjc1UDAwSVZCcmE5U2dnMzdyRmZJQVVMcjU1R3I?oc=5",
+            "published": "2026-09-04T12:25:43+09:00",
+            "source": "QAB 琉球朝日放送"
+        },
+        {
+            "company_id": "daiwa_house",
             "title": "大和ハウス工業 戸建て住宅事業を大幅縮小へ 需要減少などで都市部に集約 - テレ朝NEWS",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMWQxR09Cb1dDWVZBcnl2ZWJfclFOcjlnWncxaWdDWEx6SmVZa1UxRThrcmVYNHRYOC0zWnZMUW5fUUc4X21SRDZsQ1NNTjNucTh4QW0tYlZKVC1PN1R1ZU9mTkFWcFdPcW1ESkU4NGQ0dw?oc=5",
             "published": "2026-09-04T12:25:43+09:00",
@@ -1592,7 +1627,7 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "国内住宅事業の成長加速に向けた事業体制の再編・強化について(ニュースレター) - PR TIMES",
+            "title": "国内住宅事業の成長加速に向けた事業体制の再編・強化について(ニュースレター) | 大和ハウス工業株式会社のプレスリリース - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4V0JKUm8xTTllZlgxQmhoY0xNbEl3QTVrZUN3RjBzMkhVbzZySV9JTjNoTi1ydks5bEF1TXpHMVJwZ2Z3dmFFdl82RWpFY3pQbkVDMTlhbUN6TVdxM3FhT3FRTTBBSlBSZlE?oc=5",
             "published": "2026-09-04T10:00:02+09:00",
             "source": "PR TIMES"
@@ -1638,27 +1673,6 @@
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhT1lQamVnM2EyeURNODNFZlVUSnF1X1FMeXVlZlk2Vm9BcEVqTkUyMW15dkViOWFXeVRpcHJqM05JZ00xTGs1V1JuNzdieWVZQ3c?oc=5",
             "published": "2026-09-04T09:02:29+09:00",
             "source": "Housing Tribune Online"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "戸建て事業 石川、富山撤退 27年 大和ハウス、東京などに集中 - 47NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZUGQ4WkJUYVJ4cng3NHNVbXdvWXphTHdCZnVJQTBhdldMVEkzOFRBOUQxXy1DMEg1Rk5La3g4dFhkd2luNjZnMjRVTQ?oc=5",
-            "published": "2026-09-04T09:00:55+09:00",
-            "source": "47NEWS"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "戸建て事業 石川、富山撤退 27年 大和ハウス、東京などに集中｜経済｜富山のニュース｜富山新聞 - 北國新聞",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FNmxiUExaODg4NC0wcTNfR0tySDZRTWpNM2ExODA3OTAzNW1JZ3p4aTVmcWdUZ1pLZjlRVGw1Vm5XbEVUY09FMW0xQlhrUDFVSC1BNG0yZzRrUQ?oc=5",
-            "published": "2026-09-04T08:52:52+09:00",
-            "source": "北國新聞"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "戸建て事業 石川、富山撤退 27年 大和ハウス、東京などに集中 (北國新聞社) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjJiRnQtdklsX2IyYjVXQXJ4SzJUaUs2MUNWcUoyNTFIRGJVQ00xUHhsNTlicUhyNk10UVktSjdRQ3prN3U4c2h0RkVWQjd4R1JrdmdwbXlHUENzOURHdWtLODRGbTRCNmJORndQSWhFRUg4VVJMcWFRTUVSSkUtUWw1T2RiaF9ROXpMZEJ3?oc=5",
-            "published": "2026-09-04T08:48:19+09:00",
-            "source": "Yahoo!ニュース"
         },
         {
             "company_id": "sekisui_house",
@@ -1753,10 +1767,10 @@
         },
         {
             "company_id": "sekisui_heim",
-            "title": "新社長に中林克憲氏 セキスイハイム中四国 - 山陽新聞",
+            "title": "新社長に中林克憲氏 セキスイハイム中四国 - sanyonews.jp",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54c3VzMFBtUHVHQW1NdWI0cjRlTDFoaXZjLXNKUDJ1N0NkaVgtRldVN0tQS0lMNkRkVzMxZ3pZMTdOb0xiUmJ2cUxpZEtNUXptN2JrdGtsckNWR3luTmFiUkZwWXVHcFE?oc=5",
             "published": "2026-09-03T16:00:00+09:00",
-            "source": "山陽新聞"
+            "source": "sanyonews.jp"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2271,10 +2285,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "JR信越本線 安中・磯部駅間の新駅構想周辺のまちづくりについて、群馬県安中市とパナソニック ホームズグループ2社が覚書を締結 - news.infoseek.co.jp",
+            "title": "JR信越本線 安中・磯部駅間の新駅構想周辺のまちづくりについて、群馬県安中市とパナソニック ホームズグループ2社が覚書を締結 - Infoseek",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOQmFoeDgtelktZlhubTJTb3V5d3FpUmFLNVktN1d1YWFTRlJFaE9MaXhDZFJtRzdfN280aGpzSEhBOG1pUXpmUEp4bWJMTy1WQmN2ejl2ZEUxampPdFVPTHJTUkhGdnlTbFU1WXlKZHBHZw?oc=5",
             "published": "2026-09-01T13:30:00+09:00",
-            "source": "news.infoseek.co.jp"
+            "source": "Infoseek"
         },
         {
             "company_id": "panasonic_homes",
@@ -2642,10 +2656,10 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "「住み続けられる家」～ヘーベルハウス グリーン＆レジリエンス プロジェクト～国土交通省「令和8年度2050先導型住宅推進事業（※1）」に採択 - news.infoseek.co.jp",
+            "title": "「住み続けられる家」～ヘーベルハウス グリーン＆レジリエンス プロジェクト～国土交通省「令和8年度2050先導型住宅推進事業（※1）」に採択 - Infoseek",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55OHNIWl82ZG5Tdm5CbDZLd09UYUpTMDNtNkNlb0QyUlNOeFBndUdRbWpaeTVNbnpIRV95R1daWDk3WUpKa2RwUmJMZVNILS0talZYM0QxSUJGbmplcG80SVVHUGh5cnhjTWxqTVZYZFV5QQ?oc=5",
             "published": "2026-08-28T16:00:00+09:00",
-            "source": "news.infoseek.co.jp"
+            "source": "Infoseek"
         },
         {
             "company_id": "sekisui_heim",
@@ -2751,20 +2765,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcHFlVzEtM0xJMXF2SkEzZ3BVeVRHel90aXp5NktCeHNjbi1GUGlTQjUtaVJ4VDYyb1JJZEpVeDJyYmR0eFdnZjdkMmhEcTFybThjem9wdzY?oc=5",
             "published": "2026-08-28T11:38:26+09:00",
             "source": "日刊工業新聞"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "No Company、大企業の採用はどう変えられるのか？積水ハウスグループの採用変革を徹底解剖 ― 9月10日（木）東京で開催 - ニコニコニュース",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWSlg5cElhOXd0ZlBtYk93ZTZHaFJKam1MSTJFZFpaakVSSjlFX21PSjlCQ1ozYlFPTEJ3RG9GMVJPeFY1MGhVQ1ZSZW0zMWJnSF9qemJSQ0l6Zms1d25SdnItZEJlaVMzT3M1M3BKTENTRU5WNlNCcWpYTQ?oc=5",
-            "published": "2026-08-28T11:00:19+09:00",
-            "source": "ニコニコニュース"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "No Company、大企業の採用はどう変えられるのか？積水ハウスグループの採用変革を徹底解剖 ― 9月10日（木）東京で開催 - 時事ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XdFVhR1YxeVZwbUJua1UwQTZ5SVBzeVhsVzFxaXNSV2dzc21WOG1mSkdMQVd3cmFsbzY4aWIwQnB1VWs4S2ZIZmlTbW9sZGpEbHdNcmd4M2ttZm5KNVVhNUFMekI5NlIxV1Nv?oc=5",
-            "published": "2026-08-28T10:46:00+09:00",
-            "source": "時事ドットコム"
         },
         {
             "company_id": "misawa_home",
@@ -3230,10 +3230,10 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "累計25万棟以上の建築実績を持つ三井ホームが総合相談窓口「コンシェルジュデスク」を新設 - news.infoseek.co.jp",
+            "title": "累計25万棟以上の建築実績を持つ三井ホームが総合相談窓口「コンシェルジュデスク」を新設 - Infoseek",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1td1YxVjBIZlhpVXlZRC03d1g2RDY4NlVfOFUwRzZOZmFFRE5xdG5ZUDZzcE1ZUzg2bVA0ZGNWcDE3RU5ESlk2bjdYZjJLSEtMTThXSG93Q05VRXo4c1Q3NXJIcEVSdk0zQUkzMmJLcG9oZw?oc=5",
             "published": "2026-08-24T16:00:00+09:00",
-            "source": "news.infoseek.co.jp"
+            "source": "Infoseek"
         },
         {
             "company_id": "sekisui_heim",
@@ -4756,10 +4756,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホームと順天堂大がタッグを組んだ｢三島再開発マンション｣は赤字時代の病院経営の活路となるか - 東洋経済オンライン",
+            "title": "ミサワホームと順天堂大がタッグを組んだ｢三島再開発マンション｣は赤字時代の病院経営の活路となるか - toyokeizai.net",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUUhlanN0TXRSbWE3T0VxclVHbk9kdm8yMU1QOG5jcXNZWjZiRjVmQTdrTmQ0UndyU29IVUs5Qk5zazZXM2ZWNTZ3Yjdzd1pTclo0Rm9LRFBvU2NjeXo0?oc=5",
             "published": "2026-08-03T16:00:00+09:00",
-            "source": "東洋経済オンライン"
+            "source": "toyokeizai.net"
         },
         {
             "company_id": "misawa_home",
@@ -5855,10 +5855,10 @@
         },
         {
             "company_id": "mitsui_home",
-            "title": "【横須賀市】三井ホームが横須賀市で「秋谷葉山国際学園」新築工事に着手！木造トラス採用の大規模インターナショナルスクール - shonanjin.com",
+            "title": "【横須賀市】三井ホームが横須賀市で「秋谷葉山国際学園」新築工事に着手！木造トラス採用の大規模インターナショナルスクール - 湘南人",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nNG4ydkFvUmEwazJ1WHM2cWpVbDRFalNnOE5SbHN1UVRyTG91Rmd0NVFNSHlHSjlxSWxkc01nWFVWOGxfT3dpQW9hSzRFSXJWNXlIc0FWOHJiM0JKN1RGald6bFhNWElkbkg1bFVNa1ZtdE1vM0lCd0R3?oc=5",
             "published": "2026-07-04T16:00:00+09:00",
-            "source": "shonanjin.com"
+            "source": "湘南人"
         },
         {
             "company_id": "misawa_home",
@@ -5960,10 +5960,10 @@
         },
         {
             "company_id": "misawa_home",
-            "title": "ミサワホーム佐賀が安全大会 南極での基地建設から安全管理体制学ぶ | 経済 | 佐賀県のニュース - 佐賀新聞",
+            "title": "ミサワホーム佐賀が安全大会 南極での基地建設から安全管理体制学ぶ | 経済 | 佐賀県のニュース - saga-s.co.jp",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55RFM3NVlMenJ5Q2V2Wk9jdTYxTTV2U2EzS1ZWRnVlbElCQ1hNUFQybUpweG9LMGdsRVlVd3h5dnpTdFFacVZuanQ0UVBscTFjOHpaTUlR?oc=5",
             "published": "2026-07-02T16:00:00+09:00",
-            "source": "佐賀新聞"
+            "source": "saga-s.co.jp"
         },
         {
             "company_id": "misawa_home",
