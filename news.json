@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-10-15T19:46:58.214928+09:00",
+    "generated_at": "2026-10-16T00:28:09.365407+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5laWhKSE5BbnRwbWUtRlU5RFJkZHY2dkQwWURSY3N0MjFIbTVvMlJBYmluZElHRm1QckdGQUdnR0phYkNuWFlWenZTUWlZSVpQNDR3VUlsVFF4VkRlbHFsN0NzdE9yQ3c3M0FOYkVR?oc=5",
+            "published": "2026-10-15T20:35:33+09:00",
+            "source": "河北新報オンライン"
+        },
         {
             "company_id": "daiwa_house",
             "title": "大和ハウスグループ７プロジェクトがグッドデザイン賞を受賞 - 共同通信PRワイヤー",
@@ -1381,6 +1388,13 @@
             "source": "NewsPicks"
         },
         {
+            "company_id": "sekisui_heim",
+            "title": "高断熱化で広がる住空間の選択肢 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oODkwWTJsQlZESndJZnQ3QzJabzlrSURXT2dsRVM5bldfS1BtTXBGWkszVUV0blgwbm1LTnloQlhLNkt3U1FZQVpzZHh6Nld2QU1ESmpGVmM0SzhnVkRxMk5Db1ZoSjVaRWc?oc=5",
+            "published": "2026-10-07T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "ダイワハウスプレミストドーム（札幌ドーム）構内に八重桜10本植樹しました。 - 選挙ドットコム",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EMEhJcGFKWTdOdENZdHdJMkRtRHZvTWtNQV9SQXN0TjcxWmtIWEx3UFhZOTBiY3FIU2FfYV9mY0JkTlNOY2ZrdW93Q1NrYTJOV01ENm12eHIxaTdqaU84?oc=5",
@@ -1413,13 +1427,6 @@
             "title": "「官民投資ロードマップ4.6兆円時代の植物工場ビジネス」と題して、三菱総合研究所 久保田氏/大和ハウス工業 大塚氏/ＹＵＡＳＡ 相澤氏/鍋屋氏によるセミナーを2026年11月18日(水)に開催!! - PR TIMES",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2d0JBMGZTYm9FSmxGV29lTXJPREp4LTZPLVpiS1p6ejJsc0FNWGh5YXJGeXJqOHNsQ2dvc0dQOWZ6emdaUTRfTU1kd0VOZEFVNEtBdzgtSmNMdVRoWWt3MFRtSl9TSi1RS1E?oc=5",
             "published": "2026-10-07T13:00:01+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sekisui_heim",
-            "title": "高断熱化で広がる住空間の選択肢 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oODkwWTJsQlZESndJZnQ3QzJabzlrSURXT2dsRVM5bldfS1BtTXBGWkszVUV0blgwbm1LTnloQlhLNkt3U1FZQVpzZHh6Nld2QU1ESmpGVmM0SzhnVkRxMk5Db1ZoSjVaRWc?oc=5",
-            "published": "2026-10-07T11:00:02+09:00",
             "source": "PR TIMES"
         },
         {
@@ -1738,13 +1745,6 @@
             "source": "Yahoo!ファイナンス"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "国産材使用の木造戸建新商品 大和ハウス工業が投入 - Housing Tribune Online",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CX1phNlZoc3hEaXR5UnRkblNNRXFqbnJKbWZwX1VLT2lBUXpfSXJpaHprb0VEQWh0Y05uMnhVeGNPeTJuazUwZXBEM3huVWw3SktjZFF3?oc=5",
-            "published": "2026-10-05T23:56:35+09:00",
-            "source": "Housing Tribune Online"
-        },
-        {
             "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ、若年層の価値観反映した規格住宅を開発 - Housing Tribune Online",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GOXBvcmxfQi11SjFGcGE4Z25fajdNc0gxbEdydGFILXktTGxfRExRT3o2OVFMU1F3T0ZNOVBwaTVrV0p2V3FSbnMtX2hlOHZKZVRQMGN3?oc=5",
@@ -2058,6 +2058,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XQW9JUVMwYWJjcWE4Zzd6b1l3WlhvdWpVeDUtT1NIU0dIMjVRcGdjekZBNy03bHRMVDRvMmRmcnNNZldzUU5WWGFONFluOGlOa2FqN2M2bDk2U056Yi04VEphUkhNb012eEstWA?oc=5",
             "published": "2026-10-02T16:00:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "panasonic_homes",
+            "title": "パナソニック ホームズ、フォルティナ MyFitを2026年10月2日に発売へ - Dellows News",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwNFRpdWU2OHVMNmp1OEFadEl5aGx1ZGV0eUxhRF9UOHNJVkxIQWJuSkZSU3FITy1vVGRCeEJqNUNleVJabkE?oc=5",
+            "published": "2026-10-02T16:00:00+09:00",
+            "source": "Dellows News"
         },
         {
             "company_id": "panasonic_homes",
@@ -5592,13 +5599,6 @@
             "title": "三井ホーム 免震装置装備の３階建「トライニー」新発売 - 住宅新報",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBibjBXTmh5QlhkWkc2MkdDaW5XdDJocHduOGNEc3ZqaFFCWVF5M2dobC14WkV5ZFllYVBsYVZrOFlFY1I3SFdTZEQ1ZW1vMGc?oc=5",
             "published": "2026-08-16T04:09:26+09:00",
-            "source": "住宅新報"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "グループホームの新商品発売 パナホーム - 住宅新報",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yS1YtX0pkSHJoRmo1SmVaZGVSZGhYRXhiakxNZmw2TmVITFI3d0QwRGNiZlpnTDFLUGlxdk5DS1hsMkdUTjhkZkN2b3NlQkU?oc=5",
-            "published": "2026-08-16T03:52:47+09:00",
             "source": "住宅新報"
         },
         {
