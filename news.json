@@ -1,6 +1,13 @@
 {
-    "generated_at": "2026-10-21T14:40:17.262014+09:00",
+    "generated_at": "2026-10-21T20:04:17.370334+09:00",
     "articles": [
+        {
+            "company_id": "daiwa_house",
+            "title": "福山産業 福山市本庄町中に共住 大和ハウスで11月中旬着工 - 建通新聞",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmgxcnlZVkNLcXdBSlRSN0dfb1Ita3Q0VFQzbUJoandZSmsxZW5VQmRzUnh2WVdXZVh4RlhxMklqUUNORkd0TDdHNmRYOV95ek9NeXFkMkREY1F5NnZQdUxBMnVwOGdNV293ZWlTNWRpRGlNX3ZWY0RPYmJXcFg3ZA?oc=5",
+            "published": "2026-10-21T16:43:00+09:00",
+            "source": "建通新聞"
+        },
         {
             "company_id": "daiwa_house",
             "title": "『Ruff-Laugh Chiba（ラフラフ千葉）』×『大多喜有用植物苑』愛犬とめぐる2日間 「WAN-DERFUL GARDEN」(ニュースリリース) - PR TIMES",
@@ -28,6 +35,13 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SMHpWOG5OeHB0S2JqbjkwVWhTMF9seHRIN3c4bjZjY3NDRlBpbG8zam5lMEhQQW5GejlMa2lfSS0zTzB2ZnpNTmxYN1BPOGswZ1RZb0lFeWxwVjNhWVgzNENwREtjZFUxb3c?oc=5",
             "published": "2026-10-21T09:00:01+09:00",
             "source": "PR TIMES"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウスが「ケミカンSDS管理」を導入。人手に依存したSDS管理からの脱却、「世界一幸せな施工現場」を目指す安全体制へ - イザ！",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZzRpSFotS3NmUzRMakEzQnlqbUxUS2xSY0JpVDlpSkhXWDF2VGtrMkVZRzFkNFZnZV80R1FCZHUzcjJ5OGFLOUg4TEFUZUJEeUd5Qm1JRVN3SVhBZm1yakF6bVYxX3hKZ2l5UHN6RkFyelFONk1BTFRB?oc=5",
+            "published": "2026-10-21T09:00:00+09:00",
+            "source": "イザ！"
         },
         {
             "company_id": "sekisui_house",
@@ -661,10 +675,10 @@
         },
         {
             "company_id": "panasonic_homes",
-            "title": "【利回り10.56％×満室】パナホーム施工・2棟一括 - rakumachi.jp",
+            "title": "【利回り10.56％×満室】パナホーム施工・2棟一括 - www.rakumachi.jp",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemV1VTFndjVuMFhrUGYwQjctdkVQcGs3Y0hxLWxXaXduUHNUTk5MMWNxaGZMTHFxN0RqVEVhNUk5dDhhTFZia0h0WDZicHprcHZwLTVWbmF2X2Jaem5kZi0zbk01dXN3amdzX0hOQ3hteVg0RjlZR3RSYmxuMVhQZ2Jja1otdw?oc=5",
             "published": "2026-10-16T23:12:12+09:00",
-            "source": "rakumachi.jp"
+            "source": "www.rakumachi.jp"
         },
         {
             "company_id": "sekisui_house",
@@ -1703,13 +1717,6 @@
             "source": "北海道新聞デジタル"
         },
         {
-            "company_id": "daiwa_house",
-            "title": "秋の高校野球 白球を追って＞10日・大和ハウスプレミストドーム 士別翔雲 クラーク倒す 旭志峯は白樺に惜敗 - 北海道新聞デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSXBDbzMzVUZKRFBiNGRIZHJDeHJCVnFMS2VmZ0ZRS2VwRlJKVS05STl5anB5ZXRsMUxZQ2dVTFhZTGlub1ZQdUVxZFh1VjFDYWd5akRFT0dsQQ?oc=5",
-            "published": "2026-10-11T04:00:00+09:00",
-            "source": "北海道新聞デジタル"
-        },
-        {
             "company_id": "panasonic_homes",
             "title": "JR信越本線 安中・磯部駅間の新駅構想周辺のまちづくりについて、群馬県安中市とパナソニック ホームズグループ2社が覚書を締結 - 朝日新聞",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WQV9EemtuWFlKc3lTN0h0aUJ4dnhSLVR1Vlh2dVhDNlVpVW5BalZLbjBFUy1ENHlBSl8tTGJaWXpMdXZyck5tSzZVTlVGVDVxZTZrN1V5WXI0TG8?oc=5",
@@ -2131,17 +2138,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "Sapeet、住友林業ホームサービスにAIロープレシステム「SAPI ロープレ」を提供 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5UXhiRHB2ZURjZWxpdnJCUGRERHNBYWdkTGw1TmVoUWJRcmhKVmVzQmd2ZHdkYnFkUXpMTGVIcnpqRDlsWmNkZnY1dVhGNWExSzc3cjFza3J3dERIMjRTQURPd0toQVNNU3c?oc=5",
-            "published": "2026-10-06T16:00:00+09:00",
-            "source": "PR TIMES"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業、寝室空間を提案 「木」の知見で上質な眠り - 日刊工業新聞",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UFJ0NkFaS2VrcXFJVkdQN2ppU3B3cVRaS01CeDRHZ0lkZ2drMEVvTm9KZy1JcFQzckhfYVhVX0d2bVp5bTk0QUV2VXBWNF9FdXhrcW5zQTM?oc=5",
             "published": "2026-10-06T16:00:00+09:00",
             "source": "日刊工業新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "Sapeet、住友林業ホームサービスにAIロープレシステム「SAPI ロープレ」を提供 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5UXhiRHB2ZURjZWxpdnJCUGRERHNBYWdkTGw1TmVoUWJRcmhKVmVzQmd2ZHdkYnFkUXpMTGVIcnpqRDlsWmNkZnY1dVhGNWExSzc3cjFza3J3dERIMjRTQURPd0toQVNNU3c?oc=5",
+            "published": "2026-10-06T16:00:00+09:00",
+            "source": "PR TIMES"
         },
         {
             "company_id": "sumitomo_forestry",
@@ -2544,6 +2551,13 @@
         },
         {
             "company_id": "panasonic_homes",
+            "title": "コストパフォーマンスを追求した戸建住宅の規格型商品『フォルティナ MyFit』を発売 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMTZrc1gzUU5DcHZXMW9aZnA0bFZPUmp6aFAwazFHTm1HbFhSQlhjWlZEM1lWMmdROUJtS29xSmFEd25VOGxaMUVibmlHVFhDc1FScm84RnJkcy1jckNmemk0MnBwZVphZmc?oc=5",
+            "published": "2026-10-02T16:00:00+09:00",
+            "source": "PR TIMES"
+        },
+        {
+            "company_id": "panasonic_homes",
             "title": "パナソニック ホームズ、戸建住宅の規格型商品「フォルティナ MyFit」を発売 - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XQW9JUVMwYWJjcWE4Zzd6b1l3WlhvdWpVeDUtT1NIU0dIMjVRcGdjekZBNy03bHRMVDRvMmRmcnNNZldzUU5WWGFONFluOGlOa2FqN2M2bDk2U056Yi04VEphUkhNb012eEstWA?oc=5",
             "published": "2026-10-02T16:00:00+09:00",
@@ -2555,13 +2569,6 @@
             "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwNFRpdWU2OHVMNmp1OEFadEl5aGx1ZGV0eUxhRF9UOHNJVkxIQWJuSkZSU3FITy1vVGRCeEJqNUNleVJabkE?oc=5",
             "published": "2026-10-02T16:00:00+09:00",
             "source": "Dellows News"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "コストパフォーマンスを追求した戸建住宅の規格型商品『フォルティナ MyFit』を発売 - PR TIMES",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMTZrc1gzUU5DcHZXMW9aZnA0bFZPUmp6aFAwazFHTm1HbFhSQlhjWlZEM1lWMmdROUJtS29xSmFEd25VOGxaMUVibmlHVFhDc1FScm84RnJkcy1jckNmemk0MnBwZVphZmc?oc=5",
-            "published": "2026-10-02T16:00:00+09:00",
-            "source": "PR TIMES"
         },
         {
             "company_id": "sekisui_house",
@@ -3003,13 +3010,6 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzBIUEgzdXdyV0RfcWdxOXZvNXd3VVNpYXBod0xXS2tCMjA1dmJpTGF0RHRVbldrLUF3Nk1RUHFfV1RBR3h3c1NkcHlUZ0R1c1RGeXlvelpOVkFXMnlVWVdfVENMaWJaczZwMHFEWGtuRU9qQVRQeG9zeVp2UWpCdg?oc=5",
             "published": "2026-09-29T19:04:00+09:00",
             "source": "portal.uqmobile.jp"
-        },
-        {
-            "company_id": "sekisui_house",
-            "title": "【配当利回り4％台】積水ハウスの稼ぎ頭は戸建てではなく「賃貸住宅管理」、最新決算からひも解く利益の柱(LIMO) - Yahoo!ファイナンス",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhiY0Q2aExJZWtnT1pyZElRNXFsUnVIdHhEazczQWZiUFBjNEd3NElENGxuNW1KejJSckR3ZzFfV2R0bTlhaDE2Qi03Nl8xMVpsOWlmaWZqcTNuc1J5dHVNMTBJLWVPZnIxZmowb3JYUmpkekpEYkVIVVlEb0pyeXZtemlLS0E?oc=5",
-            "published": "2026-09-29T19:00:49+09:00",
-            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sumitomo_forestry",
