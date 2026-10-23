@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-23T19:56:37.486747+09:00",
+    "generated_at": "2026-10-24T00:38:22.214910+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -31,10 +31,10 @@
         },
         {
             "company_id": "daiwa_house",
-            "title": "大和ハウス3本立て劣後債：ワイド化対応の運営で総額2300億円 - c-eye.co.jp",
+            "title": "大和ハウス3本立て劣後債：ワイド化対応の運営で総額2300億円 - https://c-eye.co.jp/",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xSzZrbDRONHE1eGExX1MtUjdhbERIcEpJcXZxTFF1bkhvcFplWTctVGVLRG1vYkdoeC1qd1U3WUUxNXVRd1MzVUc3b1M?oc=5",
             "published": "2026-10-23T15:09:50+09:00",
-            "source": "c-eye.co.jp"
+            "source": "https://c-eye.co.jp/"
         },
         {
             "company_id": "daiwa_house",
@@ -238,6 +238,13 @@
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Q0RnNVBpZ0Q0VEpMX2toaEFTM0xJOVFSYnFtUTA1SjdPbHJXRXU5d1RnNlFEajZXR1FGZkhHVmI2a29RUWhORzd4SGZrRGQ3ZXZaMjZINURua3U4?oc=5",
             "published": "2026-10-22T09:00:47+09:00",
             "source": "遊都総研"
+        },
+        {
+            "company_id": "sekisui_house",
+            "title": "積水ハウス不動産「法人コンサル」篇 15秒 - YouTube",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQWU1YVB3RktCa0s1VGIxSGYzMDhpaDA1S2Foa1JGMzU2YjJySmlYZ2dFQmk2MVN2a3BnTVBneWlvU1daTF81OGJIZUJaeXF4ZWlRdEpXZTkzVjRj?oc=5",
+            "published": "2026-10-22T08:59:17+09:00",
+            "source": "YouTube"
         },
         {
             "company_id": "daiwa_house",
@@ -1311,6 +1318,13 @@
             "source": "YouTube"
         },
         {
+            "company_id": "panasonic_homes",
+            "title": "パナソニックホームズがコスパを追求した戸建住宅商品「フォルティナMyFit」を発売、想定販売価格は3500万円 - @DIME アットダイム",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYc3JEYjVTS245cjBlSFNsQlpKY3BWZGs1bU1WSEJGNkY5aF9vVXoyQll3QUtEZUxBZ1B5eVFkV0U1VUNx?oc=5",
+            "published": "2026-10-15T16:00:00+09:00",
+            "source": "@DIME アットダイム"
+        },
+        {
             "company_id": "misawa_home",
             "title": "北海道ニセコ町にて「Rakuten STAY ...｜Release No.3038985｜eltha（エルザ） - eltha",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZ1VCYWRRb2d0dURpcHhDa1VubGtBOG5TTjhaa21UaExlNTliVXJWY0pCb3NxVk9Mc0pJNVB5NjJPY0xVbFQ4NkdXUmZsUS1UQnppRnFFM0xpQkh5Wnc?oc=5",
@@ -1330,13 +1344,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80UV94anJoVDJlV1dmY2V3NDFMTzVQOUF0S0ZiSHBFcVdFR2cwNExscjlpVjY1S1RySmpkM1ItVTkxZlRwWUgwemxjVGtUNVdBQklxcjFRRFFRdnpZNUYxT2lBNUR2R2hxbXc?oc=5",
             "published": "2026-10-15T14:42:57+09:00",
             "source": "PR TIMES"
-        },
-        {
-            "company_id": "panasonic_homes",
-            "title": "パナソニックホームズがコスパを追求した戸建住宅商品「フォルティナMyFit」を発売、想定販売価格は3500万円 - @DIME アットダイム",
-            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYc3JEYjVTS245cjBlSFNsQlpKY3BWZGs1bU1WSEJGNkY5aF9vVXoyQll3QUtEZUxBZ1B5eVFkV0U1VUNx?oc=5",
-            "published": "2026-10-15T14:05:56+09:00",
-            "source": "@DIME アットダイム"
         },
         {
             "company_id": "sekisui_heim",
@@ -2942,13 +2949,6 @@
             "source": "河北新報オンライン"
         },
         {
-            "company_id": "sekisui_house",
-            "title": "センコーと積水ハウス、オーナー由来の再生可能エネルギーを 住宅部材配送用EVトラックの充電に活用 - 千葉テレビ放送株式会社",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qN0dqaHZMcU4wQ0N3SUJ0YmE1aWc1OU8yUnF6S0ZNNnZTdk80a1FxaUxWUXdQbGhHdTBMYXdRbnpJc3g4MlZ3eTI0Y3VkSmRwZTk5aTVFUG1sN0xWQVBN?oc=5",
-            "published": "2026-10-01T14:41:58+09:00",
-            "source": "千葉テレビ放送株式会社"
-        },
-        {
             "company_id": "sekisui_heim",
             "title": "[ Travis Japan (トラジャ) ] 250315 ' Tokyo Crazy Night ' @🌙宮城 セキスイハイムスーパーアリーナ (VIIsual) Pistons Vs Cavaliers (ZnPyjE7s6L) - Unisba Media",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91N0M1OGZwMmVoWjhybVYwaC0xRTBFTzVyUlhIX3FDT242ME9vNUtiVHItQURhMkM1ZXAyaElocmJxUnJGUW5mWUNyMDI1N3ZFMnRFRHdKaVF0RVAzbzVIcHN2THdqLWQzTUtLRQ?oc=5",
@@ -4427,17 +4427,17 @@
         },
         {
             "company_id": "hebel_haus",
-            "title": "2026/09/08 東リ 旭化成ホームズとタイルカーペットのリサイクルスキームを構築 - online.ibnewsnet.com",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80bzZNYWFibksxckw5SUxwTE5iQ0JjanRfcDRGeW0yeXc0Uk5JQXBoSHBzcW9KazliVWIyYlQ5Qzg2SHdSaTNpZmRHSHY1SmNUaS1TcVNfUGxidHN1?oc=5",
-            "published": "2026-09-08T16:00:00+09:00",
-            "source": "online.ibnewsnet.com"
-        },
-        {
-            "company_id": "hebel_haus",
             "title": "旭化成ホームズ、住宅設備の新ブランド「モダルト」立ち上げ=ロングライフな住宅づくりの思想を具現化 - 住宅産業新聞",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05WW9ZcExNQklIMGVBSE5MY0ZTRmxQejdDR3dPdmNfM3NMSVVkZlVLc2ItR1ZMVEpKbGVabW9SLUlhZ1dmSHEzUFYzNG7SAUxBVV95cUxNOVlvWXBMTUJJSDBlQUhOTGNGU0ZsUHo3Q0d3T3ZjXzNzTElVZGZVS3NiLUdWTFRKSmxlWm1vUi1JYWdXZkhxM1BWMzRu?oc=5",
             "published": "2026-09-08T16:00:00+09:00",
             "source": "住宅産業新聞"
+        },
+        {
+            "company_id": "hebel_haus",
+            "title": "2026/09/08 東リ 旭化成ホームズとタイルカーペットのリサイクルスキームを構築 - online.ibnewsnet.com",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80bzZNYWFibksxckw5SUxwTE5iQ0JjanRfcDRGeW0yeXc0Uk5JQXBoSHBzcW9KazliVWIyYlQ5Qzg2SHdSaTNpZmRHSHY1SmNUaS1TcVNfUGxidHN1?oc=5",
+            "published": "2026-09-08T16:00:00+09:00",
+            "source": "online.ibnewsnet.com"
         },
         {
             "company_id": "hebel_haus",
