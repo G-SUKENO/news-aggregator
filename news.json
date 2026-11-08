@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-08T23:43:21.615952+09:00",
+    "generated_at": "2026-11-09T04:17:38.325262+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -35,6 +35,13 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10b2kzYW94Unc3SnVXNjlEMUtKTFJ5d3h0TV9aWlFpV0NiTmpBNW9URmEyTTBuWUZiRGJaeHBFOTM0RUx6UTA3VmgtVDRGREJmYi1RRHRGZ1dIemE5SDFBTFBna0xsbmFaX0diTw?oc=5",
             "published": "2026-11-06T20:10:00+09:00",
             "source": "ガスエネルギー新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林業(株)【1911】：株価チャート - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44OG5naXg2elladEFGSUtFRFc4WE5aRW1xVHBoVEVXMTNaTEt5VlJjZl9Wa0RyNGlfenRveW11ZXljUHdrWmlqNVZnUVZuRV9SUXdhaDN0d1RMZw?oc=5",
+            "published": "2026-11-06T19:32:27+09:00",
+            "source": "Yahoo!ファイナンス"
         },
         {
             "company_id": "sekisui_house",
@@ -325,17 +332,17 @@
         },
         {
             "company_id": "sumitomo_forestry",
-            "title": "住友林、今期経常を20％下方修正 - 株探",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDWkJHbFBTc1dZbkc0WlhhaC1RaWtSaUFqYUR1Z18zYmlkOTNrTG9DTk9OVU1Xbm9iZmZDUEZDUTg0RFR3X1M3YV9wbk5IdkMtRUE?oc=5",
-            "published": "2026-11-05T15:30:00+09:00",
-            "source": "株探"
-        },
-        {
-            "company_id": "sumitomo_forestry",
             "title": "住友林業[1911]：2026年12月期第３四半期決算短信〔日本基準〕(連結) 2026年11月5日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpYzRCcW5rZEs5dVR0UUlTMlBONFBudEc4bHBHMmxwcGphM0xtTlpsMzJzR0RqcXRXcGlPU01BV2p5RXBEVkFqMG5CZDctNTVTSDl3UVF1cWY4ZHFNNnFoZ3hVTU5YaU1VOVE?oc=5",
             "published": "2026-11-05T15:30:00+09:00",
             "source": "日本経済新聞"
+        },
+        {
+            "company_id": "sumitomo_forestry",
+            "title": "住友林、今期経常を20％下方修正 - 株探",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDWkJHbFBTc1dZbkc0WlhhaC1RaWtSaUFqYUR1Z18zYmlkOTNrTG9DTk9OVU1Xbm9iZmZDUEZDUTg0RFR3X1M3YV9wbk5IdkMtRUE?oc=5",
+            "published": "2026-11-05T15:30:00+09:00",
+            "source": "株探"
         },
         {
             "company_id": "daiwa_house",
@@ -3962,13 +3969,6 @@
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tempkd2dzM01HOXZzSC16d25FR2E4ZWhBdENpSmwwUkplbTNUekw5VUNPSTc1YnlWbVFKbVcxZW5zSno1X2M2SGs4U3BFWl90SjBRU3dYWE5rWmpsbWlQbVZlX1FTMTB0SVVCeQ?oc=5",
             "published": "2026-10-02T16:00:00+09:00",
             "source": "日本経済新聞"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "住友林業、小規模事業用向け木造ユニット建築を開発 - 新建ハウジング",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRYWxRVE04Ti1fT0pCek5mcmQxOFRUa0dwRG9XMXdhVVhlT09wdU9YVHZUZ25FUi1hSnZUbVk4X21fcXQ1XzY5b0wzR2dGaTkwQnc?oc=5",
-            "published": "2026-10-02T16:00:00+09:00",
-            "source": "新建ハウジング"
         },
         {
             "company_id": "sekisui_heim",
