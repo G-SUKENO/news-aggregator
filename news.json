@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-14T23:43:29.259273+09:00",
+    "generated_at": "2026-11-15T04:40:15.836911+09:00",
     "articles": [
         {
             "company_id": "daiwa_house",
@@ -128,6 +128,20 @@
             "source": "物流ニュースのLNEWS"
         },
         {
+            "company_id": "sumitomo_forestry",
+            "title": "住まいと緑のトータル提案「PRIME GREEN - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ranhJbGdWc0hUbEFEc2pxclVMWlNHSXZhczRYR2dPaU1ZR2thM1hBOXk2WkpCdFBYTUREcVZHZDl4YTQyMkdqcEF2anZtenk2Ti1oRmNDYUVZODRUT0NKTEItdXh1V2k2?oc=5",
+            "published": "2026-11-13T13:00:23+09:00",
+            "source": "ニコニコニュース"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスベンチャーズ、大腸がんスクリーニングAI検査を提供するBoston Medical Sciencesへ出資 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sTlJIQnBDdm5SbmpEN1UycDVzSzhjdGQ3cmhNZXBOa1lFdlZtbmFTX0Q2dGVJb0N2YWEzdVdYSkxuYlBsLXVqWUlvY3pVU0pyTVJlLW1LZTBaRnBiZnJIeWpFYzc0Q193VzBTaQ?oc=5",
+            "published": "2026-11-13T12:27:11+09:00",
+            "source": "日本経済新聞"
+        },
+        {
             "company_id": "daiwa_house",
             "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTnBKNWxyWUVVTUQ5eVZ3VlhfSUdOLThLS0U5dlFIdnVaRDJHVVJwZ1ZyZUVwSDczR2pBYnZWTWRBOVA1SEJ3MHF2ekZlTHdidFVNNXN3YTEyYVp2VExpVXJRMmJqM01IMGZ3RTF3?oc=5",
@@ -154,6 +168,13 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZXhGYzNXbmpSMHpEbzZnOW1iaFNva1RpRHBDU3B4QmFrcDYwR2JHc0wzcWxJbldjc0dfMGtob3I2aER5WkxDXzBiVU9icUFXYnljWFZBRF9qZVk?oc=5",
             "published": "2026-11-13T11:30:00+09:00",
             "source": "共同通信PRワイヤー"
+        },
+        {
+            "company_id": "daiwa_house",
+            "title": "大和ハウスグループ5プロジェクトが「ウッドデザイン賞2026」を受賞 - ZDNET Japan",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15aE0xMzVxZVlIMlo1cS1kUGhRd1JPblB4blBlQ3dzNHhBcl83QkNDazFaRS1lSVRzRHVHY3JyaGQ1TlVhRXIxcjQ5N0NsM21SM05B?oc=5",
+            "published": "2026-11-13T11:30:00+09:00",
+            "source": "ZDNET Japan"
         },
         {
             "company_id": "daiwa_house",
@@ -1911,20 +1932,6 @@
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OMHhwX0tNYWNXVy01QXhiSzVNaWpCWDRvcmQyblZaTFZiUnZ0TjRIcE5kSkZTRUFuTms5Q2YwVWIyXzRiOWR3MHhTN1fSAU9BVV95cUxOU1VOUzNGRWpGVnJYcGx0d0Roa1ZJc1ZJUi1kZ2psOHQzUGhxcm1NdU9yaWIxbFNfeWJzT081TWducEJial9zNVdUdkd2YTUw?oc=5",
             "published": "2026-11-03T05:30:00+09:00",
             "source": "ダイヤモンド・オンライン"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、須賀川DPLを災害時の物資拠点に - LOGISTICS TODAY",
-            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tVXdhTXpPeURId1JvbVY1TG9sUVh2eUxsaVNtSDB4Z2VxNmdSVVpyYWMyOEdLUkZtckxGWjlnTlpCNUItc0owVXhn?oc=5",
-            "published": "2026-11-03T03:45:28+09:00",
-            "source": "LOGISTICS TODAY"
-        },
-        {
-            "company_id": "daiwa_house",
-            "title": "大和ハウス、伊勢崎市場跡地に県内最大物流施設 - LOGISTICS TODAY",
-            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTRHRKS210N3IxU1BiUUhJcUNDM0w4NUl0M1hjVHFyOTZHYU5mVHQ3c1pJODBfNnZlY2xMRjMyS01CakZocDVMd2pn?oc=5",
-            "published": "2026-11-03T03:44:38+09:00",
-            "source": "LOGISTICS TODAY"
         },
         {
             "company_id": "misawa_home",
@@ -3927,13 +3934,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IWUc4N0xVbW1EUmg3VGo3VHo2TmlheXF3S3VOQmtaWVJQNWd0cERaaTdkMFE2V3JYU1FUVEVMUTFTZnpvYS1CblB6d1NfRjA?oc=5",
             "published": "2026-10-08T17:54:13+09:00",
             "source": "MarkeZine（マーケジン）"
-        },
-        {
-            "company_id": "sumitomo_forestry",
-            "title": "GREEN×EXPO 2027で住友林業が描く「ひゃくの森」 担当者が明かす、社外と社員に向けた構想 - AdverTimes.（アドタイ） by 宣伝会議",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwV3pUSS1CQ1JpUjE1VXNrcmNkUFYwWE5fbEtGcUE4cFZJMHAweFFXNngtOFlGS0p0U3dkNkNVNmJaVzRCdWhabHVUbmJ3UktXOEg3a2N3WWJqUWxIT1Jicy13?oc=5",
-            "published": "2026-10-08T17:49:25+09:00",
-            "source": "AdverTimes.（アドタイ） by 宣伝会議"
         },
         {
             "company_id": "panasonic_homes",
